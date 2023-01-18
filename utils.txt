@@ -1,0 +1,5 @@
+- Abrir jogo no modo debug
+    start shell:AppsFolder\ParadoxInteractive.ProjectTitus_zfnrdv2de78ny!App -debug_mode
+
+- log de erros
+    Documents/Paradox Interactive/Crusader Kings III/logs/error.log
