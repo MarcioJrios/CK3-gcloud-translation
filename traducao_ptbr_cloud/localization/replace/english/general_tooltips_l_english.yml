@@ -1,0 +1,9 @@
+﻿l_english:
+ line_break:0 "\n"
+ double_line_break:0 "\n\n"
+ do_not_execute_plot_tooltip:0 "Os plotters permanecerão à espera. Por agora."
+ outcome_in_a_few_moments:0 "em alguns momentos"
+ outcome_in_a_few_days:0 "Em alguns dias"
+ outcome_in_a_few_weeks:0 "Em poucas semanas"
+ outcome_in_a_few_months:0 "Em poucos meses"
+ outcome_in_a_few_years:0 "em alguns anos"

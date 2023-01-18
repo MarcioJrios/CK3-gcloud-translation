@@ -1,0 +1,68 @@
+﻿l_english:
+ every_guest_scope_tt:0 "cada convidado"
+
+ feast.0010.desc:0 "Por que você aceitaria meu convite apenas para participar [other_host.GetTitledFirstNamePossessive] festa em vez disso eu não sei, mas sei que vou me lembrar disso."
+ feast.0010.a:0 "Infeliz."
+
+ feast.1501.opening:0 "[sender.Custom2('AppropriateGreeting', ROOT.Char)]"
+ feast.1501.opening_desc:0 "Venho por meio desta convidá-lo para um banquete em minha corte em [barony.GetNameNoTier]!"
+ feast.1501.host_likes_me:0 "Espero que você compareça, pois de outra forma sua presença faria muita falta."
+ feast.1501.host_gets_along_with_me:0 "Como um notável [ROOT.Char.GetTitleTierName], ficarei honrado com sua presença."
+ feast.1501.host_dislikes_me:0 "Espero que todos os notáveis estejam lá, o que infelizmente inclui você."
+ feast.1501.a:0 "claro que vou assistir."
+ feast.1501.b:0 "Eu irei comparecer. Relutantemente."
+ feast.1501.c:0 "Estou triste em dizer que estou ocupado."
+ feast.1501.d:0 "Não, eu recuso!"
+
+ feast.1502.desc:0 "Venho por meio desta convidá-lo para um banquete em minha corte em [barony.GetNameNoTier]! Será um grande evento, digno de sua honrosa presença."
+ feast.1502.a:0 "Será um prazer."
+ feast.1502.b:0 "Tenho assuntos mais importantes para resolver."
+
+ feast.1503.desc:0 "Venho por meio desta convidá-lo para um banquete em minha corte em [barony.GetNameNoTier]! Será um evento grandioso, com deliciosa comida e entretenimento."
+ feast.1503.a:0 "Será um prazer."
+ feast.1503.b:0 "Tenho assuntos mais importantes para resolver."
+
+ feast.2001.t:0 "$feast_header$ Um Encontro Alegre"
+ feast.2001.t_murder:0 "$feast_header$ Encontro Vil"
+ feast.2001.desc:0 "Os convidados estão reunidos no grande salão, senhores e senhoras dos confins próximos e distantes do reino.\nO clima é brilhante e os espíritos estão altos quando a festa começa!"
+ feast.2001.desc_murder_feast:0 "Enquanto os convidados entram no grande salão, eu os vejo um após o outro. [enemy_1.GetTitledFirstName], [enemy_2.GetTitledFirstName]... Todos os meus inimigos - inimigos do reino!\nEnquanto os criados acendem a grande lareira, tenho uma súbita epifania; e se o flagelo de sua existência pudesse ser limpo de uma vez?"
+ feast.2001.a:0 "Bem vindos amigos!"
+ feast.2001.a.tt:0 "A festa começa"
+ feast.2001.b:0 "Eles são todos hóspedes em minha casa. Nenhum dano acontecerá com eles."
+ feast.2001.c:0 "Todos serão abraçados pelo meu #EMP quentinho#! hospitalidade."
+ feast.2001.c.tt:0 "A Festa começa, e espero que o final seja... esclarecedor."
+ feast.2001.d:0 "Claro que as pessoas ainda queridas para mim serão poupadas."
+ feast.2001.c.people_to_spare:0 "Todos queridos para mim serão avisados"
+
+ feast.2002.t:0 "Deveres abandonados"
+ feast.2002.desc:0 "Que desastre!\nDepois de todos os meus preparativos, meus convidados chegaram para um banquete sem anfitrião!Eles foram para casa e eu os deixei com uma impressão terrível de mim."
+ feast.2002.a:0 "posso vir a me arrepender disso."
+ 
+ feast.2003.t:0 "Uma Comemoração Pobre"
+ feast.2003.desc:0 "Eu não posso acreditar nisso. Apesar dos meus convites e preparativos, nenhum convidado apareceu no meu banquete.\nNão importa! Desfrutarei de toda essa comida e vinho sozinho, e o eco de passos em meu grande salão é toda a companhia de que preciso.!"
+ feast.2003.a:0 "Estou realmente tão sozinho?"
+ feast.2003.b:0 "me sinto um pouco aliviado."
+ 
+ feast.2501.t:0 "Uma calorosa recepção"
+ feast.2501.likes_host:0 "Todos os convidados estão reunidos no grande salão, e nosso gracioso anfitrião, [activity.GetOwner.GetTitledFirstName], deu as boas-vindas a todos nós para a festa!"
+ feast.2501.dislikes_host:0 "Todos os convidados estão reunidos no grande salão, e nosso [activity.GetOwner.Custom('InsultAdjective')] hospedar, [activity.GetOwner.GetTitledFirstName], finalmente deu as boas-vindas a todos nós para a festa."
+ feast.2501.a.gluttonous:0 "sinto o cheirinho da cozinha daqui!"
+ feast.2501.a.drunkard:0 "Onde estão os barris!"
+ feast.2501.a.gregarious:0 "Eu não posso esperar para falar com todos!"
+ feast.2501.a.shy:0 "Há um monte de gente aqui..."
+ feast.2501.a:0 "estou ansioso por isso!"
+ feast.2501.b:0 "É melhor valer o meu tempo."
+ 
+ feast.2502.t:1 "$feast_header$ desacompanhado"
+ feast.2502.desc:0 "o escândalo! [activity.GetOwner.GetTitledFirstName] não apareceu em [activity.GetOwner.GetHerHis] própria festa!\nÉ [activity.GetOwner.GetSheHe] tentando fazer de tolo todos nós?"
+ feast.2502.a:0 "Isso tem sido uma perda de tempo!"
+
+ feast.5003.t:0 "$feast_header$ Fim das Festas"
+ feast.3601.desc:1 "Com a passagem de [host.Custom2('MyCharacterIntroduction', ROOT.Char)] [host.GetHerHis] festa chega ao fim.\nEnquanto os convidados subjugados vão embora, eu rezo para que [ROOT.Char.GetFaith.HighGodNameAlternate] dá Como boas vindas [host.GetFirstName] tão calorosamente para [ROOT.Char.GetFaith.PositiveAfterLife] as [host.GetSheHe] nos acolheu para [host.GetHerHis] salões."
+ feast.3601.a:0 "Foi uma festa tão divertida!"
+ feast.3601.a.tt:1 "#F você sabe... até [host.GetSheHe] morreu.#!"
+
+ feast.5004.desc:0 "Como agora estou preso atrás das grades, meu grande banquete será cancelado. Oh, todas aquelas horas que passei preparando... Desperdiçado!"
+ feast.5002.a:1 "Sem anfitrião, sem festa."
+
+ feast.5005.desc:0 "[host.Custom2('MyCharacterIntroduction', ROOT.Char)|U] foi preso e [host.GetHerHis] grande festa chegou ao fim. Tal momento azarado!"

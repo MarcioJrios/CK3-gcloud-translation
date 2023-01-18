@@ -1,0 +1,23 @@
+﻿l_english:
+ spied_on_me_agent_opinion:0 "me espionou"
+ spied_on_me_instigator_opinion:0 "me espionou"
+ blackmailing_me_opinion:0 "me chantageou"
+ tried_to_murder_me_opinion:0 "Assassinato planejado"
+ forced_to_scheme_against_friend_opinion:0 "Forçado no Esquema"
+ attempted_to_remove_agent_opinion:0 "me quer morto"
+ scheming_against_me:0 "Trama contra mim"
+ schemed_against_me:0 "Tramou contra mim"
+ accused_of_scheming_opinion:0 "Me acusou de conspiração"
+ liege_scheming_against_me_opinion:0 "Tramou contra mim"
+ liege_attempting_to_murder_me_opinion:0 "Conspiraram para me assassinar"
+ scheme_refused_my_advice_opinion:0 "recusou meu conselho"
+ scheme_followed_my_advice_opinion:0 "Segui meu conselho"
+ opinion_scheme_refused_to_stop_spying:0 "Recusou-se a parar de espionar"
+ opinion_scheme_refused_to_stop_murder:0 "me quer morto"
+ opinion_scheme_spied_on_me:0 "me espionou"
+ opinion_scheme_wanted_to_murder_close_relation:0 "Assassinato planejado"
+ blackmailed_by_agent_opinion:0 "Chantageado por agente"
+
+ hero_of_the_moment_opinion:0 "Salvou a minha vida"
+
+ opinion_scheme_code_rejected:0 "Rejeitou minhas ideias de criptografia"

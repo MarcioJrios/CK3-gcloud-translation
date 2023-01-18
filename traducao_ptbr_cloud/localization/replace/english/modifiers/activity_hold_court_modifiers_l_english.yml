@@ -1,0 +1,21 @@
+﻿l_english:
+ hold_court_written_language_women_modifier:0 "Linguagem das Mulheres"
+ hold_court_written_language_women_modifier_desc:0 "Este personagem aprendeu a usar uma linguagem escrita desenvolvida especificamente para mulheres."
+ hold_court_written_language_women_advanced_modifier:0 "Linguagem Avançada de Mulheres"
+ hold_court_written_language_women_advanced_modifier_desc:0 "Este personagem alcançou fluência e uma compreensão profunda de uma linguagem escrita desenvolvida especificamente para mulheres."
+
+ hold_court_written_language_men_modifier:0 "linguagem dos homens"
+ hold_court_written_language_men_modifier_desc:0 "Este personagem aprendeu a usar uma linguagem escrita desenvolvida especificamente para homens."
+ hold_court_written_language_men_advanced_modifier:0 "Linguagem Avançada dos Homens"
+ hold_court_written_language_men_advanced_modifier_desc:0 "Este personagem alcançou fluência e uma compreensão profunda de uma linguagem escrita desenvolvida especificamente para homens."
+
+ hold_court_distracted_tutor_modifier:0 "Tutor distraído"
+ hold_court_distracted_tutor_modifier_desc:0 "Este personagem é distraído de seus deveres de tutor por responsabilidades adicionais."
+
+ hold_court_austere_court_modifier:0 "Tribunal Austero"
+ hold_court_austere_court_modifier_desc:0 "A corte deste personagem é conhecida por sua rigidez e tópicos intelectuais."
+
+ hold_court_steward_advising_vassal_modifier:0 "Aconselhando o vassalo de Liège"
+ hold_court_steward_advising_vassal_modifier_desc:0 "Este personagem está aconselhando outro governante ao mesmo tempo em questões de Administração."
+ hold_court_receiving_liege_steward_advise_modifier:0 "Recebendo conselhos"
+ hold_court_receiving_liege_steward_advise_modifier_desc:0 "Este personagem está recebendo conselhos de seu Liege's Steward."

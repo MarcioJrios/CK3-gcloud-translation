@@ -1,0 +1,6 @@
+﻿l_english:
+ learn_language_ongoing.1200.t:1 "$learn_language$: Um problema de quatro patas"
+ learn_language_ongoing.1200.desc:3 "Em meus esforços para aprender o [scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip] linguagem, eu mantenho muitas anotações, pois tende a ser demais para manter na minha cabeça. Mas agora, quando preciso deles, não consigo mais encontrá-los! Uma busca rápida me deixa sem pistas sobre o paradeiro deles.\nQuando me viro, me vejo olhando para baixo [ROOT.Char.Custom('DogStoryName')], abanando [ROOT.Char.Custom('DogStoryHerHis')] rabo e feliz como um [ROOT.Char.Custom('LocalAnimal')]. Leva-me um momento antes de eu perceber que [ROOT.Char.Custom('DogStorySheHe')] tem todas as minhas notas firmemente apertadas entre [ROOT.Char.Custom('DogStoryHerHis')] dentes..."
+ learn_language_ongoing.1200.a:0 "Eu não poderia ficar com raiva de você!"
+ learn_language_ongoing.1200.b:0 "Você quer ir para uma caminhada? Venha, então."
+ learn_language_ongoing.1200.c:0 "Isso não é um brinquedo! #EMP Ruim#! cão!"

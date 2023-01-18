@@ -1,0 +1,22 @@
+﻿l_english:
+ claim_throne_increased_responsibility:0 "Maior responsabilidade"
+ claim_throne_increased_responsibility_desc:0 "Adquiri maior responsabilidade pelo reino, fortalecendo minha legitimidade."
+
+ claim_throne_bought_support_modifier:0 "Comprou Suporte"
+
+ claim_throne_liege_ill_omens_modifier:0 "Liège: Mal Presságios"
+
+ claim_throne_self_declared_modifier:0 "Senhor dos Rabanetes"
+
+ claim_throne_friend_support_modifier:0 "Apoio do amigo"
+
+ claim_throne_preparing_for_struggle_modifier:0 "Preparando-se para a luta"
+ claim_throne_preparing_for_struggle_modifier_desc:0 "Este personagem está se preparando para uma luta inevitável contra seu senhor."
+
+ claim_throne_claimed_world_modifier:0 "Senhor de todos os vegetais"
+
+ claim_throne_rule_sword_modifier:0 "Apoio Armado"
+
+ claim_throne_tricked_peasants_modifier:0 "enganou os camponeses"
+ claim_throne_tricked_nobles_modifier:0 "enganou os nobres"
+ claim_throne_fooled_them_all_modifier:0 "enganou todos eles"

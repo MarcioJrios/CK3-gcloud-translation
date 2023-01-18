@@ -1,0 +1,30 @@
+﻿l_english:
+ prison_notification.0001.t:0 "preso!"
+ prison_notification.0001.desc:0 "Fui capturado e detido contra minha vontade por [imprisoner.GetTitledFirstName].\nNão estou mais livre para voltar para casa ou viajar como quiser."
+ prison_notification.0001.a:0 "espero que isso não dure."
+
+ prison_notification.0002.t:0 "preso!"
+ prison_notification.0002.desc:0 "[prisoner.GetTitledFirstName], minha [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('prisoner'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))], agora é mantido contra [prisoner.GetHerHis] será por [imprisoner.GetTitledFirstName]."
+ prison_notification.0002.a:0 "O que pode ser feito para [prisoner.GetHerHim]?"
+
+ prison_notification.0003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U] preso!"
+ 
+ prison_notification.1001.t:0 "Fora da Luz"
+ prison_notification.1001.desc:0 "[actor.GetTitledFirstName] mandou me jogar nas masmorras! Vou apodrecer aqui, nos túneis úmidos de [actor.GetHerHis] [actor.Custom('FortifiedBuilding')]?"
+ prison_notification.1001.a:0 "[actor.GetSheHe|U] é pior do que os ratos correndo aqui embaixo!"
+ prison_notification.1001.a.tt:0 "Enquanto estiver nas masmorras, acumularei lentamente [stress|E], até níveis perigosos!"
+
+ prison_notification.1002.t:0 "ar mais fresco"
+ prison_notification.1002.desc:0 "[actor.GetTitledFirstName] achou por bem libertar-me da minha prisão em [actor.GetHerHis] masmorra, mas apenas até o ponto de me manter em prisão domiciliar."
+ prison_notification.1002.a:0 "Eu tomo todas as misericórdias que posso encontrar."
+ prison_notification.1002.a.tt:1 "Prisão Domiciliária não aumenta [stress|E] ganho."
+
+ prison_notification.2001.t:0 "grátis mais uma vez"
+ prison_notification.2001.desc:0 "Eu não sou mais mantido por [imprisoner.GetTitledFirstName] contra a minha vontade, e estou livre para voltar para casa, ou onde mais eu desejar."
+ prison_notification.2001.a:0 "Achei que nunca mais veria minhas terras."
+
+ prison_notification.2002.t:0 "grátis mais uma vez"
+ prison_notification.2002.desc:0 "Minhas [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('prisoner'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))], [prisoner.GetTitledFirstName], foi liberado de [prisoner.GetHerHis] prisão nas mãos de [imprisoner.GetTitledFirstName], e é mais uma vez livre!"
+ prison_notification.2002.a:0 "Prisão é uma crueldade."
+
+ prison_notification.2003.message:0 "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U] Liberado!"

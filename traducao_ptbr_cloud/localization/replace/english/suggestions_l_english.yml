@@ -1,0 +1,69 @@
+﻿l_english:
+ SUGGESTION_TITLE:0 "#T $NAME$#!"
+ 
+ suggestion_recruit_maa_label:0 "Recrute homens de armas"
+ suggestion_recruit_maa:0 "Sugestão: Recrute um regimento de homens de armas"
+ suggestion_recruit_maa_desc:0 "você tem menos [men_at_arms|E] do que o esperado para um [ruler|E] do seu [rank|E].\nRecrutar alguns fortalecerá sua [armies|E], servindo tanto para dissuadir inimigos em potencial quanto para combater aqueles que insistem em lutar de qualquer maneira."
+ suggestion_recruit_maa_click:0 "#I Clique para ver o seu Exército#!"
+
+ suggestion_declare_war_label:0 "Declarar guerra"
+ suggestion_declare_war:0 "Sugestão: Declarar Guerra ao [recipient.GetShortUINameNoTooltip]"
+ suggestion_declare_war_desc:1 "Vencer uma guerra contra [recipient.GetShortUIName] permitirá que você conquiste mais terras e aumente seu [realm|E], ajudando a garantir o sucesso a longo prazo do seu [house|E]."
+ suggestion_declare_war_click:1 "#Eu clico para declarar guerra#!"
+
+ suggestion_construct_building_label:0 "Construir edifício"
+ suggestion_construct_building:0 "Sugestão: Construir um prédio em [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_construct_building_desc:1 "Construir prédios no [landed_title.GetNameNoTooltip] lhe dará diferentes benefícios e vantagens, beneficiando-o muito a longo prazo."
+ suggestion_construct_building_click:1 "#I Clique para visualizar a Holding#!"
+
+ suggestion_fabricate_claim_label:0 "Fabricar Reivindicação"
+ suggestion_fabricate_claim:0 "Sugestão: Fabricar reivindicação em [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_fabricate_claim_desc:1 "O vizinho [landed_title.GetName] é rico e próspero, mas você não pode conquistá-lo sem um [casus_belli|E].\nEnviando seu [court_chaplain|E] ou [realm_priest|E] para fabricar um [claim|E] nele lhe dará a justificativa que você precisa para ir [war|E] e pegue o título para si!"
+ suggestion_fabricate_claim_click:1 "#I Clique para ver o Título#!"
+
+ suggestion_create_title_label:0 "Criar Título"
+ suggestion_create_title:0 "Sugestão: Crie o [landed_title.GetNameNoTooltip]"
+ suggestion_create_title_desc:1 "você possui o suficiente [de_jure|E] terra para [create|E] a [landed_title.GetName]. Fazer isso aumentaria muito sua [prestige|E] bem como fazer de você o [rightful_liege|E] de todos os títulos sob ele."
+ suggestion_create_title_click:1 "#I Clique para ver o Título#!"
+
+ SUGGESTIONS_DEBUG:0 "#D SUGESTÕES DEBUG:#!"
+
+ suggestion_convert_county_label:0 "Converter Condado"
+ suggestion_convert_county:0 "Sugestão: Converter a fé em [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_convert_county_desc:0 "Enviando seu [Concept( 'realm_priest', GetPlayer.GetCouncillorPosition( 'councillor_court_chaplain' ).GetPositionName )|E] convencer os habitantes do [landed_title.GetName] abraçar a verdadeira fé estabilizará a área."
+ suggestion_convert_county_click:1 "#Clique em ver o seu Conselho#!"
+
+ suggestion_increase_control_label:0 "Aumentar Controle"
+ suggestion_increase_control:0 "Sugestão: Aumente o Controle em [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_increase_control_desc:2 "Enviando seu [Concept( 'marshal', GetPlayer.GetCouncillorPosition( 'councillor_marshal' ).GetPositionName )|E] para aumentar o controle no [landed_title.GetName] levará a menos [county_corruption|E] no condado e possivelmente outros efeitos benéficos também."
+ suggestion_increase_control_click:1 "#Clique em ver o seu Conselho#!"
+
+ suggestion_increase_opinion_label:0 "Aumentar opinião"
+ suggestion_increase_opinion:0 "Sugestão: Aumente [recipient.GetShortUINamePossessiveNoTooltip] opinião sobre você"
+ suggestion_increase_opinion_desc:0 "Sua [actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))] [recipient.GetShortUIName] tem um baixo [opinion|E] de você. Aumentando-o com um [personal_scheme|E] vai facilitar sua vida."
+ suggestion_increase_opinion_click:1 "#I Clique para iniciar um Esquema Sway#!"
+
+ suggestion_raid_label:0 "Incursão"
+ suggestion_raid:0 "Sugestão: Raid [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_raid_desc:0 "Enviando seu exército para [raid|E] [landed_title.GetNameNoTierNoTooltip] traria para você $game_concept_raid_loot$."
+ suggestion_raid_click:1 "#I Clique para ver o seu Exército#!"
+
+ suggestion_grant_title_label:0 "Título de Concessão"
+ suggestion_grant_title:0 "Sugestão: Conceder [landed_title.GetNameNoTierNoTooltip] para [recipient.GetShortUINameNoTooltip]"
+ suggestion_grant_title_desc:0 "[recipient.GetShortUIName] é o [de_jure|E] titular do [landed_title.GetName]. Certificar-se de que seu reino segue a estrutura De Jure tanto quanto possível leva à estabilidade e menos penalidades de opinião."
+ suggestion_grant_title_click:1 "#Eu clico para conceder o título#!"
+
+ suggestion_can_hire_court_positions:0 "Cargos de Tribunal de Contratação"
+ suggestion_can_hire_court_positions_label:0 "Sugestão: Contrate mais cargos no Tribunal"
+ suggestion_can_hire_court_positions_desc:0 "Você deveria investir algum ouro em preencher mais [court_positions|E] para ganhar seus bônus."
+ suggestion_can_hire_court_positions_click:0 "#I Clique para ver os cargos disponíveis no Tribunal#!"
+
+ suggestion_request_war_aid_petition:0 "Solicitar Assistência Militar"
+ suggestion_request_war_aid_petition_label:0 "Sugestão: Solicitar Assistência Militar"
+ suggestion_request_war_aid_petition_desc:0 "Você pode perguntar ao seu [liege|E] para ajudar no seu [war|E]. Eles podem se juntar ou pagar por soldados."
+ suggestion_request_war_aid_petition_click:0 "#Clique para ver o seu [lieges|E]'s [royal_court|E]#!"
+
+ suggestion_create_nation_fracturing_faction:0 "Crie um $nation_fracturing_faction$"
+ suggestion_create_nation_fracturing_faction_label:0 "Suggestion: $suggestion_create_nation_fracturing_faction$"
+ suggestion_create_nation_fracturing_faction_desc:0 "Você pode desafiar seu [liege|E] e tente dissolver o reino para ganhar independência para você e todos os seus [vassals|E]"
+ suggestion_create_nation_fracturing_faction_click:0 "#I Clique para ver a facção contra a sua [liege]#!"

@@ -1,0 +1,5 @@
+﻿l_english:
+
+ IS_PLAYER_HEIR_OF:0 "#D TODO este gatilho provavelmente deve ser substituído pela versão codificada!#!"
+
+ CHARACTER_IS_PRESSING_TARGET_CHARACTERS_CLAIM:0 "[CHARACTER.GetShortUIName|U] está pressionando [TARGET_CHARACTER.GetShortUINamePossessive] Afirmação"

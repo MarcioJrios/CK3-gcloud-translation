@@ -1,0 +1,9 @@
+﻿l_english:
+ ep1_notifications.0011.t:0 "Você mudou o idioma do tribunal"
+ ep1_notifications.0011.desc:0 "Que nossa Corte cresça cada vez mais grandiosa!"
+
+ ep1_notifications.0012.t:0 "[target_character.GetShortUINameNoTooltip] mudou o idioma do tribunal"
+ ep1_notifications.0012.desc:0 "[target_character.GetShortUINameNoTooltip]'s court now speaks [target_character.GetCourtLanguage.GetName]. Que a decisão deles seja uma loucura!"
+
+ ep1_notifications.0013.t:0 "[target_character.GetShortUINameNoTooltip] mudou o idioma do tribunal"
+ ep1_notifications.0013.desc:0 "[target_character.GetShortUINameNoTooltip]'s court now speaks [target_character.GetCourtLanguage.GetName]. A decisão mais sábia!"

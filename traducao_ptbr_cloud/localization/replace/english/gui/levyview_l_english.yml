@@ -1,0 +1,9 @@
+﻿l_english:
+ LV_HEADER:0 "taxas"
+ LV_COUNTS:0 "[LevyView.GetLivingCount|0]/[LevyView.GetMaxCount|0]"
+ LV_FLAVOR:1 "Os impostos consistem em milícias camponesas, rufiões, mercenários locais e nobres destituídos equipados com ferramentas heterogêneas e armas improvisadas - seus números absolutos constituem o grosso da maioria dos exércitos.."
+ LV_RAISED:0 "[LevyView.GetRaisedCount|0] criado"
+ LV_UNRAISED:0 "não aumentado"
+ LV_MAINTENANCE:0 "Manutenção: [gold_i][LevyView.GetMaintenanceCost|2]/month"
+ LV_NO_COUNTERS:0 "Taxas nunca [counter|E] outros tipos"
+ 

@@ -1,0 +1,17 @@
+﻿l_english:
+ grit_type_grit:0 "grão"
+ grit_type_dirt:0 "sujeira"
+ grit_type_sand:0 "areia"
+ grit_type_bog_water:0 "água do pântano"
+ grit_type_twigs:0 "galhos"
+ grit_type_wet_leaves:0 "folhas molhadas"
+ grit_type_dry_grass:0 "grama seca"
+
+ ground_type_dust:0 "pó"
+ ground_type_dirt:0 "sujeira"
+ ground_type_rocks:0 "rochas"
+ ground_type_sandy_rocks:0 "rochas arenosas"
+ ground_type_sand:0 "areia"
+ ground_type_wet_grass:0 "grama molhada"
+ ground_type_mulch:0 "adubo"
+ ground_type_grass:0 "Relva"

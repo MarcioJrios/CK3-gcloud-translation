@@ -1,0 +1,78 @@
+﻿l_english:
+ # TbC Misc Loc Keys
+ fp1_tbc.0000.t:0 "Teste por combate"
+
+ # TbC about to begin.
+ fp1_tbc.0001.t:0 "$fp1_tbc.0000.t$: [duel_location.GetBaseNameNoTierNoTooltip]"
+ fp1_tbc.0001.desc.intro:0 "Eu chego no local designado perto [duel_location.GetBaseNameNoTier] em boa hora e encontrar [champion.GetTitledFirstName] já está me esperando, junto com uma pequena comitiva de testemunhas."
+ fp1_tbc.0001.desc.recipient_fighting:0 "\nqualquer outra coisa [champion.GetSheHe] talvez, [champion.GetFirstNameNoTooltip] está apto para lutar e disposto a arriscar me encontrar [champion.GetWomanMan] para [actor.GetWomanMan]."
+ fp1_tbc.0001.desc.recipient_has_champion:0 "Como [recipient.GetTitledFirstName] é incapaz de lutar [recipient.GetHerselfHimself], [champion.GetFirstNameNoTooltip] concordou em defender [recipient.GetHerHim]."
+ fp1_tbc.0001.desc.outro:0 "\nAs formalidades são breves. Todos nós sabemos por que estamos aqui e já passamos do ponto de falar. As armas são distribuídas e nossos séquitos se retiram para observar de uma distância segura."
+ fp1_tbc.0001.trigger_failure.actor:0 "Minhas [trial_by_combat_trial|E] contra [recipient.GetFirstNameNoTooltip] invalidou"
+ fp1_tbc.0001.trigger_failure.recipient:0 "Minhas [trial_by_combat_trial|E] contra [actor.GetFirstNameNoTooltip] invalidou"
+ fp1_tbc.0001.a:0 "Que o melhor [actor.GetWomanMan] vencer."
+ fp1_tbc.0001.a.tt:0 "o [trial_by_combat|E] começa!"
+
+ # TbC has invalidated.
+ fp1_tbc.0021.trigger_failure.actor:0 "$fp1_tbc.0001.trigger_failure.actor$"
+ fp1_tbc.0021.trigger_failure.recipient:0 "$fp1_tbc.0001.trigger_failure.recipient$"
+
+ fp1_tbc.0031.opening:0 "[recipient.Custom2('AppropriateGreeting',actor)]"
+ fp1_tbc.0031.desc:0 "Lute com #EMP você#!? Talvez você devesse considerar se aposentar para se tornar um bobo da corte. Não há uma chance em [recipient.GetFaith.NegativeAfterLife].\nPor favor, sinta-se à vontade para continuar enviando mais piadas escritas para [recipient.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]."
+ fp1_tbc.0031.a:0 "Que [recipient.Custom('InsultAdjective')] [recipient.Custom('InsultNoun')]!"
+
+ # Scope:actor won a TbC.
+ fp1_tbc.0041.t:0 "$fp1_tbc.0000.t$: Vitória!"
+ fp1_tbc.0041.desc.intro:0 "Descansando fácil de volta [actor.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip], Exulto com meu sucesso, meu [actor.Custom('signature_weapon')] deitou no meu colo.\n\n"
+ fp1_tbc.0041.desc.opponent_died:0 "[champion.GetTitledFirstNamePossessive] o sangue ainda endurece em novos sulcos e entalhes ao longo da arma [actor.Custom('SignatureWeaponEndType')], lembrando-me do [recipient.GetWomanMan]'s last moments."
+ fp1_tbc.0041.desc.opponent_lives.recipient_fighting:0 "As dores satisfatórias que ondulam pelo meu corpo me lembram de pequenos momentos na luta, pequenas vitórias e derrotas ferozmente disputadas, cada uma se aproximando [recipient.GetTitledFirstNamePossessive] perda."
+ fp1_tbc.0041.desc.opponent_lives.recipient_has_champion:0 "Em um mundo ideal, eu teria sido capaz de acertar o golpe da vitória diretamente em [recipient.GetTitledFirstName]. Infelizmente, não era para ser; espancamento [champion.GetTitledFirstName] para uma polpa teria que fazer em vez disso."
+ fp1_tbc.0041.desc.reward.gold:0 "\nUm saco de prata repousa contra minha canela, o peso satisfatório é um testemunho de justiça bem feita. Mandei contar cada moeda, uma a uma, na frente do #EMP de todos#! antes de voltarmos para casa."
+ fp1_tbc.0041.desc.reward.weak_hook:0 "\nLevou uma hora ou mais para o último dos juramentos ser feito na frente de nossas testemunhas reunidas. Algum dia, invocarei esses juramentos e receberei meu pagamento integralmente."
+ fp1_tbc.0041.desc.reward.humiliation:0 "\nO longo e prolongado pedido de desculpas, a humilhação, tudo isso testemunhado por um bando de poetas contratados... simplesmente #EMP glorioso#!. Pode ser anos antes [recipient.GetFirstNameNoTooltip] se recupera dessa humilhação."
+ fp1_tbc.0041.desc.outro:0 "\nOntem, colocamos nossa briga antes [actor.GetFaith.PantheonTerm], e [actor.GetFaith.PantheonTerm] respondeu sabiamente."
+ fp1_tbc.0041.a:0 "Justiça é feita."
+
+ # Scope:actor lost a TbC.
+ fp1_tbc.0051.t:0 "$fp1_tbc.0000.t$: Derrota!"
+ fp1_tbc.0051.desc.intro:0 "Como chegou a isso? eu fui antes [actor.GetFaith.PantheonTerm] buscar #EMP justiça#!, e sou recompensado com sofrimento e humilhação. Eu não falei uma palavra durante todo o caminho de volta para [actor.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip].\n\n"
+ fp1_tbc.0051.desc.opponent_lives.recipient_fighting:0 "eu não entendo como [recipient.GetTitledFirstName] me bata. Eu estava no #EMP certo#!. Eu era #EMP suposto#! para vencer, esse é o objetivo de um $game_concept_trial_by_combat$."
+ fp1_tbc.0051.desc.opponent_lives.recipient_has_champion:0 "Em uma luta justa eu #EMP obviamente#! ter batido [recipient.GetFirstName]! Porra e explosão [champion.GetTitledFirstName], e essas tradições dificultadoras!"
+ fp1_tbc.0051.desc.outro:0 "\nAgora todo o mundo considera nossos problemas resolvidos e a justiça foi feita."
+ fp1_tbc.0051.a:0 "Pah, não havia justiça aqui."
+
+ # Scope:recipient must designate a champion to fight for them.
+ fp1_tbc.0101.t:0 "$fp1_tbc.0000.t$: Selecionando um Campeão"
+ fp1_tbc.0101.desc:0 "eu concordei em [actor.GetTitledFirstNamePossessive] pedido de um $game_concept_trial_by_combat$, mas seria inapropriado para mim lutar [actor.GetHerHim] pessoalmente.\nA tradição exige que eu escolha um campeão para lutar em meu nome, mas quem escolher?"
+ fp1_tbc.0101.bout_moves_forward:0 "A luta segue em frente..."
+ fp1_tbc.0101.a:0 "[knight_best.GetTitledFirstNameNoTooltip] está entre os melhores do meu $knight_culture_player_plural_no_tooltip_lowercase$!"
+ fp1_tbc.0101.a.tt:0 "[knight_best.GetTitledFirstName] vai lutar por você"
+ fp1_tbc.0101.b:0 "[knight_alternative.GetTitledFirstNameNoTooltip] é uma boa alternativa..."
+ fp1_tbc.0101.b.tt:0 "[knight_alternative.GetTitledFirstName] vai lutar por você"
+ fp1_tbc.0101.c:0 "Eles dizem [knight_exotic.GetTitledFirstNameNoTooltip] é aprendido em combate?"
+ fp1_tbc.0101.c.tt:0 "[knight_exotic.GetTitledFirstName] vai lutar por você"
+ fp1_tbc.0101.d:0 "o amor de [knight_opinion.GetTitledFirstNameNoTooltip] deve me proteger."
+ fp1_tbc.0101.d.tt:0 "[knight_opinion.GetTitledFirstName] vai lutar por você"
+
+ fp1_ep1_tbc.0101.e:0 "Minha já designada $champion_court_position$, [knight_alternative.GetTitledFirstNameNoTooltip], deve me representar."
+ fp1_ep1_tbc.0101.e.tt:0 "[knight_alternative.GetTitledFirstName] vai lutar por você"
+
+ # Scope:recipient won a TbC.
+ fp1_tbc.0111.t:0 "$fp1_tbc.0000.t$: Vitória!"
+ fp1_tbc.0111.desc.intro:0 "[recipient.GetFaith.PantheonTerm|U] sorriu sinceramente para mim ontem!"
+ fp1_tbc.0111.desc.opponent_died.recipient_fighting:0 "\nFechando meus olhos, ainda posso sentir a adrenalina subindo pelo meu sistema, músculos se contraindo com o fantasma da luta, congelado no instante [actor.GetTitledFirstNamePossessive] a vida foi interrompida e minha vitória garantida."
+ fp1_tbc.0111.desc.opponent_lives.recipient_fighting:0 "\nNão só consegui vencer [actor.GetFirstName] sangrento para [actor.GetHerHis] temeridade, eu provei conclusivamente [actor.GetHerHis] reivindicações caluniosas totalmente infundadas."
+ fp1_tbc.0111.desc.opponent_lives.recipient_has_champion:0 "\nAssistindo [champion.GetFirstName] debulhar as luzes do dia vivas fora [actor.GetFirstName] ficou ainda mais doce com o conhecimento de que [champion.GetHerHis] a vitória me absolve de todas as culpas."
+ fp1_tbc.0111.desc.outro:0 "\nTalvez o próximo tolo pense primeiro antes de desafiar [recipient.GetTitledFirstNameNicknamedNoTooltip] sobre!"
+ fp1_tbc.0111.a:0 "$fp1_tbc.0041.a$"
+
+ # Scope:recipient lost a TbC.
+ fp1_tbc.0121.t:0 "$fp1_tbc.0000.t$: Derrota!"
+ fp1_tbc.0121.desc.intro:0 "[recipient.GetFaith.PantheonTerm|U] não sorriu para mim ontem."
+ fp1_tbc.0121.desc.champion_lives.recipient_fighting:0 "As dores e cortes em meu corpo são prova disso, cada um um presente de [actor.GetFirstNamePossessive] [actor.Custom('signature_weapon')]. tenho sorte de estar vivo."
+ fp1_tbc.0121.desc.champion_lives.recipient_has_champion:0 "quando eu escolhi [champion.GetTitledFirstName], eu tinha tanta certeza de que [champion.GetSheHe]'d trounce [actor.GetTitledFirstName], mas [champion.GetSheHe]'s just lucky to be alive."
+ fp1_tbc.0121.desc.reward.gold:0 "\nQuando [actor.GetFirstNameNoTooltip] tomou [actor.GetHerHis] prata, [actor.GetSheHe] insistiu em parar para contá-lo, moeda por moeda, obrigando-nos a assistir enquanto nos deleitávamos com o desgosto de minha comitiva."
+ fp1_tbc.0121.desc.reward.weak_hook:0 "\nParecia uma hora antes do último dos juramentos de dívida ser feito e selado na frente de nossas testemunhas reunidas. Algum dia, [actor.GetFirstNameNoTooltip] estará de volta para cobrar a dívida."
+ fp1_tbc.0121.desc.reward.humiliation:0 "\nLendo através [actor.GetFirstNamePossessiveNoTooltip] devagar "apology" levou uma eternidade, meus dentes rangendo o tempo todo enquanto eu engasgava as palavras. [actor.GetHerHis|U] poetas contratados simplesmente riam ao fundo, guardando cada expressão minha na memória."
+ fp1_tbc.0121.desc.outro:0 "\nA vitória foi para um tolo e um mendigo."
+ fp1_tbc.0121.a:0 "$fp1_tbc.0051.a$"

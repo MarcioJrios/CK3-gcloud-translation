@@ -1,0 +1,171 @@
+﻿l_english:
+ religious_interaction.1.opening:0 "[recipient.Custom2('AppropriateGreeting', ROOT.Char)]"
+ religious_interaction.1.desc:0 "Depois de muita oração e deliberação, decidi conceder seu pedido de divórcio de seu [secondary_recipient.GetWifeHusband], [secondary_recipient.GetFirstNameNoTooltip],"
+ religious_interaction.1.consanguinity:0 "em razão da consanguinidade."
+ religious_interaction.1.fallback:0 "por suspeita de adultério."
+ religious_interaction.1.adultery:0 "em razão de adultério."
+ religious_interaction.1.different_faith:0 "em razão de eles não aderirem à verdadeira fé."
+ religious_interaction.1.eunuch:0 "por não estarem devidamente equipados."
+ religious_interaction.1.a:0 "Sinto muito, [secondary_recipient.GetFirstNameNoTooltip]."
+ 
+ religious_interaction.2.desc:0 "Depois de muita deliberação, decidi que é do interesse de nossa casa atender ao seu pedido de divórcio. [secondary_recipient.GetWifeHusband], [secondary_recipient.GetFirstNameNoTooltip],"
+ religious_interaction.2.infertility:0 "por se recusarem a consumar o casamento."
+ religious_interaction.2.adultery:0 "em razão de eles violarem a santidade do casamento, deitando-se com outro."
+ 
+ religious_interaction.3.desc:0 "Eu considerei sua situação e decidi conceder seu pedido."
+ religious_interaction.3.defensive_war:0 "Que esses fundos ajudem você a defender a fé contra [war_target.GetTitledFirstName] e [war_target.GetHerHis] invadindo [war_target.GetFaith.GetAdjective] hordas!"
+ religious_interaction.2.offensive_war:0 "Que esses fundos lhe tragam a vitória em sua guerra contra [war_target.GetTitledFirstName]!"
+ religious_interaction.3.fallback:0 "Que esses fundos os ajudem a espalhar a verdadeira fé em suas terras!"
+ religious_interaction.3.a:0 "Elogio [ROOT.Char.GetFaith.WealthGodName], aí vem a restituição do imposto!"
+ religious_interaction.3.b:0 "Esses fundos me trarão a vitória!"
+ religious_interaction.3.c:0 "Vou usar essa riqueza com sabedoria."
+ religious_interaction.3.d:0 "Este ouro vai curar meus cofres doloridos!"
+
+ religious_interaction.32.desc:0 "Eu considerei seu pedido e decidi rejeitá-lo."
+ religious_interaction.32.a:0 "Oh não!"
+
+ religious_interaction.4.desc:0 "Eu ponderei sobre seu pedido e decidi reconhecer sua reclamação sobre o [target.GetName]."
+ religious_interaction.4.child:0 "Como [secondary_recipient.GetTitledFirstName] é uma mera criança, você tem o direito de intervir."
+ religious_interaction.4.they_are_female:0 "Como [secondary_recipient.GetTitledFirstName] é uma mulher, você tem o direito de intervir."
+ religious_interaction.4.they_are_male:0 "Como [secondary_recipient.GetTitledFirstName] é um homem, você tem o direito de intervir."
+ religious_interaction.4.fallback:0 "Surgiram provas irrefutáveis de que seus ancestrais realmente governaram a terra nos tempos antigos.."
+ religious_interaction.4.a:0 "Eu vou me provar um governante digno!"
+
+ religious_interaction.42.desc:0 "Eu considerei o seu pedido de reclamação sobre o [target.GetName] e decidiram rejeitá-lo."
+ religious_interaction.42.a:0 "danações!"
+
+ religious_interaction.5.child:0 "Devido a sua minoria,"
+ religious_interaction.5.they_are_female:0 "Devido ao seu status de mulher,"
+ religious_interaction.5.they_are_male:0 "Devido ao seu status viril,"
+ religious_interaction.5.fallback:0 "Devido à sua óbvia falta de piedade,"
+ religious_interaction.5.outro:0 "uma condição que preocupa muito a Igreja, concedi [actor.GetName] uma reclamação sobre [target.GetName], no [actor.GetHerHis] solicitar."
+ religious_interaction.5.a:0 "Isso é uma farsa!"
+
+ religious_interaction.6.opening:0 "[recipient.Custom2('AppropriateGreeting', ROOT.Char)]"
+ religious_interaction.6.desc:0 "Depois de muita oração e deliberação, decidi conceder seu pedido de divórcio [secondary_actor.GetFirstNameNoTooltip] e seus [secondary_recipient.GetWifeHusband], [secondary_recipient.GetFirstNameNoTooltip],"
+ religious_interaction.6.consanguinity:0 "em razão da consanguinidade."
+ religious_interaction.6.fallback:0 "por suspeita de adultério."
+ religious_interaction.6.adultery:0 "em razão de adultério."
+ religious_interaction.6.different_faith:0 "em razão de eles não aderirem à verdadeira fé."
+ religious_interaction.6.eunuch:0 "por não estarem devidamente equipados."
+ religious_interaction.6.a:0 "Sinto muito, [secondary_recipient.GetFirstNameNoTooltip]."
+
+ religious_interaction.1001.t.fatwa:0 "Fatwa Emitida!"
+ religious_interaction.1001.t:0 "Condenação Legal!"
+ religious_interaction.1001.desc:1 "Minhas [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actor'))], [actor.GetTitledFirstName], me viu condenado como pecador em um mandado emitido por [actor.GetHerHis] [actor.GetFaith.PriestNeuterPlural]!\nIsso poderia ser usado como base legal para argumentar que não estou apto para governar [recipient.GetFaith.GetAdjective] terras."
+ religious_interaction.1001.a:0 "Nós estamos [actor.GetSheHe] não meu senhor, eu teria..."
+ religious_interaction.1001.a.revoke_tt:0 "[actor.GetTitledFirstName] posso [revoke|E] um dos meus títulos"
+
+ # Religious Head of Faith Interactions
+ religious_interaction.1010:0 "É louvável que você procure expiar seus pecados. Aceito sua generosa doação e envio-lhe minha bênção em troca."
+ religious_interaction.1011:0 "Seus erros são muito graves para serem redimidos por mero ouro. Se você realmente deseja expiar seus pecados, deve mudar seus caminhos e provar para mim que realmente busca o perdão. Só então aceitarei sua doação."
+ religious_interaction.1020:0 "Eu ouvi algumas notícias perturbadoras de [actor.GetTitledFirstName] sobre seus erros."
+ religious_interaction.1021:0 "Você pode se chamar de [actor.GetFaith.GetAdherentName], mas suas ações provam que você não segue verdadeiramente o caminho da [actor.GetFaith.HighGodName]. Como não posso permitir que seu comportamento perverso se esconda atrás da máscara de [actor.GetFaith.GetAdjective] justiça, não tenho escolha a não ser excomungá-lo da fé. Poderia [actor.GetFaith.HighGodName] tenha misericórdia de sua alma."
+ religious_interaction.1022:0 "Estou muito perturbado com essas histórias que você conta [secondary_recipient.GetTitledFirstNamePossessive] delitos. Dói-me fazê-lo, mas concordo que, para o bem da [actor.GetFaith.GetAdjective] fé [secondary_recipient.GetSheHe] deve ser excomungado."
+ religious_interaction.1023:0 "O que você está pensando em tentar conseguir um companheiro [actor.GetFaith.GetAdherentName] excomungado? o [actor.GetFaith.GetAdjective] a fé não é uma ferramenta a ser usada para ganhos políticos! Você deve se considerar sortudo por eu não o excomungar por fazer tal pedido.. "
+ religious_interaction.1024:0 "Vejo que você realmente se arrependeu de seus pecados e fez de tudo para se redimir. Ainda que suas transgressões contra o [actor.GetFaith.GetAdjective] fé foram realmente dolorosos, suas ações recentes me fazem acreditar que você merece uma outra chance.\nDiante disso, por meio desta, revogo sua excomunhão e lhe dou as boas-vindas de volta ao [actor.GetFaith.GetAdjective] fé."
+ religious_interaction.1025:0 "Você acha que eu excomungo as pessoas levianamente? Você acha que um pedido de desculpas indiferente é suficiente para fazer as pazes? Pleiteie o quanto quiser; você não será permitido voltar para o [actor.GetFaith.GetAdjective] fé até que você prove que mudou seus maus caminhos."
+ religious_interaction.1030:0 "Depois de muito tempo em contemplação, concluí que suas palavras eram verdadeiras e sábias. Entrarei para uma ordem monástica e começarei uma nova vida a serviço de [actor.GetFaith.HighGodName] sozinho."
+ religious_interaction.1031:0 "Sua sugestão para eu desenraizar toda a minha vida e fugir para algum mosteiro isolado é ridícula. Estou feliz onde estou e não tenho planos de mudar isso."
+ religious_interaction.1000.positive:0 "Estou feliz [recipient.GetFirstNameNoTooltip] viu a sabedoria em meu pedido."
+ religious_interaction.1000.negative:0 "mais infeliz..."
+ religious_interaction.1000.strong_negative:0 "danações!"
+ religious_interaction.1024.positive:0 "Estou feliz [recipient.GetFirstNameNoTooltip] viu a sabedoria nesta ação."
+
+ religious_interaction.2002.desc:0 "Eu decidi segui-lo para a luz e converter-me a [ROOT.Char.GetFaith.GetName]!"
+ religious_interaction.2002.a:0 "Seja abençoado [ROOT.Char.GetFaith.HighGodName]!"
+
+ religious_interaction.2003.desc:0 "Minha fé é forte demais para ser influenciada por suas palavras terrenas. Prefiro alcançar minha recompensa em [recipient.GetFaith.DivineRealm]."
+ religious_interaction.2003.hooking_out:0 "\nTambém gostaria de lembrá-lo de que você me deve e é melhor não me perseguir simplesmente por ser um verdadeiro crente.."
+ religious_interaction.2003.a:0 "Eu só desejei a sua salvação."
+ religious_interaction.2003.b:0 "Bem, você vai pagar o preço neste mundo!"
+ religious_interaction.2003.c:0 "Não pense que estou deixando você se safar dessa!"
+ religious_interaction.2003.d:0 "Oh, eu acho que você vai acreditar exatamente no que eu digo."
+
+ religious_interaction.2011.desc:0 "Eu ficaria feliz em me juntar a você em sua exultação, mas o custo absoluto da reforma [recipient.GetFaith.HouseOfWorshipPlural] e fazendo proselitismo entre meus camponeses...\nSe você ajudar a pagar por esses esforços, estou mais do que disposto a orar por sua [ROOT.Char.GetFaith.HighGodName]."
+ religious_interaction.2011.a:0 "Qualquer coisa pela fé."
+ religious_interaction.2011.b:0 "Eu não vou pagar por sua salvação eterna!"
+ religious_interaction.2011.c:0 "Você fará isso por algo muito mais valioso do que ouro."
+
+ religious_interaction.2012.desc:0 "Eu vejo a sabedoria de sua fé, mas espero que você entenda que caminho longo e sinuoso é da escuridão para a luz..\nTalvez se você prometesse me apoiar da maneira que eu precisar, a jornada seria mais fácil."
+ religious_interaction.2012.a:0 "Eu aceito, para o bem de [ROOT.Char.GetFaith.GetNameNoTooltip] em toda parte."
+ religious_interaction.2012.b:0 "Eu não vou barganhar por sua alma!"
+ religious_interaction.2012.c:0 "Você tem outras dívidas para me pagar, primeiro."
+
+ religious_interaction.2021.opening:0 "[actor.Custom2('AppropriateGreeting', ROOT.Char)]"
+ religious_interaction.2021.desc:0 "[actor.Custom2('AppropriateGreeting', ROOT.Char)]É hora de você me seguir para a luz, meu [actor.Custom2('RelationToMe', SCOPE.sC('recipient'))]. Em consideração a tudo que me deve, exijo que se converta a [actor.GetFaith.GetName]!"
+ religious_interaction.2021.a:0 "EU... Muito bem meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actor'))]."
+ 
+#######################################
+### Sun trial by Mathilda Bjarnehed ###
+#######################################
+
+#I have been left in the sun to die!
+ religious_interaction.2100.t:0 "[imprisoner.GetFaith.HighGodNamePossessive|U] Julgamento"
+ religious_interaction.2100.desc:0 "Depois de [ROOT.Char.GetFaith.HighGodName] sabe quanto tempo em uma cela escura, a dura luz do dia de [capital.GetNameNoTitle] é ofuscante. Os guardas que me escoltam para fora do [imprisoner.Custom('FortifiedBuilding')] e para o deserto são surpreendentemente solenes - cerimoniosos, mesmo.\nComo eu coloco meus olhos em [imprisoner.GetTitledFirstName], flanqueado por uma dúzia [imprisoner.Custom('DefaultPriestTitlePlural')], o propósito da nossa pequena viagem fica claro.\n\n"[ROOT.Char.GetFullNameNoTooltip]. You will be left here, tied to this stake, and [imprisoner.GetFaith.HighGodName] shall determine your fate. If you are innocent, you shall live, but if you are guilty, you shall perish.""
+ religious_interaction.2100.a.believer:0 "[imprisoner.GetFaith.HighGodName|U] vai me julgar com justiça!"
+ religious_interaction.2100.a.unbeliever:0 "Você está #EMP saindo#! eu aqui?!"
+ religious_interaction.2100.a.success:0 "Você sobrevive ao julgamento"
+ religious_interaction.2100.a.failure:0 "Você perece sob o sol"
+
+#I have survived!
+ religious_interaction.2101.start.desc:0 "Água, eu preciso de água! Minha garganta, minha cabeça, minha pele - está tudo em chamas!\nEra [ROOT.Char.GetFaith.DevilName] verdadeiramente aqui, rindo da minha miséria? Fez [ROOT.Char.GetFaith.WaterGodName] oferece-me um frasco de água? Eu bebi e bebi, mas minha sede não foi saciada."
+ religious_interaction.2101.end.desc:0 "\nQuando [imprisoner.GetTitledFirstName] retorna e um frasco é pressionado contra meus lábios, a névoa da minha mente se dissipa. o [imprisoner.GetTitleAsNameNoTooltip] parece um pouco desapontado por me encontrar vivo, mas o divino falou."
+ religious_interaction.2101.a:0 "eu sou inocente!"
+
+#They survived...
+ religious_interaction.2102.desc:0 "Na última véspera de [prisoner.GetTitledFirstNamePossessive] julgamento, encontramos [prisoner.GetHerHim] inconsciente, mas ainda respirando.\n\n"It is a miracle!" a [ROOT.Char.Custom('DefaultPriestTitle')] declara, mãos levantadas para o céu. "[ROOT.Char.GetFaith.HighGodName|U] has spoken! The [prisoner.GetWomanMan] is innocent!""
+ religious_interaction.2102.a:0 "Isso é [ROOT.Char.GetFaith.HighGodNamePossessive|U] vontade."
+ religious_interaction.2102.b:0 "[prisoner.GetSheHe|U] parece bem morto para mim..."
+ religious_interaction.2102.b.tt:0 "[ROOT.Char.GetFaith.HighGodName|U] não é #EMP sempre#! direita!"
+ religious_interaction.2102.b.success:0 "Sua intromissão não é descoberta"
+ religious_interaction.2102.b.failure:0 "Você está exposto como um assassino"
+
+#I have died...
+ religious_interaction.2103.end.desc:0 "\nSe isso é [ROOT.Char.GetFaith.HighGodHerHis|U] vontade, talvez eu mereça isso. Talvez eu seja... malvado."
+ religious_interaction.2103.a:0 "EU... Eu estou tão cansado..."
+
+#They died!
+ religious_interaction.2104.desc:0 "Na última véspera de [prisoner.GetTitledFirstNamePossessive] tentativas, [prisoner.GetSheHe] não se move quando nos aproximamos. Um dos criados colocou um frasco para [prisoner.GetHerHis] lábios ressecados, mas a água escorre [prisoner.GetHerHis] queixo sem resposta.\n\n"[ROOT.Char.GetFaith.HighGodName|U] has spoken!" a [ROOT.Char.Custom('DefaultPriestTitle')] declara, mãos levantadas para o céu. "The [prisoner.GetWomanMan] is guilty!""
+
+##############################################
+### Literalist Debate by Ewan Cowhig Croft ###
+##############################################
+
+ religious_interaction.2400.t:0 "um grande debate"
+ religious_interaction.2400.desc:0 "o paige trembles with fear as [recipient.GetSheHe] lê [actor.GetTitledFirstNamePossessive] carta ardente para mim, desafiando-me para um debate público sobre as virtudes e vícios de nossa fé compartilhada, e questionando minha adesão aos princípios básicos de [recipient.GetFaith.GetNameNoTooltip].\nMeu servo gagueja nas palavras, pois o tom da carta não deixa dúvidas sobre [actor.GetShortUINamePossessiveNoTooltip] opinião da minha piedade."
+ religious_interaction.2400.a:0 "Aquele vira-lata! Desafio aceito!"
+ religious_interaction.2400.a.tt_success:0 "O debate público humilha [actor.GetShortUINameNoTooltip]"
+ religious_interaction.2400.a.tt_fail:0 "[actor.GetShortUINameNoTooltip] questiona com sucesso minha fé"
+ religious_interaction.2400.b:0 "eu não vou sujar [recipient.GetFaith.HighGodNamePossessive] nome com esta farsa."
+ religious_interaction.2400.b.tt:0 "[actor.GetShortUINameNoTooltip] será informado"
+ religious_interaction.2400.b_turned_down:0 "[recipient.GetShortUIName|U] recusou meu desafio de debater"
+
+ used_literalist_debate_modifier:0 "Debatido recentemente"
+ used_literalist_debate_modifier_desc:0 "Este personagem iniciou recentemente um debate sobre os fundamentos de sua fé."
+ literally_debated_modifier:0 "Debatido recentemente"
+ literally_debated_modifier_desc:0 "Este personagem recentemente se envolveu em um debate sobre os fundamentos de sua fé."
+
+ religious_interaction.2401.desc_intro:0 "Meu oponente e eu nos encontramos em um grande salão em [debate_locale.GetNameNoTierNoTooltip], de pé em mesas bambas a apenas alguns metros de distância, cercado por uma multidão de curiosos ansiosos. Um silêncio abafado cai sobre a multidão, todos esperando o início do debate..\n\n"
+ religious_interaction.2401.desc_won:0 "Ao longo de uma hora, destruo [recipient.GetTitledFirstName], atacante [recipient.GetHerHis] piedade, [recipient.GetHerHis] senso de virtude, e até questionando [recipient.GetHerHis] fidelidade a [actor.GetFaith.HighGodName]. A multidão é cruel, atirando [recipient.GetTitledFirstNameNoTooltip] com ovos podres e repolhos mofados até [recipient.GetSheHe] foge do corredor."
+ religious_interaction.2401.desc_lost:0 "[recipient.GetTitledFirstNamePossessive] o ataque verbal começa imediatamente, mal me dando uma chance de refutar, e em pouco tempo a multidão decidiu pelo vencedor.\nEu luto por alguns minutos, enfrentando a chuva de vegetais podres, mas finalmente sou forçado a recuar quando um dos camponeses arremessa uma galinha viva na minha cabeça.."
+ religious_interaction.2401.a_won:0 "Eu não sou amado de [actor.GetFaith.HighGodName]?"
+ religious_interaction.2401.a_lost:0 "Essas pessoas não entendem [actor.GetFaith.GetReligion.GetNameNoTooltip]!"
+
+ religious_interaction.2402.desc_won:0 "Apesar de [actor.GetTitledFirstNamePossessive] atitude certeira ao me desafiar para um debate, [actor.GetHerHis] resolução derrete diante da minha tempestade de palavras fulminantes e críticas piedosas. Em pouco tempo, a multidão se junta a eles e meu oponente recua sob uma saraivada de vegetais apodrecidos e um galo particularmente agressivo.."
+ religious_interaction.2402.desc_lost:0 "Embora eu tente o meu melhor, [actor.GetTitledFirstName] claramente pesquisou [actor.GetHerHis] argumentos extremamente bem, e tem a multidão comendo fora [actor.GetHerHis] mão quase imediatamente. [actor.GetSheHe|U] continua a me repreender por mais de uma hora independentemente, acusando-me de todos os vícios sob o sol e até mesmo insinuando que minha lealdade a [recipient.GetFaith.HighGodName] está em questão.\nEventualmente, eu fujo, seguido por uma enxurrada de produtos podres da multidão."
+
+ religious_interaction.2403.desc:0 "[victim.GetTitledFirstName] não tem nem chance. Embora [victim.GetSheHe] acredita [victim.GetHerselfHimself] bem preparado, eu esmago [victim.GetHerHis] argumentos fracos como se fossem moscas. Com cada contraponto, [victim.GetFirstNameNoTooltip] estremece como se tivesse sido atingido por um golpe. Conforme o tempo passa, [victim.GetSheHe] parece tão incapaz de defender [victim.GetHerselfHimself] que até a multidão se cala.\n\n"...and that is why," I say as I raise my hand dramatically, an accusatory finger pointed across the room, "you will never—"Eu paro quando percebo [victim.GetFirstNameNoTooltip] está com falta de ar e agarrando"
+ religious_interaction.2403.conclusion_either:0 "[victim.GetHerHis] peito."
+ religious_interaction.2403.conclusion_man:1 "[victim.GetHerHis] braço."
+ religious_interaction.2403.conclusion_woman:1 "[victim.GetHerHis] estômago."
+ religious_interaction.2403.a.low_compassion:0 ""Taking the coward's way out, I see.""
+ religious_interaction.2403.a.zealous:0 ""It seems [ROOT.Char.GetFaith.PantheonTerm] [ROOT.Char.GetFaith.PantheonTermHasHave] chosen a victor.""
+ religious_interaction.2403.a.stubborn:0 ""Hey, I haven't finished!""
+ religious_interaction.2403.a:0 ""Are... Are you all right?""
+ religious_interaction.2403.a.tt:0 "[victim.GetShortUIName] sofre um ataque cardíaco e [character_death_dies|E]"
+
+ religious_interaction.2500.desc:0 "Para você voltar aos seus sentidos... Deve ser um sinal de [ROOT.Char.GetFaith.HighGodNameAlternate]! Você é bem-vindo para se juntar à verdadeira fé."
+ religious_interaction.2500.a:0 "Elogio [ROOT.Char.GetFaith.HighGodName]!"
+
+ religious_interaction.2501.desc:0 "Certamente você deve estar brincando? Suas tentativas transparentes de fuga política nunca impedirão a ira de [recipient.GetFaith.HighGodName]!"

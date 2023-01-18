@@ -1,0 +1,24 @@
+﻿l_english:
+ handhands_hand:0 "mão"
+ handhands_hands:0 "mãos"
+
+ fistfists_fist:0 "punho"
+ fistfists_fists:0 "punhos"
+
+ armarms_arm:0 "braço"
+ armarms_arms:0 "braços"
+
+ eyeeyes_eye:0 "olho"
+ eyeeyes_eyes:0 "olhos"
+
+ maskface_mask:0 "mascarar"
+ maskface_face:0 "cara"
+
+ # Grammatical Stuff
+ articleblank_article:0 "uma "
+ articleblank_articlevowel:0 "um "
+ articleblank_blank:0 ""
+
+ maskface_behind:0 "atras do"
+ maskface_in:0 "no"
+ maskface_across:0 "entre"

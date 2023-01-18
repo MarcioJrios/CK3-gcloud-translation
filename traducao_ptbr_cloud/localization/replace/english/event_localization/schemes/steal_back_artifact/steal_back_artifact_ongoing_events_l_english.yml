@@ -1,0 +1,23 @@
+﻿l_english:
+ # TODO_CD ADD THE CHARACTER TO THE ANTIQUARIAN TITLE
+ steal_back_artifact_event_title:1 "Roubar Artefato:"
+ steal_back_artifact_ongoing.1001.t:0 "$steal_back_artifact_event_title$ o antiquário"
+ steal_back_artifact_ongoing.1001.desc:0 "Um dos obstáculos óbvios para recuperar o artefato é [target.GetTitledFirstNamePossessive] antiquário, [antiquarian.GetTitledFirstName].\nExistem, é claro, várias maneiras de... #EMP deal#! with a person, but I wonder if [antiquarian.GetFirstNameNoTooltip] é o tipo de pessoa que eu poderia persuadir a olhar para o outro lado, oferecendo um suborno adequado."
+ steal_back_artifact_ongoing.1001.a:0 "O ouro é a linguagem universal do suborno."
+ steal_back_artifact_ongoing.1001.a.tt:0 "Você acredita [antiquarian.GetTitledFirstNamePossessive] lealdade pode ser comprada com riquezas..."
+ steal_back_artifact_ongoing.1001.b:0 "Talvez um artefato para um artefato?"
+ steal_back_artifact_ongoing.1001.b.tt:0 "[antiquarian.GetTitledFirstName] vai concordar com um mesmo "trade.""
+ steal_back_artifact_ongoing.1001.c:0 "Uma introdução a [random_beauty.GetTitledFirstName] pode provar... #EMP stimulating#!."
+ steal_back_artifact_ongoing.1001.c.tt:0 "Você está protegendo suas apostas em [antiquarian.GetTitledFirstName] valorizando a beleza física acima das lealdades."
+ steal_back_artifact_ongoing.1001.d:0 "Vou olhar para outras possibilidades em vez disso."
+
+ steal_back_artifact_ongoing_notification.1001.success:0 "[antiquarian.GetTitledFirstName] aceita o suborno"
+ steal_back_artifact_ongoing_notification.1001.failure:0 "[antiquarian.GetTitledFirstName] Recusa o suborno"
+
+ steal_back_artifact_ongoing.1002.t:0 "$steal_back_artifact_event_title$ Gestão Menor"
+ steal_back_artifact_ongoing.1002.desc:0 "eu disse [agent.Custom2('MyCharacterIntroduction', ROOT.Char)] monitorar [target.GetTitledFirstName] para que possamos encontrar a oportunidade perfeita para furtar um artefato de [target.GetHerHim].\nO progresso, no entanto, tem sido muito mais lento do que eu gostaria. Talvez eu devesse dar [agent.GetHerHim] algo específico para olhar para fora?"
+ steal_back_artifact_ongoing.1002.a:0 "Dê instruções específicas para [agent.GetFirstNameNoTooltip]."
+ steal_back_artifact_ongoing.1002.b:0 "Eu confio neles para fazer seu trabalho."
+ steal_back_artifact_ongoing_notification.1002.success:0 "[agent.GetTitledFirstName] Relatórios Voltar"
+ steal_back_artifact_ongoing_notification.1002.failure:0 "[antiquarian.GetTitledFirstName] Falha ao encontrar qualquer informação"
+

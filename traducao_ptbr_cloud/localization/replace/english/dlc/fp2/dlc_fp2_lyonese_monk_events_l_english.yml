@@ -1,0 +1,233 @@
+﻿l_english:
+ ##################################################
+ # #Misc
+
+ fp2_lyonese_monk.0000.t.revealed:0 "Ensinamentos Estranhos:"
+ fp2_lyonese_monk.0000.t.council:0 "Conclave:"
+ fp2_lyonese_monk_cancel_chain_effect.tt:0 "Durante a tentativa de prisão, [acolyte.GetFirstName] é morto"
+ fp2_lyonese_monk.0000.tt.continues_to_teach:0 "[acolyte.GetFirstName] continua a ensinar"
+ fp2_lyonese_monk.0000.tt.teachings_fade:0 "[acolyte.GetFirstNamePossessive] os ensinamentos desaparecerão"
+ fp2_lyonese_monk.0000.tt.is_humbled:0 "#EMP [acolyte.GetFirstName] é humilhado#!"
+ fp2_lyonese_monk.0000.tt.is_paused:0 "#EMP [acolyte.GetFirstName] é dada uma pausa para pensar#!"
+ fp2_lyonese_monk.0000.tt.is_emboldened:0 "#EMP [acolyte.GetFirstName] é encorajado#!"
+ fp2_lyonese_monk.0000.tt.favour_elipandics:0 "o [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName] ganha o debate"
+ fp2_lyonese_monk.0000.tt.favour_felicians:0 "o [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName] ganha o debate"
+ fp2_lyonese_monk.0000.tt.favour_radicals:0 "o [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] ganha o debate"
+
+ ##################################################
+ # #Setup & Misc
+ 
+ fp2_lyonese_monk.0001.t:0 "Uma Noite Agitada pela Tempestade"
+ fp2_lyonese_monk.0001.desc:0 "Os ventos batem e gemem nas pedras do [acolyte_host.GetCapitalLocation.GetTitle.GetNameNoTier], uivando pela noite como os cães de [acolyte_host.GetFaith.NegativeAfterLife], tentando furiosamente me arrancar da minha solidez.\nA chamada do meu quarto quente espera, longe destes corredores frios, mas... essa é a porta do corredor? Eu giro, estremecendo com o barulho inesperado, e sou confrontado com um santo encharcado e sujo. [acolyte.GetWomanMan], cambaleando para o seco.\n\n"My-", [acolyte.GetSheHe] tosse, expelindo um pedaço de catarro úmido, "my [acolyte_host.GetLadyLord], please! The gale is fierce and I have been on the road for many months. I beg of you, allow me a bed till sunrise and storm-break?"."
+ fp2_lyonese_monk.0001.a:0 "Claro, fique o tempo que quiser!"
+ fp2_lyonese_monk.0001.b:0 "Você pode demorar para #EMP a#! noite."
+ fp2_lyonese_monk.0001.c:0 "Nenhum mendigo em [acolyte_host.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]. #EMP Out#!."
+ 
+ fp2_lyonese_monk.0011.t:0 "Um amigo seu [acolyte_host.Custom2('RelationToMeShort', dead_owner)|U]"
+ fp2_lyonese_monk.0011.desc:0 ""My [acolyte_host.GetLadyLord], a word of your time?" asks the cleric before me. "My name is [acolyte.GetFirstName] [acolyte.GetDynastyName], and I was a humble servant of your [acolyte_host.Custom2('RelationToMeShort', dead_owner)]."\n\n"I know you must still be grieving, but your predecessor and I had an understanding, and I must ask — would you permit me to stay at your court and continue teaching your courtiers about the ways of [acolyte.GetFaith.HighGodName]?"."
+ fp2_lyonese_monk.0011.a:0 "Bem, eu suponho..."
+ fp2_lyonese_monk.0011.b:0 "Arrume seus pertences, vagabundo."
+ 
+ fp2_lyonese_monk.0021.t:0 "ido e feito"
+ fp2_lyonese_monk.0021.desc.intro:0 "Sem [acolyte.GetFirstName] [acolyte.GetDynastyName] to wander minha realm, the popularity of [acolyte.GetHerHis] ensinamentos começa a despencar. Nenhum pregador, nenhum pregado.\n\n"
+ fp2_lyonese_monk.0021.desc.dead:0 "As consequências de [acolyte.GetHerHis] a morte é um assunto tranquilo, que duvido que muitos se lembrem daqui a uma década ou século."
+ fp2_lyonese_monk.0021.desc.imprisoned:0 "No entanto [acolyte.GetSheHe] apenas definha na prisão, as memórias da maioria são curtas e há uma sensação de finalidade esmagadora para [acolyte.GetHerHis] frase."
+ fp2_lyonese_monk.0021.desc.gone:0 "Onde exatamente [acolyte.GetSheHe] #EMP went#! is an unanswered question, but one I doubt most people have much interest in."
+ fp2_lyonese_monk.0021.a:0 "[acolyte.GetSheHe|U] não pode ter sido tão importante..."
+ fp2_lyonese_monk.0021.b:0 "[acolyte.GetSheHe|U] foi claramente mais problema do que [acolyte.GetSheHe] valeu a pena..."
+ fp2_lyonese_monk.0021.c:0 "tudo isso por nada?"
+ 
+ fp2_lyonese_monk.0031.t:0 "fé quebrada"
+ fp2_lyonese_monk.0031.desc.acolyte_host:0 "Abraçando a luz de [acolyte_host.GetFaith.GetName] não foi algo que fiz levianamente, e muitos ficaram ofendidos comigo por meu ato de piedade.\n\n[acolyte.GetFirstName] era alguém de quem eu esperava ouvir mais críticas, mas em vez disso [acolyte.GetSheHe]'s simply... desapareceu. Um dia aqui, no outro se foi.\nNão me lembro de palavras finais, mas me lembro de uma carranca triste."
+ fp2_lyonese_monk.0031.desc.acolyte:0 "De todas as pessoas a converter, eu nunca esperaria um fanático como #EMP [acolyte.GetFirstName]#! abandonar [acolyte_host.GetFaith.HighGodName]. Ainda assim, vivemos em tempos estranhos e [acolyte.GetSheHe] tem.\n\n[acolyte.GetHerHis|U] a pregação regular foi abandonada, substituída por um tipo de zelo totalmente mais prosaico."
+ fp2_lyonese_monk.0031.a:0 "eu não preciso [acolyte.GetFirstNameNoTooltip] quando eu tenho [acolyte_host.GetFaith.HighGodName]!"
+ fp2_lyonese_monk.0031.b:0 "[acolyte.GetSheHe|U] claramente não estava tão comprometido."
+ 
+ fp2_lyonese_monk.0041.t:0 "problemas maiores"
+ fp2_lyonese_monk.0041.desc.pope_hope_is_nope:0 "O impensável aconteceu - a destruição completa da Sé de Roma. A rocha literal e metafórica de nossa Igreja foi despedaçada e ninguém tem tempo para questões mesquinhas de especificidades dogmáticas..\nAs almas de todos os fiéis de Cristo estão para sempre em risco sem uma liderança espiritual firme. O que mais importa diante disso?"
+ fp2_lyonese_monk.0041.desc.schism:0 "Revoltas recentes criaram um abismo entre nós e o papado - à luz disso, não temos tempo para discutir as mesquinhas especificidades do dogma. De que nos importamos com suas interpretações, seus problemas, suas bobagens esfarrapadas quando não reconhecemos mais sua autoridade espiritual??\nCertamente, qualquer um que pense que isso é algo menos do que uma bênção não é bem-vindo entre a comunidade dos fiéis.."
+ fp2_lyonese_monk.0041.a.pope_hope_is_nope:0 "Quem nos guiará sem o Vigário de Cristo?"
+ fp2_lyonese_monk.0041.a.backup:0 "Teremos #EMP totalmente novo#! controvérsias agora!"
+
+ fp2_lyonese_monk.0051.t:0 "É um mistério"
+ fp2_lyonese_monk.0051.desc:0 "Desde minha prisão, o contato com o mundo exterior tem sido escasso. Mensagens sussurradas e notas amassadas ocasionais são tudo que chegam até mim, e raramente.\nO último fragmento de informação desse tipo era que [acolyte.GetFirstName] tem, para todos os efeitos, desaparecido. Não está claro se [acolyte.GetSheHe] simplesmente mudou em um dia ou se algo mais sinistro está em ação, mas de qualquer forma, o [acolyte.GetWomanMan] se foi."
+ fp2_lyonese_monk.0051.a:0 "O que poderia ter acontecido com [acolyte.GetHerHim]?"
+
+ ##################################################
+ # #Private Teachings
+ 
+ fp2_lyonese_monk.0201.t:0 "Apenas alguns amigos"
+ fp2_lyonese_monk.0201.desc:0 "[acolyte.GetFirstName] tornou-se uma espécie de acessório no tribunal desde [acolyte.GetHerHis] chegada. Estranhamente carismático, pelo menos em questões teológicas, [acolyte.GetSheHe]'s always having little conversations in the alcoves of the keep with this courtier or that $knight_culture_player_no_tooltip$.\nEstou, portanto, esperando um pouco quando [acolyte.GetSheHe] se aproxima de mim com um pedido para alugar um quarto para realizar uma reunião semanal [acolyte.GetFaith.random_ReligiousText] grupo de Estudos.\n\n"Please, my [acolyte_host.GetTitleAsNameNoTooltip]? It would mean the world to me, and there is so much I could share with your subjects about the ways and will of [acolyte.GetFaith.HighGodName]. I would only need your permit and a small space in which to congregate"."
+ fp2_lyonese_monk.0201.a:0 "Eu acho que não poderia machucar..."
+ fp2_lyonese_monk.0201.a.tt:0 "[acolyte.GetFirstNameNoTooltip] começará a realizar sessões de estudo aos domingos"
+ fp2_lyonese_monk.0201.b:0 "Um grupo de conspiradores #EMP#!? Eu não acho!"
+ fp2_lyonese_monk.0201.c:0 "Eu acho que você superou suas boas-vindas, [acolyte.GetFirstNameNoTooltip]."
+ 
+ fp2_lyonese_monk.0211.t:0 "[baron.Custom2('AppropriateGreetingPositive', acolyte_host)]"
+ fp2_lyonese_monk.0211.desc:0 "Devo informar com alegria que estou renunciando ao meu cargo de governador [baron_holding.GetNameNoTier] imediatamente.\nMinha fé me chama para o serviço de [acolyte.GetFaith.HighGodName], e pretendo viver o resto dos meus dias dedicados absolutamente a [acolyte.GetFaith.HighGodHerHis|U] serviço."
+ fp2_lyonese_monk.0211.a:0 "Pode [baron.GetSheHe] #EMP do#! that?"
+ 
+ fp2_lyonese_monk.0221.t:0 "Um Rictus Sorrir"
+ fp2_lyonese_monk.0221.desc:0 "Que verdadeiramente #EMP irritantemente#! apito alegre que está ecoando em minha direção, logo após um #EMP long#! reunião do Conselho. Eu não tenho um segundo para processar mais do que isso antes [courtier.Custom2('MyCharacterIntroduction' , acolyte_host)] vira a esquina e bate em mim, quase me derrubando no chão.\n\n"Oh, dear, I'm so sorry [acolyte_host.GetFirstName]!" [courtier.GetSheHe] risos. "It's just... it's #EMP such#! a lovely day, isn't it? You can really breath in [courtier.GetFaith.HighGodNamePossessive] creation!".\no [courtier.GetWomanMan] me oferece [courtier.GetHerHis] mão, sorrindo de orelha a orelha como [courtier.GetSheHe] faz isso."
+ fp2_lyonese_monk.0221.a:0 "Que bom que você está bem, [courtier.GetFirstNameNoTooltip]!"
+ fp2_lyonese_monk.0221.b:0 "Eu tenho um mau pressentimento sobre isso..."
+ 
+ fp2_lyonese_monk.0231.t:0 "vaiando o bispo"
+ fp2_lyonese_monk.0231.desc:0 "A fofoca no tribunal é que [irate_theocrat.Custom2('MyCharacterIntroduction' , acolyte_host)] sermão mais recente para os moradores de [acolyte_host.GetCapitalLocation.GetTitle.GetNameNoTier] foi #EMP mal#!.\nAparentemente, os paroquianos começaram a jogar cebolas em poucos minutos, escalando para nabos logo depois disso, antes de culminar em um repolho grande o suficiente para, quando pegou [irate_theocrat.GetHerHim] na cara, o [irate_theocrat.GetWomanMan] estava chocado.\n\n[irate_theocrat.GetFirstNameNoTooltip] tem estado inconsolável desde então, e incapaz de fornecer a alguém uma boa explicação de por que [irate_theocrat.GetSheHe] de repente levantou tal ira."
+ fp2_lyonese_monk.0231.a:0 "As pessoas precisam mostrar mais respeito à Igreja #EMP#!."
+ fp2_lyonese_monk.0231.b:0 "Claramente [irate_theocrat.GetSheHe]'s got to work on [irate_theocrat.GetHerHis] sermões."
+ 
+ fp2_lyonese_monk.0241.t:0 "Todos [acolyte.GetHerHis|U] Falhar"
+ fp2_lyonese_monk.0241.desc:0 "Com um poderoso rugido, [irate_theocrat.Custom2('MyCharacterIntroduction' , acolyte_host)] invade meus aposentos, arrastando [acolyte.GetFirstName] pela manga de [acolyte.GetHerHis] manto.\n\n"My [acolyte_host.GetTitleAsNameNoTooltip]! It's all this cur! The disrespectful peasants, the #EMP happy#! courtiers, the strange influx of monks and nuns! This [acolyte.GetWomanMan] is filling their heads with lies and heresy every week, and doing so with #EMP your seal#!!"\n\n"Noble [acolyte_host.GetLadyLord|U]", intervém [acolyte.GetFirstNameNoTooltip], "I am a faithful servant of Christ and [acolyte_host.GetFaith.GetReligiousHead.GetTitledFirstName]. #EMP Please#! do not fall prey to the simpering insecurities of this raving #EMP lunatic#!, who's merely upset that the local standards for clerics have recently gone up"."
+ fp2_lyonese_monk.0241.a:0 "Muito bem - arrume suas coisas, [acolyte.GetFirstNameNoTooltip]."
+ fp2_lyonese_monk.0241.b:0 "GUARDAS! Agarre o bastardo heterodoxo!"
+ fp2_lyonese_monk.0241.c:0 "Acho que #EMP você é#! o encrenqueiro aqui, [irate_theocrat.GetFirstNameNoTooltip]."
+ fp2_lyonese_monk.0241.c.tt:0 "[acolyte.GetFirstNameNoTooltip] continuará a ensinar seus cortesãos"
+
+ ##################################################
+ # #Public Controversy
+ 
+ fp2_lyonese_monk.0401.t:0 "[pope.Custom2('AppropriateGreetingPositive', acolyte_host)]"
+ fp2_lyonese_monk.0401.desc:0 "Recentemente, recebi correspondência preocupante sobre ensinamentos errôneos em sua corte.\nComo eu sei que você é um bom [pope.GetFaith.GetAdherentName], Eu confio que esta epístola será suficiente para que você faça a coisa certa e bana este #EMP [acolyte.GetFirstName]#!, pela saúde espiritual de todos nós."
+ fp2_lyonese_monk.0401.a:0 "A Santa Sé me obriga."
+ fp2_lyonese_monk.0401.b:0 "não me lembro de ter pedido [papal_capital.GetNameNoTierPossessiveNoTooltip] opinião."
+ 
+ fp2_lyonese_monk.0411.t:0 "$fp2_lyonese_monk.0000.t.revealed$ Espaço para Ensinar"
+ fp2_lyonese_monk.0411.desc:0 ""My [acolyte_host.GetLadyLord|U], a brief moment of your time?" implora [acolyte.GetFirstName], saindo das sombras de uma alcova ao deixar a capela de minha fortaleza. Eu considero por um segundo, então aceno meu consentimento.\n\n"I am truly, abjectly grateful for your support and patronage in my mission to teach your subjects about the Word of [acolyte.GetFaith.HighGodName], but I find myself pushing up against the limits of what I can do with one small room and a few hours every week".\n\n"Would you, in your immense wisdom and generosity, be willing to lend me dominion over [acolyte_fief.GetNameNoTier]? With the rents from the fief, I could go from saving dozens of souls to saving thousands!"."
+ fp2_lyonese_monk.0411.a:0 "Eu suponho... Eu suponho que eu poderia permitir isso..."
+ fp2_lyonese_monk.0411.b:0 "Não seja ridículo!"
+ fp2_lyonese_monk.0411.b.tt:0 "[acolyte.GetFirstNamePossessiveNoTooltip] os sonhos são totalmente esmagados"
+ 
+ fp2_lyonese_monk.0421.t:0 "$fp2_lyonese_monk.0000.t.revealed$ temperamento explosivo"
+ fp2_lyonese_monk.0421.desc:0 "Apenas um jantar tranquilo. Apenas. 1. Quieto. Jantar. Qual idiota da equipe de atendimento sequer se sentou [irate_theocrat.Custom2('MyCharacterIntroduction' , acolyte_host)] ao lado de [acolyte.GetFirstName]?\n\n"#EMP What#! did you just say?" gritos [irate_theocrat.GetFirstNameNoTooltip], cambaleando para [irate_theocrat.GetHerHis] pés, espalhando frutas e pãezinhos por toda parte. "That's the eternal and consubstantial Son of [irate_theocrat.GetFaith.HighGodName] you slander, [acolyte.GetWomanMan]!" A sala fica mortalmente silenciosa, o olhar de todos fixo nos clérigos discutindo.\n\n"I slander no one. You simply fail to appreciate the nuances of my Christology, and I can't bring myself to blame you. At least, not considering your...", [acolyte.GetFirstNameNoTooltip] pausa por um momento, "... deficiencies"."
+ fp2_lyonese_monk.0421.a:0 "[irate_theocrat.GetFirstNameNoTooltip], mostre algum decoro!"
+ fp2_lyonese_monk.0421.b:0 "[acolyte.GetFirstNameNoTooltip], você #EMP vai#! respeito [irate_theocrat.GetHerHis] autoridade!"
+ fp2_lyonese_monk.0421.c:0 "Vocês dois não têm mais em comum do que não?"
+ 
+ fp2_lyonese_monk.0431.t:0 "[pope.Custom2('AppropriateGreetingPositive', acolyte_host)]"
+ fp2_lyonese_monk.0431.desc.pope.different:0 "Talvez meu predecessor"
+ fp2_lyonese_monk.0431.desc.pope.same:0 "Talvez eu"
+ fp2_lyonese_monk.0431.desc.outro:0 "não ficou claro na primeira epístola enviada. [acolyte.GetFirstName] [acolyte.GetDynastyName] é acusado de desenterrar #EMP cismático#! doutrinas que é melhor deixar queimando ao lado de seus proponentes odiosos em [pope.GetFaith.NegativeAfterLife2]. Entregar [acolyte.GetHerHim] para mim para julgamento, #EMP imediatamente#!, ou então risco de censura."
+ fp2_lyonese_monk.0431.a:0 "Não é sábio agravar o trono de São Pedro..."
+ fp2_lyonese_monk.0431.b:0 "Talvez haja um meio termo aqui."
+ fp2_lyonese_monk.0431.b.tt.success:0 "[pope.GetTitledFirstNameNoTooltip] é um pouco amolecido"
+ fp2_lyonese_monk.0431.b.tt.failure:0 "Seus argumentos desajeitados enfurecem o Papa"
+ fp2_lyonese_monk.0431.c:0 "Droga, eu sou o [acolyte_host.GetTitleAsNameNoTooltip]!"
+ 
+ fp2_lyonese_monk.0441.t:0 "$fp2_lyonese_monk.0000.t.revealed$ O Conselho de [council_1_venue.GetNameNoTierNoTooltip]"
+ fp2_lyonese_monk.0441.desc:0 "[council_1_venue.GetNameNoTier] positivamente #EMP multidão#! com o clero e os eruditos, todos ali para testemunhar um debate público entre [acolyte.GetFirstName] [acolyte.GetDynastyName] e [irate_theocrat.Custom2('MyCharacterIntroduction' , acolyte_host)], ambos empenhados em mostrar os erros que consideram evidentes nos ensinamentos do outro.\nOs primeiros dias não correram bem para [irate_theocrat.GetFirstNameNoTooltip]. Apesar de [irate_theocrat.GetHerHis] melhores esforços para mostrar que [acolyte.GetFirstNamePossessiveNoTooltip] a teologia é falha, enfatizando demais o componente humano da personagem de Jesus, a reunião regional de [acolyte.GetFaith.PriestNeuterPlural] parece desinteressado em [irate_theocrat.GetHerHis] argumentos.\n\n[acolyte.GetFirstNameNoTooltip], por outro lado, está tão confiante em [acolyte.GetHerHis] porque [acolyte.GetSheHe]'s invited me to oversee the closing remarks, lending temporal validity to an otherwise-spiritual event."
+ fp2_lyonese_monk.0441.a:0 "Bem, se eles me pediram..."
+ fp2_lyonese_monk.0441.b:0 "Questões de teologia não são da minha conta."
+ fp2_lyonese_monk.0441.c:0 "Eu deixei isso ir longe demais!"
+
+ ##################################################
+ # #Schism
+
+ fp2_lyonese_monk.0601.t:0 "[pope.Custom2('AppropriateGreetingNegative', acolyte_host)]"
+ fp2_lyonese_monk.0601.desc:0 "Como um cachorro em seu vômito, os tolos sempre voltam à heresia de [GetFaithByKey('adoptionist').GetName]. Por toda a graça de Jesus e São Pedro, eu #EMP comando#! você entregar o herege [acolyte.GetFirstName] [acolyte.GetDynastyName] por escoriação — arrependa-se agora e o amor infinito da Igreja o verá perdoado, mas persista com essa heterodoxia e você será #Punido EMP#! ao lado [acolyte.GetHerHim]."
+ fp2_lyonese_monk.0601.a:0 "Eu só posso implorar por [acolyte_host.GetFaith.HighGodNamePossessive] perdão."
+ fp2_lyonese_monk.0601.b:0 "Eu sou #EMP nomeado#! de [acolyte_host.GetFaith.HighGodName]!"
+ 
+ fp2_lyonese_monk.0611.t:0 "$fp2_lyonese_monk.0000.t.revealed$ altas tensões"
+ fp2_lyonese_monk.0611.desc:0 ""Heretics! Liars! Defilers!"\n\n"Pagans! Fools! Idolators!"\nDo alto das paredes da fortaleza em [rioting_county.GetNameNoTier], Eu olho para as duas multidões rivais de burgueses e camponeses, cada um cuspindo veneno no outro, os estudantes e acólitos de [acolyte.GetFirstName] enfrentando uma multidão de seus detratores.\nEntre os dois está um fio fino do meu séquito, mantendo-os distantes por enquanto, mas a tensão está quase no ponto de ebulição.."
+ fp2_lyonese_monk.0611.a:0 "Eu posso neutralizar esta situação."
+ fp2_lyonese_monk.0611.b:0 "Por favor, meu subjects, calm!"
+ fp2_lyonese_monk.0611.b.tt.success:0 "Você desarmar a situação"
+ fp2_lyonese_monk.0611.b.tt.failure:0 "A violência irrompe de qualquer maneira"
+ fp2_lyonese_monk.0611.c:0 "Pegue minha espada, vamos dispersar esses rebeldes #EMP#!."
+ fp2_lyonese_monk.0611.c.tt:0 "Você está do lado dos fanáticos heterodoxos"
+ fp2_lyonese_monk.0611.d:0 "Hereges? Em #EMP meu#! terras?"
+ fp2_lyonese_monk.0611.d.tt:0 "Você está do lado dos fanáticos ortodoxos"
+ fp2_lyonese_monk.0611.e:0 "Tranque os portões."
+ 
+ fp2_lyonese_monk.0621.t:0 "$fp2_lyonese_monk.0000.t.revealed$ Uma reclamação formal"
+ fp2_lyonese_monk.0621.desc:0 ""My liege", implora [zealous_vassal.GetTitledFirstName], "am I not your sworn vassal? Have I not always been a good and loyal supporter of your rule? I beseech you, please, do not follow this... this #EMP heresiarch#! down a path I cannot follow!".\n\n"Don't listen to this [zealous_vassal.GetWomanMan], my [acolyte_host.GetTitleAsNameNoTooltip]", whispers [acolyte.GetFirstName] atrás de mim. "It is well known that [zealous_vassal.GetSheHe] is merely another pawn for [papal_capital.GetNameNoTier], trying to pour secret poison into your mind".\n\n"Hush your tongue or I will cut it out, snake!" rosna [zealous_vassal.GetFirstNameNoTooltip]."
+ fp2_lyonese_monk.0621.a:0 "[pope.GetTitledFirstNameNoTooltip] não conseguiu me persuadir; como você espera?"
+ fp2_lyonese_monk.0621.a.tt.success:0 "Você joga a dúvida [zealous_vassal.GetHerHis] argumentos"
+ fp2_lyonese_monk.0621.a.tt.failure:0 "[zealous_vassal.GetFirstNameNoTooltip] está apenas furioso"
+ fp2_lyonese_monk.0621.b:0 "Vassalo? Você não passa de um descontente!"
+ fp2_lyonese_monk.0621.c:0 "[zealous_vassal.GetTitledFirstNameNoTooltip] está certo, isso foi longe demais."
+ 
+ fp2_lyonese_monk.0631.t:0 "[neighbouring_ruler.Custom2('AppropriateGreetingNegative', acolyte_host)]"
+ fp2_lyonese_monk.0631.desc:0 "I'm writing to inform you, out of the goodness of minha heart, that [pope.GetTitledFirstName] recentemente me presenteou com um mandado completo e #EMP legal#! propriedade de [acolyte_host.GetPrimaryTitle.GetNameNoTier].\nQuando eu for inspecionar minha nova propriedade, acredito que você a entregará sem problemas."
+ fp2_lyonese_monk.0631.a:0 "Ultrajante!"
+ 
+ fp2_lyonese_monk.0641.t:0 "$fp2_lyonese_monk.0000.t.revealed$ Não mais que um homem"
+ fp2_lyonese_monk.0641.desc:0 "Tenho inimigos por todos os lados. Vassalos desleais, um Papa indignado, camponeses na garganta uns dos outros... Quase parece [acolyte_host.GetPrimaryTitle.GetNameNoTier] está começando a se dissolver ao meu redor, dilacerado por minúcias teológicas e pequenas lutas de poder. Desanimado, eu caio na minha mesa.\n\n"My [acolyte_host.GetTitleAsNameNoTooltip]", murmúrios [acolyte.GetFirstName] [acolyte.GetDynastyName], ficou atrás da minha cadeira. eu nem ouvi [acolyte.GetHerHim] digitar. "It would seem that, despite our best attempts, [pope.GetTitledFirstName] and [pope.GetHerHis] cronies refuse to compromise on any aspect of their flawed dogma".\n\n"I wonder, though... they seem to #EMP fear#! the potential truths we uncover by questioning their interpretation of canon. If such fools and idolators as these insist on damning us as [GetFaithByKey('adoptionist').GetAdherentNamePlural], then can that truly be such a damnation? Perhaps [acolyte.GetFaith.HighGodName] is #EMP revealing#! [acolyte.GetFaith.HighGodHerselfHimself|U] through their cries?"."
+ fp2_lyonese_monk.0641.a:0 "Sim... #EMP yes#!, why not? If they're so #EMP set#! on accusing us."
+ fp2_lyonese_monk.0641.a.tt.hidden_convert.character:0 "[acolyte.GetFirstNamePossessiveNoTooltip] rede de crentes ocultos"
+ fp2_lyonese_monk.0641.a.tt:0 "Um conclave eclesiástico será convocado"
+ fp2_lyonese_monk.0641.b:0 "Cobra! Você tem planejado isso o tempo todo!"
+
+ ##################################################
+ # #Council
+
+ fp2_lyonese_monk.0801.t.first:0 "O Conselho de [council_2_venue.GetNameNoTierNoTooltip]"
+ fp2_lyonese_monk.0801.t.second:0 "O Segundo Concílio de [council_2_venue.GetNameNoTierNoTooltip]"
+ fp2_lyonese_monk.0801.desc.intro:0 "A nascent faith calls for debate, e so [acolyte.GetFirstName] reuniu um conclave de influentes clérigos simpatizantes de nossa causa. Três campos dominam, lutando pelo poder em meus salões enquanto nos preparamos para discutir a doutrina de nosso movimento.\no [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName] defende uma interpretação diferenciada, mas implacável, reconciliando muitos pontos trinitários tradicionais. o [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName] é mais estrito, mas se concentra na praticidade da crença em um mundo hostil. A minoria [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] fervilha de raiva mal disfarçada, vendo a ortodoxia tradicional como pouco mais do que paganismo mal disfarçado.\nReivindicando [acolyte.GetHerHis] tempo em meu tribunal ensinou [acolyte.GetHerHim] o valor de"
+ fp2_lyonese_monk.0801.desc.elipandic:0 "debate e firmeza, [acolyte.GetFirstNameNoTooltip] está do lado do [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName]."
+ fp2_lyonese_monk.0801.desc.felicitous:0 "humildade e praticidade, [acolyte.GetFirstNameNoTooltip] está do lado do [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName]."
+ fp2_lyonese_monk.0801.desc.radical:0 "fogo e ferocidade, [acolyte.GetFirstNameNoTooltip] está do lado do [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName]."
+ fp2_lyonese_monk.0801.tt.invalidation_warning:0 "#FRACO Se eu sou [imprisoned|E] e incapaz de terminar o conclave, [acolyte.GetFirstNamePossessiveNoTooltip] as visualizações vão dominar#!"
+ fp2_lyonese_monk.0801.a:0 "Naturalmente, assumirei um papel de liderança nas discussões."
+ fp2_lyonese_monk.0801.a.tt:0 "você se envolve em [learning|E] duelos para fazer seus pontos"
+ fp2_lyonese_monk.0801.b:0 "Minhas influence will be more felt than seen..."
+ fp2_lyonese_monk.0801.b.tt:0 "Você gasta [piety_i]#N [EmptyScope.ScriptValue('fp2_lyonese_monk_conclave_cost_value')|0]#! [piety|E] por escolha firme #FRACO, mas não pode gastar $game_concept_piety$ você não tem#!"
+ fp2_lyonese_monk.0801.c:0 "Este é um assunto apenas para o clero."
+ fp2_lyonese_monk.0801.c.tt:0 "O conclave será decidido sem a sua opinião"
+ 
+ fp2_lyonese_monk.0811.t:0 "$fp2_lyonese_monk.0000.t.council$ Pai Filho"
+ fp2_lyonese_monk.0811.desc:0 "A questão mais óbvia em pauta é a questão da consubstanciação, ou como Jesus pode ter vivido uma vida significativa como um ser humano que sofreu e existiu como o personagem divino eterno..\no [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName] argumenta que os dois não são mutuamente exclusivos, enquanto o [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName] clama por uma distinção firme que não invalida a divindade do Filho de Deus, apenas a suborna ainda mais ao Pai.\nMembros de [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] jogue frutas e grite que o objetivo é apenas uma pompa sem sentido."
+ fp2_lyonese_monk.0811.a:0 "A situação é matizada..."
+ fp2_lyonese_monk.0811.a.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0811.a.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0811.b:0 "Não é motivo de vergonha ser escolhido por [acolyte.GetFaith.HighGodName]."
+ fp2_lyonese_monk.0811.b.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0811.b.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0811.c:0 "Sendo #EMP uma vez#! um homem se opõe a ser #EMP eternamente#! Deus!"
+ fp2_lyonese_monk.0811.c.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0811.c.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0811.d:0 "não tenho opinião sobre esse assunto."
+ 
+ fp2_lyonese_monk.0821.t:0 "$fp2_lyonese_monk.0000.t.council$ Praticidade vs. Princípio"
+ fp2_lyonese_monk.0821.desc:0 "As discussões do conclave se voltaram para a questão de como viver e adorar em um mundo que despreza [acolyte_host.GetFaith.GetName] como reducionista ao ponto da heresia suprema.\nEm primeiro lugar, o [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName] insistem que a verdade interior supera a mentira exterior, citando seu homônimo Felix de Urgell muitos, #EMP muitos#! falsas retratações, e a longa vida que lhe deram.\nSeus colegas do [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName] condenam isso como covardia blasfema, postulando, em vez disso, que a discussão e o debate são a única maneira de obter respeito. o [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] bluster que #EMP only#! o poder temporal pode proteger os fiéis."
+ fp2_lyonese_monk.0821.a:0 "A acomodação com o resto da cristandade é vital."
+ fp2_lyonese_monk.0821.a.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0821.a.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0821.b:0 "Praticidade é um princípio inato."
+ fp2_lyonese_monk.0821.b.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0821.b.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0821.c:0 "A fé oculta é a fé sem fogo!"
+ fp2_lyonese_monk.0821.c.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0821.c.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0821.d:0 "Isso parece circunstancial..."
+
+ fp2_lyonese_monk.0831.t:0 "$fp2_lyonese_monk.0000.t.council$ Um Deus"
+ fp2_lyonese_monk.0831.desc:0 "O conclave chega a uma conclusão ardente, com pequenas brigas e argumentos apaixonados ondulando por toda parte. [council_2_venue.GetNameNoTier], como todas as três panelinhas eclesiásticas lutam literal e metaforicamente por suas crenças.\nO coração deste #EMP animado#! debate, são fundamentos simples.\no [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] insiste no que eles vêem como monoteísmo puro, a [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName] colocam grande ênfase em Deus Pai, mas não são tão abertamente críticos quanto exigem os radicais, e o [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName] retém muitos exemplos de pensamento abertamente trinitário que os outros consideram censurável."
+ fp2_lyonese_monk.0831.a:0 "O Pai, o Filho e o Espírito Santo ainda são um ser."
+ fp2_lyonese_monk.0831.a.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0831.a.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0831.b:0 "Uma separação entre Pai e Filho também não diminui."
+ fp2_lyonese_monk.0831.b.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0831.b.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0831.c:0 "A primazia do Pai é imutável."
+ fp2_lyonese_monk.0831.c.tt.success:0 "Você balança o [acolyte_host.GetFaith.PriestNeuterPlural]"
+ fp2_lyonese_monk.0831.c.tt.failure:0 "O clero zomba de você"
+ fp2_lyonese_monk.0831.d:0 "Nós quebramos linhas dogmáticas tão rapidamente?"
+ 
+ fp2_lyonese_monk.0841.t:0 "$fp2_lyonese_monk.0000.t.council$ da beira"
+ fp2_lyonese_monk.0841.desc.intro:0 "Neste dia, o #EMP novo#! [acolyte_host.GetFaith.GetAdjective] credo nasce! "
+ fp2_lyonese_monk.0841.desc.pluralist:0 "Tendo chegado a um acordo com a necessidade de acomodar outros dentro de nossas terras,"
+ fp2_lyonese_monk.0841.desc.righteous:0 "Tendo permanecido resoluto em lidar com os outros dentro de nossas terras,"
+ fp2_lyonese_monk.0841.desc.fundamentalist:0 "Tendo decidido converter os não salvos em nossas terras,"
+ fp2_lyonese_monk.0841.desc.sanctioned_false_conversions:0 "não vemos nenhum problema em permanecer prático quando a situação é inversa."
+ fp2_lyonese_monk.0841.desc.religious_law:0 "no entanto, continuamos comprometidos em resolver nossas disputas teológicas abertamente."
+ fp2_lyonese_monk.0841.desc.pursuit_of_power:0 "não vemos razão para não fazer o nosso melhor para #EMP extend#! essas terras a qualquer custo."
+ fp2_lyonese_monk.0841.desc.felicitous:0 "\nDepois de um debate feroz, as línguas de prata do [GetFaithDoctrine('special_doctrine_adoptionist_school_felicitous_doctrine').GetBaseName] finalmente triunfaram."
+ fp2_lyonese_monk.0841.desc.elipandic:0 "\nAtravés do debate estóico, as cabeças frias do [GetFaithDoctrine('special_doctrine_adoptionist_school_elipandic_doctrine').GetBaseName] emergiram triunfantes."
+ fp2_lyonese_monk.0841.desc.radical:0 "\nAtravés de toda essa discussão sem sentido, apenas os tições do [GetFaithDoctrine('special_doctrine_adoptionist_school_radical_doctrine').GetBaseName] retemos algo como clareza de visão, e agora esperamos que eles nos conduzam."
+ fp2_lyonese_monk.0841.desc.outro:0 "\nNão somos mais o mero sonho de um clérigo solitário e errante. Agora somos uma comunidade viva e vibrante, e que toda a cristandade certamente em breve abraçará.."
+ fp2_lyonese_monk.0841.a:0 "Que nos chamem de hereges. Nós simplesmente temos nuances que eles não têm."
+ fp2_lyonese_monk.0841.b:0 "Nossas palavras são sensatas, nossas ações também."
+ fp2_lyonese_monk.0841.c:0 "Veja esses falsos cristãos e seu politeísmo exposto!"
+ fp2_lyonese_monk.0841.d:0 "Só espero que tenhamos feito a escolha certa."

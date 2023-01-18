@@ -1,0 +1,78 @@
+﻿l_english:
+ # Level 1 Stress Events
+ stress_threshold_prison.1001.t:0 "Pausa Mental: Problemas na Prisão"
+ stress_threshold_prison.1001.desc:0 "Estar preso, trancado longe de tudo o que costumava ser saudável e agradável na vida..."
+ stress_threshold_prison.1001.desc.normal:0 "é difícil não cair no desespero."
+ stress_threshold_prison.1001.desc.cynical:0 "\nComo pôde [ROOT.Char.GetFaith.HighGodName] permitir que esse lugar de desespero exista? Como poderia qualquer deus?"
+ stress_threshold_prison.1001.desc.depressed:0 "costumava me incomodar, mas estranhamente, não mais."
+ stress_threshold_prison.1001.inappetetic.gain:0 "Eu não aguento mais essa prisão."
+ stress_threshold_prison.1001.inappetetic.effect:0 "A comida fica intocada no meu prato."
+ stress_threshold_prison.1001.cynical.gain:0 "[ROOT.Char.GetFaith.HighGodName] me abandonou..."
+ stress_threshold_prison.1001.cynical.effect:0 "Isso só prova que [ROOT.Char.GetFaith.HighGodName] é uma mentira."
+ stress_threshold_prison.1001.endure:0 "Por que ainda não fui liberado!?"
+ stress_threshold_prison.1001.depressed.gain:0 "Como vale a pena viver uma vida assim?"
+ stress_threshold_prison.1001.depressed.effect:0 "Não há dor. Eu já estou morto por dentro."
+ stress_threshold_prison.1011.t:2 "Pausa Mental: Dores de Fome"
+ stress_threshold_prison.1011.desc:0 "Já se passaram dias desde que eu poderia manter qualquer coisa para baixo. Minha mente ansiosa se recusa a dar ao meu corpo forças para comer o mingau seco que os guardas me trazem.\nEstou me sentindo mais fraco a cada dia, mas o que pode um [ROOT.Char.GetWomanMan] fazer contra [ROOT.Char.GetHerHis] próprio corpo?"
+ stress_threshold_prison.1011.a:0 "A fome é melhor do que este slop."
+ stress_threshold_prison.1011.b:1 "Aí estão #EMP#! fontes alternativas de comida aqui..."
+ stress_threshold_prison.1011.c:0 "[ROOT.Char.GetSheHe|U] pode combatê-lo, uma colher de cada vez!"
+
+ stress_threshold_prison.1012.t:1 "Tempo de alimentação"
+ stress_threshold_prison.1012.desc:0 "Eles acham que não há nada para comer aqui, que estão me matando de fome, me quebrando.\nEles não sabem que estou melhor do que nunca. Este é um salão de festas, cheio de comida deliciosa e rugidos de celebração."
+ stress_threshold_prison.1012.a:0 "Quente e suculento e cheio de vida."
+
+ stress_threshold_prison.1021.t:1 "Pausa Mental: Jogos Cruéis"
+ stress_threshold_prison.1021.desc:0 "Há pouco prazer aqui embaixo na escuridão das masmorras. Uma poça de água parada, um balde nojento, uma pilha de pedrinhas...A forma escura de [fellow_prisoner.GetTitledFirstName] na cela em frente à minha de repente parece um excelente alvo."
+ stress_threshold_prison.1021.a:0 "Dez pontos se eu conseguir acertar [fellow_prisoner.GetHerHis] cabeça!"
+ stress_threshold_prison.1021.b:0 "A dor dos outros não faz nada por mim. Minha dor, porém..."
+ stress_threshold_prison.1021.c:0 "Como eu poderia ter pensamentos tão negros!?"
+
+ stress_threshold_prison.1031.t:0 "Ruptura mental: uma compreensão do poder"
+ stress_threshold_prison.1031.desc:0 "Trancado aqui, devo ser fraco e pacificado. Hah!\nAqui na escuridão eu reúno minha força e dilacero meus inimigos membro por membro com minha mente! Repetidas vezes, todos os dias eles renascem e todos os dias eu os destruo como os vermes que são! Especialmente meu miserável carcereiro, [jailer.GetTitledFirstName]... [jailer.GetSheHe] vai sofrer mais!"
+ stress_threshold_prison.1031.a:0 "quando eu sair... ah eles vão #EMP pagar#!!"
+ stress_threshold_prison.1031.b:0 "Porque esperar? Em minha mente, eles estão à minha mercê..."
+ stress_threshold_prison.1031.c:0 "Não... isto está errado. eu sou melhor que isso."
+
+ stress_threshold_prison.1041.t:0 "Pausa Mental: Necessidades Esquecidas"
+ stress_threshold_prison.1041.desc:0 "Minha rotina é sempre a mesma, a manhã vira dia, vira noite...\nO cheiro nauseabundo de comida estragada paira pesado no ar de meus aposentos particulares. Quando a pilha de pratos cresceu tanto? Quantas refeições eu perdi? Está ficando cada vez mais difícil manter um senso de normalidade..."
+ stress_threshold_prison.1041.depressed:0 "É ainda mais difícil lembrar por que eu deveria tentar."
+ stress_threshold_prison.1041.inappetetic:0 "De que adianta comida sem liberdade?"
+ stress_threshold_prison.1041.flagellant:0 "A dor me dará algo para focar."
+ stress_threshold_prison.1041.journaller.gain:0 "Talvez escrever pudesse quebrar a monotonia..."
+ stress_threshold_prison.1041.journaller.effect:0 "Estou feliz por pelo menos ter meu diário."
+ stress_threshold_prison.1041.athletic:0 "Posso estar preso, mas ainda posso me exercitar..."
+ stress_threshold_prison.1041.optout:0 "eu vou sair eventualmente... direita?"
+
+ # Level 2 Stress Events
+ stress_threshold_prison.2001.t:1 "Ruptura mental: arranhando as paredes"
+ stress_threshold_prison.2001.desc:0 "Por que eles #EMP não me deixam sair#!?! Certamente já estive aqui no escuro, frio, #EMP confinado#!, masmorras por tempo suficiente?\n\nI cradle my bloody hands to my chest as I sit in the middle of my cell. If I scratch long and hard enough the stone must give, right? ...Direita?"
+ stress_threshold_prison.2001.a:0 "devo continuar tentando!"
+ stress_threshold_prison.2001.b:0 "Esqueça. Por que se preocupar com... nada?"
+
+ stress_threshold_prison.2011.t:1 "Intervalo Mental: Meu [ROOT.Char.Custom('prison_pet')|U] e eu"
+ stress_threshold_prison.2011.desc_rat:0 "Há muitos dias venho sendo visitado em minha cela pelo mesmo rato. Olha para mim com compaixão e confiança, algo que não sentia há muito tempo."
+ stress_threshold_prison.2011.desc_stone:0 "Uma presença constante ao meu lado e uma constante em uma vida que de outra forma é virada de cabeça para baixo. Minha pedra de confiança é minha companheira e minha amiga, sempre presente quando eu preciso."
+ stress_threshold_prison.2011.desc_spoon:0 "Uma das poucas constantes em minha vida aqui nas masmorras escuras, uma das poucas fontes de conforto e companhia... Minha colher está sempre lá quando preciso e nunca me julga, mesmo nos meus dias mais sombrios."
+ stress_threshold_prison.2011.desc_cockroach:0 "E lá está ela de novo, a barata, sentada em um dos cantos escuros da cela. É meu companheiro, meu amigo de confiança, meu filho. Cuidando de mim e me fazendo companhia neste lugar miserável."
+ stress_threshold_prison.2011.desc_end:0 "\nNunca senti tamanha ligação com outro ser, tamanha dedicação e empatia."
+ stress_threshold_prison.2011.a:0 "Venha aqui, pequeno [ROOT.Char.Custom('prison_pet')], e deixe-me te abraçar."
+
+ stress_threshold_prison.2021.t:1 "Pausa mental: os cantos mais sombrios"
+ stress_threshold_prison.2021.desc:0 "Meus guardas me dizem que estou sozinho há dias, mas sei que não. Eu posso #EMP sentir#! eles me observando, me avaliando, avaliando meus medos e fraquezas...\nCada som me fala de sua presença, cada sombra de sua ameaça."
+ stress_threshold_prison.2021.a:0 "Devo ficar eternamente vigilante!"
+ stress_threshold_prison.2021.b:0 "eu tenho que me esconder em algum lugar... qualquer lugar!"
+ stress_threshold_prison.2021.c:0 "Talvez eu pudesse falar com eles?"
+
+ # Level 3 Stress Events
+ stress_threshold_prison.3001.t:1 "Pausa Mental: Um Amigo Necessitado"
+ stress_threshold_prison.3001.desc:0 "O que eles nunca me contaram sobre masmorras é como #EMP terrivelmente chato#! eles são! Obrigado Senhor [fictional_friend.Custom('DuchessDuke')|U] [fictional_friend.Custom('RandomExampleName')] está aqui para me fazer companhia.\no [fictional_friend.Custom('DuchessDuke')] brinca como ninguém e sempre me anima. e sábio [fictional_friend.GetSheHe] é também. O que é isso, [fictional_friend.Custom('DuchessDuke')|U]? Ha, bom!"
+ stress_threshold_prison.3001.a:0 "Vem cá, seu malandro."
+
+ stress_threshold_prison.3011.t:1 "Pausa Mental: Família Verdadeira"
+ stress_threshold_prison.3011.desc:0 "Eu estava tão desesperadamente perdido, mas as coisas estão melhores agora. Minha família está aqui comigo, me mantendo segura. Minha mãe e meu pai me abraçam, meus irmãos cuidam de mim, meus filhos - todos os meus muitos filhos - se reúnem para manter a luz em meus olhos brilhando."
+ stress_threshold_prison.3011.a:0 "Como eu poderia pensar que fui abandonado?"
+
+ stress_threshold_prison.3999.t:1 "Pausa Mental: Liberdade"
+ stress_threshold_prison.3999.desc:0 "Eu não posso suportar isso por mais tempo. Esta é a primeira vez que minha mente fica tão clara em semanas, e posso dizer que estou quebrada em mais de uma maneira..\nMeu corpo não passa de dor, até respirar dói. A escuridão ao meu redor não parece mais opressiva, mas reconfortante. Acolhedor.\nEu sei em meu coração que estes são meus últimos suspiros."
+ stress_threshold_prison.3999.a:0 "Poderia [ROOT.Char.GetFaith.PositiveAfterLife] me receba."

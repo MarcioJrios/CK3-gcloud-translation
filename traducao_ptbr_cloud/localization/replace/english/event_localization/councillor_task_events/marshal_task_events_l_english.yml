@@ -1,0 +1,98 @@
+﻿l_english:
+ marshal_task.0301.t:0 "Comandante Promovido"
+ marshal_task.0301.desc:0 "Minhas [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], tem mostrado um novo recruta promissor.\n\n"[commander.GetSheHe|U] may not be of as noble stock as you, my [councillor.Custom2('RelationToMe', ROOT.Char)], but on my name I swear that [commander.GetTitledFirstName] is someone you would want on your side.""
+ marshal_task.0301.a:0 "Muito bem, [commander.GetFirstNameNoTooltip] deve me servir."
+ marshal_task.0301.b:0 "Tire essa escória da minha [ROOT.Char.Custom('ResidenceBuilding')]!"
+ 
+ marshal_task.0302.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
+ marshal_task.0302.desc:1 "Eu tenho visto [commander.GetTitledFirstName] mostrar uma propensão para [commander.Custom('CommanderTraitSkillDescription')]."
+ marshal_task.0302.desc.known:0 "É uma das minhas especialidades, e eu poderia ensinar [commander.GetHerHim] como fazer melhor uso dessas habilidades."
+ marshal_task.0302.desc.unknown:0 "Embora eu não tenha prática nessa área, ainda posso tentar ajudar [commander.GetHerHim] refinar [commander.GetHerHis] Habilidades."
+ marshal_task.0302.a:0 "Por todos os meios, ensine [commander.GetHerHim]."
+ marshal_task.0302.b:0 "Não, [commander.GetFirstNameNoTooltip] deve se concentrar em combate pessoal."
+
+ marshal_task.1001.t:0 "Deserção de Levy"
+ marshal_task.1001.desc:0 "As duras práticas de recrutamento da minha [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], parecem estar tendo o efeito oposto ao pretendido.\nEnquanto mais camponeses são presos nas cidades e aldeias, um grande número foge de [councillor.GetFirstNamePossessive] tropas para escapar de suas obrigações de servidão!"
+ marshal_task.1001.a:0 "Eu preciso de mais tropas, não menos!"
+ marshal_task.1001.notification:0 "Deserção de Levy"
+
+ marshal_task.1002.t:0 "Terra não utilizada"
+ marshal_task.1002.desc:0 "O número recorde de tropas de recrutamento trazidas para o serviço pelo meu [councillor.GetCouncilTitle] teve algumas consequências imprevistas.\n\n[councillor.GetTitledFirstNamePossessive] recrutamento indiscriminado deixou hectares de terras agrícolas no [county.GetName] abandonado."
+ marshal_task.1002.a:0 "isso não deveria acontecer."
+ marshal_task.1002.notification:0 "Levy deixa terras agrícolas vazias"
+
+ marshal_task.1003.t:0 "Guardas Insuficientes"
+ marshal_task.1003.desc:0 "A campanha entusiástica de recrutamento da minha [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))], [councillor.GetTitledFirstName], resultou em uma escassez de homens fisicamente aptos no [county.GetName].\nCom menos pessoas para servir como guardas locais, o crime está aumentando."
+ marshal_task.1003.a:0 "O que é que você fez, [councillor.GetFirstNameNoTooltip]..."
+ marshal_task.1003.notification:0 "Guardas convocados para Levy"
+
+ marshal_task.1101.t:0 "Serviço bem organizado"
+ marshal_task.1101.desc:0 "Com cuidadosa verificação e seleção de soldados de recrutamento, meu [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], garantiu que nenhuma fazenda no [county.GetName] fica sem atendimento.\nOs registros [councillor.GetSheHe] manteve será muito útil na temporada de impostos também..."
+ marshal_task.1101.a:0 "Ótimo trabalho, [councillor.GetFirstNameNoTooltip]."
+ marshal_task.1101.notification:0 "Serviço de arrecadação bem organizado"
+
+ marshal_task.1102.t:0 "Aumento da Presença Militar"
+ marshal_task.1102.desc:0 "[councillor.GetTitledFirstNamePossessive] trabalho para reorganizar meus impostos passou para o [county.GetName], onde o aumento da presença militar fez maravilhas.\nBandidos foram erradicados e contrabandistas e sequestradores estão com muito medo de operar."
+ marshal_task.1102.a:0 "Meus súditos podem sempre se sentir seguros."
+ marshal_task.1102.notification:0 "Aumento da Presença Militar"
+ #### END (Jonas W)
+
+ marshal_task.2001.t:0 "Comandante Ferido"
+ marshal_task.2001.opening:0 "Durante um duelo de prática, [commander.GetTitledFirstName] foi atingido!"
+ marshal_task.2001.ending:0 "\nMinhas [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], conseguiu estancar o sangramento, mas vai demorar um pouco até [commander.GetFirstName] recupera."
+ marshal_task.2001.a:0 "Eles estavam usando armas reais?!"
+ marshal_task.2001.notification:0 "Guerreiro ferido em treinamento"
+ 
+ marshal_task.2101.notification:0 "[commander.GetShortUINameNoTooltip] Característica adquirida: [commander.Custom('CommanderTraitBeingTaught')]"
+ marshal_task.2102.notification:0 "Cavaleiro Aprimorado: [commander.GetShortUIName]"
+ marshal_task.0302.notification.a:0 "Comandante Melhorado Significativamente: [commander.GetShortUIName]"
+ marshal_task.0302.notification.b:0 "Comandante Aprimorado: [commander.GetShortUIName]"
+ marshal_task.0303.notification.a:0 "Cavaleiro significativamente melhorado: [commander.GetShortUIName]"
+ marshal_task.0303.notification.c:0 "Cavaleiro tornou-se Blademaster: [commander.GetShortUIName]"
+
+ marshal_task.2002.t:0 "Comandante gravemente ferido"
+ marshal_task.2002.eye:0 "\nMinhas [councillor.GetCouncilTitle] rapidamente chamou um médico, mas não havia como salvar [commander.GetHerHis] visão."
+ marshal_task.2002.leg:0 "\nMinhas [councillor.GetCouncilTitle] rapidamente chamou um médico, mas não havia como salvar [commander.GetHerHis] vida e perna."
+ marshal_task.2002.hand:0 "\nMinhas [councillor.GetCouncilTitle] rapidamente chamou um médico, mas não havia como salvar os dois [commander.GetHerHis] vida e braço."
+ marshal_task.2002.a:0 "Pelo menos [commander.GetHerHis] mente ainda está intacta."
+ marshal_task.2002.b:0 "[commander.GetHerHis] cavalo vai ter que carregar [commander.GetHerHim] na batalha."
+ marshal_task.2002.c:0 "por favor, diga [commander.GetSheHe] ainda tem a mão da espada!"
+ marshal_task.2002.generic_title:0 "Guerreiro ferido em treinamento"
+ marshal_task.2002.notification_eye:0 "[commander.GetTitledFirstName] perdeu um olho enquanto praticava sob a direção do meu [councillor.GetCouncilTitle]!"
+ marshal_task.2002.notification_leg:0 "[commander.GetTitledFirstName] perdeu uma perna enquanto praticava sob a direção do meu [councillor.GetCouncilTitle]!"
+ marshal_task.2002.notification_hand:0 "[commander.GetTitledFirstName] foi mutilado enquanto praticava sob a direção do meu [councillor.GetCouncilTitle]!"
+
+ marshal_task.2003.t:0 "Morte de um Comandante"
+ marshal_task.2003.ending:0 "\nMinhas [councillor.GetCouncilTitle] chamou um médico imediatamente, mas [commander.GetFirstName] sangrou em instantes."
+ marshal_task.2003.a:0 "Uma perda trágica para o meu exército."
+
+ marshal_task.2101.desc:0 "Minhas [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], vem a mim com uma proposta.\n\n"I have noticed that [commander.GetTitledFirstName] shares a lot of the same potential for [commander.Custom('CommanderTraitSkillDescription')] as [teacher.GetTitledFirstName] once did. I believe [commander.GetFirstName] might learn a lot with dedicated teaching from [teacher.GetFirstName].""
+ marshal_task.2101.a:0 "Faça assim."
+ marshal_task.2101.b:0 "[commander.GetFirstName] deveria focar mais no combate pessoal!"
+
+ marshal_task.3001.t:0 "Resistência Local"
+ marshal_task.3001.desc:0 "meu honrado [councillor.Custom2('RelationToMe', ROOT.Char)],\n Enquanto meus esforços para reorganizar o [county.GetName] are progressing apace, not everyone is Como convinced of their benefits.Parece que pisei no calo de vários prefeitos e anciãos da aldeia. Cada prefeito e ancião da aldeia, isto é,."
+ marshal_task.3001.a:0 "O que é que você fez, [councillor.GetFirstNameNoTooltip]..."
+ marshal_task.3001.notification:0 "Perda do Respeito Popular"
+
+ marshal_task.3002.desc:0 "meu honrado [councillor.Custom2('RelationToMe', ROOT.Char)]...\nParece que cometi alguns erros de julgamento. As reformas que introduzi no [county.GetName] foram feitos para fortalecer seu domínio sobre a região, mas, em vez disso, as pessoas parecem mal saber quem são seus [ROOT.Char.GetTitleTierName] é..."
+ marshal_task.3002.a:0 "Você tornou as coisas #EMP ainda piores?!#!"
+ marshal_task.3002.notification:0 "[councillor.GetCouncilTitle] Perdendo controle"
+
+ marshal_task.3003.t:0 "Um desapontamento"
+ marshal_task.3003.desc:0 "Saudações, meu [baron.Custom2('RelationToMe', ROOT.Char)],\n Devo reclamar sobre o comportamento do seu [councillor.GetCouncilTitle], [councillor.GetTitledFirstName]!\n [councillor.GetSheHe|U] tem aparecido no [county.GetName] e começou a mudar as coisas por capricho, sem se importar com nossas tradições ou práticas antigas!"
+ marshal_task.3003.a:0 "Você não pode ser um pouco mais delicado, [councillor.GetFirstNameNoTooltip]?"
+ marshal_task.3003.notification:0 "Barão chateado"
+
+ marshal_task.3101.t:0 "Benefícios locais"
+ marshal_task.3101.desc:0 "meu honrado [councillor.Custom2('RelationToMe', ROOT.Char)],\n Tenho o prazer de informar que minha reorganização do [county.GetName] está indo bem.\n Não é só você que se beneficia dessas melhorias. o povo de [county.GetNameNoTier] são eternamente leais aos seus [ROOT.Char.GetTitleTierName], é claro, mas eles raramente foram tão gratos."
+ marshal_task.3101.a:0 "Bom trabalho, [councillor.GetCouncilTitle]!"
+ marshal_task.3101.notification:0 "[councillor.GetCouncilTitle] Ganha Respeito"
+
+ marshal_task.3102.t:0 "uma gratidão"
+ marshal_task.3102.desc:0 "Minhas [baron.Custom2('RelationToMe', ROOT.Char)],\n Sua [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], tem trabalhado incansavelmente para reorganizar o [county.GetName], e já estamos colhendo os frutos.Eu gostaria de agradecer pessoalmente por enviar uma pessoa tão capaz [councillor.GetWomanMan] para nos ajudar!"
+ marshal_task.3102.a:0 "Mantenha o bom trabalho, [councillor.GetFirstNameNoTooltip]."
+ marshal_task.3102.notification:0 "[councillor.GetCouncilTitle] Impressiona vassalo"
+
+ marshal_task.4002.notification:0 "Guardas Reais Desorganizados"
+ task_manage_guards_disorganized_modifier:0 "$marshal_task.4002.notification$"

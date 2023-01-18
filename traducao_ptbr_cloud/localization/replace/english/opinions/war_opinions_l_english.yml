@@ -1,0 +1,15 @@
+﻿l_english:
+ declared_war:0 "Guerra declarada"
+ declared_war_on_son_daughter:0 "Guerra declarada em seu filho"
+ vassal_lost_faction_revolt_war:0 "Revoltado contra mim"
+ vassal_wp_faction_revolt_war:0 "Revoltado contra mim"
+ liege_lost_declared_religious_war:0 "Perdemos nossa Guerra Religiosa"
+ liege_lost_mongol_invasion_war:0 "Falha na Invasão"
+ rejected_call_to_defensive_war:0 "Chamada rejeitada para uma guerra defensiva"
+ rejected_call_to_offensive_war:0 "Chamada rejeitada para uma guerra ofensiva"
+ contributed_in_war:0 "Contribuiu em uma das minhas guerras "
+ peasant_revolt_opinion:0 "$vassal_lost_or_wp_faction_revolt_war$"
+ warmonger_opinion:0 "belicista"
+
+ #Restored the key to fix TIT-27735
+ vassal_lost_or_wp_faction_revolt_war:0 "Revoltado contra mim"

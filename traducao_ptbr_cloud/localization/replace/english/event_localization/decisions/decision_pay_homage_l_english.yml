@@ -1,0 +1,38 @@
+﻿l_english:
+ # Decision Menu Localization
+ pay_homage_decision:0 "Homenagem"
+ pay_homage_decision_desc:0 "Posso formalmente e publicamente jurar fidelidade ao meu senhor, fortalecendo a confiança e a legitimidade de ambas as nossas posições."
+ pay_homage_decision_tooltip:0 "Promessa formal [pay_homage|E] para o seu [liege|E]"
+ pay_homage_decision_effects:0 "você viaja para [THIS.Char.GetLiege.GetTitledFirstNamePossessive] tribunal para prestar homenagem"
+ pay_homage_decision_confirm:0 "$pay_homage_decision$"
+ pay_homage_decision_second_tooltip:0 "$DESC$\n$pay_homage_grace_tt$\n\n$IS_VALID_BLOCKER$"
+ pay_homage_grace_tt:0 "#fraco Você só pode prestar homenagem ao mesmo soberano uma vez#!"
+ pay_homage_gift_warning_effect:0 "#Presentes fracos aumentam as recompensas de prestar homenagem#!\n$pay_homage_grace_tt$"
+ pay_homage_grace_valid_tt:0 "não pagou [pay_homage|E] para [THIS.Char.GetLiege.GetTitledFirstName] antes de"
+ PAY_HOMAGE_DECISION_NEXT_STEP_BUTTON:0 "Escolha o presente de homenagem"
+ petition_available_adult_tt:0 "é um adulto disponível"
+ petition_available_liege_tt:0 "[THIS.Char.GetLiege.GetTitledFirstName] é um adulto disponível"
+ # Submission
+ pay_homage_decision_option_submission:0 "Demonstrar Envio\n#low Não dê nada#!"
+ pay_homage_submission_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] receberá apenas o seu juramento de [pay_homage|E]"
+ pay_homage_submission_tooltip:0 "$pay_homage_decision_second_tooltip$"
+ # Gold
+ pay_homage_decision_option_gold:0 "...e dar presentes\n#low dar [gold|E]#!"
+ pay_homage_gold_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] receberá um presente de [gold|E] de você"
+ pay_homage_gold_tooltip:0 "$pay_homage_decision_second_tooltip$"
+ pay_homage_decision_effects_gold:0 "Sua [liege|E] receberá seu presente de [gold|E]"
+ pay_homage_gold_tt:0 "#X Você não tem o suficiente [gold|E]#!"
+  # Hook
+ pay_homage_decision_option_hook:0 "...e promessa de favor\n#low Dê um [hook|E]#!"
+ pay_homage_hook_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] vai receber um fraco [hook|E] em você"
+ pay_homage_hook_tooltip:0 "$pay_homage_decision_second_tooltip$"
+ pay_homage_decision_effects_hook:0 "Sua [liege|E] vai receber um forte [hook|E] em você"
+ pay_homage_hook_tt:0 "#X seu [liege|E] já tem um [hook|E] em você#!"
+ # Contract
+ pay_homage_decision_option_contract:0 "...e Aumentar Obrigações\n#low dar [contract|E] obrigações#!"
+ pay_homage_contract_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] receberá maiores impostos ou taxas de por [contract|E]"
+ pay_homage_contract_tooltip:0 "$pay_homage_decision_second_tooltip$"
+ pay_homage_decision_effects_contract_gold:0 "Sua [liege|E] vai receber mais [taxes|E] de você"
+ pay_homage_decision_effects_contract_levies:0 "Sua [liege|E] vai receber mais [levies|E] de você"
+ pay_homage_contract_modifiable_tt:0 "#X seu [contract|E] foi alterado muito recentemente#!"
+ pay_homage_contract_increasable_tt:0 "#X seu [taxes|E] e [levies|E] não pode ser aumentado#!"

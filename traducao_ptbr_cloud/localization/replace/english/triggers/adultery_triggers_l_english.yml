@@ -1,0 +1,4 @@
+﻿l_english:
+ TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U] não é um [bastard|E] do seu [house|E]"
+ HOUSE_HEAD_DOES_NOT_APPROVE:0 "Sua [house_head|E], [CHARACTER.GetShortUIName], não aprova esta legitimação"
+ MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U] é casado e nunca admitiria indiscrições"

@@ -1,0 +1,71 @@
+﻿l_english:
+ submit_to_the_great_khan_decision:0 "Submeta-se ao Grande Khan"
+ submit_to_the_great_khan_decision_confirm:0 "Jurar Lealdade"
+ submit_to_the_great_khan_decision_opening_desc:0 "É hora de reconhecer que os mongóis realmente são os governantes do mundo. Eu me juntei a eles, ao invés de lutar contra eles."
+ submit_to_the_great_khan_decision_tooltip:0 "Você se torna um vassalo do Mongol Khagan e se junta ao Império Mongol"
+ submit_to_the_great_khan_effect_tooltip:0 "Torne-se um vassalo de [mongol_emperor.GetTitledFirstName]"
+
+ mongol_invasion.1001.title:0 "O Khan está morto!"
+ mongol_invasion.1001.generic.desc:1 "Agradecer [ROOT.Char.GetFaith.HighGodName]! Embora um novo governante tenha sido proclamado, [new_khan.GetTitledFirstName], [new_khan.GetSheHe] certamente não pode ser tão horrível quanto [old_khan.GetFirstName].Talvez este seja até o fim da agressão mongol?"
+ mongol_invasion.1001.sympathetic.desc:0 "um ótimo [old_khan.GetWomanMan] deixou todos nós. Com a passagem de [old_khan.GetFirstName], [new_khan.GetFirstName] foi proclamado o novo [new_khan.GetTitleAsNameNoTooltip]!como [old_khan.GetFirstNameNoTooltip] cavalga para sempre, o mundo fica melhor para [old_khan.GetHerHis] exercícios."
+ mongol_invasion.1001.generic.oblivious.desc:0 "Estamos recebendo relatos dispersos de algum tipo de rei importante nômade que faleceu."
+ mongol_invasion.1001.a:0 "boa viagem!"
+ mongol_invasion.1001.b:0 "Eu me pergunto o que o futuro reserva para todos nós."
+ mongol_invasion.1001.c:0 "Gêngis quem?"
+
+ mongol_invasion.1002.t:0 "Ascensão dos mongóis"
+ mongol_invasion.1002.desc.close:0 "Um novo líder, [temujin.GetTitledFirstName], mano-se entre as tribos dispersas de"
+ mongol_invasion.1002.desc.close_mongolia:0 "Mongólia"
+ mongol_invasion.1002.desc.close_steppes:0 "como estepes"
+ mongol_invasion.1002.desc.close.end:0 "e declarado [temujin.GetHerselfHimself] o Genghis Khan - o dominante do universo.Com um vasto exército tribal, [temujin.GetSheHe] declarou guerra pelo domínio de toda a estepe e, em seguida, o mundo inteiro!"
+ mongol_invasion.1002.desc.far:0 "Chegou-me a notícia de que um novo líder surgiu entre as tribos bárbaras das distantes estepes. esta "[temujin.GetTitledFirstName]" declarado [temujin.GetHerselfHimself] o Governante do Universo - Genghis Khan - e jurou conquistar o mundo inteiro.\n\n[temujin.GetSheHe|U] não é o primeiro a fazer essa ameaça, mas a história diz que o [temujin.GetTitleAsNameNoTooltip] cavalga à frente de uma horda de cavaleiros invencíveis que não podem ser mortos."
+ mongol_invasion.1002.a:0 "Outro pequeno arrivista para derrotar!"
+ mongol_invasion.1002.b:0 "Conquistar o mundo? [temujin.GetSheHe|U] é grátis para tentar!"
+ mongol_invasion.1002.c:0 "eu duvido [temujin.GetSheHe]'ll get very far."
+ mongol_invasion.1002.craven:0 "E [temujin.GetSheHe] está vindo aqui?!"
+ mongol_invasion.1002.genghis_khan_tt:0 "Nenhum [county|E] ocupado pelos mongóis perderá grande parte de sua [development|E]"
+
+ mongol_invasion.1003.t:0 "A Casa da Sabedoria Arde"
+ mongol_invasion.1003.desc:0 "A grande instituição de aprendizado e conhecimento de Bagdá, a Casa da Sabedoria, foi vítima de incêndio e destruição durante o cerco mongol à cidade..Apenas ruínas foram deixadas para trás, como se para sinalizar o valor do antigo conhecimento no novo mundo dos mongóis.."
+ mongol_invasion.1003.a:0 "Tanto, perdido..."
+ mongol_invasion.1003.b:0 "São apenas os pagamentos recebendo o que merecem!"
+ mongol_invasion.1003.c:0 "Os mongóis vão destruir o mundo se não os pararmos!"
+
+ mongol_invasion.1004.t:0 "colapso do império"
+ mongol_invasion.1004.desc:0 "Com a passagem de [old_mongol_emperor.GetTitledFirstName], vários sucessores reivindicaram a posição de Grande Khan. Com nenhum deles reconhecendo os outros, estamos finalmente vendo o fim dos mongóis como um império unificado..Eles podem não ser fracos, mas não estão mais unidos atrás de um único "universal ruler"."
+ mongol_invasion.1004.a:0 "O império vai subir novamente um dia..."
+ mongol_invasion.1004.b:0 "Obrigado por sua misericórdia, [ROOT.Char.GetFaith.HighGodName]!"
+
+ mongol_invasion.1005.t:0 "O Khan está morto"
+ mongol_invasion.1005.desc:0 "Com a passagem do trono de [old_khan.GetTitledFirstName] pára [new_khan.GetTitledFirstName], a diferença mais óbvia é que [new_khan.GetFirstNameNoTooltip] não estiliza [new_khan.GetHerselfHimself] "the ruler of the universe".\nQualquer que seja a intenção que as tribos das estepes já tiveram de governar o mundo inteiro, elas parecem finalmente reconhecer que está além de seu alcance.."
+ mongol_invasion.1005.a:0 "Uma era está no fim."
+ mongol_invasion.1005.a.tt:0 "O Império Mongol será menos agressivo a partir de agora"
+
+ mongol_invasion.2001.opening:0 "meu servo significava,"
+ mongol_invasion.2001.desc:0 "Como o governante do universo, é inevitável que você se curve a mim. Que seja em um juramento de fidelidade, em vez de com a lâmina de um machado contra seu pescoço."
+ mongol_invasion.2001.a:0 "Eu submeto com honra, meu [mongol_emperor.GetTitleAsNameNoTooltip]."
+ mongol_invasion.2001.a.tt:0 "Você se torna um vassalo de [mongol_emperor.GetShortUIName]"
+ mongol_invasion.2001.b:0 "Você não representa nenhuma ameaça para mim, tolo arrogante!"
+ mongol_invasion.2001.b.tt:0 "[mongol_emperor.GetShortUIName|U] declara guerra a você"
+
+ mongol_invasion.2002.opening:0 "Honrado Governante do Universo,"
+ mongol_invasion.2002.desc:0 "Eu me submeto à sua graça legítima e benevolente. Eu estarei com você contra qualquer um que se oponha ao seu destino."
+ mongol_invasion.2002.a:0 "Uma escolha sabia, meu servo."
+
+ mongol_invasion.2003.opening:0 "Vocês [mongol_emperor.Custom('InsultAdjective')] sombra de um [mongol_emperor.GetTitleAsNameNoTooltip],"
+ mongol_invasion.2003.desc:0 "Você ousa pensar que pode me ameaçar até a submissão? Vou mostrar a você que um verdadeiro governante faz com seus chamados cavaleiros invencíveis!"
+ mongol_invasion.2003.a:0 "Guerra e morte é, então."
+
+ mongol_invasion.2101.desc:0 "Você tem sido um bom amigo e servo para mim até agora. É hora de tornar seu serviço oficial, pois você jura fidelidade ao Governante do Universo.."
+ mongol_invasion.2101.a:0 "Claro, meu senhor."
+ mongol_invasion.2101.b:0 "Você acha que estou a serviço de você? ridículo!"
+ mongol_invasion.2101.b.tt:0 "@warning_icon! [mongol_emperor.GetShortUIName] romper [mongol_emperor.GetHerHis] aliança com você e pode ir para a guerra em seu lugar!"
+
+ mongol_invasion.2103.a:0 "Você vai se curvar a mim agora, de uma forma ou de outra!"
+ mongol_invasion.2103.b:0 "Apenas espere, seu cão insolente..."
+
+ mongol_invasion.2111.b:0 "Você me acha menos do que seu igual? ultrajante!"
+ mongol_invasion.2111.b.tt:0 "@warning_icon! [mongol_emperor.GetShortUIName] romper [mongol_emperor.GetHerHis] aliança com você"
+
+ mongol_invasion.2112.desc:0 "Você realmente acredita que é o meu melhor? Você nem é meu igual! É claro que a amizade que gentilmente lhe oferecia nada mais foi do que jogar pérolas aos porcos."
+ mongol_invasion.2112.a:0 "Oh, você vai se arrepender de suas palavras e ações..."

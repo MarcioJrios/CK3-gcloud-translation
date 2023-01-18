@@ -1,0 +1,31 @@
+﻿l_english:
+ 
+ inspiration_invested_in_new_forge_modifier:0 "Nova Forja"
+ inspiration_invested_in_new_forge_modifier_desc:0 "Este personagem tem uma forja totalmente nova e altamente eficiente."
+ 
+ inspiration_alchemy_condoned_by_church_modifier:0 "A Igreja perdoa a alquimia"
+ inspiration_alchemy_condoned_by_church_modifier_desc:0 "A igreja local decidiu tolerar o fascínio desse personagem por experimentos alquímicos.."
+
+ raised_in_secrecy_modifier:0 "Criado em segredo"
+ raised_in_secrecy_modifier_desc:0 "Este personagem foi criado em total sigilo e isolamento quase total desde o nascimento."
+
+ legendary_party_aftermath_modifier:0 "Consequências da Festa Lendária"
+ legendary_party_aftermath_modifier_desc:0 "A corte desse personagem ainda carrega as devastadoras cicatrizes de um partido vergonhosamente excelente, embora destrutivo.."
+ mythic_party_aftermath_modifier:0 "Consequências da Festa Mítica"
+ mythic_party_aftermath_modifier_desc:0 "A corte desse personagem ainda carrega as cicatrizes devastadoras de uma festa tão gloriosamente devastadora que permanece viva na memória local."
+ world_shattering_party_aftermath_modifier:0 "Consequências da festa que destruiu o mundo"
+ world_shattering_party_aftermath_modifier_desc:0 "A corte deste personagem ainda carrega as devastadoras cicatrizes de uma festa tão caótica que causou mais danos do que a maioria dos cercos menores."
+ lacking_diplomatic_munity_modifier:0 "Falta de comunidade diplomática"
+ lacking_diplomatic_munity_modifier_desc:0 "Todos sabem que a visita de um diplomata a este tribunal é um pouco menos segura do que manda a tradição."
+ humbling_hall_modifier:0 "Salão da Humildade"
+ humbling_hall_modifier_desc:0 "Uma sala neste tribunal é conhecida por um incidente que humilhou dois nobres diplomatas, um conto de justiça agradável usado pelo povo como uma fábula tutelar.."
+ inscrutable_host_modifier:0 "Anfitrião Inescrutável"
+ inscrutable_host_modifier_desc:0 "Este personagem é amplamente considerado por pensar que a vingança é um prato que se come frio. Provavelmente."
+
+ above_petty_differences_modifier:0 "Acima de pequenas diferenças"
+ above_petty_differences_modifier_desc:0 "Este personagem não se importa nem um pouco com as pequenas coisas, concentrando-se no terreno comum entre os povos em relação a pequenas brigas.."
+
+ what_did_i_just_drink_modifier:0 "O que eu acabei de beber?"
+ what_did_i_just_drink_modifier_desc:0 "Aquilo foi... EU... minha cabeça... ai."
+ known_killjoy_modifier:0 "Killjoy conhecido"
+ known_killjoy_modifier_desc:0 "Nenhuma diversão permitida, por nobre decreto."

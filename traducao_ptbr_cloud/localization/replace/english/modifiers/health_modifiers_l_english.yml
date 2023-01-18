@@ -1,0 +1,62 @@
+﻿l_english:
+ infected_wound_modifier:0 "Ferida Infeccionada"
+ gangrene_modifier:0 "Gangrena"
+ rejected_from_marriage_bed_modifier:0 "Rejeitado do leito matrimonial"
+ rejected_from_marriage_bed_modifier_desc:0 "O casamento deste personagem não produzirá descendentes."
+
+ safe_disease_treatment_success_high_modifier:0 "Sintomas de doenças reduzidos"
+ safe_disease_treatment_success_high_modifier_desc:0 "Um tratamento bem-sucedido reduziu os sintomas da doença desse personagem."
+ safe_disease_treatment_success_low_modifier:0 "Sintomas de doenças reduzidos"
+ safe_disease_treatment_success_low_modifier_desc:0 "Um tratamento bem-sucedido reduziu os sintomas da doença desse personagem."
+ safe_disease_treatment_failure_modifier:0 "Piora dos sintomas da doença"
+ safe_disease_treatment_failure_modifier_desc:0 "Um tratamento malsucedido piorou os sintomas da doença desse personagem."
+ risky_disease_treatment_success_high_modifier:0 "Sintomas de doenças bastante reduzidos"
+ risky_disease_treatment_success_high_modifier_desc:0 "Um tratamento muito bem-sucedido reduziu os sintomas da doença desse personagem."
+ risky_disease_treatment_success_low_modifier:0 "Sintomas de doenças bastante reduzidos"
+ risky_disease_treatment_success_low_modifier_desc:0 "Um tratamento muito bem-sucedido reduziu os sintomas da doença desse personagem."
+ risky_disease_treatment_failure_modifier:0 "Tratamento de Doenças Falha"
+ risky_disease_treatment_failure_modifier_desc:0 "Um tratamento desastroso piorou os sintomas da doença desse personagem."
+
+ safe_wound_treatment_success_high_modifier:0 "Tratamento bem-sucedido de feridas"
+ safe_wound_treatment_success_high_modifier_desc:0 "Um tratamento bem-sucedido reduziu a gravidade do ferimento desse personagem."
+ safe_wound_treatment_success_low_modifier:0 "Tratamento bem-sucedido de feridas"
+ safe_wound_treatment_success_low_modifier_desc:0 "Um tratamento bem-sucedido reduziu a gravidade do ferimento desse personagem."
+ safe_wound_treatment_failure_modifier:0 "Ferimento Agravado"
+ safe_wound_treatment_failure_modifier_desc:0 "Um tratamento falho agravou o ferimento deste personagem."
+ risky_wound_treatment_success_modifier:0 "Tratamento de Feridas com Muito Sucesso"
+ risky_wound_treatment_success_modifier_desc:0 "Um tratamento muito bem-sucedido reduziu a gravidade do ferimento desse personagem."
+ risky_wound_treatment_failure_modifier:0 "Tratamento de feridas malfeitas"
+ risky_wound_treatment_failure_modifier_desc:0 "Um tratamento desastroso agravou gravemente o ferimento deste personagem."
+
+ chastised_physician_modifier:0 "Médico castigado"
+ chastised_physician_modifier_desc:0 "Este médico vai pensar duas vezes na próxima vez."
+
+ exhausted_modifier:0 "Exausta"
+ exhausted_modifier_desc:0 "A exaustão pesa muito neste personagem."
+
+ low_social_energy_modifier:0 "Baixa Energia Social"
+ low_social_energy_modifier_desc:0 "Este personagem gastou sua energia social em outro lugar."
+
+ lunatic_made_of_glass_modifier:0 "Feito de vidro"
+ lunatic_made_of_glass_modifier_desc:0 "Este personagem está convencido de que eles são feitos de vidro frágil"
+
+ lunatic_bat_ravings_modifier:0 "Delírios"
+ lunatic_bat_ravings_modifier_desc:0 "Este personagem avisa regularmente as pessoas sobre morcegos e afirma estar sempre preparado para sua ameaça.."
+
+ wounds_quickly_tended_to_modifier:0 "Feridas tratadas"
+ wounds_quickly_tended_to_modifier_desc:0 "As feridas deste personagem foram rapidamente tratadas"
+
+ drank_water_modifier:0 "bebeu agua"
+ drank_water_modifier_desc:0 "Este personagem bebeu alegremente água fresca em um dia quente"
+
+ almost_drowned_modifier:0 "quase se afogou"
+ almost_drowned_modifier_desc:0 "Este personagem quase se afogou e ainda está abalado com a experiência."
+
+ malnourished_modifier:0 "desnutrido"
+ malnourished_modifier_desc:0 "Este personagem sofre de fraqueza, falta de energia e mau humor."
+ obese_modifier:0 "Obeso"
+ obese_modifier_desc:0 "Este personagem sofre de falta de energia, dores nas articulações e falta de ar."
+ gaining_weight_modifier:0 "Ganhando peso"
+ gaining_weight_modifier_desc:0 "Este personagem está tentando ganhar peso."
+ losing_weight_modifier:0 "Perdendo peso"
+ losing_weight_modifier_desc:0 "Este personagem está tentando perder peso."

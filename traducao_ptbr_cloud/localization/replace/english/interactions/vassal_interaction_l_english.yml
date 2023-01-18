@@ -1,0 +1,83 @@
+﻿l_english:
+ grant_vassal_interaction:0 "Conceder vassalo"
+ grant_vassal_interaction_desc:0 "Faça um de seus [vassals|E] tornar-se um vassalo de [recipient.GetShortUINameNoTooltip] em vez de\nOs vassalos concedidos devem ser de menor [rank|E] que [recipient.GetShortUINameNoTooltip]"
+ grant_vassal_interaction_notification:0 "Vassalo Concedido"
+ actor_secondary_grant_vassal_interaction:0 "[vassal|E]"
+ GRANT_VASSAL_SELECT_VASSAL_TO_TRANSFER:0 "Selecione [vassal|E] transferir"
+ retract_vassal_interaction:0 "Retrair vassalo"
+ retract_vassal_interaction_desc:0 "Faça um de [recipient.GetShortUINameNoTooltip] [vassals|E] torne-se seu [direct_vassal|E] em vez de"
+ retract_vassal_interaction_extra_icon:0 "$hook_extra_icon$"
+ recipient_secondary_retract_vassal_interaction:0 "[vassal|E]"
+ RETRACT_VASSAL_SELECT_VASSAL_TO_RETRACT:0 "Selecione [vassal|E] pegar"
+ start_independence_faction_interaction:0 "Iniciar Facção da Independência"
+ start_independence_faction_interaction_desc:0 "Encontrou um [independence_faction|E] contra [recipient.GetShortUINameNoTooltip]"
+ start_independence_faction_interaction_notification:0 "Iniciou a Facção da Independência"
+ join_independence_faction_interaction:0 "Junte-se à facção da independência"
+ join_independence_faction_interaction_desc:0 "Junte-se a [independence_faction|E] contra [recipient.GetShortUINameNoTooltip]"
+ join_independence_faction_interaction_notification:0 "Juntou-se à Facção da Independência"
+ create_claimant_faction_against_interaction:0 "Iniciar Facção Requerente"
+ create_claimant_faction_against_interaction_desc:0 "Encontrei um [claimant_faction|E] contra [secondary_actor.GetShortUINameNoTooltip]"
+
+ general_rebellion_decline_summary:0 "[recipient.Custom2('RevokeTitleDeclineSummary', SCOPE.sC('actor'))]"
+ general_rebellion_decline_summary_warning:0 "@warning_icon!#X If [ROOT.Char.GetShortUINameNoTooltip] declina [ROOT.Char.GetSheHe] se levantará em rebelião com outros descontentes [vassals|E]!#!"
+ general_rebellion_decline_summary_auto_accept:0 "" #Supposed to be empty, we want no warning about them rising up in rebellion if they can't refuse and do so
+
+
+ stop_attacker_vassal_war_interaction:0 "Parar a guerra de vassalos"
+ stop_defender_vassal_war_interaction:0 "Exigir rendição na guerra de vassalos"
+ STOP_VASSAL_WAR_ATTACKER:0 "Selecione a guerra para exigir um fim"
+ STOP_VASSAL_WAR_DEFENDER:0 "Selecione a guerra para exigir um fim"
+ stop_vassal_war_negotiation:2 "Exigir que [recipient.GetShortUIName] abandona [recipient.GetHerHis] guerra\n\n[recipient.GetShortUINamePossessive] vontade de acabar com a guerra é determinada por:$BULLET_WITH_TAB$Ambos os seus [diplomacy|E] Habilidades$BULLET_WITH_TAB$O estado da guerra\n$BULLET_WITH_TAB$[recipient.GetHerHis|U] [traits|E]\n$BULLET_WITH_TAB$[recipient.GetHerHis|U] [opinion|E] de você\n$BULLET_WITH_TAB$Se [recipient.GetSheHe] é [intimidated|E] ou [cowed|E] por você"
+ stop_vassal_war_use_hook:1 "Você será capaz de usar seu [hook|E] se necessário"
+ force_join_faction_interaction:0 "Força para se juntar à facção"
+ force_join_faction_interaction_desc:1 "Use um [hook|E] em [recipient.GetShortUIName] para forçá-los a entrar no seu atual [faction|E]"
+ force_join_faction_interaction_notification:0 "Forçado a se juntar à facção"
+
+ stop_attacker_vassal_war_decline_summary:1 "[recipient.GetShortUINameNoTooltip] pode pedir algo em troca"
+
+ IS_FIGHTING_AGAINST_ME:1 "você está lutando [TARGET_CHARACTER.GetShortUIName]"
+ I_HAVE_RECENTLY_ASKED_TO_STOP_WAR:1 "Você perguntou recentemente [TARGET_CHARACTER.GetShortUIName] parar uma guerra"
+ interfere_in_war:0 "Parar a guerra de vassalos"
+
+ force_onto_council:0 "Posição do Conselho de Demanda"
+ force_onto_council_desc:0 "Use um [hook|E] forçar [recipient.GetShortUINameNoTooltip] para lhe conceder um [council|E] posição de sua escolha"
+ force_onto_council_extra_icon:1 "@weak_hook_icon!Available because you have a [hook|E]"
+ force_onto_council.notification.strong_hook:0 "Eu decidi que é do seu interesse ter-me como seu fiel [council_task.GetPositionName].\nVocê #EMP sabe#! o que acontecerá se você tentar recusar."
+ force_onto_council.notification.fallback:0 "De acordo com nosso acordo, pretendo agir como seu [council_task.GetPositionName] daqui em diante.\nNaturalmente, isso justifica sua dívida comigo."
+ force_onto_council.desc.tt:0 "[Select_CString(actor.IsLocalPlayer,'You',actor.GetShortUIName)] [Select_CString(actor.IsLocalPlayer,'are','is')] fez um [councillor|E]"
+ force_onto_council.recipient.tt:0 "[actor.GetShortUIName] tornou-se seu [council_task.GetPositionName]"
+ force_onto_council.recipient.tt.duration:2 "[actor.GetSheHe|U] não pode ser demitido por [SCOPE.ScriptValue('council_position_locked_value')|0] anos"
+ force_onto_council.actor.tt:0 "Você se tornou seu suserano [council_task.GetPositionName]"
+ force_onto_council.actor.tt.duration:2 "Você não pode ser demitido por [SCOPE.ScriptValue('council_position_locked_value')|0] anos"
+
+ arrange_marriage_interaction_extra_icon:0 "@weak_hook_icon!You can use your [hook|E] para fazê-los aceitar"
+
+ ask_for_pardon_interaction:0 "Pedir Perdão"
+ ask_for_pardon_interaction_desc:0 "Pergunta ao teu [top_liege|E] perdoar o seu [crimes|E] para limpar qualquer [imprisonment_reasons|E], [banish_reasons|E], [revoke_title_reasons|E] ou [execute_reasons|E] visando você"
+ ask_for_pardon_interaction_accept_toast:0 "Perdão concedido"
+ ask_for_pardon_interaction_decline_toast:0 "Perdão recusado"
+ ask_for_pardon_interaction_accept_decline:0 "[recipient.GetShortUIName|U] recusou seu pedido de perdão"
+
+ vassal_claim_liege_title_interaction:0 "Reivindicar Título de Liege"
+ vassal_claim_liege_title_interaction_desc:0 "Se você controla a maioria #fraco (51%)#! do [counties|E] que são [de_jure|E] para um dos seus [lieges|E] [titles|E], você pode gastar [prestige|E] para obter um [unpressed_claim|E] nele!"
+ HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "Se você controla a maioria #fraco (51%)#! de um dos seus [lieges|E] [titles|E], você pode gastar [prestige|E] para obter um [unpressed_claim|E] nele!"
+ NOT_HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "Você NÃO controla pelo menos #V 51%#! do [counties|E] que compõem o [de_jure|E] disto [title|E]"
+ higher_prestige_level_than_liege:0 "Mais alto [prestige_level|E] que [liege|E]"
+ lower_prestige_level_than_liege:0 "Mais baixo [prestige_level|E] que [liege|E]"
+
+ char_interaction.0240.desc:0 "Estou reivindicando o que me é devido. Espero que você conceda publicamente seus direitos de me punir e me conceda perdão por meus crimes.."
+ char_interaction.0240.a:0 "Como você exige."
+
+ ASK_FOR_PARDON_NOTIFICATION:0 "Peço-lhe humildemente que me conceda perdão pelos meus crimes."
+ 
+ pardon_interaction:0 "Conceder Perdão"
+ pardon_interaction_desc:1 "Você considera [recipient.GetName] ser um [criminal|E] ([recipient.GetImprisonmentReasons( actor.Self )]), allowing you to [imprison|E] a qualquer momento sem ganhar [tyranny|E].\nSe você preferir que eles permaneçam livres, você pode optar por perdoá-los. Isso removerá todo e qualquer motivo que você tenha para [imprison|E] eles e aumentar seus [opinion|E] de você."
+ pardon_interaction_toast:0 "Seu senhor benevolente, [actor.GetFirstName], perdoou seus crimes!"
+
+ county_must_have_city_tt:0 "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip] deve conter um [city|E] ou ter um [development|E] nível de mais de 20."
+ county_must_have_culture_tt:0 "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip] deve ser de um [culture|E] que tem o $tradition_republican_legacy_name$ tradição."
+ too_many_republics_tt:0 "Você já tem [SCOPE.ScriptValue('republican_vassal_interaction_limit')|0] vassalos republicanos."
+ must_not_be_heir_to_any_title_tt:0 "[CHARACTER.GetNameNoTooltip] não deve ser herdeiro de nenhum título"
+ must_not_have_landed_relatives_tt:0 "[CHARACTER.GetNameNoTooltip] não deve ter parentes com terras"
+ must_be_one_county_count_tt:0 "[CHARACTER.GetPrimaryTitle.GetNameNoTooltip] deve ser o único condado de [CHARACTER.GetShortUINameNoTooltip]"
+ appoint_podesta_interaction_notification:0 "Nomeado superintendente republicano"

@@ -1,0 +1,15 @@
+﻿l_english:
+ language_events.0001.t:0 "Letargia Lexical"
+ language_events.0001.desc:1 "É difícil manter todos esses idiomas na minha cabeça, sempre esqueço qual idioma estou falando!\nOutro dia, eu acidentalmente me apresentei usando uma mistura confusa de [language_to_forget.GetLanguage.GetNameNoTooltip] e [ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip] palavras... e eu nem percebi que tinha feito isso até que foi apontado para mim!\nTalvez eu devesse simplesmente deixar [language_to_forget.GetLanguage.GetNameNoTooltip] escorregar da minha mente..?"
+ language_events.0001.a:0 "Deixe cair no esquecimento..."
+ language_events.0001.b:0 "Não! Devo trabalhar mais e estudar mais!"
+ language_events.0002.b.tt:0 "Você envia coletores para 'fiscal' [gold_i]#P 50#! de cada [vassal_speaking_other_language.GetCulture.GetName] condado em [vassal_speaking_other_language.GetTitledFirstNamePossessive] reino"
+ language_events.0002.t:0 "Uma linguagem em comum"
+ language_events.0002.desc:0 "Chegou aos meus ouvidos que meu vassalo, [vassal_speaking_other_language.GetTitledFirstName], está elogiando publicamente minha proficiência em falar [vassal_speaking_other_language.GetCulture.GetLanguage.GetName] — the language spoken by [vassal_speaking_other_language.GetHerHis] próprios assuntos!\nMeus conselheiros sugerem que eu aproveite esta oportunidade enviando uma carta em [vassal_speaking_other_language.GetCulture.GetLanguage.GetNameNoTooltip] para [vassal_speaking_other_language.GetHerHim], reconhecendo [vassal_speaking_other_language.GetHerHis] ações."
+ language_events.0002.a:0 ""With greater understanding comes shared prosperity!""
+ language_events.0002.b:0 ""Oh-ho ho! Now I can tax you more effectively, dear vassal.""
+
+ language_events.0010.t:0 "É hora do seu [language_to_forget.GetLanguage.GetNameNoTooltip|U] Lição!"
+ language_events.0010.desc:0 "Acordei suando depois de um pesadelo extenuante, onde uma coruja estava constantemente me seguindo e testando meus conhecimentos no [language_to_forget.GetLanguage.GetNameNoTooltip] Língua.\nUm símbolo de sabedoria em algumas culturas, o demônio emplumado estava me perseguindo a noite toda, e eu temia desapontá-lo. Talvez exista algo como "too much knowledge" e esse sonho é resultado de todo o estresse que sinto em manter minhas habilidades afiadas."
+ language_events.0010.a:0 "Isso não pode continuar."
+ language_events.0010.b:0 "Vou continuar a me esforçar diariamente!"

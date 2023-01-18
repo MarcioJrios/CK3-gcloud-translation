@@ -1,0 +1,13 @@
+﻿l_english:
+ steal_back_artifact_outcome.1001.t:0 "$steal_back_artifact_event_title$ Sucesso!"
+ steal_back_artifact_outcome.1001.desc:1 "Sinto uma forte sensação de realização ao receber o artefato que tentei recuperar. o [artifact.GetName] voltou ao seu legítimo proprietário. Embora talvez um pouco arranhado e sujo do resgate, admiro-o mais uma vez com um sorriso sabendo que meus esforços deram frutos.."
+ steal_back_artifact_outcome.1001.a:0 "Ele voltou ao seu devido lugar e nas mãos certas."
+
+ steal_back_artifact_outcome.1002.t:0 "$steal_back_artifact_event_title$ Artefato roubado!"
+ steal_back_artifact_outcome.1002.desc:0 "Hoje foi um bom dia para admirar [artifact_to_steal.GetName], mas para meu horror, descobri que ele sumiu!\nDepois de uma breve investigação, um servo me diz que [owner.GetTitledFirstName] há rumores de ter dito que [artifact_to_steal.GetName] ficaria melhor em [owner.GetHerHis] posse!"
+ steal_back_artifact_outcome.1002.a:0 "Maldito seja, [owner.GetTitledFirstNameNoTooltip]! Seu ladrão nojento!"
+
+ steal_back_artifact_outcome.2001.t:0 "$steal_back_artifact_event_title$ Fracasso"
+ steal_back_artifact_outcome.2001:0 "A infiltração ocorreu conforme o planejado, mas nenhum artefato não pôde ser localizado! Deve ter sido sorte ou lacaios incompetentes causaram essa falha."
+ steal_back_artifact_outcome.2001.a:0 "Eu não posso acreditar nisso! Inaceitável!"
+

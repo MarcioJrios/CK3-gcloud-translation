@@ -1,0 +1,43 @@
+﻿l_english:
+ court_chaplain_task.0201.opening:0 "[councillor.Custom2('AppropriateGreeting', ROOT.Char)]"
+
+ court_chaplain_task.0301.desc:0 "Eu vasculhei documentos antigos e... de proveniência menos certa. Finalmente tenho material suficiente para provar que você é o legítimo [ROOT.Char.GetLadyLord|U] do [county.GetName]!\nTudo o que falta é um pequeno suborno..."
+ court_chaplain_task.0301.a:0 "Veja feito!"
+ court_chaplain_task.0301.b:0 "Não, eu não posso."
+ court_chaplain_task.0301.b.tt:0 "Perde todo o progresso de Fabricar Reivindicação"
+
+ court_chaplain_task.0302.desc:1 "Eu vasculhei documentos antigos e de... proveniência menos certa. Finalmente tenho material suficiente para provar que você é o legítimo [ROOT.Char.GetLadyLord|U] do [county.GetName].\nNa verdade, eu poderia até argumentar que você é o legítimo [ROOT.Char.GetLadyLord|U] do [duchy.GetName]!"
+ court_chaplain_task.0302.desc_heretic_addition:0 "Eu vasculhei documentos antigos e de... proveniência menos certa. Finalmente tenho material suficiente para provar que você é o legítimo [ROOT.Char.GetLadyLord|U] do [county.GetName].\nVendo como [duchy_holder.GetFirstName] infelizmente insiste em ser #EMP [duchy_holder.GetFaith.GetAdherentName]#!, Eu poderia até argumentar que você tem direito ao [duchy.GetName] – by divine right!"
+ court_chaplain_task.0302.a:0 "Apresentar minha reivindicação em [county.GetNameNoTierNoTooltip]."
+ court_chaplain_task.0302.b:0 "Sim! Tudo de [duchy.GetNameNoTierNoTooltip] será meu!"
+ 
+ court_chaplain_task.0311.t:0 "Uma reclamação sobre [county.GetNameNoTierNoTooltip]!"
+ court_chaplain_task.0311.opening:0 "Por meses, [councillor.GetTitledFirstName], [councillor_liege.GetTitledFirstNamePossessive] [councillor.GetCouncilTitle], tem desenterrado contratos espúrios e histórias fabricadas."
+ court_chaplain_task.0311.end:0 "\nAgora [councillor_liege.GetTitleTierName] [councillor_liege.GetFirstName] ousa agir como se tudo isso equivalesse a uma reivindicação legítima sobre o [county.GetName]!"
+ court_chaplain_task.0311.a:0 "Mentiras e mais mentiras!"
+
+ court_chaplain_task.0312.a:0 "Faz [councillor_liege.GetFirstNameNoTooltip] não tenho vergonha?!"
+
+ court_chaplain_task.0313.t:0 "Uma reclamação sobre [county.GetNameNoTierNoTooltip]!"
+ court_chaplain_task.1001.notification:0 "Pregando Doutrina Não Ortodoxa"
+ court_chaplain_task.1002.notification:0 "Pobre retórica"
+ court_chaplain_task.1101.notification:0 "Retórica impressionante"
+ court_chaplain_task.2001.notification:0 "Resistência à conversão"
+ court_chaplain_task.2002.notification:0 "Resistência popular à conversão"
+ court_chaplain_task.2101.notification:0 "Conversões Entusiasmadas"
+ court_chaplain_task.2102.notification:1 "Novo [councillor.GetFaith.HouseOfWorshipPlural|U] Estabelecido"
+ court_chaplain_task.2103.notification:0 "Voluntário recém-convertido"
+
+ court_chaplain_task.3001.t:0 "Minando a Ordem"
+ court_chaplain_task.3001.desc:1 "Minhas [councillor.GetCouncilTitle], [councillor.GetFirstName], parece profundamente preocupado quando [councillor.GetSheHe] vem até mim.\n\n"It has come to light that I am... investigating the existence of a just and rightful claim for you on the [county.GetName]. Suffice to say, many of your vassals are upset that their [ROOT.Char.GetTitleTierName] would ignore their loyalty and act against them like this.""
+ court_chaplain_task.3001.a:0 "Como você pode deixá-los pegar você?!"
+ court_chaplain_task.3002.notification:0 "Acusado de fabricação de reivindicações"
+
+ court_chaplain_task.3003.opening:0 "[vassal.Custom2('AppropriateGreeting', ROOT.Char)]"
+ court_chaplain_task.3003.desc:0 "Chegou ao meu conhecimento que seu [councillor.GetCouncilTitle], [councillor.GetFirstName], está trabalhando para fabricar uma alegação espúria sobre o [county.GetName]. Eu imploro que você se lembre de que você é [ROOT.Char.GetTitleTierName] por direito, não por ganância."
+ court_chaplain_task.3003.a:0 "eu sei o que estou fazendo, [vassal.GetFirstNameNoTooltip]."
+ court_chaplain_task.3003.b:0 "Aprenda seu lugar, [vassal.GetTitledFirstNameNoTooltip]."
+
+ court_chaplain_task.3004.opening:0 "[target.Custom2('AppropriateGreeting', ROOT.Char)]"
+ court_chaplain_task.3004.desc:0 "Ficou claro que seu [councillor.GetCouncilTitle] está trabalhando para estabelecer uma alegação falsa e espúria sobre o [county.GetName]. Não pense que esse tipo de ação desonrosa ficará sem resposta."
+ court_chaplain_task.3004.a:0 "Ah, mas tem #EMP#! uma base para uma reclamação aqui."

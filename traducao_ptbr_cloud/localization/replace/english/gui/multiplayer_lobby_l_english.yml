@@ -1,0 +1,14 @@
+﻿l_english:
+ MULTIPLAYER_LOBBY_DIFFICULTY_HEADER:0 "Dificuldades:"
+ MULTIPLAYER_LOBBY_DIFFICULTY_INFO_TEXT:0 "@warning_icon!#X [Character.GetDifficultyInfoText]#!"
+ MULTIPLAYER_LOBBY_CHOOSE_RANDOM_CHARACTER:0 "Caractere Aleatório"
+ MULTIPLAYER_LOBBY_PLAY_OBSERVER:0 "Jogue como um observador"
+ MULTIPLAYER_LOBBY_NOT_READY:0 "#N Nenhum caractere selecionado#!"
+ MULTIPLAYER_LOBBY_RULER_DESIGNING:0 "#N No designer de régua#!"
+ MULTIPLAYER_LOBBY_READY:0 "[LobbyPlayer.GetPlayable.GetCharacter.GetUINameNotMe]"
+ MULTIPLAYER_LOBBY_JOIN_PROGRESS:0 "Juntando-se... [LobbyPlayer.GetTransferProgress|0%]"
+ MULTIPLAYER_LOBBY_PLAYED_BY:0 "Jogado por [Character.GetHumanNameIfNotLocalPlayer]"
+ MULTIPLAYER_LOBBY_PLAYED_BY_YOU:0 "Seu personagem"
+ FAITH_LOBBY_WINDOW:0 "[Faith.GetAdjectiveNoTooltip]"
+ CULTURE_LOBBY_WINDOW:0 "[Culture.GetNameNoTooltip]"
+ 

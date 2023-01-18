@@ -1,0 +1,127 @@
+﻿l_english:
+
+ stress_trait_coping_decisions.1001.t:0 "Lidando com o Estresse: Beba!"
+ stress_trait_coping_decisions.1001.desc:0 "Outra xícara e meus ombros relaxam um pouco mais. #EMP Isso#! é assim que devo passar meu tempo - estar sóbrio é sofrer."
+ stress_trait_coping_decisions.1001.a:0 "Eu– #EMP *caipira*#! Já me sinto melhor!"
+
+ stress_trait_coping_decisions.1002.t:0 "Lidando com o Estresse: Companheiro para Beber!"
+ stress_trait_coping_decisions.1002.desc:0 ""[ROOT.Char.GetFirstNameNoTooltip]! Hello!"\nde repente meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('fellow_drunkard'))] [fellow_drunkard.GetTitledFirstName] senta ao meu lado, xícara na mão. Pelo visto [fellow_drunkard.GetSheHe] também foi para a taberna para relaxar, e passamos o resto da noite bebendo juntos. Não me sinto tão relaxado há meses #EMP!#!"
+ stress_trait_coping_decisions.1002.a:0 "Beba, meu amigo!"
+
+ stress_trait_coping_decisions.1003.t:0 "Companheiro de bebida!"
+ stress_trait_coping_decisions.1003.desc:0 "Estou bebendo sozinho na taberna quando de repente vejo meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('original_drunkard'))] [original_drunkard.GetTitledFirstName] sente-se na minha frente.\nEu rapidamente me aproximo e passamos o resto da noite bebendo juntos.. [original_drunkard.GetSheHe|U] realmente sabe como se divertir!"
+
+ stress_trait_coping_decisions.1004.t:0 "Lidando com o Estresse: Manhãs Envergonhadas"
+ stress_trait_coping_decisions.1004.desc:0 "Acordo com a cabeça apoiada em um travesseiro macio e vários corpos quentes ao meu lado. Que noite deve ter sido! Eu mal consigo me lembrar–\n#EMP Baa!#!\n\n... Hum. Ao abrir os olhos, sou saudado por um olho semicerrado em um #EMP branco#! e #EMP fofo#! cara. De repente, meu travesseiro se levanta e se afasta, e meus companheiros adormecidos o seguem abruptamente. Eu sou deixado sozinho no feno."
+ stress_trait_coping_decisions.1004.a:0 "Nós iremos... Eu tive uma boa noite de ovelha - durma!"
+
+ stress_trait_coping_decisions.1501.t:0 "Lidando com o Estresse: Névoa Calmante"
+ stress_trait_coping_decisions.1501.desc:1 "Eu me reclino em meu assento enquanto pego casualmente outro bolo, o sabor suave enjoando em minha língua, uma névoa agradável lavando lentamente meus problemas.\nNão estive tão calmo nas #semanas da EMP#!. Apenas... estar aqui. Com esta travessa de bolos com cobertura de haxixe. É o bastante."
+ stress_trait_coping_decisions.1501.a:0 "Isso é tudo que eu preciso."
+
+ stress_trait_coping_decisions.2001.t:0 "Lidando com o Estresse: Maneiras Arbitrárias"
+ stress_trait_coping_decisions.2001.desc_woman:0 "Eu deito em um emaranhado de membros, [ROOT.Char.Custom('AttractionWomanManIndef')] em cima de mim, enquanto a liberação – e alívio – estremece através de mim."
+ stress_trait_coping_decisions.2001.desc_man:0 "Eu deito em um emaranhado de membros, [ROOT.Char.Custom('AttractionWomanManIndef')] montando em mim, enquanto a liberação - e alívio - estremece através de mim."
+ stress_trait_coping_decisions.2001.desc_ending:0 "\nMinha mente está mais calma do que nas semanas #EMP#!, mas ainda assim meu pulso dispara! Magnífico!"
+ stress_trait_coping_decisions.2001.a:0 "Mais uma vez. Venha aqui, [ROOT.Char.Custom('AttractionGirlBoyPlural')]!"
+
+ stress_trait_coping_decisions.2002.t:0 "Lidando com o Estresse: O Preço da Paixão"
+ stress_trait_coping_decisions.2002.desc_woman:0 "Eu acordo depois de uma noite incrível cheia de paixão. E aquele [ROOT.Char.Custom('AttractionWomanMan')], insistente em ficar até mais tarde do que qualquer outra pessoa, me satisfazendo até eu adormecer... #EMP Phew#!, it was an #EMP experience#!!"
+ stress_trait_coping_decisions.2002.desc_man:0 "Eu acordo depois de uma noite incrível cheia de paixão. E aquele [ROOT.Char.Custom('AttractionWomanMan')], insistente em ficar até mais tarde do que qualquer outra pessoa, montando em mim até eu adormecer... #EMP Phew#!, it was an #EMP experience#!!"
+ stress_trait_coping_decisions.2002.desc:0 "\nLevanto-me para me vestir, mas algo parece estar faltando. Algo bastante importante. Algo como #EMP todas as minhas coisas#!! O quarto é limpo, sem vestígios de roupas ou bolsa..\n\n"
+ stress_trait_coping_decisions.2002.desc_ending_rival:0 "No chão encontro um bilhete: #EMP "I hope you enjoyed the [ROOT.Char.Custom('AttractionWomanMan')] I sent you. Your rival, [rival.GetTitledFirstName]."#!"
+ stress_trait_coping_decisions.2002.desc_ending:0 "Oh, isso amaldiçoado [ROOT.Char.Custom('AttractionWomanMan')]!"
+ stress_trait_coping_decisions.2002.a:0 "Por favor... alguém... traga-me algumas roupas!"
+ stress_trait_coping_decisions.2002.b:0 "[rival.GetFirstNameNoTooltip]! sua cobra!"
+
+ stress_trait_coping_decisions.2501.t:0 "Lidando com o Estresse: Sozinho"
+ stress_trait_coping_decisions.2501.desc:0 "Fecho a porta atrás de mim e dou um passo para dentro da sala silenciosa. Eu respiro profundamente. E fora.\nDei ordem aos criados para não deixar ninguém me perturbar, não importa o que aconteça, e quando meus ombros relaxam, sei que era exatamente disso que eu precisava.."
+ stress_trait_coping_decisions.2501.a:0 "estou verdadeiramente em paz!"
+
+ stress_trait_coping_decisions.3001.t:0 "Lidando com o Estresse: Deixe-o Sair"
+ stress_trait_coping_decisions.3001.desc_vassal:1 ""[vassal.GetTitledFirstName], my dear [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('vassal'))]!" eu sorrio [ROOT.Char.Custom('quirk_neg_adverb')].\n\n"Were you born such [vassal.Custom('InsultAdjectiveArticle')] [vassal.Custom('InsultNoun')], or did that develop later in life?""
+ stress_trait_coping_decisions.3001.desc_has_vassals:0 "Assim que todos os vassalos estiverem sentados, e [vassal.GetTitledFirstName] começa a falar, eu sorrio [ROOT.Char.Custom('quirk_neg_adverb')].\n\n"[vassal.GetTitledFirstNameNoTooltip], sorry to interrupt, but why are you always such [vassal.Custom('InsultAdjectiveArticle')] [vassal.Custom('InsultNoun')]? And you, [vassal_2.GetTitledFirstName], were you born a [vassal_2.Custom('InsultNoun')], or did that develop later in life?""
+ stress_trait_coping_decisions.3001.desc_has_vassal:0 "Assim que todos estiverem sentados, e [vassal.GetTitledFirstName] começa a falar, eu sorrio [ROOT.Char.Custom('quirk_neg_adverb')].\n\n"[vassal.GetTitledFirstNameNoTooltip], sorry to interrupt, but why are you always such [vassal.Custom('InsultAdjectiveArticle')] [vassal.Custom('InsultNoun')]?""
+ stress_trait_coping_decisions.3001.desc:0 "Assim que o tribunal se reúne eu sorrio [ROOT.Char.Custom('quirk_neg_adverb')] – the time has come.\n\n"You, over there! Were you born such a churl, or did that come later in life?""
+ stress_trait_coping_decisions.3001.a_vassal:0 "o olhar sobre [vassal.GetHerHis] cara...!"
+ stress_trait_coping_decisions.3001.a:0 "E #EMP você#!! Não pense que não te vejo!"
+
+ stress_trait_coping_decisions.3501.t:0 "Lidando com o Estresse: Agonia Atarática"
+ stress_trait_coping_decisions.3501.desc:0 "#Rachadura EMP!#!\nO chicote cai nas minhas costas e estremeço com a clareza que ele traz. A dor é tudo o que eu sinto, e a dor é tudo o que está em minha mente.\n\n#Rachadura EMP!#!\n\n#Rachadura EMP!#!"
+ stress_trait_coping_decisions.3501.a:0 "Hng– Doce, doce dor!"
+
+ stress_trait_coping_decisions.4001.t:0 "Lidando com o estresse: o preço que pagamos"
+ stress_trait_coping_decisions.4001.desc:0 "Eu ando pelo mercado em [county.GetNameNoTierNoTooltip], tonta de emoção – tecidos, joias, linhas e bijuterias... eu quero tudo isso!\nEu acabo em uma barraca frequentada por um velho [ROOT.Char.Custom('RandomWomanMan')] que é muito compreensivo com minha situação e promete me ajudar a escolher."
+ stress_trait_coping_decisions.4001.a:0 "Dois disso. Não, espere. #EMP Três!#!"
+
+ stress_trait_coping_decisions.4501.t:0 "Lidando com o Estresse: O Dom de Dar"
+ stress_trait_coping_decisions.4501.desc:0 "eu me afasto do [ROOT.Char.GetFaith.HouseOfWorship] com uma bolsa leve e um coração mais leve.\nApenas o pensamento de todos os necessitados de que aquele dinheiro pode ajudar é o suficiente para me deixar tranquilo!"
+ stress_trait_coping_decisions.4501.a:0 "[ROOT.Char.GetFaith.HighGodName] é generoso!"
+
+ stress_trait_coping_decisions.5001.t:0 "Lidando com o Estresse: Confissão"
+ stress_trait_coping_decisions.5001.desc_opening:0 ""EU have gathered the court today because EU have something to confess."
+ stress_trait_coping_decisions.5001.desc_secret:0 "I... I [secret.Custom('SecretDescriptionFirstPerson')].""
+ stress_trait_coping_decisions.5001.desc_sin:0 "I... I do not resist my [ROOT.Char.Custom('SinfulTrait')|l] side as much as would be proper.""
+ stress_trait_coping_decisions.5001.desc:0 ""I... I have been plagued by sinful thoughts lately. Hear me out...""
+ stress_trait_coping_decisions.5001.desc_ending:0 "\nO murmúrio chocado que se espalha pela sala não atrapalha meu alívio.."
+ stress_trait_coping_decisions.5001.a:0 "EU feel so much lighter!"
+
+ stress_trait_coping_decisions.5002.desc:0 "I... I [secret.Custom('SecretDescriptionFirstPerson')]. No, wait... That wasn't me– it was [secret_character.GetTitledFirstName]!"\nO grito indignado do meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('secret_character'))] não faz nada para atrapalhar meu alívio."
+ stress_trait_coping_decisions.5002.a:0 "de qualquer maneira... me sinto muito mais leve!"
+
+ stress_trait_coping_decisions.5501.t:0 "Lidando com o Estresse: Coma!"
+ stress_trait_coping_decisions.5501.desc:0 "Como outro prato de [ROOT.Char.Custom('FavoriteTreat')] is placed before me EU feel myself relaxing.\nNada deixa a mente mais tranquila do que uma boa comida!"
+ stress_trait_coping_decisions.5501.a:0 "Traga-me mais [ROOT.Char.Custom('FavoriteTreat')]!"
+
+ stress_trait_coping_decisions.5502.t:0 "Lidando com o Estresse: Festa Surpresa"
+ stress_trait_coping_decisions.5502.desc:0 "As EU am waiting for the servers to prepare my meal I stumble upon a [ROOT.Char.Custom('lowly_servant_type')] nos corredores.\n\n[ROOT.Char.GetSheHe|U] tenta desculpar [ROOT.Char.GetHerselfHimself], mas não podemos ter isso agora, podemos? Acabei de encontrar a melhor refeição imaginável!\neu lidero [ROOT.Char.GetHerHim] no porão onde ninguém pode ouvir os gritos. E então eu #EMP festa#!!"
+ stress_trait_coping_decisions.5502.a:0 "E eu tenho sobremesa esperando por mim lá em cima!"
+
+ stress_trait_coping_decisions.6001.t:0 "Lidando com o Estresse: Abandonar a Comida"
+ stress_trait_coping_decisions.6001.desc:0 ""Inform the cook that I will not, for the foreseeable future, partake in the meals."\nAssim que as palavras saem da minha boca, sinto-me mais leve - sem mais distrações, sem precisar engolir comida que mal consigo suportar! Agora posso me concentrar no que é importante."
+ stress_trait_coping_decisions.6001.a:0 "Sim, isso é bom."
+
+ stress_trait_coping_decisions.6501.t:0 "Lidando com o estresse: tinta fluindo"
+ stress_trait_coping_decisions.6501.desc:0 "Pego uma caneta e abro meu diário.\nA cada frase que enfeita o papel, sinto meus ombros relaxarem – a clareza que esse processo traz é incomparável!"
+ stress_trait_coping_decisions.6501.a:0 "Eu mergulho minha caneta mais uma vez..."
+
+ stress_trait_coping_decisions.7001.t:0 "Lidando com o Estresse: Confiando"
+ stress_trait_coping_decisions.7001.desc:1 "Depois de uma longa conversa com meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('confidant'))] [confidant.GetTitledFirstName] Eu posso sentir meus pensamentos se acalmando."
+ stress_trait_coping_decisions.7001.desc_ending:2 "\nNo entanto, ao retornar ao tribunal, posso ver a inveja nos rostos dos cortesãos.... Afinal, quem não gostaria de ter [confidant.GetFirstNamePossessive] Confiar em?"
+ stress_trait_coping_decisions.7001.a:0 "Minha mente está à vontade embora."
+
+ stress_trait_coping_decisions.7002.desc:0 "Depois de uma conversa longa e exaustiva, posso sentir meus pensamentos se acalmando."
+
+ stress_trait_coping_decisions.activity:0 "Lidando com o Estresse:"
+ stress_trait_coping_decisions.7501.t:1 "$stress_trait_coping_decisions.activity$ suar"
+ stress_trait_coping_decisions.7501.desc:0 "Enquanto termino mais uma volta em volta do meu [ROOT.Char.Custom('ResidenceBuilding')] Já posso sentir minhas preocupações escorrendo de mim junto com o suor.\nAlgumas pessoas dizem que corro dos meus problemas, mas eu digo que corro em busca de soluções!"
+ stress_trait_coping_decisions.7501.a:0 "outra volta!"
+
+ stress_trait_coping_decisions.7502.t:0 "$stress_trait_coping_decisions.activity$ Mais pesado é mais"
+ stress_trait_coping_decisions.7502.desc:0 "'This is not enough!' I think to myself, as I put down the training [ROOT.Char.Custom('signature_weapon')]. Tenho praticado sem parar, mas não estou ficando cansado — preciso de um desafio mais difícil!\nSim... algo maior... ou talvez mais pesado!\nAlgo certo para me cansar!"
+ stress_trait_coping_decisions.7502.a:0 "[random_artifact.GetNameNoTooltip] vai ter que fazer!"
+ stress_trait_coping_decisions.7502.b:0 "Vou encomendar um treinamento extrapesado [ROOT.Char.Custom('signature_weapon')]."
+ stress_trait_coping_decisions.7502.c:0 "[lifted_child.GetFirstNameNoTooltip], Venha pra cá!"
+ stress_trait_coping_decisions.7502.c.flavor:0 "Suba você!"
+ stress_trait_coping_decisions.7502.d:0 "Não há necessidade de melhorias neste momento."
+ stress_trait_coping_decisions.7502.success:0 "O desafio extra revigora você"
+ stress_trait_coping_decisions.7502.failure:0 "Você superestima sua própria força"
+
+ stress_trait_coping_decisions.7503.t:0 "$stress_trait_coping_decisions.activity$ Competição Amigável"
+ stress_trait_coping_decisions.7503.desc:0 "Estou no meio do meu treinamento quando vejo [random_knight.GetTitledFirstName], também se exercitando. eu olho [random_knight.GetHerHim] para cima e para baixo - não só [random_knight.GetSheHe] aparentam estar com boa saúde, mas também no auge da forma física. Eu adoraria medir minha proeza contra [random_knight.GetHerHis], mas de que maneira?\nDevo levar vários fatores em consideração se quiser ganhar? Força bruta ou uma mistura que pode incluir resistência ou inteligência?"
+ stress_trait_coping_decisions.7503.a:0 "Sugira que vocês dois lutem."
+ stress_trait_coping_decisions.7503.a.tt:0 "Você acha que dominar por pura destreza vai ganhar"
+ stress_trait_coping_decisions.7503.b:0 "Desafio [random_knight.GetHerHim] para uma partida de sparring."
+ stress_trait_coping_decisions.7503.b.tt:0 "Você acha que uma mistura de proeza e marcial levará à vitória"
+ stress_trait_coping_decisions.7503.c:0 ""How about a foot race?""
+ stress_trait_coping_decisions.7503.c.tt:0 "Você acha que uma mistura de proeza e saúde o ajudará a superar a concorrência"
+ stress_trait_coping_decisions.7503.d:0 "Concentre-se em terminar seu regime regular de treinamento."
+ stress_trait_coping_decisions.7503.success:0 "Você sai vitorioso!"
+ stress_trait_coping_decisions.7503.failure:0 "[random_knight.GetTitledFirstNameNoTooltip] ganha o desafio"
+
+ stress_trait_coping_decisions.7504.desc:0 "Às vezes é difícil encontrar motivação para permanecer consistente ao me exercitar sozinho.\nEu poderia tentar encontrar um parceiro, que então não apenas me motivaria nos dias ruins, mas também seria alguém com quem eu poderia me comparar ao acompanhar meu próprio progresso.\nQue tipo de companheiro seria mais adequado para mim? Alguém que eu possa admirar, alguém para me manter na ponta dos pés, ou talvez alguém que eu saiba que nunca deveria aspirar a ser?"
+ stress_trait_coping_decisions.7504.a:0 "Eu deveria treinar com alguém cuja proeza eu invejo. Curti [ideal_character.GetFirstNameNoTooltip]!"
+ stress_trait_coping_decisions.7504.b:0 "[similar_character.GetFirstNameNoTooltip] tem um físico semelhante e pode imitar minha rotina."
+ stress_trait_coping_decisions.7504.c:0 "Assistindo [not_ideal_character.GetFirstNameNoTooltip] a luta será motivadora."
+ stress_trait_coping_decisions.7504.d:0 "Não há necessidade de companhia durante o treinamento."
+

@@ -1,0 +1,21 @@
+﻿l_english:
+ # 
+ CULTURAL_ACCEPTANCE_IS:0 "o [cultural_acceptance|E] entre [CULTURE.GetName|U] e [TARGET_CULTURE.GetName|U] é $NUM|V0$"
+ CULTURAL_ACCEPTANCE_IS_NOT:0 "o [cultural_acceptance|E] entre [CULTURE.GetName|U] e [TARGET_CULTURE.GetName|U] é #bold não#! $NUM|V0$"
+ GLOBAL_CULTURAL_ACCEPTANCE_IS:0 "[cultural_acceptance|E] de [CULTURE.GetName|U] é $NUM|V0$"
+ GLOBAL_CULTURAL_ACCEPTANCE_IS_NOT:0 "[cultural_acceptance|E] de [CULTURE.GetName|U] é #bold não#! $NUM|V0$"
+
+ CULTURAL_ACCEPTANCE_IS_AT_LEAST:0 "o [cultural_acceptance|E] entre [CULTURE.GetName|U] e [TARGET_CULTURE.GetName|U] é pelo menos $NUM|V0$"
+ CULTURAL_ACCEPTANCE_IS_LESS_THAN:0 "o [cultural_acceptance|E] entre [CULTURE.GetName|U] e [TARGET_CULTURE.GetName|U] é menor que $NUM|V0$"
+ GLOBAL_CULTURAL_ACCEPTANCE_IS_AT_LEAST:1 "[cultural_acceptance|E] de [TARGET_CULTURE.GetName|U] é pelo menos $NUM|V0$"
+ GLOBAL_CULTURAL_ACCEPTANCE_IS_LESS_THAN:1 "[cultural_acceptance|E] de [TARGET_CULTURE.GetName|U] é menor que $NUM|V0$"
+
+ CULTURE_AGE_IS:0 "[CULTURE.GetName|U] é $NUM|V0$ anos"
+ CULTURE_AGE_IS_NOT:0 "[CULTURE.GetName|U] é #bold not#! $NUM|V0$ anos"
+ GLOBAL_CULTURE_AGE_IS:0 "[culture|E] is $NUM|V0$ anos"
+ GLOBAL_CULTURE_AGE_IS_NOT:0 "[culture|E] is #bold not#! $NUM|V0$ anos"
+
+ CULTURE_AGE_IS_AT_LEAST:0 "[CULTURE.GetName|U] é pelo menos $NUM|V0$ anos"
+ CULTURE_AGE_IS_LESS_THAN:0 "[CULTURE.GetName|U] é menos do que $NUM|V0$ anos"
+ GLOBAL_CULTURE_AGE_IS_AT_LEAST:0 "[culture|E] é pelo menos $NUM|V0$ anos"
+ GLOBAL_CULTURE_AGE_IS_LESS_THAN:0 "[culture|E] é menos do que $NUM|V0$ anos"

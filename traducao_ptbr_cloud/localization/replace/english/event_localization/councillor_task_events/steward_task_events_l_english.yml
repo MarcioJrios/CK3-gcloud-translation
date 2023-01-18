@@ -1,0 +1,111 @@
+﻿l_english:
+
+ steward_task.0001.t:0 "Condado de De Jure convencido"
+ steward_task.0001.desc:0 "Notícias graves chegaram até mim hoje: o povo de [county.GetNameNoTier] reivindicar sua pertença ao mais grandioso e prestigioso [councillor_liege.GetPrimaryTitle.GetNameNoTierNoTooltip]!\nInfluenciado pelas promessas suaves de [councillor.GetTitledFirstName] e seduzida pelo esplendor de [councillor_liege.GetTitledFirstNamePossessive] tribunal, eles agora esperam que eu simplesmente entregue o condado ao meu vizinho intrometido!\nEu deveria considerar meu próximo passo com cuidado. Perder terras nunca é o ideal, mas os habitantes locais ficarão extremamente descontentes comigo se eu não os deixar ir."
+ steward_task.0001.a:0 "Eu não tenho escolha. eu vou conceder isso."
+ steward_task.0001.b:0 "Ultrajante! eu não vou permitir isso!"
+ steward_task.0001.liege_changed:0 "Liberado para De Jure Liege"
+ steward_task.0001.liege_changed.tt:0 "seu suserano [ROOT.Char.GetTitledFirstName] cedeu aos protestos de seus súditos e liberou o [county.GetNameNoTooltip] ao seu governante De Jure, seu novo suserano [councillor_liege.GetTitledFirstName]."
+ steward_task.0001.county_loss.tt:0 "seu suserano [ROOT.Char.GetTitledFirstName] cedeu aos protestos de seus súditos e liberou o [county.GetNameNoTooltip] ao seu governante De Jure, [councillor_liege.GetTitledFirstName]. Você não controla mais o condado!"
+
+ steward_task.0002.t:0 "Condado de De Jure liberado!"
+ steward_task.0002.desc:0 "Parece que os esforços do meu [councillor.GetCouncilTitle] no [county.GetName] finalmente valeu a pena!\nA população local foi persuadida por [councillor.GetTitledFirstNamePossessive] língua de prata e influenciado pelo prestígio da minha corte. Diante do descontentamento de todo o concelho, [previous_owner.GetTitledFirstName] escolheu o caminho de menor resistência e liberou [county.GetNameNoTierNoTooltip].\nO condado agora pertence ao seu suserano De Jure, eu mesmo!"
+ steward_task.0002.a:0 "Bom trabalho, [councillor.GetFirstNameNoTooltip]!"
+
+ steward_task.0003.t:0 "Convencer o território De Jure falha!"
+ steward_task.0003.desc:0 "Parece que os esforços do meu [councillor.GetCouncilTitle] no [county.GetName] foram em vão.\nA população local, persuadida por [councillor.GetTitledFirstNamePossessive] língua de prata e influenciados pelo prestígio de minha corte, protestaram veementemente contra seu governante ilegítimo, [previous_owner.GetTitledFirstName], mas em vão.\nEmbora o descontentamento local ainda possa torná-lo uma presa fácil para nós, meu plano diplomático foi frustrado. Por agora."
+ steward_task.0003.a:0 "Maldito seja, [previous_owner.GetFirstNameNoTooltip]!"
+
+ steward_task.1101.t:0 "Melhoria Tributária"
+ steward_task.1101.desc:0 "Como meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor'))] lista feudo após feudo, seu valor e suas obrigações pagas, paro [councillor.GetHerHim] quando de repente ouço uma soma que #EMP tem#! ser um erro.\n"You have brought in HOW much from the [county.GetName]?!"\n\n[councillor.GetFirstName] sorrisos. "I thought you would be pleased to hear, my [ROOT.Char.GetLadyLord].""
+ steward_task.1101.a:2 "De [ROOT.Char.GetFaith.WealthGodName], claro que estou satisfeito!"
+ steward_task.1101.b:0 "Ahaha! Dia do pagamento!"
+ steward_task.1101.notification:0 "Impostos Adicionais"
+
+ steward_task.1001.t:0 "Aliviando seu próprio fardo"
+ steward_task.1001.opening:0 "Parece que o esforço do meu [councillor.GetCouncilTitle] para melhorar a arrecadação de impostos teve alguns efeitos colaterais infelizes."
+ steward_task.1001.end:0 "\nBandidos surgiram no [county.GetName], alegando que com os novos impostos, o roubo é a única forma de alimentar suas famílias."
+ steward_task.1001.a:0 "Mais cedo ou mais tarde eles vão comer aço!"
+ steward_task.1001.notification:0 "Excesso de impostos causa banditismo"
+
+ steward_task.1002.end:0 "\nO povo do [county.GetName] começaram a esconder membros da família e animais de fazenda de [councillor.GetTitledFirstName] e meus outros avaliadores!"
+ steward_task.1002.a:0 "Devemos conhecê-los para tributá-los, [councillor.GetFirstNameNoTooltip]!"
+ steward_task.1002.notification:0 "Censo inútil"
+
+ steward_task.1003.end:0 "\nCom as novas taxas introduzidas, muitas pessoas no [county.GetName] estão se recusando a confiar em meus árbitros para resolver disputas!"
+ steward_task.1003.a:0 "Você está perdendo o controle, [councillor.GetFirstNameNoTooltip]?"
+ steward_task.1003.notification:0 "Nenhum xerife nomeado"
+
+ steward_task.1004.end:0 "\nCom as novas portagens introduzidas no [county.GetName], mais e mais pessoas estão se voltando para o contrabando em vez do comércio legal!"
+ steward_task.1004.a:0 "Eles estão praticamente roubando do [ROOT.Char.GetTitleTierName]'s pockets!"
+ steward_task.1004.notification:0 "Tarifas Excessivas"
+
+ steward_task.2001.t:0 "Falta de Trabalhadores"
+ steward_task.2001.desc:0 "Os camponeses estão reclamando da interferência do meu [councillor.GetCouncilTitle] no [county.GetName]! [councillor.GetTitledFirstNamePossessive] desvio de trabalhadores de todo o [county.GetTitleTierName] significa que outros projetos de construção já em andamento raramente são concluídos."
+ steward_task.2001.a:0 "Você não pode sacrificar tudo para esta tarefa, [councillor.GetFirstNameNoTooltip]!"
+ steward_task.2001.notification:0 "Desenvolvimento Mal Gerenciado"
+
+ steward_task.2002.desc:0 "Minha querida [councillor.Custom2('RelationToMe', ROOT.Char)],Meus esforços para ajudar o [county.GetName], e orientar o desenvolvimento contínuo da terra lá, foi mal recebido. Na verdade, pode-se dizer que os camponeses estão pedindo, bem, meu "head on a pike", por assim dizer. Parte dessa raiva parece ser dirigida a você também, mesmo que tudo seja totalmente injustificado.."
+ steward_task.2002.a:0 "[councillor.GetFirstNameNoTooltip]! O que você fez?!"
+ steward_task.2002.notification:0 "População mal administrada"
+
+ steward_task.2003.t:0 "Perda de controle"
+ steward_task.2003.desc:0 "Por todos os bons esforços do meu [councillor.GetCouncilTitle] estabelecer novos feudos no [county.GetName], as coisas parecem ter saído do controle. Com tanto movimento de pessoas, [councillor.GetTitledFirstName] parece não saber quais partes do [county.GetTitleTierName] já estão assentados e quais estão previstos para desmatamento. De fato, parece que ninguém sabe!"
+ steward_task.2003.a:0 "Tenha a situação sob controle, [councillor.GetFirstNameNoTooltip]!"
+ steward_task.2003.notification:0 "Perda de controle"
+
+ steward_task.2101.t:0 "Tributação Eficiente"
+ steward_task.2101.desc:0 "Com [councillor.GetTitledFirstName], minha [councillor.GetCouncilTitle], orientando o assentamento e a limpeza de terras no [county.GetName], [councillor.GetSheHe] tem uma visão clara não apenas dos novos feudos, mas também dos que existiam antes.\nDe acordo com [councillor.GetHerHim], nossos registros fiscais nunca foram tão detalhados!"
+ steward_task.2101.a:0 "Você sabe o que fazer, [councillor.GetFirstNameNoTooltip]!"
+ steward_task.2101.notification:0 "Impostos municipais eficientes"
+
+ steward_task.2102.t:0 "Maior controle"
+ steward_task.2102.desc:0 "Orientando o assentamento de novos feudos no [county.GetName] requer meu [councillor.GetCouncilTitle] exercer um grau de controle maior do que o que tem sido tradicional para as pessoas de lá.\nagradecidamente [councillor.GetTitledFirstName] merece grande respeito, e a administração fortalecida no [county.GetTitleTierName] me beneficia em mais de uma maneira."
+ steward_task.2102.a:0 "Lembre-os de todos os [ROOT.Char.GetTitleTierName] quem os governa."
+ steward_task.2102.notification:0 "Maior Controle"
+
+ steward_task.3001.t:0 "Resistência aos colonos"
+ steward_task.3001.desc:0 "Muitos dos novos [ROOT.Char.GetCulture.GetName] colonos no [county.GetName] têm lutado. No [county.GetNameNoTier], os colonos não são apenas ignorados por suas comunidades, mas houve ataques diretos a várias fazendas!"
+ steward_task.3001.a:0 "[ROOT.Char.GetCulture.GetName] colonos devem ser respeitados!"
+ steward_task.3001.notification:0 "Resistência aos colonos"
+
+ steward_task.3002.t:0 "Resistência à Administração"
+ steward_task.3002.desc:0 "[councillor.GetTitledFirstName] está enfrentando problemas inesperados no [county.GetName]. Os locais estão se recusando a cooperar com o novo [ROOT.Char.GetCulture.GetName] administração. As reclamações vêm de que os esforços do meu [councillor.GetCouncilTitle] são muito mais perturbadores do que úteis."
+ steward_task.3002.a:0 "Isso tudo é necessário, eu tenho medo."
+ steward_task.3002.notification:0 "[ROOT.Char.GetCulture] Administração falha"
+ 
+ steward_task.3101.t:0 "Bem-vindo Administração"
+ steward_task.3101.desc:0 "Minhas [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], tem trabalhado para estabelecer uma administração construída sobre [ROOT.Char.GetCulture.GetName] princípios no [county.GetName].\n\n[councillor.GetHerHis|U] os esforços parecem ser bem recebidos entre os habitantes locais, pois suas vidas estão se tornando mais fáceis e seguras."
+ steward_task.3101.a:0 "Eu estava certo em colocar minha confiança em [councillor.GetTitledFirstName]!"
+ steward_task.3101.notification:0 "[ROOT.Char.GetCulture] Administração bem-vinda"
+
+ steward_task.3102.t:0 "Gestão apreciada"
+ steward_task.3102.desc:1 "Minhas [councillor.GetCouncilTitle], [councillor.GetTitledFirstName], tem trabalhado para melhorar a administração do [county.GetName] introduzindo ideias baseadas em [ROOT.Char.GetCulture.GetName] tradições.\nCom uma gestão hábil do [county.GetTitleTierName], os proprietários de terras locais não parecem se importar com um leve aumento nos impostos."
+ steward_task.3102.a:0 "Mais ouro nos cofres é sempre bom!"
+ steward_task.3102.notification:0 "[ROOT.Char.GetCulture] Administração"
+
+ steward_task.3103.t:0 "Regimentos Fortalecidos"
+ steward_task.3103.desc:0 "Algo estranho aconteceu, graças a [councillor.GetTitledFirstNamePossessive] esforços para introduzir [ROOT.Char.GetCulture.GetName] colonos em [county.GetNameNoTier].\nOs habitantes locais parecem ter desenvolvido uma maior compreensão de sua parte do reino e, quando chega a hora de lutar por ela, cada aldeia faz o que pode para enviar seus melhores [ROOT.Char.Custom('LevyMenWomen')] servir. De fato, alguns camponeses se recrutam voluntariamente!"
+ steward_task.3103.a:0 "Agora eu vi tudo."
+ steward_task.3103.notification:0 "[ROOT.Char.GetCulture] Voluntários da Levy"
+
+ steward_task.3201.notification:0 "Maior Autonomia"
+ steward_task.3202.notification:0 "Isenção de imposto cultural concedida"
+ steward_task.3203.notification:0 "Tradições Arcaicas Protegidas"
+ steward_task.3301.notification:0 "Compreensão cultural alcançada"
+ steward_task.3302.notification:0 "Aberturas diplomáticas apreciadas"
+ steward_task.3303.notification:0 "Curiosidade cultural despertada"
+
+ steward_task.4001.opening:0 "[county_liege.Custom2('AppropriateGreeting', ROOT.Char)]"
+ steward_task.4001.desc:0 "Ficou claro que seu [councillor.GetCouncilTitle] está trabalhando para encantar o [county.GetName] e para incitá-lo contra mim. Não pense que esse tipo de ação desonrosa ficará sem resposta."
+ steward_task.4001.a:0 "Mas eu tenho um #EMP legítimo#! reivindique isso!"
+
+ steward_task.4002.t:0 "Perda de Prestígio"
+ steward_task.4002.desc:0 "[councillor.GetTitledFirstName] está enfrentando problemas inesperados no [county.GetName]. Os habitantes locais não se impressionam com nossas tentativas de conquistá-los."
+ steward_task.4002.a:0 "Eles vão entender, mais cedo ou mais tarde."
+ steward_task.4002.notification:0 "Perda de Prestígio"
+
+ steward_task.4101.t:0 "Prestígio adquirido"
+ steward_task.4101.desc:0 "[councillor.GetTitledFirstNamePossessive] missão no [county.GetName] está começando a dar resultados. Os locais estão impressionados com nossos esforços e nos olham com bons olhos."
+ steward_task.4101.a:0 "Excelente resultado!"
+ steward_task.4101.notification:0 "Prestígio adquirido"

@@ -1,0 +1,21 @@
+﻿l_english:
+ faith_conversion.1001.t:0 "Conversão"
+ faith_conversion.1001.start:0 "Com a minha decisão de me converter [new_faith.GetName], Eu arranjei um [new_faith.PriestNeuter] para vir à minha corte e conduzir os ritos.\n\n"
+ faith_conversion.1001.desc:0 "Com o destino da minha alma imortal em questão, só posso rezar para ter tomado a decisão certa..\nMetafísica de lado,"
+ faith_conversion.1001.desc.zealous:0 "Como [template_priest.GetSheHe] recita versos do [new_faith.ReligiousText] Eu posso #EMP sentir#! minha convicção queimando mais forte dentro de mim - não há dúvida em minha mente de que escolhi o caminho certo.\nNão importa quão forte seja meu zelo,"
+ faith_conversion.1001.desc.zealous.carnal_male:0 "Como [template_priest.GetSheHe] recita versos do [new_faith.ReligiousText] Eu posso #EMP sentir#! minha convicção aumentando de tamanho - não tenho dúvidas de que escolhi o caminho certo.\nNão importa quão forte seja meu zelo,"
+ faith_conversion.1001.desc.zealous.carnal_female:0 "Como [template_priest.GetSheHe] recita versos do [new_faith.ReligiousText] Eu posso #EMP sentir#! minha convicção latejando dentro de mim - não tenho dúvidas de que escolhi o caminho certo.\nNão importa quão forte seja meu zelo,"
+
+ faith_conversion.1001.desc.compassionate:0 "Com o destino de minha alma imortal em questão - assim como as almas de meus súditos - rezo para ter tomado a decisão certa..\nMetafísica de lado,"
+ faith_conversion.1001.desc.reincarnation:0 "Com a vida da minha próxima encarnação em questão, rezo para ter tomado a decisão certa.\nMetafísica de lado,"
+ faith_conversion.1001.desc.cynical:0 "Embora eu realmente não acredite na bobagem que o [new_faith.PriestNeuter] bicos, havia vantagens políticas suficientes para a conversão que eu sabia que precisava fazer isso mais cedo ou mais tarde.\nIndependente dos meus motivos, "
+
+ faith_conversion.1001.end.is_vassal.convert_away:0 "minha preocupação mais imediata é temporal - como [my_liege.Custom2('MyCharacterIntroduction', ROOT.Char)] reagir ao saber que rejeitei [my_liege.GetHerHis] fé?"
+ faith_conversion.1001.end.is_vassal.convert_to:0 "Posso dar um suspiro de alívio ao saber que [my_liege.Custom2('MyCharacterIntroduction', ROOT.Char)] não será mais capaz de manter minha fé contra mim."
+ faith_conversion.1001.end.is_top_liege.convert_away:0 "minha preocupação mais imediata é temporal - com a maioria dos meus vassalos seguindo uma fé diferente, serei capaz de manter meu reino unido contra rebeliões internas e oportunistas estrangeiros??"
+ faith_conversion.1001.end.is_top_liege.convert_to:0 "Posso ter conforto em saber que a maior parte do meu reino está unida sob [new_faith.PantheonTerm], um verdadeiro [new_faith.GetAdjectiveNoTooltip] reino."
+
+ faith_conversion.1001.a:0 "Glória a [ROOT.Char.GetFaith.HighGodName]!"
+ faith_conversion.1001.b:0 "pelo menos eu tenho [template_priest.GetFirstNameNoTooltip] para me guiar..."
+
+ faith_conversion.1101.toast:0 "Liege Fé Convertida"

@@ -1,0 +1,36 @@
+﻿l_english:
+
+##################################################
+# Uniques
+
+ fp2_chalice_dona_urraca:0 "Cálice de Dona Urraca"
+ fp2_chalice_dona_urraca_desc:0 "Um cálice ritual esculpido no ônix mais profundo e incrustado com joias e treliças de ouro. Comissionado por [owner.GetTitledFirstName] honrar a Igreja."
+
+ fp2_santiago_aquamanile:0 "(Former) $fp2_santiago_bells$"
+ # We have to use |U here so that al-Mansur is presented correctly.
+ fp2_santiago_aquamanile_desc:0 "[reforger.GetTitledFirstName|U] forjou esses jarros da escória derretida do $fp2_santiago_bells$. Embora agora usados para limpar ritualmente as mãos de seus donos, sua mera existência confirma a primazia do Islã sobre o Cristianismo.."
+ fp2_santiago_aquamanile_melted_desc:0 "Derretido #EMP novamente#!, mais recentemente por [reforger.GetTitledFirstName], o antigo $fp2_santiago_bells$ são alguns dos jarros de água mais disputados que existem. Sua forma atual proclama a primazia do Islã na Península Ibérica."
+ fp2_santiago_aquamanile_melted_tally_desc:0 "$fp2_santiago_aquamanile_melted_desc$\nO metal frequentemente forjado mudou de mãos [ROOT.Var('artefact_santiago_bells').GetValue] vezes."
+
+ fp2_santiago_bells:0 "Sinos de Santiago"
+ fp2_santiago_bells_desc:0 "Os ilustres Sinos de Santiago de Compostela são um forte, simples e sobretudo #EMP alto#! lembrete da imutável autoridade espiritual de São Tiago."
+ fp2_santiago_bells_melted_desc:0 "Recuperados das mãos do infiel, derretidos e devolvidos a algo como sua forma original por [reforger.GetTitledFirstName], os ilustres Sinos de Santiago de Compostela tocam para confortar toda a cristandade."
+ fp2_santiago_bells_melted_tally_desc:0 "$fp2_santiago_bells_melted_desc$\nO metal frequentemente forjado mudou de mãos [ROOT.Var('artefact_santiago_bells').GetValue] vezes."
+
+##################################################
+# Multiples
+
+ fp2_armillary_sphere:0 "Esfera Armilar"
+ fp2_armillary_sphere_desc:0 "Um intrincado dispositivo astrológico de [SCOPE.Custom('ArtifactQuality')] artesanato. Os anéis são esculpidos em [newly_created_artifact.GetFeatureText( 'generic_material_wood' )] incrustado com [newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )], e modele os caminhos sinuosos do empíreo com detalhes maravilhosos."
+
+ fp2_2p_chess_board:0 "Tabuleiro de Xadrez da Sorte"
+ fp2_2p_chess_board_desc:0 "Instrumental em um jogo de sucesso retumbante contra [bg_loser.GetTitledFirstName], esta ferramenta de lazer trouxe pela primeira vez sua sorte patenteada para [bg_victor.GetTitledFirstName]."
+
+ fp2_4p_chess_board:0 "Tabuleiro de Xadrez para Quatro Jogadores"
+ fp2_4p_chess_board_desc:0 "Quando [bg_victor.GetTitledFirstName] bater [bg_loser.GetTitledFirstName] no xadrez, [bg_victor.GetHerHis] primeiro pensamento foi comemorar [bg_victor.GetHerHis] proeza de jogo criando uma variante melhorada tão específica que [bg_victor.GetSheHe] nunca consegui ninguém para jogá-lo."
+
+ fp2_votive_crowns:0 "Coroa Votiva Visigótica"
+ fp2_votive_crowns_desc:0 "Projetado para ser pendurado sobre ou ao redor de altares de igrejas e, ocasionalmente, em estátuas, oferecer uma coroa votiva a Deus é expressar submissão diante de uma autoridade superior a qualquer mero rei.."
+
+ fp2_andalusian_aquamanile:0 "Ritual Aquamanile"
+ fp2_andalusian_aquamanile_desc:0 "Um bonito [newly_created_artifact.GetFeatureText( 'goblet_material' )] jarro, com decorações de talha dourada [newly_created_artifact.GetFeatureText( 'decoration_material_inlay' )], destinado a conter água para lavar ritualmente as mãos."

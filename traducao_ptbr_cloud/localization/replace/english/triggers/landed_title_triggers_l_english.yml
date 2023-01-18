@@ -1,0 +1,89 @@
+﻿l_english:
+
+ RECENT_HISTORY_TRIGGER:1 "Era $HISTORY|V$ recentemente (dentro $DURATION$)"
+ NOT_RECENT_HISTORY_TRIGGER:1 "Was #bold not#! $HISTORY|V$ recentemente (dentro $DURATION$)"
+ RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! era $HISTORY|V$ recentemente (dentro de $DURATION$)"
+ NOT_RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! was #bold not#! $HISTORY|V$ recentemente (dentro de $DURATION$)"
+
+ IS_CONTESTED_TRIGGER:0 "é disputado em um [war|E]."
+ NOT_IS_CONTESTED_TRIGGER:0 "É #ousado não#! disputado em um [war|E]."
+ IS_CONTESTED_TRIGGER_THIRD:0 "#V [TITLE.GetName]#! é disputado em um [war|E]."
+ NOT_IS_CONTESTED_TRIGGER_THIRD:0 "#V [TITLE.GetName]#! é #bold não#! disputado em um [war|E]."
+
+ PLACE_IN_LINE_OF_SUCCESSION_TRIGGER:0 "O lugar na linha de sucessão é $OPERATOR$ $VALUE|V0$"
+ NOT_PLACE_IN_LINE_OF_SUCCESSION_TRIGGER:0 "Place in line of succession is #bold not#! $OPERATOR$ $VALUE|V0$"
+ PLACE_IN_LINE_OF_SUCCESSION_TRIGGER_THIRD:0 "[CHARACTER.GetShortUINamePossessive|V] lugar na linha de sucessão é $OPERATOR$ $VALUE|V0$"
+ NOT_PLACE_IN_LINE_OF_SUCCESSION_TRIGGER_THIRD:0 "[CHARACTER.GetShortUINamePossessive|V] place in line of succession is #bold not#! $OPERATOR$ $VALUE|V0$"
+
+ PLACE_IN_LINE_OF_SUCCESSION_RANGE_TRIGGER:0 "O lugar na linha de sucessão é entre $MINVALUE|V0$ e $MAXVALUE|V0$"
+ NOT_PLACE_IN_LINE_OF_SUCCESSION_RANGE_TRIGGER:0 "O lugar na linha de sucessão é #bold, não#! entre $MINVALUE|V0$ e $MAXVALUE|V0$"
+ PLACE_IN_LINE_OF_SUCCESSION_RANGE_TRIGGER_THIRD:0 "[CHARACTER.GetShortUINamePossessive|V] lugar na linha de sucessão é entre $MINVALUE|V0$ e $MAXVALUE|V0$"
+ NOT_PLACE_IN_LINE_OF_SUCCESSION_RANGE_TRIGGER_THIRD:0 "[CHARACTER.GetShortUINamePossessive|V] lugar na linha de sucessão é #bold não#! entre $MINVALUE|V0$ e $MAXVALUE|V0$"
+
+ TITLE_TIER_TRIGGER:0 "A classificação é $COMPARATOR$ $TIER|V$"
+ TITLE_TIER_TRIGGER_THIRD:0 "[TITLE.GetName]'s Rank is $COMPARATOR$ $TIER|V$"
+
+
+
+
+ ROME_HOLDER_IS_CORRECT_FAITH:0 "Roma está sob [CHARACTER.GetFaith.GetAdjective] regra"
+ ROME_HOLDER_IS_NOT_CORRECT_FAITH:0 "Roma não está sob [CHARACTER.GetFaith.GetAdjective] regra"
+
+ ALEXANDRIA_HOLDER_IS_CORRECT_FAITH:0 "Alexandria está sob [CHARACTER.GetFaith.GetAdjective] regra"
+ ALEXANDRIA_HOLDER_IS_NOT_CORRECT_FAITH:0 "Alexandria não está sob [CHARACTER.GetFaith.GetAdjective] regra"
+
+ JERUSALEM_HOLDER_IS_CORRECT_FAITH:0 "Jerusalém está sob [CHARACTER.GetFaith.GetAdjective] regra"
+ JERUSALEM_HOLDER_IS_NOT_CORRECT_FAITH:0 "Jerusalém não está sob [CHARACTER.GetFaith.GetAdjective] regra"
+
+ ANTIOCHEIA_HOLDER_IS_CORRECT_FAITH:0 "Antioquia está sob [CHARACTER.GetFaith.GetAdjective] regra"
+ ANTIOCHEIA_HOLDER_IS_NOT_CORRECT_FAITH:0 "Antioquia não está sob [CHARACTER.GetFaith.GetAdjective] regra"
+
+ BYZANTION_HOLDER_IS_CORRECT_FAITH:0 "Constantinopla está sob [CHARACTER.GetFaith.GetAdjective] regra"
+ BYZANTION_HOLDER_IS_NOT_CORRECT_FAITH:0 "Constantinopla não está sob [CHARACTER.GetFaith.GetAdjective] regra"
+
+
+ HRE_HOLDER_IS_OF_MY_DYNASTY:0 "O governante do Sacro Império Romano pertence ao [CHARACTER.GetDynastyName] dinastia"
+ HRE_HOLDER_IS_NOT_OF_MY_DYNASTY:0 "O governante do Sacro Império Romano não pertence ao [CHARACTER.GetDynastyName] dinastia"
+
+ I_HAVE_THE_TITLE:1 "Você tem a [title|E] [TARGET_TITLE.GetNameNoTier]"
+ I_DO_NOT_HAVE_THE_TITLE:1 "Você faz #ousado não#! tenha o [title|E] [TARGET_TITLE.GetNameNoTier]"
+ HAS_THE_TITLE:0 "Tem o [title|E] [TARGET_TITLE.GetNameNoTier]"
+ DOES_NOT_HAVE_THE_TITLE:0 "#bold não#! tenha o [title|E] [TARGET_TITLE.GetNameNoTier]"
+ CHARACTER_HAS_THE_TITLE:0 "[CHARACTER.GetShortUIName|U] tem o [title|E] [TARGET_TITLE.GetNameNoTier]"
+ CHARACTER_DOES_NOT_HAVE_THE_TITLE:0 "[CHARACTER.GetShortUIName|U] #bold não#! tenha o [title|E] [TARGET_TITLE.GetNameNoTier]"
+
+ 
+
+ MY_PRIMARY_TITLE_IS:1 "Sua [primary_title|E] é [TARGET_TITLE.GetNameNoTier]"
+ MY_PRIMARY_TITLE_IS_NOT:1 "Sua [primary_title|E] é #bold não#! [TARGET_TITLE.GetNameNoTier]"
+ HAS_PRIMARY_TITLE:0 "Tem o [primary_title|E] [TARGET_TITLE.GetNameNoTier]"
+ DOES_NOT_HAVE_PRIMARY_TITLE:0 "não tem o [primary_title|E] [TARGET_TITLE.GetNameNoTier]"
+ THEIR_PRIMARY_TITLE_IS:0 "[CHARACTER.GetShortUINamePossessive] [primary_title|E] é [TARGET_TITLE.GetNameNoTier]"
+ THEIR_PRIMARY_TITLE_IS_NOT:0 "[CHARACTER.GetShortUINamePossessive] [primary_title|E] é #bold não#! [TARGET_TITLE.GetNameNoTier]"
+
+ TITLE_IS_IN_REGION:0 "[PROVINCE.GetName] está no $REGION$ região"
+ TITLE_IS_NOT_IN_REGION:0 "[PROVINCE.GetName] é #bold não#! no $REGION$ região"
+
+ JERUSALEM_IS_SAME_FAITH:0 "Jerusalém é [CHARACTER.GetFaith.GetAdjective]"
+ JERUSALEM_IS_NOT_SAME_FAITH:0 "Jerusalém é #ousada não#! [CHARACTER.GetFaith.GetAdjective]"
+
+ HIGH_PRIESTHOOD_ENOUGH_HOLY_SITES:1 "Você controla 3 ou mais [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
+ HIGH_PRIESTHOOD_NOT_ENOUGH_HOLY_SITES:1 "Você controla menos de 3 [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
+
+ CONSECRATE_BLOODLINE_HIGH_RELIGIOUS_HEAD_OPINION:1 "[CHARACTER.GetFaith.GetReligiousHead.GetShortUINamePossessive] [opinion|E] de você é 75 ou superior"
+ NOT_CONSECRATE_BLOODLINE_HIGH_RELIGIOUS_HEAD_OPINION:0 ""
+ CONSECRATE_BLOODLINE_TEMPORAL_RELIGIOUS_HEAD_OPINION:0 ""
+ NOT_CONSECRATE_BLOODLINE_TEMPORAL_RELIGIOUS_HEAD_OPINION:0 ""
+
+ CONSECRATE_BLOODLINE_ENOUGH_HOLY_SITES:1 "Você controla um ou mais [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
+ CONSECRATE_BLOODLINE_NOT_ENOUGH_HOLY_SITES:1 "Você faz #ousado não#! controlar qualquer um dos [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
+ 
+ HAS_REVOCABLE_LEASE_TRIGGER:0 "Tem contrato de arrendamento revogável"
+ HAS_ORDER_OF_SUCCESSION_TRIGGER:0 "Tem ordem de sucessão"
+ HAS_TITLE_LAW_FLAG_TRIGGER:0 "Has title law: $LAW$"
+ IS_TITULAR_TRIGGER:0 "É [titular_title|E]"
+ FORM_GERMANIA_CHRISTIAN_TRIGGER:0 "Como um [CHARACTER.GetFaith.GetAdjective] governante você pode reformar o $e_hre$ em vez de"
+ FORM_HISPANIA_MUST_END_STRUGGLE_TRIGGER:0 "$e_spain$ não pode ser formado até o [iberian_struggle|E] foi resolvido"
+ TITLE_HELD_YEARS:0 "$TITLE$ realizada para $VALUE|V0$ anos"
+ TITLE_NOT_HELD_YEARS:0 "$TITLE$ tem #bold NÃO#! foi detido por $VALUE|V0$ anos"
+ LANDED_TITLE_THIS_EQUAL:0 "É $TITLE$"

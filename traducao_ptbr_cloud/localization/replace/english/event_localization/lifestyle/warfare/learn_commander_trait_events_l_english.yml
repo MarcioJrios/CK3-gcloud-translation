@@ -1,0 +1,142 @@
+﻿l_english:
+ #Random Trait Acquisition Events
+ #Choose whether to become aggressive_attacker, unyielding_defender or flexible_leader
+ learn_commander_trait.0002.t:0 "Um Equilíbrio Fino"
+ learn_commander_trait.0002.desc:0 "No calor do combate, a determinação costuma ser o que separa a vitória da derrota.\nQuando chegar a hora, eu sei como vou agir."
+ learn_commander_trait.0002.a:0 "Eu vou atacar, e nunca ceder!"
+ learn_commander_trait.0002.b:0 "eu mantenho minha posição."
+ learn_commander_trait.0002.c:0 "Eu permaneço alerta, agindo conforme a situação exige."
+ 
+ #Choose whether to become a Logistician, a Military Engineer, or forder
+ learn_commander_trait.0003.t:0 "Em Território Inimigo"
+ learn_commander_trait.0003.desc:0 "Uma guerra é determinada por suas batalhas, mas Como batalhas são determinadas por seus preparativos.\nSer pego sem plano ou direção é uma boa maneira de perder."
+ learn_commander_trait.0003.a:0 "Meus exércitos devem estar sempre bem abastecidos."
+ learn_commander_trait.0003.b:0 "Nenhum castelo impedirá meus esforços por muito tempo."
+ learn_commander_trait.0003.c:0 "Através dos rios eu golpeio com a certeza da maré alta."
+
+ #Choose whether to become a Reaver or Reckless
+ learn_commander_trait.0004.t:0 "A maré da batalha"
+ learn_commander_trait.0004.desc:0 "Já vi como acontece, aquela leve calmaria no meio do combate. O breve momento em que nenhum dos lados está pressionando para a briga, e o corpo a corpo se quebra, como ondas se abrindo em torno de uma rocha."
+ learn_commander_trait.0004.b:0 "Estarei sempre pressionando o ataque!"
+ learn_commander_trait.0004.c:0 "Hora de se rearmar com quaisquer armas que não estejam presas em um corpo!"
+
+ #Become a Sea Raider
+ learn_commander_trait.0005.t:0 "como a tempestade"
+ learn_commander_trait.0005.desc:0 "A corrida de cem botas atingindo a água rasa, um golpe tão rápido quanto impiedoso, e os prédios queimando atrás de nós."
+ learn_commander_trait.0005.a:0 "Minha fúria não será negada!"
+
+ #Become a Holy Warrior
+ learn_commander_trait.0006.t:0 "A Lâmina de [ROOT.Char.GetFaith.WarGodName]"
+ learn_commander_trait.0006.desc:1 "Eu vi pagãos lutarem. Eu sei com que grande crueldade eles golpeiam os fiéis.\nNo nome de [ROOT.Char.GetFaith.WarGodName], Eu vou ficar contra eles com a coragem [ROOT.Char.GetFaith.WarGodSheHe] me concede!"
+ learn_commander_trait.0006.a:0 "Não descansarei até que tenha devastado os inimigos de [ROOT.Char.GetFaith.PantheonTerm]!"
+
+ #Become a Desert Warrior
+ learn_commander_trait.0007.t:0 "Com o Sol Batendo"
+ learn_commander_trait.0007.desc:0 "Meus inimigos não veem que benção é, a rugosidade da areia e a sede de água.\nEles não entendem como minhas tropas podem suportar o calor, esperando pacientemente pelo confronto enquanto seus inimigos arranham suas gargantas secas.."
+ learn_commander_trait.0007.a:0 "O deserto é meu aliado."
+
+ #Become a Jungle Stalker
+ learn_commander_trait.0008.t:0 "Mortal como a vegetação rasteira"
+ learn_commander_trait.0008.desc:0 "Não pode haver batalhas fáceis na selva, e eu sei tirar vantagem disso. Minhas tropas forçam o inimigo por caminhos cobertos de mato, eu os prendo na lama e nos arbustos, e os espinhos podem causar tanto dano quanto minhas espadas e lanças.\nQuando a noite cai, os corpos se foram entre as folhas caídas."
+ learn_commander_trait.0008.a:0 "A floresta não é lugar de perdão."
+
+ #Become a Winter Soldier
+ learn_commander_trait.0009.t:0 "Frio como a noite"
+ learn_commander_trait.0009.desc:0 "O frio implacável ceifou muitas vidas. Mas não os meus, nem os dos meus soldados.\nSabemos onde procurar alimentos sob a neve, somos como lobos ao rastrear nossos inimigos e mordemos como o frio do meio do inverno no seu pior..."
+ learn_commander_trait.0009.a:0 "Nós atacamos como granizo."
+
+#Training offer
+ learn_commander_trait.11.opening:1 ""I understand you are interested in deepening your grasp on warfare?" [teacher.GetTitledFirstName] [teacher.Custom('quirk_pos_present')] as [teacher.GetSheHe] se aproxima de mim. "I might be able to help you see the battlefield in new ways.""
+
+#Generic:
+ #Offer:
+ learn_commander_trait.11.desc:1 "\n\n[teacher.GetFirstName] é bem conhecido por [teacher.GetHerHis] maestria de [ROOT.Char.Custom('CommanderTraitSkillDescription')]. Se houvesse alguém que pudesse me ajudar a entender, seria [teacher.GetHerHim]."
+ learn_commander_trait.11.a:0 "eu quero aprender."
+ learn_commander_trait.11.b:0 "Vou deixar isso para meus generais."
+ learn_commander_trait.11.martial_tt:1 "[teacher.GetFirstName] vai tentar te ensinar [teacher.GetHerHis] [THIS.Char.Custom('CommanderTraitBeingTaught')] habilidade\n$EFFECT_LIST_BULLET$Alto [martial_skill|E] será benéfico nessas atividades"
+ learn_commander_trait.11.b.tt:0 "#F Talvez outra hora.#!"
+ #Final Test:
+ learn_commander_trait.12.desc:0 "[teacher.GetTitledFirstName] me mostrou os meandros de [ROOT.Char.Custom('CommanderTraitSkillDescription')]. Meu teste final é uma batalha simulada contra [teacher.GetHerHim], para mostrar o que aprendi."
+ learn_commander_trait.12.a:0 "Prepare as fileiras!"
+ learn_commander_trait.12.b:0 "Não, eu não entendi completamente o que [teacher.GetFirstName] tem tentado me ensinar."
+ learn_commander_trait.giving_up_tt:0 "#F eu não preciso aprender isso#!"
+ learn_commander_trait_final_test_success:0 "Vitória!"
+ learn_commander_trait_final_test_success_tt:0 "#F eu provo que aprendi#!"
+ learn_commander_trait_final_test_failure:0 "Derrota!"
+ learn_commander_trait_final_test_failure_tt:0 "#F ainda não aprendi o suficiente#!"
+ #Success:
+ learn_commander_trait.13.desc:0 "[teacher.GetTitledFirstName] vem cavalgando até mim. "Impressive!" [teacher.GetSheHe] gritos. o "enemy" os recrutas ficam maravilhados com a eficiência de minhas outras tropas.\nPode haver pouca dúvida de que compreendi o que significa ser [ROOT.Char.Custom('CommanderTraitBeingTaught')]."
+ learn_commander_trait.13.a:0 "Eu tenho aprendido muito."
+ #Failure:
+ learn_commander_trait.14.desc:0 ""Perhaps there are a few more things for you to learn..." [teacher.GetTitledFirstName] estende a mão para me ajudar a sair da lama.\nMinhas tropas tiveram uma exibição menos do que estelar. devo confessar que [teacher.GetSheHe] pode estar certo."
+ learn_commander_trait.14.a:0 "Mostre-me novamente como é que você faz."
+ learn_commander_trait.14.a.tt:1 ""I will try my hand at this one more time...""
+ learn_commander_trait.14.b:0 "Isso é muito difícil!"
+ learn_commander_trait.14.b.tt:1 ""I give up! At least for now.""
+
+#Logistics
+ learn_commander_trait.01.t:0 "Um Suprimento de Conhecimento"
+ #Offer:
+ learn_commander_trait.1101.desc:0 "\n\n[teacher.GetFirstName] é conhecido por seu domínio da logística. Se houvesse alguém que pudesse me ajudar a entender, seria [teacher.GetHerHim]."
+ #Final test
+ learn_commander_trait.1201.desc:0 "[teacher.GetTitledFirstName] me mostrou os prós e contras de garantir que as provisões cheguem aos meus soldados no campo. Meu teste final é uma batalha simulada na qual devo proteger meu trem de suprimentos de [teacher.GetHerHis] ataque."
+ #Success
+ learn_commander_trait.1301.desc:0 "[teacher.GetTitledFirstName] vem cavalgando até mim. "Impressive!" [teacher.GetSheHe] gritos. "My troops could not even get close to the supply train.""
+ #Failure
+ learn_commander_trait.1401.desc:0 "Tudo parecia ir tão bem, até que percebi que a cavalaria era uma finta!\n\n[teacher.GetTitledFirstName] está segurando uma maçã de meus vagões quando eu venho cavalgando. "I think I saw where you went wrong," [teacher.GetSheHe] ofertas, [teacher.Custom('quirk_pos_pp')]."
+
+#Military Engineer
+ learn_commander_trait.02.t:0 "Construindo Competência"
+ #Offer:
+ learn_commander_trait.1102.desc:0 "\n\n[teacher.GetFirstName] é conhecido por seu domínio da engenharia militar. Se houvesse alguém que pudesse me ajudar a entender, seria [teacher.GetHerHim]."
+ #Final test
+ learn_commander_trait.1202.desc:0 "[teacher.GetTitledFirstName] mostrou-me os meandros da arte de cerco. Enquanto estamos empoleirados sobre uma fortaleza em miniatura, meu teste final é descrever como eu a tomaria com mais eficiência.."
+ #Success
+ learn_commander_trait.1302.desc:0 ""Oh, I hadn't considered that," [teacher.GetTitledFirstName] [teacher.Custom('quirk_pos_present')]. [teacher.GetSheHe|U] não consigo encontrar uma única falha no meu plano!"
+ #Failure
+ learn_commander_trait.1402.desc:0 ""Have you forgotten about that tower?" [teacher.GetTitledFirstName] pontos das ameias até a área em frente à parede que eu estava descrevendo. Eu vejo a falha fatal no meu plano agora."
+
+#aggressive_attacker
+ learn_commander_trait.03.t:0 "Visão Devastadora"
+
+#unyielding_defender
+ learn_commander_trait.04.t:0 "Escudo do Conhecimento"
+
+#forder
+ learn_commander_trait.05.t:0 "poço de percepção"
+
+#flexible_leader
+ learn_commander_trait.06.t:0 "Uma resposta para todas as situações"
+
+#Desert Warrior
+ learn_commander_trait.07.t:0 "Sabedoria do Deserto"
+
+#Jungle Stalker
+ learn_commander_trait.08.t:0 "Vegetação rasteira do conhecimento"
+
+#Winter Soldier
+ learn_commander_trait.09.t:0 "Lições Frias"
+
+#Reaver
+ learn_commander_trait.10.t:0 "A arte da pilhagem"
+
+#Reckless
+ learn_commander_trait.12.t:0 "A mordida e a lágrima"
+
+#Holy Warrior
+ learn_commander_trait.13.t:0 "Para Batalhar Com Zelo"
+
+#Sea Raider
+ learn_commander_trait.14.t:0 "Entendendo o ataque"
+
+#Fallbacks in case your teacher is no longer with you
+ learn_commander_trait.91.t:0 "Por mim mesmo"
+ learn_commander_trait.1291.desc:0 "Embora [teacher.GetTitledFirstName] não está cuidando de mim, ainda posso provar a mim mesmo que dominei [ROOT.Char.Custom('CommanderTraitSkillDescription')]. Um teste final, uma batalha simulada para testar minha habilidade."
+ learn_commander_trait.1291.a:0 "Está na hora."
+ learn_commander_trait.1291.b:0 "Sem [teacher.GetFirstNameNoTooltip], só posso dizer que fiz bem."
+
+ learn_commander_trait.1391.desc:0 "eu teria te deixado orgulhoso, [teacher.GetFirstName]!\nMinha batalha simulada foi um grande sucesso e eu provei minha maestria."
+ learn_commander_trait.1391.a:0 "Agora, para levar isso para um campo de batalha real!"
+
+ learn_commander_trait.1491.desc:0 "Talvez seja melhor que [teacher.GetTitledFirstName] não estava aqui para ver isso...\nTudo deu errado na minha batalha simulada e nenhuma das minhas táticas funcionou!"
+ learn_commander_trait.1491.a:0 "Parece que ainda tenho algumas coisas para aprender..."

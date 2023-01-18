@@ -1,0 +1,42 @@
+﻿l_english:
+ mystic_lifestyle_communion_header:0 "Mystical Communion: "
+ mystic_lifestyle.1001.t:0 "$mystic_lifestyle_communion_header$Desaprovação"
+ mystic_lifestyle.1001.desc:0 "Meus preparativos para minha comunhão mística estão bem encaminhados quando [SCOPE.sC('priest').Custom2('MyCharacterIntroduction', ROOT.Char )] se aproxima de mim.\n\n"I do not believe what you are doing to be entirely... orthodox," [priest.GetSheHe] diga-me. "A good [ROOT.Char.GetFaith.GetAdherentNameNoTooltip] would refrain from this kind of behavior.""
+ mystic_lifestyle.1001.a:0 "Isso me aproxima de [ROOT.Char.GetFaith.HighGodName] do que você jamais poderia esperar!"
+ mystic_lifestyle.1001.b:0 "É claro. O que eu estava pensando?"
+ mystic_lifestyle.1001.b.flavor:0 "dizendo [priest.GetHerHim] você estava pensando em [ROOT.Char.GetFaith.HighGodNameAlternate] provavelmente não vai acabar bem"
+
+ mystic_lifestyle.1002.opening:0 "[SCOPE.sC('religious_head').Custom2('AppropriateGreeting', ROOT.Char)]"
+ mystic_lifestyle.1002.desc:0 "Chegou ao meu conhecimento que você regularmente se envolve em algumas formas muito incomuns de oração.\nEu exijo que você acabe com essa prática ridícula e faça penitência apropriada por essa má interpretação de nossa fé.."
+ mystic_lifestyle.1002.a:0 "Eu sei a vontade de [ROOT.Char.GetFaith.HighGodName] melhor até do que você!"
+
+ mystic_lifestyle.1003.opening:0 "Para o meu lamentavelmente equivocado [SCOPE.sC('vassal').Custom2('RelationToMeShort', ROOT.Char )]"
+ mystic_lifestyle.1003.desc:0 "Suas práticas estranhas não são sancionadas pelo [ROOT.Char.GetFaith.PriestNeuterPlural], e alguém deve responsabilizá-lo por isso. Se eu não fizer isso agora, então [ROOT.Char.GetFaith.HighGodName] vontade.\nPor favor, veja a razão e afaste-se deste caminho estranho. Quem sabe a que heresia ou adoração demoníaca isso pode levar!"
+ mystic_lifestyle.1003.a:1 "sua ignorância de [ROOT.Char.GetFaith.HighGodNamePossessive] segredos não vão me deter!"
+
+ mystic_lifestyle.1004.t:0 "$mystic_lifestyle_communion_header$Rumores"
+ mystic_lifestyle.1004.desc:0 "Parece que meus hábitos religiosos um tanto incomuns estão atraindo cada vez mais a atenção das pessoas.\nIsso dificilmente é um problema - eles não poderiam esperar entender o que estou fazendo - mas os sussurros dizem que estou #EMP fazendo#! coisas a portas fechadas, e que as pessoas devem ficar de olho."
+ mystic_lifestyle.1004.a:0 "Eu não poderia me importar menos com o que eles sussurram."
+ mystic_lifestyle.1004.b:0 "Se eu for aberto e acolhedor, talvez eles entendam?"
+
+ mystic_lifestyle.1005.opening:0 "Minha querida [SCOPE.sC('vassal').Custom2('RelationToMeShort', ROOT.Char )]"
+ mystic_lifestyle.1005.desc:0 "Não pretendo compreender totalmente seus hábitos e práticas. No entanto, devo aplaudi-lo pelo esforço óbvio que você coloca em suas orações.\nSe todo verdadeiro crente fosse tão devoto quanto você."
+ mystic_lifestyle.1005.a:0 "Me agrada que você reconheça meu esforço."
+ mystic_lifestyle.1005.b:0 "Deixe-me ensinar-lhe como se faz!"
+
+ mystic_lifestyle.1006.t:0 "$mystic_lifestyle_communion_header$Uma reputação"
+ mystic_lifestyle.1006.desc:0 "Com minhas práticas místicas, aparentemente desenvolvi uma boa reputação. As pessoas não sabem exatamente o que eu faço, mas sabem que não querem me contrariar e descobrir.\nÉ ridículo, mas talvez não seja totalmente ruim..."
+ mystic_lifestyle.1006.a:0 "Eles podem ter tanto medo quanto suas pequenas almas os fazem."
+ mystic_lifestyle.1006.b:0 "Jurar que não faço mal os deixará à vontade."
+
+ mystic_lifestyle.1007.t:0 "$mystic_lifestyle_communion_header$Algo errado"
+ mystic_lifestyle.1007.desc:0 "Minhas comunhões com o divino têm sido diferentes ultimamente. Eles não me fazem mais sentir em êxtase, mas sim fraco.\nHoje, não consigo nem reunir forças para me levantar da cama."
+ mystic_lifestyle.1007.a:0 "Funcionários... Ajuda..."
+
+ mystic_lifestyle.1008.t:0 "$mystic_lifestyle_communion_header$Um milagre"
+ mystic_lifestyle.1008.desc:0 "Apesar da minha condição debilitada, fiz o que pude para manter minha comunhão.\nFoi mais intenso do que nunca, e esta manhã, eis que! [ROOT.Char.GetFaith.HighGodName|U] me ofereceu um milagre!"
+ mystic_lifestyle.1008.a:0 "estou curado!"
+
+ mystic_lifestyle.1009.opening:0 "Minha querida [SCOPE.sC('mystic').Custom2('RelationToMeShort', ROOT.Char )]"
+ mystic_lifestyle.1009.desc:0 "Devo aplaudir sua exploração mística de nossa fé!\nPelos rumores que ouço, parece que ainda tenho uma ou duas coisas para aprender!"
+ mystic_lifestyle.1009.a:0 "eu ficaria feliz em compartilhar!"

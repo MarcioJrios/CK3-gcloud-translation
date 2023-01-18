@@ -1,0 +1,22 @@
+﻿l_english:
+
+ ALL_PROVINCES:0 "Todos os barões:"
+ ANY_PROVINCE:0 "qualquer baronato:"
+
+ ALL_REALM_PROVINCES:0 "Todos os barões do reino:"
+ ANY_REALM_PROVINCE:0 "Baronato de Qualquer Reino:"
+ ALL_OF_MY_REALM_PROVINCES:1 "Todos os seus barões do reino:"
+ ANY_OF_MY_REALM_PROVINCES:1 "Qualquer um dos seus Baronatos do Reino:"
+ ALL_OF_THEIR_REALM_PROVINCES:0 "Tudo de [CHARACTER.GetShortUINamePossessive] Baronatos do Reino:"
+ ANY_OF_THEIR_REALM_PROVINCES:0 "qualquer um de [CHARACTER.GetShortUINamePossessive] Baronatos do Reino:"
+
+ any_realm_county:0 "Qualquer Condado de Reino:"
+ any_realm_county_count_greater_or_equal:0 "Nenhum [realm|E] [county|E] igual ou maior que:"
+ any_realm_county_count_less_or_equal:0 "Nenhum [realm|E] [county|E] igual ou menor que:"
+ any_realm_county_count_equal:0 "Nenhum [realm|E] [county|E] igual a:"
+
+ any_sub_realm_county:0 "Qualquer Condado de Sub-Reino:"
+
+ county_opinion:0 "County Opinion: $OPINION|=V$"
+ county_control_rate:0 "Taxa de controle do condado"
+ num_county_followers:0 "Number of County Followers: $NUM|V0$"

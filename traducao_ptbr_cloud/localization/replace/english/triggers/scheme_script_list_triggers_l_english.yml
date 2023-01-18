@@ -1,0 +1,19 @@
+﻿l_english:
+
+ ALL_SCHEMES:0 "Todos os Esquemas:"
+ ANY_SCHEME:0 "Qualquer Esquema:"
+ ALL_OF_MY_SCHEMES:1 "Todos os seus esquemas:"
+ ANY_OF_MY_SCHEMES:1 "Qualquer um dos seus esquemas:"
+ ALL_OF_THEIR_SCHEMES:0 "Tudo de [CHARACTER.GetShortUINamePossessive] Esquemas:"
+ ANY_OF_THEIR_SCHEMES:0 "qualquer um de [CHARACTER.GetShortUINamePossessive] Esquemas:"
+
+ ALL_SCHEME_AGENTS:0 "Todos os Agentes do [SCHEME.GetFullActionName] Esquema:"
+ ANY_SCHEME_AGENT:0 "Qualquer agente do [SCHEME.GetFullActionName] Esquema:"
+ scheme_progress_trigger:0 "Progresso do Esquema"
+ scheme_success_chance_trigger:0 "Chance de sucesso do esquema"
+ has_scheme_modifier_trigger:0 "Tem modificador de esquema"
+ scheme_power_resistance_difference_trigger:0 "Diferença de resistência de potência do esquema"
+ can_start_scheme_trigger:0 "Pode iniciar [scheme|E]"
+ is_scheme_exposed_trigger:0 "É [scheme|E] expor"
+
+ NOT_WANTS_TO_BE_SOULMATES:1 "[TARGET_CHARACTER.GetShortUIName] não quer ser alma gêmea"

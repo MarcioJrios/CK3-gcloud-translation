@@ -1,0 +1,15 @@
+﻿l_english:
+ ##################################################
+ # #Hold Court Opinions
+
+ ep1_took_advantage_of_kindness_opinion:0 "Aproveitou-se da minha bondade"
+ ep1_rejected_sponsoring_a_feast_opinion:0 "Rejeitou minha oferta para patrocinar um banquete"
+ ep1_accepted_sponsoring_a_feast_opinion:0 "Aceitou minha oferta para patrocinar um banquete"
+ ep1_disagreed_with_decision_opinion:0 "Discordo da decisão durante uma petição"
+ ep1_agreed_with_decision_opinion:0 "Concordou com a decisão durante uma petição"
+ ep1_disagreed_with_lowborn_adoption_opinion:0 "Discordo da decisão de adotar um filho baixo"
+ sumptuary_debate_victor_opinion:0 "Lei suntuária violada"
+ sumptuary_debate_loser_opinion:0 "Me puniu por violar a lei suntuária"
+
+ ##################################################
+

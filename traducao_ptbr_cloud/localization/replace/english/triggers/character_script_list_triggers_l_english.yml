@@ -1,0 +1,22 @@
+﻿l_english:
+
+ ALL_LIVING_CHARACTERS:0 "Todos os personagens vivos:"
+ ANY_LIVING_CHARACTER:0 "Qualquer personagem vivo:"
+
+ ALL_POOL_CHARACTERS:0 "Todos os personagens da piscina:"
+ ANY_POOL_CHARACTER:0 "Qualquer personagem de piscina:"
+
+ ANY_OF_CHARACTERS_VASSALS:1 "qualquer um de [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ALL_OF_CHARACTERS_VASSALS:1 "Tudo de [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS_PERCENT:0 "$PARAMETERS$ de [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS_COUNT:0 "$PARAMETERS$ de [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ 
+ ANY_DYNASTY_MEMBER_COUNT:0 "$PARAMETERS$ membros de [DYNASTY.GetBaseName] [dynasty|E]:"
+
+ ANY_IN_DE_JURE_ALL_GLOBAL:0 "qualquer de jure [titles|E]"
+ NOT_ANY_IN_DE_JURE_ALL_GLOBAL:0 "Non de jure [titles|E]"
+ ANY_IN_DE_JURE_ALL_THIRD:0 "qualquer de jure [titles|E] de [TITLE.GetName]"
+ NOT_ANY_IN_DE_JURE_ALL_THIRD:0 "Non de jure [titles|E] de [TITLE.GetName]"
+
+ ANY_REALM_COUNTY:0 "Nenhum [realm|E] [county|E]:"
+ ANY_REALM_COUNTY_COUNT:0 "$PARAMETERS$ [realm|E] [counties|E]:"

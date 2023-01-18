@@ -1,0 +1,47 @@
+﻿l_english:
+ sell_titles.0001.opening:0 "[vassal.Custom2('AppropriateGreetingPositive', ROOT.Char )]"
+ sell_titles.0001.desc.dislike:0 "Não estou interessado nas promessas vazias que você está vendendo, mas se você precisa desesperadamente de ouro, acredito que poderíamos chegar a algum acordo.."
+ sell_titles.0001.desc.normal:0 "Não são maiores honras que busco, meu [vassal.Custom2('RelationToMeShort', ROOT.Char)], mas se você está precisando de ouro, acredito que podemos chegar a algum acordo."
+ sell_titles.0001.a:0 "Eu preciso do dinheiro para o bem do reino, você vê."
+ sell_titles.0001.b:0 "Esta não é uma pechincha no mercado de um camponês!"
+
+ sell_titles.0002.opening:0 "[friend.Custom2('AppropriateGreetingPositive', ROOT.Char )]"
+ sell_titles.0002.desc:1 "Disseram-me que você está oferecendo títulos em troca de "gifts."\nMeu amigo, se você precisava de ouro, deveria ter me avisado!"
+ sell_titles.0002.a:0 "você é um verdadeiro amigo, [friend.GetFirstNameNoTooltip]!"
+ sell_titles.0002.b:0 "eu não posso aceitar isso."
+
+ sell_titles.0003.desc:0 "Sinto-me honrado pelos títulos que você me ofereceu e, claro, os subsidiarei, como é certo e apropriado.!\nNão posso agradecer o suficiente por esta honra. O que quer que você exija, farei o possível por você."
+ sell_titles.0003.a:0 "Você é um vassalo verdadeiro e leal."
+ sell_titles.0003.a.flavor:0 "Gostaria que todos entendessem que estou sendo extremamente generoso."
+
+ sell_titles.0004.opening:0 "[vassal.Custom2('AppropriateGreeting', ROOT.Char )]"
+ sell_titles.0004.desc:0 "Chegou ao meu conhecimento que você está vendendo títulos, embora eu mesmo tenha sido inadequadamente honrado por meus serviços..\nNa verdade, considerando minhas conquistas em seu nome, alguns novos títulos não seriam errados."
+ sell_titles.0004.a:0 "Assim será, então."
+ sell_titles.0004.b:0 "não se engrandeça!"
+
+ sell_titles.0005.desc:0 "Mesmo que eles não venham com feudos, as obrigações associadas aos títulos que você está oferecendo são mais generosas do que eu jamais poderia pedir..\nClaro que vou honrar tal munificência com um presente apropriado!"
+ sell_titles.0005.a:0 "Eles são? Oh."
+ sell_titles.0005.b:0 "não é isso... Maldito seja!"
+
+ sell_titles.0006.desc:0 "Embora eu saiba que arrisco sua ira, minha honra exige que eu fale. Sua oferta para dar "titles" in exchange for "gifts" é movido por nada além de ganância básica, isso é fácil de ver!\nMinha honra vem da minha nobreza, não da minha riqueza, mas para você parece ser diferente!"
+ sell_titles.0006.a:0 "Como você ousa me envergonhar tanto?!"
+
+ sell_titles.1002.t:0 "Vender títulos: uma proposta modesta"
+ sell_titles.1002.desc:1 "Um certo [merchant.GetTitledFirstName], a wealthy merchant, has heard of my attempts to sell off superfluous títulos. [merchant.GetSheHe|U] tem uma sugestão muito mais audaciosa, no entanto:\n\n"If I presented evidence that I was distantly related to the [ROOT.Char.GetDynasty.GetBaseName] Dynasty, would you back my claim?"\nA proposta é totalmente ridícula, mas [merchant.GetSheHe] possui uma quantidade ridícula de ouro..."
+ sell_titles.1002.a.muslim:0 "Até Muhammad era um comerciante!"
+ sell_titles.1002.a:0 "Vamos celebrar o retorno do meu há muito perdido [merchant.Custom('SisterBrother')]!"
+ sell_titles.1002.b:0 "Meu nome não está a venda, em hipótese alguma!"
+
+ sell_titles.1004.t:0 "Vender títulos: uma excelente pechincha"
+ sell_titles.1004.desc:0 "Contra todas as probabilidades, [merchant.GetTitledFirstName], o comerciante que acabou por ser um parente muito, muito distante, provou [merchant.GetHerselfHimself] ser um excelente guerreiro!\nQuem teria pensado que um plebeu poderia alcançar tais alturas?"
+ sell_titles.1004.a:0 "Possivelmente [merchant.GetSheHe] realmente é de sangue nobre, afinal?"
+
+ sell_titles.1005.desc:0 "No tempo desde que eu aceitei [merchant.GetTitledFirstNamePossessive]- I mean, since [merchant.GetSheHe] voltou para a família, [merchant.GetSheHe] provou [merchant.GetHerselfHimself] popular com o [ROOT.Char.GetFaith.AltPriestTermPlural]. Pelo visto [merchant.GetSheHe] é bastante sábio. Muito mais do que se esperaria de um simples plebeu."
+ sell_titles.1005.a:0 "Até ouro é encontrado entre rochas simples, suponho."
+
+ sell_titles.1006.desc:0 "Talvez novas perspectivas #EMP possam#! ser bom de vez em quando? [merchant.GetTitledFirstName], já suficientemente qualificado para adquirir um lugar na minha casa, provou [merchant.GetHerselfHimself] incrivelmente hábil em navegar pelos perigos da minha corte. Às vezes eu até tenho que me perguntar se [merchant.GetSheHe] sabe mais sobre o que está acontecendo do que eu!"
+ sell_titles.1006.a:0 "Agradecer [ROOT.Char.GetFaith.HighGodName] [merchant.GetSheHe] me deve por isso."
+
+ sell_titles.1007.t:0 "Títulos de venda: Black Sheep"
+ sell_titles.1007.desc:0 "Há uma razão pela qual os plebeus não se tornam nobres por capricho. Desde então [merchant.GetTitledFirstName] entrou na minha corte, [merchant.GetSheHe] não passou de uma vergonha!\neu apoiei [merchant.GetHerHis] afirmam ser da minha Casa, então não há nada a ser feito sobre isso agora, mas é um erro que provavelmente não cometerei novamente!"
+ sell_titles.1007.a:0 "Que pena..."

@@ -1,0 +1,106 @@
+﻿l_english:
+ game_concept_struggle:1 "Luta"
+ game_concept_struggle_struggles:0 "lutas"
+ game_concept_struggle_desc:2 "$game_concept_struggle_struggles$ são conflitos de longo prazo envolvendo grandes [struggle_region_regions|E] com muitos [faiths|E] e [cultures|E]. Dentro dos limites de um $game_concept_struggle$, regras especiais peculiares e [modifiers|E] pode entrar em vigor, mudando ao longo do tempo. Como duram décadas a séculos, nem todos [characters|E] em um $game_concept_struggle$ estão em [war|E] um com o outro o tempo todo.\nCada $game_concept_struggle$ consiste em vários [struggle_phase_phases|E]. Como $game_concept_characters$ dentro do [struggle_region|E] agir (por exemplo, declarar $game_concept_war$, ou [marrying|E]), they may activate [struggle_catalyst_catalysts|E] que os progridem entre os diferentes $game_concept_struggle_phase_phases$.\nDependendo do grau em que eles são vistos como parte do $game_concept_struggle$ by other participants, $game_concept_characters$ com [land|E] na área pode ser visto como [struggle_involved|E], [struggle_interloper_interlopers|E], ou [struggle_uninvolved|E]."
+
+ game_concept_iberian_struggle:1 "luta ibérica"
+ game_concept_iberian_struggle_desc:2 "o $game_concept_iberian_struggle$ retrata os séculos de relações turbulentas na Península Ibérica. Embora nascido da conquista omíada da Península Ibérica no século VIII, o [struggle|E] muda entre [struggle_phase_phases|E] de violência alimentada pelo ódio, tréguas cautelosas e cooperação pragmática. Existem poucos aliados permanentes em tal situação, e [rulers|E] deve ser cauteloso ao confiar apenas em um [faith|E] ou [culture|E]."
+ game_concept_struggle_phase:1 "Fase de luta"
+ game_concept_struggle_phase_phase:1 "Estágio"
+ game_concept_struggle_phase_phases:0 "Fases"
+ game_concept_struggle_phase_desc:1 "UMA $game_concept_struggle_phase_phase$ é um humor geral comum a [struggle_involved|E] [characters|E] e [counties|E] dentro de um [struggle_region|E]. Representa tendências sociais de curto prazo e costumes que dominam temporariamente o diálogo do [struggle|E].\n\n#fraco Exemplo: em um $game_concept_struggle_phase_phase$, o povo de um $game_concept_struggle_region_region$ podem pensar que a tolerância religiosa é fundamental, mesmo que o restante de sua fé discorde.#!"
+
+ game_concept_struggle_catalyst:1 "catalisador de luta"
+ game_concept_struggle_catalyst_catalyst:1 "Catalisador"
+ game_concept_struggle_catalyst_catalysts:0 "Catalisadores"
+ game_concept_struggle_catalyst_desc:2 "[struggle_struggles|E] transição entre [struggle_phase_phases|E] quando certas ações notáveis são tomadas, construindo sua [struggle_region|E]'s consensus towards a particular mood. A list of which actions are important in which $game_concept_struggle_phase_phase$ pode ser encontrado no $game_concept_struggle$ janela.\n\n#Exemplo fraco: o [struggle_phase_iberia_opportunity|E] do [iberian_struggle|E] pode transitar tanto para o [struggle_phase_iberia_hostility|E] ou o [struggle_phase_iberia_conciliation|E]. Assassinar um importante [character|E] pode trabalhar para o primeiro, enquanto forma um [marriage|E] [alliance|E] com alguém de um diferente [faith|E] construiria para o último."
+
+ game_concept_struggle_involved:1 "envolvido"
+ game_concept_struggle_involved_desc:2 "Quando um [character|E] ou um [county|E] é $game_concept_struggle_involved$, isso significa que eles são considerados uma parte natural e integrante de um [struggle|E] pelas pessoas de um determinado [struggle_region|E]. Eles se beneficiam totalmente das vantagens fluidas de [struggle_phase_phases|E], e são os principais ativadores de [struggle_catalyst_catalysts|E].\n\n[cultures|E] e [faiths|E] que são considerados $game_concept_struggle_involved$ são aqueles que têm ou tiveram presença significativa no $game_concept_struggle_region_region$.\n\n#fraco para ser $game_concept_struggle_involved$, uma $game_concept_character$ deve ter os dois $game_concept_culture$ e $game_concept_faith$ ser $game_concept_struggle_involved$ #EMP e#! have their [capital|E] dentro da $game_concept_struggle_region$.#!"
+
+ game_concept_struggle_interloper:1 "Intruso"
+ game_concept_struggle_interloper_interlopers:0 "intrusos"
+ game_concept_struggle_interloper_desc:2 "Quando um [character|E] está emaranhado em um determinado [struggle|E] mas ainda não considerado totalmente [struggle_involved|E], eles são um $game_concept_struggle_interloper$.\n\n$game_concept_struggle_interloper_interlopers$ têm a sua [capital|E]está dentro do [struggle_region|E], mas não tem um $game_concept_struggle_involved$ [faith|E] e um $game_concept_struggle_involved$ [culture|E].\nTotalmente $game_concept_struggle_involved$ $game_concept_characters$ pense neles como forasteiros intrometidos e problemáticos que não entendem onde não são bem-vindos. $game_concept_struggle_interloper$ [rulers|E] assim, geralmente levam algumas penalidades em [counties|E] eles mantêm dentro de uma $game_concept_struggle_region$."
+
+ game_concept_struggle_uninvolved:1 "não envolvido"
+ game_concept_struggle_uninvolved_desc:2 "Para [character|E] Para ser considerado $game_concept_struggle_uninvolved$ em um determinado [struggle|E], eles precisam apenas ter seus [capital|E] fora da [struggle_region|E].\nIsso significa que eles são considerados estranhos, alguém que não apenas não tem interesse sério no [struggle_phase_phases|E], mas quem #EMP não deveria#!, porque eles claramente não conseguiam entender as nuances locais.\nComo uma das únicas coisas que as pessoas dentro de um $game_concept_struggle$ posso concordar é que $game_concept_struggle_uninvolved$ $game_concept_characters$ não tem negócios no #EMP deles#! terras, $game_concept_struggle_uninvolved$ [rulers|E] geralmente aceitam penalidades severas em qualquer [counties|E] eles mantêm dentro de uma $game_concept_struggle_region$."
+
+ game_concept_struggle_large_conquest:1 "Luta Grande Conquista"
+ game_concept_struggle_large_conquest_desc:1 "Alguns $game_concept_struggle_catalyst_catalysts$ envolvem a conclusão bem-sucedida de um grande [war|E] pelo atacante.\na seguir [casus_bellis|E] são contados para isso:\n$EFFECT_LIST_BULLET$ $duchy_conquest_cb$ \n$EFFECT_LIST_BULLET$ $individual_duchy_de_jure_cb$ \n$EFFECT_LIST_BULLET$ $imperial_reconquest_cb$ \n$EFFECT_LIST_BULLET$ $invasion_war$ \n$EFFECT_LIST_BULLET$ $clan_invasion_war$ \n$EFFECT_LIST_BULLET$ $mongol_invasion_war$ \n$EFFECT_LIST_BULLET$ $major_religious_war$ $game_concept_war$ $EFFECT_LIST_BULLET$ Ambos [great_holy_war_directed|E] & [great_holy_war_undirected|E] $undirected_great_holy_war$s \n$EFFECT_LIST_BULLET$ $tribal_subjugation_cb$"
+
+ game_concept_struggle_region:1 "região de luta"
+ game_concept_struggle_region_region:1 "Região"
+ game_concept_struggle_region_regions:0 "Regiões"
+ game_concept_struggle_region_desc:2 "Cada [struggle|E] está amarrado a um [region|E] no mapa. UMA [character_possessive|E] local dentro deste $game_concept_region$ (as well as their [culture|E] and [faith|E]) determines whether they are classified as [struggle_involved|E], um [struggle_interloper|E], ou [struggle_uninvolved|E].\n\n[counties|E] dentro de um $game_concept_struggle_region$ geralmente estão sujeitos a diferentes [county_modifiers|E] dependendo da corrente [struggle_phase_phase]."
+
+ game_concept_struggle_conquest:1 "confronto de luta"
+ game_concept_struggle_conquest_conquest:1 "Choque"
+ game_concept_struggle_conquest_conquests:0 "confrontos"
+ game_concept_struggle_conquest_desc:2 "Não é incomum para [rulers|E] envolvido em um [struggle|E] entrar em disputas de fronteira e brigas mesquinhas, mudando com a natureza do atual [struggle_phase|E]. A disponibilidade imediata de disputas locais de nicho permite $game_concept_rulers$ realizar grilagem de terras em pequena escala, conquistando ou vassalando seus alvos.\nDesde a $game_concept_struggle_conquest_conquests$ dependem do ambiente de sua $game_concept_struggle$, deles [prestige|E] escalas de custo com o $game_concept_struggle_phase atual$."
+
+ game_concept_struggle_phase_iberia_opportunity:1 "Fase de oportunidade"
+ game_concept_struggle_phase_iberia_opportunity_desc:2 "Após um longo período de convivência relativamente pacífica durante o [struggle_phase_iberia_conciliation|E], a complacência começa a se estabelecer. O campesinato e a nobreza estão confortáveis com o fato de que as coisas apenas #EMP funcionam#! [characters|E] para tirar proveito de sua ingenuidade.\nEventualmente, novos abusos causarão uma escalada no [struggle_phase_iberia_hostility|E], ou então a politicagem inteligente atinge um equilíbrio inquieto através da [struggle_phase_iberia_conciliation|E]."
+
+ game_concept_struggle_phase_iberia_hostility:1 "Fase de hostilidade"
+ game_concept_struggle_phase_iberia_hostility_desc:2 "As tensões aumentam e os ânimos se desgastam neste $game_concept_struggle_phase_phase$. Atos repetidos de malícia e mal-entendidos crescentes durante o [struggle_phase_iberia_opportunity|E] levaram ao aumento do ódio de [characters|E] com diferentes [cultures|E], [faiths|E], ou #EMP pior#!: ambos.\nTal derramamento de sangue não pode persistir para sempre, no entanto. Eventualmente, cabeças mais frias ou simples exaustão levam a península ao [struggle_phase_iberia_compromise|E]."
+
+ game_concept_struggle_phase_iberia_compromise:1 "Fase de compromisso"
+ game_concept_struggle_phase_iberia_compromise_desc:2 "Seja por doença com a contenda do [struggle_phase_iberia_hostility|E] ou escalada hábil durante o [struggle_phase_iberia_conciliation|E], a $game_concept_struggle_phase_iberia_compromise$ representa uma acomodação crescente entre os povos da Península Ibérica. As diferenças caem no esquecimento e a história e o patrimônio compartilhados unem antigos inimigos.\nA península encontra-se numa encruzilhada: se os conflitos reaparecerem, o [struggle_phase_iberia_opportunity|E] espera."
+
+ game_concept_struggle_phase_iberia_conciliation:1 "Fase de Conciliação"
+ game_concept_struggle_phase_iberia_conciliation_desc:1 "O produto de um notável [struggle_phase_iberia_compromise|E], durante este $game_concept_struggle_phase_phase$, as relações entre os povos da Península Ibérica tornam-se tão cordiais que os forasteiros acham difícil analisar sua permissividade. Inter-[faith|E] [marriages|E] são particularmente comuns.\nIsso não pode durar para sempre, porém, e os abusos de confiança acabarão por trazer o [iberian_struggle|E] de volta para o [struggle_phase_iberia_compromise|E]."
+
+ game_concept_struggle_involved_faith:0 "fé envolvida"
+ game_concept_struggle_involved_faiths:0 "Religiões Envolvidas"
+ game_concept_struggle_involved_faith_desc:0 "Alguns [faiths|E] comece já [struggle_involved|E] no [struggle|E]. Outros podem se envolver devido a mudanças nas circunstâncias."
+
+ game_concept_struggle_involved_culture:0 "Cultura Envolvida"
+ game_concept_struggle_involved_cultures:0 "Culturas envolvidas"
+ game_concept_struggle_involved_culture_desc:0 "Alguns [cultures|E] comece já [struggle_involved|E] no [struggle|E]. Outros podem se envolver devido a mudanças nas circunstâncias."
+
+ game_concept_dissolution_faction:0 "Dissolution Faction"
+ game_concept_dissolution_factions:0 "Dissolução Facções"
+ game_concept_faction_dissolution:0 "Dissolução"
+ game_concept_dissolution_faction_desc:0 "o [dissolution_faction|E] procura destruir o [realm|E] deles [liege|E]. Se forem bem-sucedidos, todos os vassalos do reino tornam-se [independent|E], e seu suserano perde sua [primary_title|E]."
+
+ 
+ game_concept_improve_city_province_decision:0 "$improve_city_province_decision_name$ Decisão"
+ game_concept_improve_city_province_decision_desc:0 "UMA [decision|E] que permite aumentar o número de [buildings|E] disponível em um [city_holding|E]."
+
+ game_concept_border_raid:0 "invasão de fronteira"
+ game_concept_border_raids:0 "ataques de fronteira"
+ game_concept_border_raiding:0 "invasão de fronteira"
+ game_concept_border_raid_desc:3 "Este é um tipo especial de [war|E] disponível entre [struggle_involved|E] [rulers|E] do Ibérico [struggle|E] onde o atacante visa [siege|E] um inimigo específico [county|E] fazendo fronteira com seus [realm|E].\no [war_leader|E] ganhos [gold|E] para capturar o [war_target|E], que vai perder [development|E] e [control|E]. [buildings|E] também pode ser destruído, rendendo mais [gold|E], a chance aumenta com [development|E] e [siege|E] [army|E] Tamanho.\n\n[war_score|E] será obtido rapidamente pelo atacante ao [occupying|E] a [war_target|E]."
+
+ game_concept_bargain_fealty:0 "Fidelidade de barganha"
+ game_concept_bargained_fealty:0 "Fidelidade negociada"
+ game_concept_bargain_fealty_desc:3 "este especial [interaction|E] está disponível para [struggle_involved|E] [rulers|E] que estão na defensiva [war|E].\no [war_leader|E] pergunta a um vizinho mais alto-[rank|E] [ruler|E] para se juntar a sua guerra em troca de se tornar seu [vassal|E]."
+
+ game_concept_contract_assistance:0 "Contrato de Assistência"
+ game_concept_contracting_assistance:0 "Assistência Contratante"
+ game_concept_contract_assistance_desc:2 "Este é um tipo especial de [interaction|E] disponível para [struggle_involved|E] [rulers|E] do Ibérico [struggle|E], permitindo-lhes juntar-se a outros [struggle_involved|E] [rulerpossessive|E] [wars|E] em troca de [gold|E].\nO pagamento é feito na conclusão do [war|E], qualquer que seja o resultado, desde que o empreiteiro tenha feito uma [war_contribution|E] de pelo menos 100."
+ 
+ game_concept_iberian_reclamation:0 "Recuperação Ibérica"
+ game_concept_iberian_reclaiming:0 "Recuperação Ibérica"
+ game_concept_iberian_reclamations:0 "Reclamações Ibéricas"
+ game_concept_iberian_reclamation_desc:2 "Este é um tipo especial de [war|E] disponível para [struggle_involved|E] [rulers|E] do [iberian_struggle|E].\nO atacante visa conquistar um [duchy|E] que contém qualquer [struggle_involved|E] [counties|E] realizada por um [struggle_interloper|E] ou [struggle_uninvolved|E] [ruler|E], ou [vassalize|E] eles se eles não possuírem terras fora daquele Ducado."
+
+ game_concept_enforce_truce:0 "Aplicar trégua"
+ game_concept_enforced_truce:0 "Trégua Forçada"
+ game_concept_enforce_truce_desc:2 "Este é um tipo especial de [interaction|E] disponível para [struggle_involved|E] [rulers|E] que termina um [war|E] em um [white_peace|E] e estabelece [truces|E].\nSó pode ser usado para acabar com guerras entre outros [struggle_involved|E] [rulers|E] de baixo [rank|E] em que pelo menos um lado é [independent|E] ou parte do mesmo [realm|E]."
+
+ game_concept_incite_revolts_interaction:1 "Fomentar Revolta"
+ game_concept_incite_revolts_interaction_desc:1 "Permite investir [gold_i][gold|E] para motivar o [peasant_faction|E] noutro [realm|E], se eles tiverem [counties|E] com negativo [county_opinion|E]."
+
+ game_concept_secure_iberian_foothold_decision:0 "$secure_iberian_foothold_decision_title$"
+ game_concept_secure_iberian_foothold_decision_desc:1 "UMA [decision|E] que permite um não-[struggle_involved|E] [ruler|E] para acabar com o [iberian_struggle|E]."
+
+ game_concept_golden_age_jewish_science_in_iberia_decision:0 "$golden_age_jewish_science_in_iberia_decision$"
+ game_concept_golden_age_jewish_science_in_iberia_decision_desc:1 "UMA [decision|E] onde você patrocina estudiosos judeus locais e colhe os benefícios."
+
+ game_concept_build_holy_pilgrim_roads_decision:0 "$build_holy_pilgrim_roads_decision$"
+ game_concept_build_holy_pilgrim_roads_decision_desc:1 "UMA [decision|E] onde você constrói estradas para facilitar a vida dos peregrinos."
+
+ game_concept_purchase_truce_interaction:0 "$purchase_truce_interaction$"
+ game_concept_purchase_truce_interaction_desc:1 "Um [interaction|E] que permite [truces|E] ser comprado antecipadamente em troca de [gold_i][gold|E]."
+

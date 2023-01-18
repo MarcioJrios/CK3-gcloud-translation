@@ -1,0 +1,38 @@
+﻿l_english:
+ stress_frozen_grief:0 "Dor Congelada"
+ stress_frozen_grief_desc:0 "Nunca tendo processado a morte de um ente querido, esse personagem acha mais difícil se conectar com outras pessoas."
+ stress_stuffed_corpse:0 "cadáver empalhado"
+ stress_stuffed_corpse_desc:0 "Este personagem mantém o cadáver empalhado de seu ente querido por perto e conversa com eles, uma prática desconcertante e sacrílega."
+ stress_managed_grief:0 "luto gerenciado"
+ stress_managed_grief_desc:0 "Este personagem está lidando com a perda de um ente querido, um dia de cada vez."
+
+ #Coping Mechanism Penalties
+ stress_disturbing_confession:0 "Confissão Perturbadora"
+ stress_disturbing_confession_desc:0 "Este personagem confessou abertamente algumas coisas inquietantes..."
+ stress_drinking_binge:0 "bebedeira"
+ stress_drinking_binge_desc:0 "Este personagem tem batido na garrafa com mais força do que o normal."
+ stress_hashish_habit:0 "hábito do haxixe"
+ stress_hashish_habit_desc:0 "É raro encontrar esse personagem sóbrio hoje em dia."
+ stress_hashish_stupor:0 "estupor de haxixe"
+ stress_hashish_stupor_desc:1 "Este personagem drogou-se em um estupor."
+ stress_inappetetic_hunger_1:0 "faminto"
+ stress_inappetetic_hunger_1_desc:0 "Este personagem não está comendo comida suficiente para se manter saudável."
+ stress_inappetetic_hunger_2:0 "faminto"
+ stress_inappetetic_hunger_2_desc:0 "Este personagem está sofrendo de uma grave falta de comida."
+ stress_inappetetic_hunger_3:0 "Desperdiçar"
+ stress_inappetetic_hunger_3_desc:0 "Este personagem não come nada há semanas e mostra."
+
+ angry_at_everyone_modifier:0 "Ira Descontrolada"
+ angry_at_everyone_modifier_desc:0 "Este personagem está cheio de raiva e ninguém é poupado."
+ 
+ stress_smelling_of_sweat:0 "fedor de suor"
+ stress_smelling_of_sweat_desc:0 "O fedor de suor segue este personagem ao redor."
+
+ stress_busy_writing:0 "Escrita Ocupada"
+ stress_busy_writing_desc:0 "Este personagem passa a maior parte do tempo escrevendo"
+
+ irritating_everyone_modifier:1 "Atacando"
+ irritating_everyone_modifier_desc:1 "Este personagem não está fazendo nada para controlar sua irritação e raiva."
+
+ irritating_everyone_courtier_modifier:1 "$irritating_everyone_modifier$"
+ irritating_everyone_courtier_modifier_desc:1 "$irritating_everyone_modifier_desc$"

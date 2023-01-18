@@ -1,0 +1,9 @@
+﻿l_english:
+ ##################################################
+ # #Event Opinions
+ fp2_consulted_me_opinion:0 "me consultou"
+ fp2_betrayed_opinion:0 "traído"
+ fp2_reassured_faith_opinion:0 "Tranquilizou minha fé"
+ fp2_questioned_my_faith_opinion:0 "Questionou minha fé"
+ fp2_tolerated_me_opinion:0 "Tolerou-me"
+ fp2_enforced_truce_opinion:0 "Trégua Forçada"

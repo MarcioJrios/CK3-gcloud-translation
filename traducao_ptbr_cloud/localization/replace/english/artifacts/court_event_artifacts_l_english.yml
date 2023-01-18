@@ -1,0 +1,40 @@
+﻿l_english:
+
+ #court.4500 Fake artifacts and trinkets
+ blood_brooch_name:0 "broche de sangue"
+ blood_brooch_description:0 "Este broche tem uma esfera de vidro preenchida com o sangue de [ROOT.GetCharacter.GetTitledFirstName]."
+ cuckoldry_psalter_name:0 "O Saltério de Cuckoldry"
+ cuckoldry_psalter_description:0 "Passando de cuco a cozen ao longo dos tempos, este tomo é considerado o melhor presente que se pode dar a um cônjuge. Pelo menos as figuras de marfim na capa parecem bem casadas."
+ chastity_belt_name:0 "Cinto de castidade"
+ chastity_belt_description:0 "Este cinto de castidade tem pontas por dentro e por fora, para sua proteção e de outras pessoas."
+ holy_needle_name:0 "A Agulha Sagrada de Antioquia"
+ holy_needle_description:0 "Bem, você poderia fazer um belo bordado da Crucificação."
+ finger_bones_name:0 "Ossos do dedo de um santo"
+ finger_bones_description:0 "Todos os onze deles!"
+ dead_chicken_name:0 "A Targa do Craven"
+ dead_chicken_description:0 "Ninguém vai querer estar perto de você se você brandir esta galinha morta, nem mesmo seus inimigos."
+ worm_on_a_string_name:0 "Verme em uma corda"
+ worm_on_a_string_description:0 "Um brinquedo que provavelmente impressionaria uma criança pequena."
+
+
+ #court.4750 Book commissions
+ pope_joan_book_name:0 "Contos da Papa Joana"
+ pope_joan_book_desc:0 "um livro onde [ROOT.Char.GetTitledFirstNameNoTooltip] é retratado como Papa Joana. Devoto, blasfemo ou sedutor?"
+ lady_godiva_book_name:0 "Contos de Lady Godiva"
+ lady_godiva_book_desc:0 "Pelo menos as representações de [ROOT.Char.GetTitledFirstNameNoTooltip] andar nu é lisonjeiro."
+ caligula_book_name:0 "Quinhentos Cílios"
+ caligula_book_desc:0 "Quinhentas páginas de chicotadas de Calígula [ROOT.Char.GetTitledFirstNameNoTooltip]"
+ nasreddin_book_name:0 "Contos de Nasreddin"
+ nasreddin_book_desc:0 "No qual [ROOT.Char.GetTitledFirstNameNoTooltip] recebe a bela honra da zombaria de Nasreddin"
+ valmiki_book_name:0 "Epigramas de Valmiki"
+ valmiki_book_desc:0 "Uma série de gracejos do poeta mais antigo, Valmiki, jorrou pela boca improvável de [ROOT.Char.GetTitledFirstNameNoTooltip]"
+ ruler_hero_book_name:0 "Contos de [ROOT.Char.GetTitledFirstNameNoTooltip]"
+ ruler_hero_book_desc:0 "A linha de abertura tem [ROOT.Char.GetTitledFirstNameNoTooltip] declarando a [ROOT.Char.GetHerHis] tribunal: 'Devo sentar-me, pois não suporto você.'"
+ sinbad_book_name:0 "Jornadas de Sinbad"
+ sinbad_book_desc:0 "Um livro no qual várias bestas que Sinbad enfrenta carregam o rosto de [ROOT.Char.GetTitledFirstNameNoTooltip]"
+
+ #court.4806 fan relics
+ purple_underwear_name:0 "roupas íntimas roxas imperiais"
+ purple_underwear_description:0 "Adequado apenas para um imperador.\nSic itur ad astra...?"
+ fake_reichskrone_name:0 "Reichskrone falso"
+ fake_reichskrone_description:0 "Vista-se para ser verdadeiramente um pretendente #EMP#! ao trono"

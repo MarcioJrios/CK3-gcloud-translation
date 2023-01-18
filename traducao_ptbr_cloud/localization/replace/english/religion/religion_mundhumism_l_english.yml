@@ -1,0 +1,98 @@
+﻿l_english:
+ #Mundhumism
+ mundhum_religion:0 "Mundhumismo"
+ mundhum_religion_adj:0 "Mundhum"
+ mundhum_religion_adherent:0 "Mundhumi"
+ mundhum_religion_adherent_plural:0 "Mundhumistas"
+ mundhum_religion_desc:0 "Mundhumismo é uma tradição religiosa dos povos Kirati do Himalaia que se concentra nas antigas histórias e canções chamadas Mundhum, que eles consideram suas escrituras. Mundhumismo é uma religião sincrética, que incorpora muitas divindades e práticas do hinduísmo junto com a adoração de ancestrais."
+ mundhumism_high_god_name:0 "Tagera Ningwaphuma"
+ mundhumism_high_god_name_2:0 "$mundhumism_high_god_name$" # Optional translation alt
+ mundhumism_high_god_name_possessive:0 "de Tagera Ningwaphuma"
+ mundhumism_high_god_shehe:0 "Isto"
+ mundhumism_high_god_herselfhimself:0 "Em si"
+ mundhumism_high_god_herhis:0 "Seu"
+ mundhumism_high_god_name_alternate:0 "O Supremo"
+ mundhumism_high_god_name_alternate_possessive:0 "A do Supremo"
+ mundhumism_good_god_tegera_ningwaphuma:0 "Tagera Ningwaphuma"
+ mundhumism_good_god_yuma_sammang:0 "Yuma Sammang"
+ mundhumism_good_god_theba_sammang:0 "Theba Sammang"
+ mundhumism_good_god_birupakshya:0 "Birupakshya"
+ mundhumism_good_god_chandi:0 "chandi"
+ mundhumism_house_of_worship:0 "têmpora"
+ mundhumism_house_of_worship_2:0 "$mundhumism_house_of_worship$" # Optional translation alt
+ mundhumism_house_of_worship_3:0 "$mundhumism_house_of_worship$" # Optional translation alt
+ mundhumism_house_of_worship_plural:0 "templos"
+ mundhumism_religious_symbol:0 "lasari" #Holy water pot or vessel with water and flowers installed on the lift side at the time of worship
+ mundhumism_religious_symbol_2:0 "$mundhumism_religious_symbol$" # Optional translation alt
+ mundhumism_religious_symbol_3:0 "$mundhumism_religious_symbol$" # Optional translation alt
+ mundhumism_religious_text:0 "Mundhum"
+ mundhumism_religious_text_2:0 "$mundhumism_religious_text$" # Optional translation alt
+ mundhumism_religious_text_3:0 "$mundhumism_religious_text$" # Optional translation alt
+ mundhumism_religious_head_title:0 "Phejiri"
+ mundhumism_religious_head_title_name:0 "fejiriato"
+ mundhumism_priest:0 "fedangma"
+ mundhumism_priest_plural:0 "fedangmas"
+ mundhumism_priest_term_plural:0 "Fedangma"
+ mundhumism_bishop:0 "nakchhong"
+ mundhumism_bishop_plural:0 "nakchhongs"
+
+ mundhumism_creator_god_name:0 "Porokmi Yambhamiba"
+ mundhumism_creator_god_name_possessive:0 "Porokmi Yambhamiba's"
+ mundhumism_health_god_name:0 "Yuma Sammang"
+ mundhumism_health_god_name_possessive:0 "de Yuma Sammang"
+ mundhumism_fertility_god_name:0 "Muhikmang"
+ mundhumism_fertility_god_name_possessive:0 "de Muhikmang"
+ mundhumism_wealth_god_name:0 "Theba Sammang"
+ mundhumism_wealth_god_name_possessive:0 "Theba Sammang's"
+ mundhumism_household_god_name:0 "Birupakshya"
+ mundhumism_household_god_name_possessive:0 "de Birupakshya"
+ mundhumism_fate_god_name:0 "carma"
+ mundhumism_fate_god_name_possessive:0 "karma"
+ mundhumism_knowledge_god_name:0 "Nisammang"
+ mundhumism_knowledge_god_name_possessive:0 "de Nisammang"
+ mundhumism_war_god_name:0 "Mukkum"
+ mundhumism_war_god_name_possessive:0 "Mukkum's"
+ mundhumism_trickster_god_name:0 "$mundhumism_war_god_name$"
+ mundhumism_trickster_god_name_possessive:0 "$mundhumism_war_god_name_possessive$"
+ mundhumism_night_god_name:0 "$mundhumism_health_god_name$"
+ mundhumism_night_god_name_possessive:0 "$mundhumism_health_god_name_possessive$"
+ mundhumism_water_god_name:0 "$mundhumism_health_god_name$"
+ mundhumism_water_god_name_possessive:0 "$mundhumism_health_god_name_possessive$"
+
+ #Kiratism
+ kiratism:0 "Kiratismo"
+ kiratism_adj:0 "Kiratist"
+ kiratism_adherent:0 "Kiratite"
+ kiratism_adherent_plural:0 "Kiratitas"
+ kiratism_desc:0 "Kiratismo é a prática do Mundismo que é comum entre a maioria do povo de Kirati. Ele se concentra na adoração de Tagera Ningwaphuma como o Ser Supremo e na honra dos ancestrais."
+ 
+ kiratism_old:0 "Antigo Kiratismo"
+ kiratism_old_adj:0 "Velho Kiratista"
+ kiratism_old_adherent:0 "Velho Kiratite"
+ kiratism_old_adherent_plural:0 "Antigos Kiratitas"
+
+ #Yumaism
+ yumaism:0 "Yumaísmo"
+ yumaism_adj:0 "Yumaist"
+ yumaism_adherent:0 "Yumaite"
+ yumaism_adherent_plural:0 "Yumaites"
+ yumaism_desc:0 "Os yumaitas concentram sua adoração em Yuma Sammang, a personificação feminina de Tagera Ningwaphuma, como a Deusa Suprema, a quem eles aclamam como a Mãe da Natureza.."
+ 
+ yumaism_old:0 "Antigo Yumaísmo"
+ yumaism_old_adj:0 "Velho Yumaist"
+ yumaism_old_adherent:0 "Velho Yumaite"
+ yumaism_old_adherent_plural:0 "antigos yumaitas"
+ 
+ yumaism_high_god_name:0 "$mundhumism_health_god_name$"
+ yumaism_high_god_name_2:0 "$mundhumism_health_god_name$" # Optional translation alt
+ yumaism_high_god_name_possessive:0 "$mundhumism_health_god_name_possessive$"
+ yumaism_creator_god_name:0 "$mundhumism_health_god_name$"
+ yumaism_creator_god_name_possessive:0 "$mundhumism_health_god_name_possessive$"
+ yumaism_wealth_god_name:0 "$mundhumism_health_god_name$"
+ yumaism_wealth_god_name_possessive:0 "$mundhumism_health_god_name_possessive$"
+ yumaism_household_god_name:0 "$mundhumism_health_god_name$"
+ yumaism_household_god_name_possessive:0 "$mundhumism_health_god_name_possessive$"
+ yumaism_war_god_name:0 "chandi"
+ yumaism_war_god_name_possessive:0 "Chandi's"
+ yumaism_water_god_name:0 "Kausiki"
+ yumaism_water_god_name_possessive:0 "Kausiki's"

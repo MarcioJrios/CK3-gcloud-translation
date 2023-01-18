@@ -1,0 +1,30 @@
+﻿l_english:
+ ##################################################
+ # #Decision Opinions
+ king_of_the_north_sea_opinion:0 "Rei do Mar do Norte"
+ queen_of_the_north_sea_opinion:0 "Rainha do Mar do Norte"
+ fp1_held_grand_sacrifice_opinion:0 "Realizado Grande Sacrifício"
+ fp1_held_human_sacrifice_opinion:0 "Realizado Sacrifício Humano"
+
+ ##################################################
+ # #Event Opinions
+ fp1_rejected_my_sword_opinion:0 "Rejeitou minha Espada"
+ fp1_accepted_my_sword_opinion:0 "Aceitou minha Espada"
+ fp1_defied_religious_traditions_opinion:0 "Tradições religiosas desafiadas"
+ fp1_usurped_my_authority_opinion:0 "Usurpou minha autoridade"
+ fp1_saved_me_from_the_mob_opinion:0 "Me salvou da máfia"
+ fp1_abandoned_me_to_the_mob_opinion:0 "Abandonou-me para a máfia"
+ fp1_honoured_heathen_opinion:0 "Pagão Honrado"
+ fp1_desecrated_corpse_of_loved_one:0 "Cadáver profanado de ente querido"
+
+ ##################################################
+ # #Culture Opinions
+ norse_opinion:0 "$norse$ Opinião"
+ danish_opinion:0 "$danish$ Opinião"
+ norwegian_opinion:0 "$norwegian$ Opinião"
+ swedish_opinion:0 "$swedish$ Opinião"
+ lombard_opinion:0 "$lombard$ Opinião"
+ italian_opinion:0 "$italian$ Opinião"
+ gaelic_opinion:0 "$gaelic$ Opinião"
+ scottish_opinion:0 "$scottish$ Opinião"
+ persian_opinion:0 "$persian$ Opinião"

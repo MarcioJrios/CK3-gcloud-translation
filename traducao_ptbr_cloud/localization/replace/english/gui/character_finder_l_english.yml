@@ -1,0 +1,5 @@
+﻿l_english:
+ CHARACTER_FINDER_COUNT:1 "[Select_CString( LessThan_int32( CharacterSelectionList.NumberOfShownCharacters, CharacterSelectionList.GetTotalNumber ), '#high', '#low' )] [CharacterSelectionList.NumberOfShownCharacters] #!of [CharacterSelectionList.GetTotalNumber] Personagens"
+ CHARACTER_FINDER_TITLE:0 "Localizador de caracteres"
+ SORT_MILITARY_STRENGTH:0 "força militar"
+ CHARACTER_FINDER_FILTER_SET:0 "#T Alguns filtros são definidos para um valor não padrão#!"

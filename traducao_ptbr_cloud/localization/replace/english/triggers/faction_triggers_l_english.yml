@@ -1,0 +1,29 @@
+﻿l_english:
+
+ CAN_CREATE_FACTION_TRIGGER:0 "Pode criar um $TYPE|V$ [faction|E] contra [TARGET_CHARACTER.GetShortUIName]"
+ NOT_CAN_CREATE_FACTION_TRIGGER:0 "Pode #negrir não#! criar um $TYPE|V$ [faction|E] contra [TARGET_CHARACTER.GetShortUIName]"
+ I_CAN_CREATE_FACTION_TRIGGER:1 "Você pode criar um $TYPE|V$ [faction|E] contra [TARGET_CHARACTER.GetShortUIName]"
+ NOT_I_CAN_CREATE_FACTION_TRIGGER:1 "Você pode #negrir não#! criar um $TYPE|V$ [faction|E] contra [TARGET_CHARACTER.GetShortUIName]"
+ THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] pode criar um $TYPE|V$ [faction|E] contra [TARGET_CHARACTER.GetShortUIName]"
+ NOT_THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] pode #ousar não#! criar um $TYPE|V$ [faction|E] contra [TARGET_CHARACTER.GetShortUIName]"
+
+ CAN_JOIN_FACTION_TRIGGER:0 "Pode entrar no [FACTION.GetNameNoTooltip]"
+ NOT_CAN_JOIN_FACTION_TRIGGER:0 "Pode #negrir não#! Junte-se a [FACTION.GetNameNoTooltip]"
+ I_CAN_JOIN_FACTION_TRIGGER:1 "Você pode se juntar ao [FACTION.GetNameNoTooltip]"
+ NOT_I_CAN_JOIN_FACTION_TRIGGER:0 "Você pode #negrir não#! Junte-se a [FACTION.GetNameNoTooltip]"
+ THEY_CAN_JOIN_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] pode entrar no [FACTION.GetNameNoTooltip]"
+ NOT_THEY_CAN_JOIN_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] pode #ousar não#! Junte-se a [FACTION.GetNameNoTooltip]"
+
+ WAS_BLOCKED_FROM_JOINING_TRIGGER:1 "Foi proibido juntar-se a facções até [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'joining_faction_block') )]"
+ I_WAS_BLOCKED_FROM_JOINING_TRIGGER:2 "Você foi proibido de se juntar a facções até [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'joining_faction_block') )]"
+ THEY_WAS_BLOCKED_FROM_JOINING_TRIGGER:1 "[CHARACTER.GetShortUIName|U] foi proibido de se juntar a facções até [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'joining_faction_block') )]"
+
+ BARONS_CANNOT_JOIN_INDEPENDENCE_FACTIONS:0 "[barons|E] Não pode participar [independence_factions|E]"
+ 
+ CANNOT_START_FACTION_AGAINST_CHARACTER:0 "Não é possível iniciar um [faction|E] contra [CHARACTER.GetShortUIName]"
+
+ CHARACTER_CANNOT_LOWER_CROWN_AUTHORITY:0 "[CHARACTER.GetShortUIName|U] já tem o menor possível [crown_authority|E]"
+
+ CHARACTER_CANNOT_BE_IN_FACTION_DUE_TO_MODIFIER:0 "Você tem um [modifier|E] impedindo-o de estar em um [faction|E]"
+ IS_A_FACTION_MEMBER_TRIGGER:0 "É um membro da facção"
+ FACTION_CAN_PRESS_DEMANDS_TRIGGER:0 "Facção pode pressionar demandas"

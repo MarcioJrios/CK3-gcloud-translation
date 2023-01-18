@@ -1,0 +1,36 @@
+﻿l_english:
+
+ ALL_CLAIMANTS:0 "Todos [claimants|E]"
+ ANY_CLAIMANT:0 "Nenhum [claimant|E]"
+
+ ANY_CHILD:0 "qualquer criança:"
+ ANY_CHILD_FIRST:0 "Qualquer um dos meus filhos:"
+ ANY_CHILD_THIRD:0 "qualquer um de [CHARACTER.GetShortUINamePossessive] Crianças:"
+ ALL_CHILDREN:0 "Todas as crianças:"
+ ALL_CHILDREN_FIRST:0 "Todos os meus filhos:"
+ ALL_CHILDREN_THIRD:0 "Tudo de [CHARACTER.GetShortUINamePossessive] Crianças:"
+ COUNT_EQ_CHILDREN:0 "Exatamente $COUNT$ crianças:"
+ COUNT_EQ_CHILDREN_THIRD:0 "Exatamente $COUNT$ de [CHARACTER.GetShortUINamePossessive] crianças:"
+ COUNT_GT_EQ_CHILDREN:0 "$COUNT$ crianças:"
+ COUNT_GT_EQ_CHILDREN_THIRD:0 "$COUNT$ de [CHARACTER.GetShortUINamePossessive] crianças:"
+
+ ALL_COURTIERS:0 "Todos os cortesãos:"
+ ANY_COURTIERS:0 "qualquer cortesão:"
+ ALL_OF_MY_COURTIERS:0 "Todos os meus cortesãos:"
+ ANY_OF_MY_COURTIERS:0 "Qualquer um dos meus cortesãos:"
+ ALL_OF_THEIR_COURTIERS:0 "Tudo de [CHARACTER.GetShortUINamePossessive] cortesãos:"
+ ANY_OF_THEIR_COURTIERS:0 "qualquer um de [CHARACTER.GetShortUINamePossessive] cortesãos:"
+
+ ALL_HOOKED_CHARACTERS:0 "Todos [hooked|E] personagens"
+ ANY_HOOKED_CHARACTER:0 "Nenhum [hooked|E] personagem"
+ ALL_OF_THEIR_HOOKED_CHARACTERS:0 "Tudo de [CHARACTER.GetShortUINamePossessive] personagens fisgados:"
+ ANY_OF_THEIR_HOOKED_CHARACTERS:0 "qualquer um de [CHARACTER.GetShortUINamePossessive] personagens fisgados:"
+
+ ANY_FAITH_HOLY_SITE:0 "Nenhum [FAITH.GetAdjective] [holy_site|E]"
+
+ ANY_HELD_TITLE:0 "Qualquer realizada [title|E]:"
+ ANY_OF_MY_HELD_TITLES:0 "Qualquer um dos meus mantidos [titles|E]:"
+ ANY_HELD_TITLE_COUNT:0 "$PARAMETERS$ guardado [titles|E]:"
+ ANY_OF_MY_HELD_TITLES_COUNT:0 "$PARAMETERS$ do meu seguro [titles|E]:"
+ ANY_HELD_TITLE_PERCENT:0 "$PARAMETERS$ guardado [titles|E]:"
+ ANY_OF_MY_HELD_TITLES_PERCENT:0 "$PARAMETERS$ do meu seguro [titles|E]:"

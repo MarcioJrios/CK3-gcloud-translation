@@ -1,0 +1,52 @@
+﻿l_english:
+ fp2_urbanism_legacy_track_name:1 "metropolitano"
+ fp2_urbanism_legacy_track_desc:1 "As cidades são o reflexo do requinte de seus construtores, atraindo nobres de todo o mundo"
+ fp2_urbanism_legacy_1_name:1 "Cidades influentes"
+ fp2_urbanism_legacy_4_name:2 "Desenvolvimento de prestígio"
+ fp2_urbanism_legacy_3_name:0 "Colaboradores Dedicados"
+ fp2_urbanism_legacy_2_name:1 "Educação republicana"
+ fp2_urbanism_legacy_5_name:2 "Cidades florescentes"
+ fp2_coterie_legacy_track_name:0 "Coterie"
+ fp2_coterie_legacy_track_desc:1 "A força que une uma Casa"
+ fp2_coterie_legacy_1_name:0 "Círculo íntimo"
+ fp2_coterie_legacy_2_name:0 "casa confiável"
+ fp2_coterie_legacy_3_name:0 "Unidade"
+ fp2_coterie_legacy_4_name:0 "Informações Compartilhadas"
+ fp2_coterie_legacy_5_name:0 "raízes pragmáticas"
+
+
+ cultural_acceptance_gain_gift_dynasty_perk:0 "de $fp2_urbanism_legacy_2_name$ [dynasty_perk|E]"
+
+ LEGACY_DYNASTY_UNLOCK_CITY_CELEBRATION_DECISION:1 "Desbloqueia o [improve_city_province_decision|E]"
+ LEGACY_DYNASTY_CITIES_INCREASE_DEVELOPMENT:1 "Cada [city|E] aumenta o mensal [development_growth|E] do seu [county|E] por: #P+20%#!"
+ LEGACY_DYNASTY_PRESTIGE_AND_GUEST_FROM_BUILDING_COMPLETION:1 "Ganho [prestige_i]#P [EmptyScope.ScriptValue('medium_prestige_gain')|0]#! [prestige|E] e potencialmente atrair [guests|E] ao completar um [building|E] em um [city_holding|E]"
+ LEGACY_DYNASTY_BETTER_CONTRIBUTION_FROM_REPUBLICAN_VASSALS:0 "#P +15%#! [taxes|E] a partir de [republic_government|E] [vassals|E]\n#P +15%#! [levy|E] a partir de [republic_government|E] [vassals|E]"
+ LEGACY_DYNASTY_EXTRA_TRAITS_FROM_CITIES:1 "[dynasty|E] membros podem receber o [GetTrait('education_republican_knowledge_3').GetName( GetNullCharacter )] linha de [traits|E] além de seus [education_trait|E] se eles são educados em um alto [development|E] município"
+ LEGACY_DYNASTY_NO_SALARY_FREE_FIRING_COURT_POSITION_FROM_DYNASTY:1 "[house|E] membros não precisarão de um salário quando nomeados para um [court_position|E] e pode ser demitido sem perder [prestige_i] [prestige|E]"
+ LEGACY_DYNASTY_BETTER_SPOUSE_FROM_HOUSE_MEMBERS:1 "[skills|E] a partir de [spouse|E] [councillor_tasks|E]: #p +10%#! per [councillor|E] de você [house|E]"
+ LEGACY_DYNASTY_MORE_PRESTIGE_FROM_WAR_SUPPORT_HOUSE_MEMBERS:1 "ganhar mais [prestige_i] [prestige|E] ao contribuir para um [house|E] guerra de membrosDesbloqueia #V $call_house_member_to_war_interaction$#! para todos [house|E] membros"
+ LEGACY_DYNASTY_UNLOCK_SHARE_SECRETS:1 "Desbloqueia #V $share_known_secrets_interaction$#!: câmbio conhecido [secrets|E] com membros do seu [house|E]"
+ LEGACY_DYNASTY_UNLOCK_DISINHERIT_CHILDREN:0 "[dynasty|E] membros podem [disinherit|e] deles [children|E] para [prestige_i] [prestige|E] e [tyranny|E] custo"
+ LEGACY_DYNASTY_SUPPORT_FROM_COUNCILORS:2 "Ganho #P [EmptyScope.ScriptValue('council_reliable_house_percentage')|0]%#! of the [Concept('skills','Primary Skill')|E] a partir de [councillors|E] pertencente ao seu [house|E]"
+
+
+ inner_circle_salary_mod:0 "$fp2_coterie_legacy_1_name$"
+
+ share_known_secrets_interaction:0 "Compartilhar segredos"
+ share_known_secrets_interaction.tt.no_secrets_to_share:1 "Você sente que não há segredos adequados para compartilhar"
+ share_known_secrets_interaction_desc:0 "Troca conhecida [secrets|E] com [recipient.GetShortUINameNoTooltip]: revele o seu e aprenda [recipient.GetHerHis]"
+ share_known_secrets_interaction_outcome_notif_title:0 "Segredos trocados"
+ share_known_secrets_interaction_recipient_had_no_secrets:0 "[recipient.GetName] não tinha [secrets|E] compartilhar!"
+ share_known_secrets_interaction_desc_intro:0 "Você trocou informações com [recipient.GetTitledFirstName] e aprendi o seguinte [secrets|E]:"
+ 
+ disinherit_children_interaction:0 "Deserdar uma Criança"
+ disinherit_children_interaction_desc:0 "Retirar [recipient.GetShortUINameNoTooltip] de [line_of_succession|E]"
+
+ many_secrets_exchanged:0 "Aprenda #EMP muitos #!segredos"
+ several_secrets_exchanged:0 "Aprenda #EMP vários #!segredos"
+ few_secrets_exchanged:0 "Aprenda #EMP alguns #!segredos"
+ reliable_house_modifier:0 "$fp2_coterie_legacy_2_name$"
+
+ prestige_gained_from_building_completion:0 "Prestígio do edifício concluído"
+ city_gained_building_slots:0 "Novos slots de construção"
+

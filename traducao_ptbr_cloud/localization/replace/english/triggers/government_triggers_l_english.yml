@@ -1,0 +1,21 @@
+﻿l_english:
+
+ GOVERNMENT_HAS_FLAG_TRIGGER:0 "[government|E] pode: $FLAG|V$"
+
+ GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E] permite: $RULE|V$"
+ THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|V] [government|E] permite: $RULE|V$"
+
+ GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E] não permite: $RULE|V$"
+
+ HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Tem um $GOVERNMENT|V$ governo"
+ NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "#bold não#! tenha um $GOVERNMENT|V$ governo"
+ HAS_GOVERNMENT_TRIGGER_FIRST:0 "Você tem um $GOVERNMENT|V$ governo"
+ NOT_HAS_GOVERNMENT_TRIGGER_FIRST:0 "Você faz #ousado não#! tenho $GOVERNMENT|V$ governo"
+ HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] tem $GOVERNMENT|V$ governo"
+ NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] #bold não#! tenha um $GOVERNMENT|V$ governo"
+
+ HAS_SAME_GOVERNMENT_TRIGGER:0 "Tem o mesmo governo que [TARGET_CHARACTER.GetShortUIName]"
+
+ MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] não tem o [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doutrina ou a [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Doutrina"
+ MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] não tem o [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doutrina ou a [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Doutrina"
+ has_law_allowing_succession_law_change:0 "Tem pelo menos [high|E] [crown_authority|E] ou [limited_tribal|E] [tribal_authority|E]"

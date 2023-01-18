@@ -1,0 +1,25 @@
+﻿l_english:
+
+ DEVELOPMENT_LEVEL_TRIGGER:0 "o [development|E] nível no [TITLE.GetName] é $COMPARATOR$ $NUM|V$"
+ NOT_DEVELOPMENT_LEVEL_TRIGGER:0 "o [development|E] nível no [TITLE.GetName] is #bold not#! $COMPARATOR$ $NUM|V$"
+ ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "o [development|E] nível no [TITLE.GetName] é $COMPARATOR$ $NUM|V$"
+ NOT_ITS_DEVELOPMENT_LEVEL_TRIGGER:0 "o [development|E] nível no [TITLE.GetName] is #bold not#! $COMPARATOR$ $NUM|V$"
+
+ IS_COUNTY_CAPITAL_TRIGGER:0 "Isto é o [county_capital|E]"
+ NOT_IS_COUNTY_CAPITAL_TRIGGER:0 "Isso é #bold, não#! a [county_capital|E]"
+
+ NOT_POTENTIAL_COUNTY_CONTROL_TASK_TRIGGER:1 "[TITLE.GetName] já está em 100 [control|E] e não tem [county_corruption|E]"
+
+ DEVELOPMENT_RATE_TRIGGER:0 "Development Rate: $NUM|V0$"
+ HAS_COUNTY_MODIFIER_TRIGGER:0 "Has county modifier: $MODIFIER$"
+ IS_COASTAL_TRIGGER:0 "é litorâneo"
+ IS_COASTAL_COUNTY_TRIGGER:1 "é litorâneo [county|E]"
+
+ HAS_REALM_LAW_FLAG_TRIGGER:0 "$FLAG|V$ é permitido sob a atual Lei do Reino"
+ IS_CAPITAL_BARONY_TRIGGER:0 "Baronato é capital"
+
+ IS_HOLY_SITE_TRIGGER:0 "É um local sagrado"
+ HAS_CONTRUCTION_WITH_FLAG_TRIGGER:0 "Tem um $FLAG|V$ construção"
+ NUM_LEASED_TITLES_TRIGGER:0 "Number of leased titles: $NUM|V0$"
+
+ IS_RAIDED_TRIGGER:0 "Está sendo [raided|E]"

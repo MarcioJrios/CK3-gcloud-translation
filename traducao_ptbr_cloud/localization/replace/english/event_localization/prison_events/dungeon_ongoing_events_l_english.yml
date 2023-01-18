@@ -1,0 +1,62 @@
+﻿l_english:
+ dungeon_ongoing.0001.t:0 "Conversa incessante"
+ dungeon_ongoing.0001.desc:0 "Não consigo ver quem é, ou exatamente onde eles estão, mas a única vez que seus sussurros altos não ecoam pela masmorra úmida é quando eles estão gritando.."
+ dungeon_ongoing.0001.a:0 "Se parasse por um momento!"
+ dungeon_ongoing.0001.b:0 ""Is it me you're talking to, friend?""
+
+ dungeon_ongoing.0002.t:0 "A espera"
+ dungeon_ongoing.0002.desc:0 "É a passagem do tempo que realmente me atinge. Quem sabe quanto tempo já passou, ou quanto tempo ainda resta da minha estada? Pode ser horas ou meses."
+ dungeon_ongoing.0002.a:0 "Eu preciso sair daqui!"
+ dungeon_ongoing.0002.b:0 "Eu posso esperar o quanto eu precisar."
+
+ dungeon_ongoing.0003.t:0 ""Keep It Down!""
+ dungeon_ongoing.0003.desc:0 "Tenho discursado para os guardas através das grades, dizendo-lhes que precisam me deixar sair. A única resposta que recebo são olhares ameaçadores e punhos erguidos me dizendo para ficar quieto."
+ dungeon_ongoing.0003.a:0 "Apelos ao dever claramente não são a saída."
+ dungeon_ongoing.0003.b:0 "Você acha que pode me calar com ameaças?!"
+
+ dungeon_ongoing.0004.t:0 "Infecção"
+ dungeon_ongoing.0004.desc:0 "Achei que a ferida estava quase cicatrizada, mas agora começou a arder. Não consigo olhar direito no escuro, mas parece bulboso ao toque.\nNão sei dizer se a umidade que acompanha a dor lancinante é sangue, pus ou condensação do ar úmido."
+ dungeon_ongoing.0004.a:0 "Por favor, preciso de ajuda..."
+ dungeon_no_response_tooltip:0 "#F Ninguém parece ouvir seus apelos.#!"
+
+ dungeon_ongoing.0005.t:0 "O Fogo Acaba"
+ dungeon_ongoing.0005.desc:0 "A pele ao redor do meu ferimento está dura, como madeira molhada, mas a sensação de queimação passou. Parece que a infecção se foi."
+ dungeon_ongoing.0005.a:0 "Agradecer [ROOT.Char.GetFaith.HealthGodName]."
+
+ dungeon_ongoing.0006.t:0 "Destruição e escuridão"
+ dungeon_ongoing.0006.desc:0 "Um frio constante, umidade perpétua e fome eterna de mingau muito ralo."
+ dungeon_ongoing.0006.a:0 "[ROOT.Char.GetFaith.HighGodName], como eu poderia merecer isso?!"
+ dungeon_ongoing.0006.b:0 "Ei, poderia ter sido pior."
+
+ dungeon_ongoing.0007.t:0 "Anseio por algo mais"
+ dungeon_ongoing.0007.desc:0 "Preso aqui na escuridão enquanto o mundo lá fora segue em frente. Eu deveria estar lá fora, alcançando os céus, não enterrado no subsolo."
+ dungeon_ongoing.0007.a:0 "Eu sou digno de muito mais do que isso!"
+ dungeon_ongoing.0007.b:0 "Eu tenho que focar na sobrevivência, e apenas na sobrevivência."
+
+ dungeon_ongoing.0008.t:0 "A passagem dos dias"
+ dungeon_ongoing.0008.desc:0 "Eu estive aqui para sempre. Já se passaram meses? Anos? Décadas? Meu exílio na escuridão nunca termina!"
+ dungeon_ongoing.0008.a:0 "faz tanto tempo!"
+
+ dungeon_ongoing.0009.t:0 "O conforto de um amigo"
+ dungeon_ongoing.0009.desc:0 "Não sei como teria sobrevivido aqui sem o conforto que minha querida [ROOT.Char.Custom('prison_pet')] fornece.\nSempre que me sinto triste, ele está lá para me confortar, sempre que sinto vontade de desistir, ele me impulsiona. eu nunca conheci outro [ROOT.Char.Custom('prison_pet')] gosto disso!"
+ dungeon_ongoing.0009.a:0 "você é um pequeno adorável [ROOT.Char.Custom('prison_pet')], você não é?"
+
+ dungeon_ongoing.9001.t:0 "Lado de dentro"
+ dungeon_ongoing.9001.desc:0 "Não me lembro da última vez que vi o sol. Não me lembro da última vez que comi comida sólida ou qualquer outra coisa sólida. Parece que a umidade do ar se prendeu em meus pulmões. Se um dente dói, eu simplesmente o arranco de minhas gengivas podres."
+ dungeon_ongoing.9001.a:0 "É tão difícil se mover."
+
+ dungeon_ongoing.9002.t:0 "Oco"
+ dungeon_ongoing.9002.desc:0 "A tosse nunca acaba. Já se passaram dias e não dormi uma hora sem acordar com as mãos agarradas à garganta. Lamber gotas de água da parede não adianta mais."
+ dungeon_ongoing.9002.a:0 "Eu só quero que isso acabe."
+
+ dungeon_ongoing.9003.t:0 "Lembrança"
+ dungeon_ongoing.9003.desc:0 "Será que algum dia me deixarão sair daqui? Estou simplesmente trancado, abandonado e esquecido? Alguém além do carcereiro sabe que estou aqui? Sobrou alguém que sabe meu nome? Quem sabe quem eu era?"
+ dungeon_ongoing.9003.a:0 "Eu mal consigo me lembrar de seus rostos..."
+
+ dungeon_ongoing.9004.t:0 "Abandono"
+ dungeon_ongoing.9004.desc:0 "Eu vou morrer aqui. Eu sei disso com certeza. Nunca mais sentirei o sol em meu rosto, ou ouvirei uma risada que não seja tingida com um toque de desesperança."
+ dungeon_ongoing.9004.a:0 "Este é o meu mundo inteiro."
+
+ dungeon_ongoing.9005.t:0 "Perda Insondável"
+ dungeon_ongoing.9005.desc:0 "Meu fiel companheiro, meu amigo mais querido, minha tábua de salvação neste lugar escuro...\nComo eu embalar minha morte [ROOT.Char.Custom('prison_pet')] em meus braços, sou dominado pela desesperança da minha situação. Se um ser puro como ele deve morrer neste lugar, que chance eu tenho?"
+ dungeon_ongoing.9005.a:0 "Você não pode me deixar aqui sozinho!"

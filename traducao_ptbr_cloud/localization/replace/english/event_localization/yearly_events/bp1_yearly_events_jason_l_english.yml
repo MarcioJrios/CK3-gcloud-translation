@@ -1,0 +1,85 @@
+﻿l_english:
+#Shelter from the Storm
+ bp1_yearly.0100.t:0 "Abrigo da tempestade"
+ bp1_yearly.0100.desc:0 "Os céus são um mau presságio, o vento uiva e meus servos tremem diante do turbilhão que se aproxima. Um dia terrível para viajar pelo deserto!"
+
+ bp1_yearly.0100.sedentary_traveller:0 "\nPobres miseráveis dominam este estranho canto da terra, imundo e minúsculo."
+ bp1_yearly.0100.nomadic_traveller:0 "\nNão há tempo para armar nosso acampamento antes que a tempestade chegue."
+ bp1_yearly.0100.sedentary_host:0 "Chegamos a uma casa de campo solitária e meio decente... mas a habitação é propriedade da minha falta [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('host'))] [host.GetFirstName].\nEstou sendo açoitado pela tempestade crescente."
+ bp1_yearly.0100.nomadic_host:0 "Felizmente, encontramos um acampamento adequado. Infelizmente... aqueles dentro são membros da tribo da minha falta [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('host'))] [host.GetFirstName].\nEstou sendo açoitado pela tempestade crescente."
+
+ bp1_yearly.0100.memories:0 "No entanto, tudo o que sinto é a velha dor de quando [rival_memory.GetDescription]."
+
+ bp1_yearly.0100.lover_welcome:0 "Pode ser [host.GetFirstNameNoTooltip] é longe? Talvez a sorte seja gentil - e [host.GetHerHis] atraente [host.Custom2('RelationToMeShort', SCOPE.sC('lover'))] [lover.GetFirstName] estará lá para me receber?"
+ bp1_yearly.0100.friend_welcome:0 "Pode ser [host.GetFirstNameNoTooltip] é longe? Talvez a sorte seja gentil e — [host.GetHerHis] [befriend.Custom('ComplimentAdjective')] [host.Custom2('RelationToMeShort', SCOPE.sC('befriend'))] [befriend.GetFirstName] estará lá para me receber?"
+
+ bp1_yearly.0100.close:0 "De uma forma ou de outra... esta será uma longa noite."
+
+
+
+ bp1_yearly.0100.a:0 "Sorrisos, homens!"
+ bp1_yearly.0100.a.tt:0 "Hospitalidade miserável espera..."
+ bp1_yearly.0100.a_title:0 "Uma noite miserável e paranóica"
+ bp1_yearly.0100.a.success_chance:0 "Nenhum [schemes|E] [host.GetShortUINameNoTooltip] tem contra você ganha 15 [success_chance|E]"
+
+ bp1_yearly.0100.b:0 "Talvez seja aqui que moram os segredos de família..."
+ bp1_yearly.0100.b.tt:0 "você se abriga... e a oportunidade de bisbilhotar"
+ bp1_yearly.0100.b.tt_success:0 "A noite dá frutos"
+ bp1_yearly.0100.b.secrets:0 "Um segredo de família de [host.GetFirstNamePossessiveNoTooltip] é seu"
+ bp1_yearly.0100.b.tt_failure:0 "Você não encontra armários cheios de esqueletos"
+ bp1_yearly.0100.b.tt_crit_failure:0 "Você é pego invadindo"
+
+ bp1_yearly.0100.c:0 "Por que brigar com [befriend.GetFirstNameNoTooltip]...?"
+ bp1_yearly.0100.c.tt:0 "Para [befriend.GetTitledFirstName], você pode convocar bom ânimo"
+ bp1_yearly.0100.c.tt_success:0 "Você se relaciona intimamente com o inimigo [host.Custom2('RelationToMeShort', SCOPE.sC('befriend'))]"
+ bp1_yearly.0100.c.tt_failure:0 "Seu charme é apreciado"
+ bp1_yearly.0100.c.tt_crit_failure:0 "Você compartilha uma terrível noite de discussões"
+
+ bp1_yearly.0100.d:0 "Nada como um encontro secreto..."
+ bp1_yearly.0100.d.tt:0 "[host.GetFirstNamePossessiveNoTooltip] [host.Custom2('RelationToMeShort', SCOPE.sC('lover'))] pode estar lá dentro, ansioso para libertá-lo de suas roupas usadas em viagens..."
+ bp1_yearly.0100.d.tt.success:0 "[lover.GetSheHe|U] espera por você"
+ bp1_yearly.0100.d.tt.sex:0 "você dorme com [lover.GetShortUINameNoTooltip]"
+ bp1_yearly.0100.d.tt_failure:0 "uma noite sozinho"
+ bp1_yearly.0100.d.tt_no_sex:0 "Não há sinal do fascinante [lover.GetShortUINameNoTooltip]"
+
+ bp1_yearly.0100.e:0 "Nossas espadas garantirão abrigo."
+ bp1_yearly.0100.e.tt:0 "Colocar um sorriso falso? Não, você prefere amarrar seus anfitriões"
+ bp1_yearly.0100.e.wounded_chance:0 "Sua [prowess|E] determina se você está ferido"
+ bp1_yearly.0100.e.tt_success:0 "Sob a capa da tempestade, você é imparável"
+ bp1_yearly.0100.e.tt_failure:0 "Você é lançado de volta aos elementos"
+
+ bp1_yearly.0100.f:0 "Um buraco no chão seria preferível."
+ bp1_yearly.0100.f.tt_success:0 "Você suporta os elementos... por muito pouco"
+ bp1_yearly.0100.f.sick:0 "você pode se tornar [GetTrait('ill').GetName( GetNullCharacter )]"
+ bp1_yearly.0100.f.tt_failure:0 "A noite é longa. A tempestade é cruel"
+ bp1_yearly.0100.f.very_sick:0 "Você pode contratar [GetTrait('pneumonic').GetName( GetNullCharacter )]"
+
+ bp1_yearly.0101.t:0 "Tempestade no Deserto"
+ bp1_yearly.0101.desc:0 "Em voz baixa, agradeço [ROOT.Char.GetFaith.FertilityGodName] para manter [lover.GetTitledFirstNamePossessive] repugnante [lover.Custom2('RelationToMeShort', SCOPE.sC('host'))] longe deste lugar humilde.\nComo a tempestade faz guerra com os céus, sua fúria ressoa ao nosso redor,"
+
+ bp1_yearly.0101.gentle_flirt:0 "[lover.GetFirstNameNoTooltip] arrepios mais próximos a cada momento. Esse medo é apenas um ato? Algo se mexe [lover.GetHerHis] olhos, logo atrás [lover.GetHerHis] sorriso formal. [lover.GetHerHis|U] olhos me diga... sim."
+ bp1_yearly.0101.protective_flirt:0 "[lover.GetFirstNameNoTooltip] age confiante, protetor. eu sorrio para [lover.GetHerHim] felizmente - gentilmente - e em pouco tempo... [lover.GetSheHe] desliza para um silêncio arrebatador. [lover.GetSheHe|U] é meu."
+
+ bp1_yearly.0101.finish:0 "\nO canto em que nos encontramos está escuro. Bastante escuro. E nada fazemos, com [lover.GetHerHis] corpo faminto, sob minhas roupas sujas de sujeira, pode ser ouvido através do tumulto da natureza.\nO único som a tocar meus lábios é uma maldição [lover.GetHerHis] [lover.Custom2('RelationToMeShort', SCOPE.sC('host'))]'s name. And, in that very moment, I make my victory complete."
+
+ bp1_yearly.0101.a:0 "Mas é #EMP você#! eu sonho com, [lover.GetFirstNameNoTooltip]!"
+ bp1_yearly.0101.b:0 "Um único e delicioso insulto."
+
+ bp1_yearly.0102.opening:0 "[host.Custom2('AppropriateGreetingNegative', ROOT.Char)]"
+ bp1_yearly.0102.desc:0 "Você dormiu bem? Desfrute de uma noite de hospitalidade do meu povo,"
+
+ bp1_yearly.0102.desc_weak:0 "de descansar seus pés gloriosos?"
+ bp1_yearly.0102.desc_powerful:0 "de sonhar que você poderia ser eu?"
+
+ bp1_yearly.0102.uneventful_night:0 "\nDisseram-me que você se destaca em ser um mendigo sem charme, intrusivo e sujo de esterco."
+ bp1_yearly.0102.failed_snoop:0 "\nSeus direitos como suserano têm limites. Eu assegurei que todos saibam de seu desrespeito por eles."
+ bp1_yearly.0102.warm_welcome:0 "\nSe ao menos eu estivesse presente para mandá-lo embora. [befriend.GetTitledFirstName] sempre teve um gosto horrível."
+ bp1_yearly.0102.cold_welcome:0 "\nSeu anfitrião [befriend.GetTitledFirstName] agora aprendeu a odiá-lo como eu. Meu coração transborda de alegria."
+ bp1_yearly.0102.erotic_welcome:0 "\nSe eu estivesse presente, você teria sido expulso com a primeira palavra odiosa que murmurou para mim. [host.Custom2('RelationToMeShort', SCOPE.sC('lover'))], você cobra."
+ bp1_yearly.0102.attack_success:0 "\nVocê atacou meus homens como um animal assustado. Você atacou sem honra ou cortesia, como é o seu jeito."
+ bp1_yearly.0102.attack_fail:0 "\nNão? Isso mesmo. Você #EMP tentou#! para nos atacar, mas foram lançados de volta no deserto como a besta que você é. Seus esforços foram patéticos."
+
+ bp1_yearly.0102.close:0 "\nQue a próxima tempestade varra você da face da terra."
+
+ bp1_yearly.0102.a:0 "Invista em camas mais macias, seu idiota!"
+ bp1_yearly.0102.b:0 "Não é o céu que você deve temer, [host.GetFirstNameNoTooltip]..."

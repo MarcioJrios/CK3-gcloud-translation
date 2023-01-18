@@ -1,0 +1,44 @@
+﻿l_english:
+ reactive_advice_struggle:0 "lutas"
+ action_reactive_advice_struggle:0 "Conselho: Lutas"
+ action_reactive_advice_struggle_desc:1 "Você pode participar de uma Luta. Abra isto para saber mais sobre o que isso significa para você."
+ action_reactive_advice_struggle_click:0 "$click_to_open_lesson$"
+ 
+ lessons_struggle_introduction:0 "lutas"
+ lessons_struggle_introduction_desc:0 "Agora você faz parte de um [struggle|E]!\n\n[struggle_struggles|E] são conflitos prolongados dentro de um [region|E] onde as ações de todos os participantes mudarão o estado da área, estabelecendo diferentes [struggle_phase_phases|E]. As mudanças no estado da região virão com efeitos [war|E], [faith|E] e [culture|E].\nEm última análise, todos os participantes competem para ser o único a decidir como o [struggle|E] termina, afetando todos os participantes da região."
+
+ lessons_struggle_region_open:0 "região de luta"
+ lessons_struggle_region_open_desc:1 "o [struggle_region|E] é marcado dentro de uma nova borda que se destaca se você passar o mouse sobre o botão Struggle. Apenas personagens que possuam terras na região participam do [struggle|E].\n\n#TUT [characters|E] fora da região podem aderir a um [struggle|E] adquirindo terras dentro do [struggle_region|E] e movendo seus [capital|E] na área.#!"
+
+ lessons_struggle_view_open:0 "Acessando a Visualização da Luta"
+ lessons_struggle_view_open_desc:0 "Aqui você pode abrir o [struggle|E] view, o local onde você pode consultar todas as informações relacionadas ao [struggle|E]."
+ lessons_struggle_view_open_prompt:0 "Abra o [struggle|E] visualizar"
+
+ lessons_struggle_view:0 "Visualização de luta"
+ lessons_struggle_view_desc:1 "Na Visualização de Luta, você pode aprender mais sobre o atual [struggle_phase|E] e seus efeitos. Você também pode visualizar as próximas fases potenciais e o [struggle_catalyst_catalysts|E] você precisa completar para conduzir o [struggle|E] Em direção a eles."
+
+
+ lessons_struggle_current_phases_and_effects:0 "Fases e efeitos atuais"
+ lessons_struggle_current_phases_and_effects_desc:0 "O actual [struggle_phase|E] impacta o todo [struggle_region|E], aplicação de efeitos especiais para [struggle_involved|E], [struggle_interloper|E] e [struggle_uninvolved|E] participantes.\nNesta seção você pode inspecionar os efeitos de fase para [war|E], [faith|E], [culture|E], e outros efeitos."
+
+ lessons_next_struggle_phases:0 "Próximas Fases de Luta"
+ lessons_next_struggle_phases_desc:2 "O actual [struggle_phase|E] chegará ao fim quando uma das próximas fases em potencial atingir [GetDefine('NStruggle', 'PHASE_TRANSITION_THRESHOLD')] progresso. Para aumentar o progresso de qualquer uma das próximas fases em potencial, você deve concluir qualquer [struggle_catalyst_catalysts|E] listados sob eles.\n\n#TUT Inspecione quaisquer próximas fases em potencial para aprender mais sobre elas, seus efeitos e recentes [struggle_catalyst|E] progresso. Selecioná-los abrirá o [struggle_catalyst|E] lista, que pode ser concluída vezes ilimitadas por você ou outro [struggle_involved|E] participantes do [struggle|E].#!"
+
+ lessons_ending_struggle_open:0 "Acabando com a luta"
+ lessons_ending_struggle_open_desc:1 "o [struggle|E] continuará mudando de fase até que um participante acione uma das Decisões Finais e encerre o [struggle|E]. Você sempre pode inspecionar as Decisões Finais para verificar os requisitos e efeitos."
+ lessons_ending_struggle_open_prompt:0 "Abra as decisões finais"
+
+ lessons_ending_struggle:0 "Acabando com a luta"
+ lessons_ending_struggle_desc:1 "Aqui você pode ver todas as decisões finais para o [struggle|E].\nLembre-se de que cada decisão final exige que você esteja em uma fase específica para acioná-la. Você será notificado se um deles estiver disponível."
+
+
+ lessons_explore_struggle_open:0 "Explorar a luta"
+ lessons_explore_struggle_open_desc:0 "Agora você conhece todos os fundamentos e está pronto para seu primeiro [struggle|E].\nInspecionar os efeitos da fase atual e as próximas fases potenciais nas quais você pode querer trabalhar é um bom lugar para começar."
+ 
+ lessons_struggle_involvement_view_open:0 "Envolvimento de luta"
+ lessons_struggle_involvement_view_open_desc:0 "Em um [struggle|E], todos [characters|E] na região pode desencadear [struggle_catalyst_catalysts|E]. Portanto, é importante saber quem é o [struggle_involved] e [struggle_interloper] participantes são. o [struggle|E] A Exibição de Envolvimento oferece informações sobre isso."
+ lessons_struggle_involvement_view_open_prompt:1 "Abra a Visualização de Envolvimento de Luta"
+  
+ lessons_struggle_involvement_view:0 "Envolvimento de luta"
+ lessons_struggle_involvement_view_desc:0 "Aqui você pode ver suas informações de envolvimento, juntamente com uma análise do que o torna [struggle_involved|E], [struggle_interloper|E] ou [struggle_uninvolved|E].\nJunto com seu envolvimento pessoal, você pode ver a lista de [struggle|E] participantes e seu envolvimento. [struggle_involved_cultures|E] e [struggle_involved_faiths|E] pode ser encontrado aqui também.\n\n#TUT Conhecer o envolvimento de outro jogador é importante ao planejar quais catalisadores você pode querer buscar, porque os catalisadores podem solicitar que você escolha outro [struggle|E] participante, [faith|E] ou [culture|E].#!"
+

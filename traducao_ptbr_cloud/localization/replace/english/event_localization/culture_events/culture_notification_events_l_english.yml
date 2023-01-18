@@ -1,0 +1,41 @@
+﻿l_english:
+ culture_notification.0010.t:0 "Tradição abandonada"
+ culture_notification.0010.desc:1 "o [this_player.GetCulture.GetNameNoTooltip] A cultura abandonou o [SCOPE.Custom('GetTraditionNameFromFlag')] tradição"
+ culture_notification.0011.t:1 "Tradição Abraçada"
+ culture_notification.0011.desc:1 "o [this_player.GetCulture.GetNameNoTooltip] A cultura abraçou a [SCOPE.Custom('GetTraditionNameFromFlag')] tradição"
+
+
+ culture_notification.1001.t:0 "Cultura híbrida formada"
+ culture_notification.1001.desc:0 "[founder.GetTitledFirstName] formou o [new_culture.GetNameNoTooltip] [hybrid_culture|E] de [parent_1.GetNameNoTooltip] e [parent_2.GetNameNoTooltip] Culturas"
+
+ culture_notification.1011.t:0 "o [new_culture.GetNameNoTooltip] Hibridação"
+ culture_notification.1011.intro:1 "Estimulado por relações positivas e maior intercâmbio cultural, o [parent_1.GetName] e [parent_2.GetName] os povos têm se aproximado cada vez mais ao longo dos anos. Agora, os indivíduos dessas sociedades começaram a se ver não como um ou outro, mas como ambos, simultaneamente - uma nova [new_culture.GetName] Cultura.\n\n"
+ culture_notification.1011.hybrid_primary_1:1 "[parent_1.GetNameNoTooltip] tradições e valores formam a espinha dorsal desta nova Cultura, enquanto vários [parent_2.GetNameNoTooltip] atributos foram adaptados e integrados para atender às necessidades de sua nova sociedade."
+ culture_notification.1011.hybrid_primary_2:1 "[parent_2.GetNameNoTooltip] tradições e valores formam a espinha dorsal desta nova Cultura, enquanto vários [parent_1.GetNameNoTooltip] atributos foram adaptados e integrados para atender às necessidades de sua nova sociedade."
+ culture_notification.1011.hybrid_no_primary:1 "o [new_culture.GetNameNoTooltip] as pessoas adotaram uma mistura uniforme de elementos de ambas as culturas, formando uma verdadeira cultura híbrida que combina perfeitamente elementos de ambos os mundos.."
+ culture_notification.1011.outro.other:0 "$culture_notification.1111.outro.other$"
+ culture_notification.1011.outro.founder:0 "$culture_notification.1111.outro.founder$"
+ culture_notification.1011.a.other:0 "$culture_notification.1111.a.other$"
+ culture_notification.1011.a.founder:0 "$culture_notification.1111.a.founder$"
+ culture_notification_hybrid_tooltip:0 "o [hybrid_culture|E] [new_culture.GetName] se formou a partir do [parent_1.GetName] e [parent_2.GetName] [cultures|E]."
+
+
+
+ culture_notification.1101.t:0 "Cultura divergente"
+ culture_notification.1101.desc:0 "[founder.GetTitledFirstName] criou [new_culture.GetNameNoTooltip], uma [divergent_culture|E] de [parent_1.GetNameNoTooltip]"
+
+ culture_notification.1111.t:0 "o [new_culture.GetNameNoTooltip] Divergência"
+ culture_notification.1111.intro:0 "Pequenas mudanças no dialeto, costumes ligeiramente diferentes... No começo foi fácil errar. Com o tempo, porém, pequenas mudanças levaram a grandes, e agora o [parent_1.GetCollectiveNoun] vivendo em [founder.GetPrimaryTitle.GetNameNoTierNoTooltip] começaram a se identificar como [new_culture.GetName] em vez de.\n\n"
+ culture_notification.1111.ethos.bellicose:0 "Enfrentando pressões crescentes tanto do deserto quanto de seus rivais, o [new_culture.GetCollectiveNounNoTooltip] estão se tornando cada vez mais belicosos à medida que procuram fazer e proteger seus meios de subsistência pela força das armas."
+ culture_notification.1111.ethos.bureaucratic:1 "o [new_culture.GetCollectiveNounNoTooltip] parecem estar desenvolvendo um apetite crescente por leis verborrágicas, crônicas longas e estatutos labirínticos, confortando-se em uma sociedade governada por práticas formais em constante expansão."
+ culture_notification.1111.ethos.courtly:0 "Com uma crescente devoção às boas maneiras e à etiqueta, o [new_culture.GetCollectiveNounNoTooltip] estão adotando um modo de vida cortês e estruturado, a fim de trazer uma nova era de estabilidade e prosperidade."
+ culture_notification.1111.ethos.communal:0 "Ao ajudar seus vizinhos na tragédia e compartilhar seus triunfos, o [new_culture.GetCollectiveNounNoTooltip] estão formando laços estreitos de comunidade que promovem um sentimento de pertencimento e propósito."
+ culture_notification.1111.ethos.stoic:0 "Diante de um mundo perigoso e imprevisível, o [new_culture.GetCollectiveNounNoTooltip] estão começando a valorizar a garra e a determinação mais do que nunca."
+ culture_notification.1111.ethos.spiritual:0 "Olhando para si mesmos e para o mundo em busca de respostas, os [new_culture.GetCollectiveNounNoTooltip] estão se tornando mais espirituais e devotos do que nunca."
+ culture_notification.1111.ethos.egalitatian:0 "Reconhecendo que as circunstâncias do nascimento de alguém nem sempre predizem habilidade e competência, o [new_culture.GetCollectiveNounNoTooltip] estão se tornando mais igualitários e abertos como sociedade."
+ culture_notification.1111.ethos.unchanged:0 "Com sua visão de vida fundamentalmente inalterada, as diferenças entre os [new_culture.GetCollectiveNounNoTooltip] e [parent_1.GetCollectiveNounNoTooltip] parece mais político do que qualquer outra coisa - mas permanece o fato de que as divisões de tradição, política e fronteiras transformaram um grupo de pessoas em dois."
+ culture_notification.1111.outro.other:0 "\nSeja por manipulação hábil ou um desejo genuíno de liderar [founder.GetHerHis] pessoas em uma nova era, [founder.GetTitledFirstName] posicionou [founder.GetHerselfHimself] como líder deste despertar cultural."
+ culture_notification.1111.outro.founder:0 "\nCom o [new_culture.GetNameNoTooltip] pessoas agora olhando para mim em busca de orientação, é hora de preparar o terreno para nosso futuro compartilhado."
+ culture_notification.1111.a.other:0 "Veremos como evolui a situação."
+ culture_notification.1111.a.founder:0 "Para uma nova era, uma nova era, um novo povo!"
+ culture_notification_tooltip:0 "o [divergent_culture|E] [new_culture.GetName] se ramificou do [parent_1.GetName] [culture|E]."

@@ -1,0 +1,74 @@
+﻿l_english:
+ reactive_advice_form_hybrid_culture:0 "Formar Cultura Híbrida"
+ action_reactive_advice_form_hybrid_culture:0 "$open_tutorial_lesson$$reactive_advice_form_hybrid_culture$"
+ action_reactive_advice_form_hybrid_culture_desc:0 "Você pode formar um [hybrid_culture|E] com o [culture.GetCollectiveNoun]."
+ action_reactive_advice_form_hybrid_culture_click:0 "$click_to_open_lesson$"
+ lessons_ep1_form_hybrid_culture:0 "$reactive_advice_form_hybrid_culture$"
+ lessons_ep1_form_hybrid_culture_shared_desc:0 "\nIsso significa que você criará uma nova Cultura, com partes da sua Cultura e da outra Cultura."
+ lessons_ep1_form_hybrid_culture_desc:2 "Você pode formar um [hybrid_culture|E] com isso [culture|E]!$lessons_ep1_form_hybrid_culture_shared_desc$\nA Cultura mostrada aqui é apenas um exemplo de muitos. Enquanto a outra Cultura tiver uma [heritage|E] que a sua, você pode formar uma Cultura Híbrida. No entanto, você deve certificar-se de ter pelo menos um [county|E] dessa cultura em seu [realm|E], e que o [cultural_acceptance|E] das duas Culturas é alta o suficiente."
+
+ # Tell the player that Hybridising is a thing they SHOULD do, whether or not they can currently
+ reactive_advice_should_form_hybrid_culture:0 "Culturas Híbridas"
+ action_reactive_advice_should_form_hybrid_culture:0 "$open_tutorial_lesson$$reactive_advice_should_form_hybrid_culture$"
+ action_reactive_advice_should_form_hybrid_culture_desc:0 "Trabalhe para formar um [hybrid_culture|E] com o [culture.GetCollectiveNoun]."
+ action_reactive_advice_should_form_hybrid_culture_click:0 "$click_to_open_lesson$"
+ lessons_ep1_should_form_hybrid_culture:0 "$reactive_advice_should_form_hybrid_culture$"
+ lessons_ep1_should_form_hybrid_culture_desc:0 "Você poderia formar um [hybrid_culture|E] com isso [culture|E], E se [cultural_acceptance|E] é alto o suficiente e sua cultura tem mais de 50 anos!$lessons_ep1_form_hybrid_culture_shared_desc$\nVocê pode obter Aceitação Cultural ao:\n$EFFECT_LIST_BULLET$Concessão [counties|E] desta Cultura para [characters|E] desta cultura\n$EFFECT_LIST_BULLET$Usando o [accept_culture|E] [councillor_task|E]\n$EFFECT_LIST_BULLET$Aumentando [culture_intermingling|E]\n$EFFECT_LIST_BULLET$Tendo [vassals|E] desta cultura\nSe você tiver alta aceitação cultural e pelo menos um condado dessa cultura estiver dentro de sua [realm|E], você pode formar uma Cultura Híbrida!"
+ lessons_ep1_hybrid_culture_benefits:0 "Benefícios das Culturas Híbridas"
+ lessons_ep1_hybrid_culture_benefits_desc:0 "Formar uma Cultura Híbrida tem uma série de benefícios:\n\n$EFFECT_LIST_BULLET$Você será capaz de escolher [culture_pillars|E] e [culture_traditions|E] de qualquer Cultura Parental\n$EFFECT_LIST_BULLET$Sua nova cultura herdará tudo [innovations|E] de ambas as culturas parentais\n$EFFECT_LIST_BULLET$Sua nova cultura terá alta aceitação cultural com ambas as culturas principais\n$EFFECT_LIST_BULLET$Uma Cultura Híbrida pode converter as terras de suas culturas parentais muito mais rapidamente por alguns anos após a formação"
+
+#Royal Court Feature
+ 
+ action_reactive_advice_royal_court:0 "$open_tutorial_lesson$$ra_rc_intro$"
+ action_reactive_advice_royal_court_desc:0 "Abra isto para uma introdução ao seu corte Real"
+ action_reactive_advice_royal_court_click:0 "$click_to_open_lesson$"
+
+ ra_rc_intro:0 "Royal Court"
+ ra_rc_intro_desc:2 "Agora você tem acesso ao seu próprio [royal_court|E]!\nO Royal Court é um tipo especial de tribunal, representativo de sua grande entrada no cenário mundial, que dá acesso a muitas novas opções e benefícios.\nEstá disponível para [kings|E] e [emperors|E] do [GetGovernment( 'feudal_government' ).GetName], [GetGovernment( 'clan_government' ).GetName], e [GetGovernment( 'tribal_government' ).GetName] [government|E]."
+
+ ra_rc_open:0 "$ra_rc_intro$"
+ ra_rc_open_desc:0 "Você pode fazer muitas coisas em seu [royal_court|E], fique à vontade para explorar essas opções por conta própria!\nPor enquanto, vamos fazer um tour rápido por todas as novas ações que estão disponíveis para você."
+ ra_rc_open_prompt:0 "Open the Royal Court (highlighted)"
+
+ ra_rc_throne_room_open:0 "$ra_rc_intro$"
+ ra_rc_throne_room_open_desc:0 "Para continuar, voltemos à Sala do Trono"
+ ra_rc_throne_room_open_prompt:0 "Open the Throne Room Tab (highlighted)"
+
+ ra_rc_throne_room:0 "$ra_rc_intro$"
+ ra_rc_throne_room_desc:1 "Esta é a sua Sala do Trono. Várias situações e [court_events|E] pode acontecer aqui de vez em quando, e você pode optar por intervir com o que quer que esteja acontecendo."
+
+ ra_rc_hold_court:0 "Tribunal de espera"
+ ra_rc_hold_court_desc:1 "Se você sentir que a sua Sala do Trono não está animada o suficiente, você pode [hold_court|E]. Isso convida os peticionários de todo o seu [realm|E], trazendo seus problemas diante de seu julgamento sábio."
+
+ ra_rc_grandeur_open:0 "$ra_rc_grandeur$"
+ ra_rc_grandeur_open_desc:0 "No entanto, ninguém pode querer vir ao seu [royal_court|E] se não é bem conhecido! Em seguida, vamos dar uma olhada em Corte Grandeza!"
+ ra_rc_grandeur_open_prompt:0 "Open the Court Grandeur Tab (highlighted)"
+
+ ra_rc_grandeur:0 "Court Grandeur"
+ ra_rc_grandeur_desc:0 "Sua [grandeur_level|E] é uma medida de quão famoso o seu [royal_court|E] é.\nVários fatores contribuem para o seu [grandeur|E], mas as fontes primárias são [amenities|E] e [court_artifacts|E].\nComo seu [realm|E] torna-se maior, espera-se que você tenha alcançado um nível de grandeza mais alto: isso é conhecido como [grandeur_expectations|E]."
+
+ ra_rc_amenities:0 "Comodidades do tribunal"
+ ra_rc_amenities_desc:0 "[amenities|E] são vários serviços e conveniências que você proporciona a todos que frequentam seu [royal_court|E]. Cada um fornece seus próprios benefícios e todos contribuem para [grandeur|E].\ntodos eles custam [gold|E] cada mês, então tome cuidado para não gastar demais!"
+
+ ra_rc_court_types_and_language:0 "Tipos de tribunal e idioma do tribunal"
+ ra_rc_court_types_and_language_desc:0 "Se você quiser se aprofundar [grandeur|E], você pode explorar [court_types|E] e [court_language|E].\nOs tipos de tribunal afetam o que certos [grandeur_levels|E] dar a você, enquanto mudar o idioma da corte pode aumentar seu total [grandeur|E]."
+
+ ra_rc_artifacts_open:0 "$ra_rc_artifacts$"
+ ra_rc_artifacts_open_desc:0 "Finalmente, vejamos os Artefatos da Corte, outra fonte de [grandeur|E], bem como outros benefícios."
+ ra_rc_artifacts_open_prompt:0 "Open the Artefatos da Corte Tab (highlighted)"
+
+ ra_rc_artifacts:0 "Court Artifacts"
+ ra_rc_artifacts_desc:0 "Aqui você pode escolher quais [court_artifacts|E] são exibidos em seu [royal_court|E].\nOs Artefatos da Corte são especiais [artifacts|E] como estátuas e tapeçarias que você pode expor. Eles fornecem vários bônus, e muitos também oferecem [grandeur|E].\nAgora, voltemos à Sala do Trono."
+
+ ra_rc_conclusion:0 "$ra_rc_intro$"
+ ra_rc_conclusion_desc:0 "Este é o fim do nosso tour pelo seu [royal_court|E].\nPor enquanto, sinta-se à vontade para experimentar o que quiser. Sugerimos que você [hold_court|E] para comemorar seu novo status!"
+
+ #Fund Inspiration
+ lessons_ep1_fund_inspiration:0 "Inspirações de fundos"
+ ra_inspiration_open_desc:0 "Agora você pode financiar seu primeiro [inspiration|E]. Uma inspiração é o desejo de um personagem de realizar uma [artifact|E].\n\n[inspired|E] [characters|E] ir e vir do mais prestigiado [royal_courts|E] do mundo; quando alguém pára em seu tribunal, você é notificado e convidado a [sponsor|E] este personagem é [project|E].\nAo pagar uma quantia variável de [gold|E], você pode garantir os serviços deste personagem e, depois de algum tempo, um novo Artefato!"
+ ra_inspiration_open:0 "inspirações"
+ ra_inspiration_court_view:0 "Encontrando inspirações"
+ ra_inspiration_court_view_desc:0 "dentro do seu [royal_court|E], você pode ver tudo [inspirations|E] atualmente presente em seu tribunal à sua esquerda.\nVocê pode verificar seu status clicando em seu ícone (destacado)."
+ ra_inspiration_court_view_prompt:0 "Click on an Inspiration Icon (highlighted)"
+ ra_inspiration_funding:0 "Inspirações de Financiamento"
+ ra_inspiration_funding_desc:0 "Aqui, você pode ver o Personagem Inspirado, o que ele pretende fazer, quão boa é sua habilidade, se você pode financiar a Inspiração e quanto isso vai custar para você.\nSe a inspiração já estiver em andamento, você pode ver quanto tempo levará para ser concluída; se não for, você pode iniciá-lo."

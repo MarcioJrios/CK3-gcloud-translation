@@ -1,0 +1,39 @@
+﻿l_english:
+ FP2_BORDER_RAID_CB_NAME:0 "[border_raid|E] contra [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FP2_BORDER_RAID_CB_SPECIFIC_NAME:0 "[border_raid|E] de [TITLE.GetBaseNameNoTier]"
+ FP2_BORDER_RAID_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] [border_raid|E] de [TITLE.GetBaseNameNoTier]"
+ FP2_BORDER_RAID_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ fp2_border_raid:0 "[border_raid|E]"
+
+ border_raid_cb_desc_victory_attacker:0 "você ganha [gold|E] proporcionalmente ao [development|E] do alvo [county|E], que vai diminuir.\n$border_raid_building_tt$$border_raid_warning_tt$"
+ border_raid_cb_desc_victory_defender:0 "[attacker.GetName] ganhos [gold|E] proporcionalmente ao [development|E] do alvo [county|E], que vai diminuir.\n$border_raid_building_tt$$border_raid_warning_tt$"
+ border_raid_cb_desc_white_peace_attacker:0 "Você não consegue completar seu ataque."
+ border_raid_cb_desc_white_peace_defender:0 "[attacker.GetName] não consegue completar [attacker.GetHerHis] Incursão."
+ border_raid_cb_desc_defeat_attacker:0 "Você deve pagar [gold|E] reparações por tentar o ataque."
+ border_raid_cb_desc_defeat_defender:1 "[attacker.GetName] deve pagar [gold|E] reparações por tentar o ataque."
+ destroy_random_building_tt:0 "Aleatório [building|E] no [raid_county.GetName] é destruído, ganhando extra [gold_i]"
+ border_raid_building_tt:0 "UMA [building|E] também pode ser destruído."
+ border_raid_warning_tt:0 "@warning_icon! #X No [titles|E] vai mudar de mãos.#!"
+ border_raid_message_title:0 "Border County invadido"
+
+ FP2_EXPEL_INTERLOPER_CB_NAME:0 "[iberian_reclamation|E] contra [DEFENDER.GetPrimaryTitle.GetNameNoTier] "
+ FP2_EXPEL_INTERLOPER_CB_SPECIFIC_NAME:0 "[iberian_reclamation|E] de [TITLE.GetBaseNameNoTier]"
+ FP2_EXPEL_INTERLOPER_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjectiveNoTooltip] [iberian_reclamation|E] de [TITLE.GetBaseNameNoTier]"
+ FP2_EXPEL_INTERLOPER_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+ iberian_reclamation_cb_victory_desc_attacker_vassalize:0 "você vassaliza [defender.GetShortUIName|U]"
+ iberian_reclamation_cb_victory_desc_defender_vassalize:0 "[attacker.GetShortUIName|U] te vassaliza"
+ iberian_reclamation_cb_victory_desc_attacker_conquer_1:0 "$EFFECT_LIST_BULLET$Torna-se [liege|E] de [defender.GetShortUINamePossessive|U] [struggle_involved|E] mais baixo [rank|E] [vassals|E] no alvo [duchy|E]"
+ iberian_reclamation_cb_victory_desc_attacker_conquer_2:0 "$EFFECT_LIST_BULLET$Você ganha contestado [struggle_uninvolved|E] guardado [counties|E], e os de [holders|E] com terras fora do [duchy|E]\n"
+ iberian_reclamation_cb_victory_desc_defender_conquer_1:0 "$EFFECT_LIST_BULLET$[attacker.GetShortUIName|U] torna-se [liege|E] de [defender.GetShortUINamePossessive|U] [struggle_involved|E] mais baixo [rank|E] [vassals|E] no alvo [duchy|E]"
+ iberian_reclamation_cb_victory_desc_defender_conquer_2:0 "$EFFECT_LIST_BULLET$[attacker.GetShortUIName|U] ganhos contestados un-[struggle_involved|E] guardado [counties|E], e os de [holders|E] com terras fora do [duchy|E]\n"
+ fp2_expel_interloper:0 "[iberian_reclamation|E]"
+
+
+ iberian_reclamation_cb_white_peace_desc_vassalize:0 "[defender.GetShortUIName|U] permanecerá [independent|E]"
+ iberian_reclamation_cb_white_peace_desc_conquer:0 "[defender.GetShortUIName|U] manterá o contestado [titles|E]"
+ iberian_reclamation_cb_defeat_desc_vassalize:0 "$iberian_reclamation_cb_white_peace_desc_vassalize$"
+ iberian_reclamation_cb_defeat_desc_conquer:0 "$iberian_reclamation_cb_white_peace_desc_conquer$"
+ iberian_reclamation_cb_defeat_desc:0 "$iberian_reclamation_cb_white_peace_desc$"
+ 
+ CB_COST_IBERIAN_RECLAMATION:0 "custos [SCOPE.ScriptValue('fp2_expel_interloper_county_cost_value')] [prestige|E] por-[county|E]"

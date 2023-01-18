@@ -1,0 +1,50 @@
+﻿l_english:
+ court.placeholder_court_grandeur_loss:0 "Você perde #V 10#! Corte Grandeza"
+
+ # Growing Debauchery
+ court.1000.t:0 "Devassidão Crescente"
+ court.1000.desc.opening:0 "seguro em [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] com todos de [child.GetHerHis] necessidades previstas, [child.Custom2('MyCharacterIntroduction', ROOT.Char)] mostrou pouca propensão para fazer qualquer coisa, mas"
+ court.1000.desc.drunkard:0 "gasta [child.GetHerHis] dias na taverna, afogando-se em um suprimento infinito de [child.Custom('RegionalAlcoholicDrink')]."
+ court.1000.desc.hashishiyah:0 "gasta [child.GetHerHis] dias isolado em algum canto e espaçado em um suprimento infinito de bolos de haxixe."
+ court.1000.desc.rakish:0 "gasta [child.GetHerHis] dias no bordel, "entertaining" um fluxo interminável de "guests"."
+ court.1000.desc.ending:0 "\nEnviados estrangeiros começaram a tomar nota [child.GetHerHis] comportamento, e não posso deixar de me perguntar quais rumores estão sendo sussurrados sobre [child.GetHerHim] em tribunais distantes..."
+ court.1000.a:0 "Este comportamento é inaceitável... [child.GetSheHe] deve ser punido. Humilhado, mesmo."
+ court.1000.a.tt:0 "Fazendo um exemplo de [child.GetFirstName] pode impedir que outros cortesãos ajam de maneira semelhante"
+ court.1000.b:0 "[child.GetSheHe|U] só precisa de alguma responsabilidade, algo importante para cuidar!"
+ court.1000.b.success:0 "[child.GetFirstNamePossessiveNoTooltip] novas funções manter [child.GetHerHim] ocupado"
+ court.1000.b.failure:0 "[child.GetFirstNameNoTooltip] continua se entregando [child.GetHerHis] vícios depois do trabalho"
+ court.1000.c:0 "ha! [child.GetSheHe] com certeza sabe como aproveitar as coisas boas da vida!"
+ court.1000.c.tt:0 "Ser permissivo com [child.GetFirstName] pode encorajar outros cortesãos a agir de maneira semelhante"
+
+ court.1001.title:0 "[courtier.GetFirstName] Abraça a Devassidão"
+
+ # Daydrinking
+ court.1010.t:0 "beber durante o dia"
+ court.1010.desc:0 "As travessuras bêbadas de [courtier.Custom2('MyCharacterIntroduction', ROOT.Char)] já foram alvo de fofocas no tribunal antes, mas ultimamente [courtier.GetSheHe] parece tê-los levado a um nível totalmente novo.\nFicar bêbado no meio da manhã, desmaiar no [courtier.Custom('ResidenceBuilding')] pátio, cambaleando para a taverna à tarde e acordando nos estábulos com uma ressaca no dia seguinte... [courtier.GetFirstNamePossessiveNoTooltip] comportamento degenerado é uma vergonha para todos os que residem em [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip]."
+ court.1010.a:0 "[courtier.GetSheHe|U] é impróprio para qualquer coisa - e sempre será."
+ court.1010.b:0 "[courtier.GetFirstNameNoTooltip] pode ficar sóbrio nas masmorras!"
+ court.1010.c:0 "Uma conversa severa definirá [courtier.GetHerHim] Em linha reta."
+ court.1010.c.success:0 "[courtier.GetFirstNameNoTooltip] desiste de beber... pelo menos em excesso"
+ court.1010.c.failure:0 "[courtier.GetFirstNameNoTooltip] não muda [courtier.GetHerHis] comportamento"
+ court.1010.d:0 "Se [courtier.GetFirstNameNoTooltip] deseja agir como um tolo, do que um tolo [courtier.GetSheHe] deverá ser!"
+ court.1010.e:0 "Deixe os outros zombarem [courtier.GetHerHim]... [ROOT.Char.GetFaith.NegativeAfterLife], vou rir com eles!"
+
+ # Long Arm of the Law
+ court.1020.opening:0 "[foreign_ruler.Custom2('AppropriateGreeting', ROOT.Char)]"
+ court.1020.desc:0 "Chegou ao meu conhecimento que um fugitivo sem lei, [fugitive.GetTitledFirstName], tem estado em sua corte. Entregue-os para encontrar minha justiça, "
+ court.1020.desc.forgive_this:0 "e eu vou perdoar esse leve."
+ court.1020.desc.forgive_all:0 "e eu perdoarei este deslize, assim como os anteriores."
+ court.1020.desc.gold:0 "e eu vou compensá-lo por seu problema."
+ court.1020.desc.opinion:0 "e vou me lembrar de sua cooperação nos próximos anos."
+ court.1020.a:0 "Deve ser feito."
+ court.1020.b:0 "[fugitive.GetFirstNameNoTooltip] é meu convidado - e sob minha proteção."
+ court.1020.c:0 "[fugitive.GetFirstNameNoTooltip]? Não há [fugitive.GetFirstNameNoTooltip] ficando aqui..."
+
+ # Poor Manners
+ court.1030.t:0 "Maus modos"
+ court.1030.desc:0 "#EMP ~BUrRRP~#!\nEnquanto o alto arroto ecoa pelo refeitório, todas as conversas cessam abruptamente.. [chaplain.Custom2('MyCharacterIntroduction', ROOT.Char)|U] tapinhas [chaplain.GetHerHis] estômago e sorrisos. "Ahh, better out than in, me dad always said!"\nVários cortesãos trocam olhares incrédulos, antes [courtier.Custom2('MyCharacterIntroduction', ROOT.Char)] olha diretamente para mim e exclama "My [ROOT.Char.GetTitleAsNameNoTooltip], that was wholly inappropriate! Certainly, you must agree?""
+ court.1030.a:0 "[chaplain.GetFirstNameNoTooltip] é um [chaplain.GetWomanMan] de [chaplain.GetFaith.HighGodName]. vamos tratar [chaplain.GetHerHim] Como tal."
+ court.1030.b:0 "[chaplain.Custom('GetActualBishopTitle')] ou não, [chaplain.GetFirstNameNoTooltip] #EMP will#! learn proper manners..."
+ court.1030.b.flavor:0 "...se não [chaplain.GetSheHe] vai comer com os porcos no chiqueiro!"
+ court.1030.b.custom:0 "Todos os outros cortesãos"
+ court.1030.c:0 "Oh venha agora, como se todos nós nunca tivéssemos deixado um solto antes?"

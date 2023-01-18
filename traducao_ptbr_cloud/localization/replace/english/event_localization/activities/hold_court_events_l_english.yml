@@ -1,0 +1,63 @@
+﻿l_english:
+ hold_court_placeholder_gain_cgv:0 "Você ganha #P 10#! Corte Grandeza"
+ hold_court_placeholder_lose_cgv:0 "Você perde #N 10#! Corte Grandeza"
+ hold_court_start_activity:0 "Você ouve o primeiro peticionário"
+
+ hold_court_header:0 "Tribunal de espera:"
+
+ # Activity Start
+ hold_court.0001.t:0 "$hold_court_header$ Começo"
+ hold_court.0001.desc:0 "Sentada em meu trono, faço um gesto para que meus guardas abram as portas do salão. Um fluxo de pessoas entra, algumas se alinhando em frente ao meu trono, enquanto outras saem do caminho para que possam simplesmente observar os procedimentos..\nDepois de alguns momentos, todos os movimentos na câmara cessaram, todos os rostos se voltaram para mim com expectativa. Na minha frente eu conto [ROOT.Var('num_petitioners').GetValue|V0] peticionários alinhados em fila ordenada, esperando que eu os chamasse."
+ hold_court.0001.a:0 "Gesto para o primeiro da fila se aproximar."
+ hold_court.0001.b:0 "Pensando bem, está um lindo dia lá fora..."
+ hold_court.0001.b.tooltip:0 "Sua audiência termina e você manda os peticionários para casa"
+
+ # Guest offers to share rumors from a nearby foreign realm.
+ hold_court.1001.t:0 "$hold_court_header$ Espionagem Indireta"
+ hold_court.1001.desc:0 "My guest [rumormonger.GetTitledFirstName] approaches my throne with a smirk on [rumormonger.GetHerHis] face and bows deeply.\n\n"Saudações, sua majestade. Durante minha recente viagem ao [neighboring_realm.GetName], Eu aprendi alguns #EMP fascinantes#! boatos sobre vários dos [neighboring_ruler.GetTitledFirstNamePossessive] assuntos. Eu ficaria feliz em compartilhar isso com você... por um preço."
+ hold_court.1001.a:0 "Uma grande quantia, mas não posso me dar ao luxo de permanecer ignorante."
+ hold_court.1001.a.seducer:0 "Talvez possamos chegar a outro acordo?"
+ hold_court.1001.a.success:0 "[rumormonger.GetTitledFirstNamePossessive] informações contêm material valioso de chantagem"
+ hold_court.1001.a.success.tt:0 "[rumormonger.GetTitledFirstName] revela todos os relevantes [secret|E] [rumormonger.GetSheHe] sabe para você"
+ hold_court.1001.a.failure:0 "[rumormonger.GetTitledFirstNamePossessive] informação não passa de fofoca"
+ hold_court.1001.a.failure.tt:0 "[rumormonger.GetTitledFirstName] realmente não conhece nenhum relevante [secrets|E]"
+ hold_court.1001.b:0 "Ninguém me extorque na frente do meu próprio tribunal! guardas, tamanho [rumormonger.GetHerHim]!"
+ hold_court.1001.c:0 "Vá embora, fofoqueiro! Minha corte não tem lugar para gente como você!"
+
+ # Wandering claimant asks you to press their claim NOW!!
+ hold_court.1011.t:0 "$hold_court_header$ Um Chamado para a Guerra"
+ hold_court.1011.desc:0 ""Oh munificent [ROOT.Char.GetTitledFirstNameNoTooltip], I am [claimant_guest.GetFirstName], and I have traveled far to ask for your aid in righting a great injustice!"\no [claimant_guest.GetWomanMan] na minha frente se curva profundamente antes de continuar com [claimant_guest.GetHerHis] um apelo bem ensaiado. "[target_character.Custom2('MyCharacterIntroduction', claimant_guest)|U] currently sits on the throne of [target_title.GetNameNoTier], but I am the true and rightful ruler of those lands!"\n\n"If you aid me in pressing my claim, I shall swear fealty to you, and serve you loyally until the end of my days.""
+ hold_court.1011.a:0 "É um belo dia para uma guerra!"
+ hold_court.1011.b:0 "Por favor, saia imediatamente - não posso correr o risco de ofender o [target_character.GetTitleAsNameNoTooltip]."
+ hold_court.1011.c:0 "Não posso ajudá-lo, mas, por favor, aproveite minha hospitalidade."
+
+ # Peasant begs for relief after a drought/early frost/etc.
+ hold_court.1021.t:0 "$hold_court_header$ Pó ao pó"
+ hold_court.1021.desc:0 "Um camponês magro e esfarrapado está diante de mim, boquiaberto com a opulência da minha sala do trono. Obviamente distraído, eu chamo [peasant.GetHerHim] obter [peasant.GetHerHis] atenção.\n\n"Oh, I'm sorry m'lord. I, uh... My village in [county.GetNameNoTier] was hit by blight this year. We lost not only our crop but our seed, too. We have nothing, we shall starve without help!"\nOlhando ao redor da minha sala do trono novamente, ele acrescenta "Surely you have wealth to spare?""
+ hold_court.1021.a:0 "Você terá os fundos necessários para reconstruir."
+ hold_court.1021.a.stewardship:0 "Vamos estabelecer um sistema de compartilhamento de colheitas com aldeias vizinhas."
+ hold_court.1021.b:1 "Seu serviço pagará sua dívida."
+ hold_court.1021.c:0 "Se os campos são estéreis, você deve empunhar uma espada."
+
+ # Courtier was discovered spying for neighboring realm.
+ hold_court.1031.t:0 "$hold_court_header$ Um traidor descoberto"
+ hold_court.1031.desc:0 "Um dos meus guardas se aproxima com [traitor.Custom2('MyCharacterIntroduction', ROOT.Char)] acorrentado, arrastando-se atrás dele.\n\n"I caught [traitor.GetFirstNameNoTooltip] here in the process of sending sensitive information to foreign spies in [foreign_realm.GetNameNoTier]. What should we do with [traitor.GetHerHim]?""
+ hold_court.1031.a:0 "Fora com [traitor.GetHerHis] cabeça!"
+ hold_court.1031.b:0 "Eu perdoo... uma vez. Não me traia novamente."
+ hold_court.1031.c:0 "Eu tenho planos diferentes para você..."
+
+ # Clergy wants to form their own Theocracy vassal-state in your realm.
+ hold_court.1041.t:0 "$hold_court_header$ [ROOT.Char.GetFaith.HighGodNamePossessive] Terras Próprias"
+ hold_court.1041.desc:0 ""My liege, the [ROOT.Char.GetFaith.AltPriestTermPlural] does not currently possess any holdings of our own within [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]. If we had some, it would empower us to extol the glory of [ROOT.Char.GetFaith.HighGodName] and strengthen the faith within the realm."\n\n"I therefore propose that you grant the [selected_title.GetName] to us. I even have the perfect candidate in mind to head this new institution — [chosen_candidate.GetTitledFirstName] here has studied the [ROOT.Char.GetFaith.ReligiousText] extensively, and would make an excellent [ROOT.Char.GetFaith.BishopNeuter].""
+ hold_court.1041.a:0 "Para a glória de [ROOT.Char.GetFaith.HighGodName], Eu concordo com seu pedido."
+ hold_court.1041.b:0 "Certamente um dízimo extra seria suficiente?"
+ hold_court.1041.c:0 "[ROOT.Char.GetFaith.DivineRealm|U] é [ROOT.Char.GetFaith.HighGodNamePossessive] domínio. [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip|U], [ROOT.Char.GetFaith.HighGodNameSheHe] confiado a mim sozinho."
+
+ # Activity End
+ hold_court.0021.t:0 "$hold_court_header$ Conclusão"
+ hold_court.0021.desc:0 "Quando o último peticionário sai, vários cortesãos os seguem para fora da sala, tendo negócios a tratar em outro lugar. Outros permanecem, conversando entre si sobre os recentes processos.\nLogo a formalidade cerimonial do processo desaparece completamente, com o burburinho da vida normal da corte tomando seu lugar.."
+ hold_court.0021.a:0 "Meu negócio aqui está feito."
+ hold_court.0021.arrogant:0 "É bom deixar meus súditos maravilhados com minha presença."
+ hold_court.0021.shy:0 "Mal posso esperar para voltar aos meus aposentos..."
+ hold_court.0021.gregarious:0 "Esta parece ser uma boa oportunidade para se misturar com a minha corte."
+ hold_court.0021.every_guest_and_courtier:0 "Cada Hóspede e Cortesão:"

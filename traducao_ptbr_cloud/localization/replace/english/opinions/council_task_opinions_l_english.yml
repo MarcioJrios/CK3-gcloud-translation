@@ -1,0 +1,24 @@
+﻿l_english:
+ chancellor_task_foreign_affairs_opinion:0 "Negócios Estrangeiros"
+ chancellor_task_domestic_affairs_opinion:0 "Assuntos Internos"
+ chancellor_task_neighbor_decreased_opinion:0 "Incidente Diplomático"
+ chancellor_task_neighbor_increased_opinion:0 "Diplomacia hábil"
+ chancellor_task_powerful_vassal_decreased_opinion:0 "chanceler incompetente"
+ chancellor_task_powerful_vassal_increased_opinion:0 "Diplomacia hábil"
+ chancellor_bestow_royal_favor_opinion:0 "Favor real"
+ marshal_task_increase_control_baron_decrease_opinion:0 "marechal desrespeitoso"
+ marshal_task_increase_control_baron_increase_opinion:0 "Conduta Respeitosa"
+ court_chaplain_fabricated_claim_opinion:0 "Reivindicação Fabricada"
+ court_chaplain_fabricated_claim_on_vassal_opinion:0 "Reivindicação Fabricada sobre o Vassalo"
+ task_religious_relations_opinion:0 "Relações Religiosas"
+ bad_religious_relations_opinion:0 "Disputa Teológica"
+ bonus_religious_relations_opinion:0 "Admira Meu Conselheiro"
+ court_chaplain_upsetting_claim_fabrication_opinion:0 "Minando o Equilíbrio dos Vassalos"
+ court_chaplain_vassal_claim_target_upset_modifier:0 "Fabricação de reivindicação descoberta"
+
+ spouse_held_local_tourney_opinion:0 "Torneio Local Realizado pelo Cônjuge"
+ spouse_martial_display_of_force_opinion:0 "Exibição de força"
+
+ spouse_coerced_gift_opinion:0 "Presente forçado"
+
+ steward_convince_dejure_upset_modifier:0 "erro diplomático"

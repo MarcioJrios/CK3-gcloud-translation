@@ -1,0 +1,25 @@
+﻿l_english:
+ almohad.1001.t:0 "Ascensão dos Almóadas"
+ almohad.1001.desc:0 "Parece que uma crença marginal está tomando conta do [almohad_county.GetName]. O movimento religioso se autodenomina Almóadas e fala da necessidade de limpar o Magreb dos hereges e dos equivocados.\nOs magistrados locais estão preocupados, mas certamente um grupo religioso marginal liderado por um teólogo desgraçado não é motivo de preocupação.?"
+ almohad.1001.a:0 "Por que isso seria de alguma preocupação para mim?"
+ almohad.1001.a.flavor:0 "Quando um grupo religioso marginal nas províncias já causou problemas para alguém?"
+ almohad.1001.b:0 "Vamos erradicar isso antes que tome conta..."
+ almohad.1001.b.conversion_tt:0 "Se você já está convertendo a fé em [almohad_county.GetName], o progresso pode ser perdido se você escolher esta opção!"
+ almohad.1001.player_warning:0 "@warning_icon! #X Failing to convert [almohad_county.GetNameNoTier] longe de [masmudi.GetName] com rapidez suficiente levará à ascensão dos almóadas. Esteja preparado.#!"
+
+ almohad.1002.desc:0 "O movimento religioso conhecido como Almóadas saiu de seus quartéis-generais com a intenção de "reclaiming the Maghreb from the disbelievers", à força se necessário!\no líder deles, [ibn_tumart.GetTitledFirstName] já foi afastado de vários locais de aprendizado por ser - francamente - irritante em [ibn_tumart.GetHerHis] insistência em práticas dogmáticas, porém, [ibn_tumart.GetSheHe] agora encontrou um forte núcleo de seguidores e declarou [ibn_tumart.GetHerselfHimself] nada menos que o Madhi!"
+ almohad.1002.a:0 "Como se isso fosse humilde [ibn_tumart.GetFaith.PriestNeuter] representa qualquer ameaça!"
+ almohad.1002.a.target.tt:0 "Os almóadas vão à guerra contra você!"
+ almohad.1002.a.not_target.tt:0 "Os almóadas vão à guerra contra o seu senhor!"
+ almohad.1002.b:0 "[ibn_tumart.GetSheHe|U] tem alguns pontos muito bons, na verdade."
+ almohad.1002.b.flavor:0 "Eu dificilmente posso me chamar de fiel digno..."
+
+ almohad.1003.desc:0 "O fundador dos almóadas, [ibn_tumart.GetTitledFirstName], passou, e com isso seria de esperar que [ibn_tumart.GetHerHis] movimento seria consignado à história. Se ao menos tivéssemos tanta sorte.\nEm vez disso, um novo líder surgiu! [al_mumin.GetTitledFirstName] não só manteve as tribos unidas, [al_mumin.GetSheHe] reuniu #EMP mais#! pessoas para [al_mumin.GetHerHis] bandeira!"
+ almohad.1003.a:0 "Esses fanáticos continuam vindo!"
+ almohad.1003.a.tt:0 "Os almóadas regressam, mais fortes do que nunca."
+
+ almohad.1004.t:0 "Controle de Marraquexe"
+ almohad.1004.desc:0 "Uma vez fundada como capital imperial, a [marrakesh.GetTitle] está agora sob meu controle, como é certo. No entanto, carrega infinitas [old_faith.GetAdjective] influências e minhas [masmudi.GetName] estão ansiosos para vê-lo refeito à minha imagem.\nParece uma pena destruir tantos palácios e templos perfeitamente bons, mas pode ser necessário para cumprir minha ambição de trazer iluminação ao Magreb."
+ almohad.1004.a:0 "Faremos disso o nosso novo, [masmudi.GetAdjective] capital!"
+ almohad.1004.b:0 "Vamos construir uma cidade nova e ainda maior!"
+ almohad.1004.c:0 "Talvez este não seja o curso de ação mais sábio..."

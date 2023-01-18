@@ -1,0 +1,37 @@
+﻿l_english:
+ #PartnerOpinionDescription
+ partner_opinion_high:0 "[ROOT.Char.Custom2('PartnerOpinionHighDescription', SCOPE.sC('second') )]"
+ partner_opinion_low:0 "[ROOT.Char.Custom2('PartnerOpinionLowDescription', SCOPE.sC('second') )]"
+ #PartnerOpinionHighDescription
+ partner_opinion_desc_darling:0 "querida"
+ partner_opinion_desc_precious:0 "precioso"
+ partner_opinion_desc_sweet:0 "doce"
+ partner_opinion_desc_lovely:0 "amável"
+ #PartnerOpinionLowDescription
+ partner_opinion_desc_esteemed:0 "estimado"
+ partner_opinion_desc_imposing:0 "imponente"
+ partner_opinion_desc_respectable:0 "respeitável"
+ #RandomJewellry
+ random_jewellry_torc:0 "torque"
+ random_jewellry_pendant:0 "pingente"
+ random_jewellry_ring:0 "anel"
+ random_jewellry_medallion:0 "medalhão"
+ random_jewellry_bracelet:0 "pulseira"
+ random_jewellry_bangle:0 "pulseira"
+ random_jewellry_brooch:0 "broche"
+ #RandomPositiveLookAdjective
+ random_positive_look_magnificent:0 "magnífico"
+ random_positive_look_stupendous:0 "estupendo"
+ random_positive_look_marvelous:0 "maravilhoso"
+ random_positive_look_exquisite:0 "exótico"
+ random_positive_look_delightful:0 "delicioso"
+ random_positive_look_terrific:0 "formidável"
+ random_positive_look_splendid:0 "esplêndido"
+ random_positive_look_stunning:0 "esplêndido"
+ random_positive_look_enchanting:0 "encantador"
+ random_positive_look_wonderful:0 "Maravilhoso"
+
+ murder_memory_ending_revenge:0 "finalmente vingança!"
+ murder_memory_ending_justice:0 "a justiça vem para todos."
+ murder_memory_ending_sleep:0 "Eu posso dormir facilmente agora."
+ murder_memory_ending_sow:0 "colhe o que planta, cretino!"

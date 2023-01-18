@@ -9,3 +9,5 @@ Lembre de trocar o project_id na função `translate_text()`
 
 Depois de configurado, para traduzir algum arquivo de tradução do CK3 basta rodar o comando:
 `python replace_script.py CAMINHO_DO_ARQUIVO`
+
+Na pasta 'traducao_ptbr_cloud' estão localizados os arquivos do mod.

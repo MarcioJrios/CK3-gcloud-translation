@@ -1,0 +1,147 @@
+﻿l_english:
+
+ #Common Zoroastrian Localization
+ zoroastrianism_religion:0 "zoroastrismo"
+ zoroastrianism_religion_adj:0 "zoroastriano"
+ zoroastrianism_religion_adherent:0 "zoroastriano"
+ zoroastrianism_religion_adherent_plural:0 "zoroastrianos"
+ zoroastrianism_religion_desc:0 "Seguindo os ensinamentos de Zoroastro, os zoroastrianos acreditam no senhor da sabedoria, Ahura Mazda, que é a fonte de todo bem e que se opõe à falsidade, representado por Angra Mainyu. Um Zoroastriano busca o caminho da Verdade através de Bons Pensamentos, Boas Palavras e Boas Ações."
+ zoroastrianism_high_god_name:0 "Ahura Mazda"
+ zoroastrianism_high_god_name_2:0 "$zoroastrianism_high_god_name$" # Optional translation alt
+ zoroastrianism_high_god_name_3:0 "$zoroastrianism_high_god_name$" # Optional translation alt
+ zoroastrianism_high_god_name_possessive:0 "de Ahura Mazda"
+ zoroastrianism_high_god_name_alternate:0 "O Senhor da Sabedoria"
+ zoroastrianism_high_god_name_alternate_possessive:0 "O Senhor da Sabedoria"
+ zoroastrianism_good_god_zoroaster:0 "Zoroastro"
+ zoroastrianism_good_god_asha:0 "Asha"
+ zoroastrianism_good_god_truth:0 "Verdade"
+ zoroastrianism_good_god_amesha_spenta:0 "Amesha Spenta"
+ zoroastrianism_good_god_divine_spark:0 "Centelha Divina"
+ zoroastrianism_good_god_saoshyant:0 "Saoshyant"
+ zoroastrianism_devil_name:0 "Ahriman"
+ zoroastrianism_devil_name_possessive:0 "de Ahriman"
+ zoroastrianism_evil_god_angra_mainyu:0 "Angra Mainyu"
+ zoroastrianism_evil_god_daevas:0 "Daevas"
+ zoroastrianism_house_of_worship:0 "Templo do Fogo"
+ zoroastrianism_house_of_worship_2:0 "$zoroastrianism_house_of_worship$" # Optional translation alt
+ zoroastrianism_house_of_worship_3:0 "$zoroastrianism_house_of_worship$" # Optional translation alt
+ zoroastrianism_house_of_worship_plural:0 "Templos de fogo"
+ zoroastrianism_religious_symbol:0 "faravahar"
+ zoroastrianism_religious_symbol_2:0 "$zoroastrianism_religious_symbol$" # Optional translation alt
+ zoroastrianism_religious_symbol_3:0 "$zoroastrianism_religious_symbol$" # Optional translation alt
+ zoroastrianism_religious_text:0 "Avesta"
+ zoroastrianism_religious_text_2:0 "$zoroastrianism_religious_text$" # Optional translation alt
+ zoroastrianism_religious_text_3:0 "$zoroastrianism_religious_text$" # Optional translation alt
+ zoroastrianism_religious_head_title:0 "Moabadan-Moabad"
+ zoroastrianism_devotee_male:0 "guardião do fogo"
+ zoroastrianism_devotee_male_plural:0 "bombeiros"
+ zoroastrianism_devotee_female:0 "guardião do fogo"
+ zoroastrianism_devotee_female_plural:0 "bombeiros"
+ zoroastrianism_devotee_neuter:0 "guardião do fogo"
+ zoroastrianism_devotee_neuter_plural:0 "bombeiros"
+ zoroastrianism_priest_male:0 "cercado"
+ zoroastrianism_priest_male_plural:0 "multidões"
+ zoroastrianism_priest_female:0 "mobedyar"
+ zoroastrianism_priest_female_plural:0 "mobedyars"
+ zoroastrianism_alternate_priest_term_plural:0 "sacerdócio"
+ zoroastrianism_bishop_male:0 "dastur"
+ zoroastrianism_bishop_male_plural:0 "dastur"
+ zoroastrianism_bishop_female:0 "dastuyar"
+ zoroastrianism_bishop_female_plural:0 "dastuyars"
+ zoroastrianism_divine_realm:0 "Paraíso"
+ zoroastrianism_divine_realm_2:0 "$zoroastrianism_divine_realm$" # Optional translation alt
+ zoroastrianism_divine_realm_3:0 "$zoroastrianism_divine_realm$" # Optional translation alt
+ zoroastrianism_positive_afterlife:0 "paraíso"
+ zoroastrianism_positive_afterlife_2:0 "$zoroastrianism_positive_afterlife$" # Optional translation alt
+ zoroastrianism_positive_afterlife_3:0 "$zoroastrianism_positive_afterlife$" # Optional translation alt
+ zoroastrianism_negative_afterlife:0 "inferno"
+ zoroastrianism_negative_afterlife_2:0 "$zoroastrianism_negative_afterlife$" # Optional translation alt
+ zoroastrianism_negative_afterlife_3:0 "$zoroastrianism_negative_afterlife$" # Optional translation alt
+ 
+ zoroastrianism_creator_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_creator_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_health_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_health_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_fertility_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_fertility_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_wealth_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_wealth_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_household_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_household_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_fate_god_name:0 "$paganism_fate_god_name$"
+ zoroastrianism_fate_god_name_possessive:0 "$paganism_fate_god_name_possessive$"
+ zoroastrianism_knowledge_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_knowledge_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_war_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_war_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_trickster_god_name:0 "$christianity_trickster_god_name$"
+ zoroastrianism_trickster_god_name_possessive:0 "$christianity_trickster_god_name_possessive$"
+ zoroastrianism_night_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_night_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+ zoroastrianism_water_god_name:0 "$zoroastrianism_high_god_name$"
+ zoroastrianism_water_god_name_possessive:0 "$zoroastrianism_high_god_name_possessive$"
+
+ #Mazdayasna
+ mazdayasna:0 "Mazdayasna"
+ mazdayasna_adj:0 "Mazdayan"
+ mazdayasna_adherent:0 "Mazdayan"
+ mazdayasna_adherent_plural:0 "mazdayanos"
+ mazdayasna_desc:0 "Os humanos ajudam na luta entre Ahura Mazda e os espíritos malignos, Angra Mainyu, por meio de bons pensamentos e vidas. Isso é feito por meio da pureza ritual, da preservação da natureza e da destruição de criaturas malignas.."
+
+ #Behafaridism
+ zurvanism:1 "behafaridismo"
+ zurvanism_adj:1 "behafaridi"
+ zurvanism_adherent:1 "behafaridita"
+ zurvanism_adherent_plural:1 "behafariditas"
+ zurvanism_desc:1 "Followers of the teachings of Behafarid, $zurvanism_adherent_plural$ buscam cooperação com o mundo islâmico, fazendo inúmeras reformas em sua fé em resposta às críticas muçulmanas ao zoroastrismo tradicional. Entre essas reformas estão a proibição do consumo de álcool, a oposição estrita ao casamento familiar e o incentivo à caridade como medida de uso da riqueza para o bem público.."
+ #Zurvanism doctrine
+ tenet_zurvanism_name:0 "Zurvanismo"
+ tenet_zurvanism_desc:0 "Os zurvanistas acreditam que Ahura Mazda e Angra Mainyu eram gêmeos iguais, mas opostos, nascidos de Zurvan, o Criador de tudo. O zurvanismo enfatiza fortemente a ajuda a Ahura Mazda, erradicando o mal e as falsidades."
+
+
+ #Gayomarthianism
+ gayomarthianism:0 "Gayomarthianismo"
+ gayomarthianism_adj:0 "Gayomarthiano"
+ gayomarthianism_adherent:0 "Gayomarthiano"
+ gayomarthianism_adherent_plural:0 "Gayomarthianos"
+ gayomarthianism_desc:0 "Com base na ideia de que Ahura Mazda, por meio de seus pensamentos, criou espíritos malignos por acidente, os Gayomarthianos rejeitam a infalibilidade do Senhor da Sabedoria e, em vez disso, enfatizam a prática ritualística para aprender a Verdade em comunhão com Ahura Mazda.."
+
+ #Khurmazta
+ khurmazta:0 "kurmazdismo"
+ khurmazta_adj:0 "Khurmazta"
+ khurmazta_adherent:0 "Khurmazta"
+ khurmazta_adherent_plural:0 "Khurmazta"
+ khurmazta_desc:0 "Aprendendo muito com a filosofia védica, os Khurmazta reconhecem um amplo conjunto de deuses e espíritos e dedicam suas vidas não apenas a Ahura Mazda, mas também a um de seus muitos ajudantes e servos entre os yazata.."
+ khurmazta_good_god_zravan:0 "Zravan"
+ khurmazta_good_god_weshparkar:0 "Weshparkar"
+ khurmazta_good_god_adbad:0 "Adbad"
+ 
+ #Mazdakism
+ mazdakism:0 "Mazdakismo"
+ mazdakism_adj:0 "Mazdakita"
+ mazdakism_adherent:0 "Mazdakita"
+ mazdakism_adherent_plural:0 "Mazdakitas"
+ mazdakism_desc:0 "O profeta Mazdak seguiu a palavra de Ahura Mazda e agitou por posses compartilhadas e cooperação universal entre os humanos para superar Angra Mainyu."
+
+ #Khurramism
+ khurramism:0 "khurramismo"
+ khurramism_adj:0 "khurramita"
+ khurramism_adherent:0 "khurramita"
+ khurramism_adherent_plural:0 "khurramitas"
+ khurramism_desc:0 "Em um mundo de Luz e Trevas, governantes injustos devem ser derrubados em apoio ao que é bom. Através de profetas como Mazdak, Muhammad e Abu Muslim, os khurramitas acreditam que o divino nasceu na humanidade e um dia retornará para liderá-los como o Messias.."
+
+ #Urartuism
+ urartuism:1 "Arewordik"
+ urartuism_adj:1 "Arewordi"
+ urartuism_adherent:1 "Arewordi"
+ urartuism_adherent_plural:1 "Arewordis"
+ urartuism_high_god_name:0 "Aramazd"
+ urartuism_high_god_name_2:0 "$urartuism_high_god_name$" # Optional translation alt
+ urartuism_high_god_name_possessive:0 "de Aramazd"
+ urartu_good_god_the_sun:0 "Arew"
+ urartu_good_god_mithra:0 "Mihr"
+ urartu_good_god_zoroaster:0 "Zradasht"
+ urartuism_desc:1 "Muitas crenças antigas ainda ressoam na fé Arewordik, uma seita de enigmáticos zoroastrianos com Ahura Mazda (como Aramazd) governando um panteão de deuses, incluindo o próprio Sol, que juntos dirigem o mundo.."
+ urartu_good_god_vanatur:0 "Vanatur"
+ urartuism_priest_male:0 "Hazarpet"
+ urartuism_priest_male_plural:0 "Hazarpets"

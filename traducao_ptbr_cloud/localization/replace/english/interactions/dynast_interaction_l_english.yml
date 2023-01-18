@@ -1,0 +1,44 @@
+﻿l_english:
+ dynasty_interaction_header:1 "[dynast_interaction|E]\n"
+ disinherit_interaction:0 "Deserdar"
+ disinherit_interaction_desc:0 "$dynasty_interaction_header$Retirar [recipient.GetShortUINameNoTooltip] de [line_of_succession|E]"
+ disinherit_interaction_notification:0 "Membro da Dinastia Deserdada"
+
+ restore_inheritance_interaction:0 "Restaurar Herança"
+ restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restaurar [recipient.GetShortUINameNoTooltip] ao natural [line_of_succession|E]\n\n#fraco Isso está disponível porque [recipient.GetSheHe] tem sido [disinherited|E]#!"
+ restore_inheritance_interaction_notification:0 "Herança Restaurada"
+
+ denounce_interaction:0 "Denunciar"
+ denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#fraco Isso dará uma todos os membros do nosso [dynasty|E] um [imprisonment_reason|E] contra [recipient.GetHerHim]#!"
+ denounce_interaction_notification:0 "Membro da Dinastia Denunciado"
+
+ forgive_interaction:0 "Perdoar"
+ denounced_change_to_forgiven:0 "O V $denounced_opinion$ Opinião#! #fraco (-50)#! muda para #V $forgave_denounced_opinion$#! #weak (-25)#! (#P +25#! [opinion|E])"
+ forgiven_changed_to_denounced:0 "O V $forgave_denounced_opinion$ Opinião#! #fraco (-25)#! muda para #V $denounced_opinion$#! #weak (-50)#! (#N -25#! [opinion|E])"
+ forgive_interaction_desc:0 "$dynasty_interaction_header$Retrair o [denouncement|E] de [recipient.GetShortUINameNoTooltip]"
+ forgive_interaction_notification:0 "Membro da Dinastia Perdoada"
+
+ call_dynasty_member_to_war_interaction:0 "Chame o membro da dinastia para a guerra"
+ call_dynasty_member_to_war_interaction_desc:0 "Ligar [recipient.GetShortUINameNoTooltip] servir [recipient.GetHerHis] [dynasty|E] na guerra"
+ call_dynasty_member_to_war_interaction_extra_icon:0 "$hook_extra_icon$"
+
+ dynast_legitimize_bastard_interaction:1 "Legitimize Bastard #weak (Dynasty)#!"
+ dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$Declarar [recipient.GetShortUINameNoTooltip] ser um $game_concept_legitimized_bastard$\n\n#fraco Isso está disponível porque [recipient.GetSheHe] é um [bastard|E] do meu [dynasty|E]#!"
+ dynast_legitimize_bastard_interaction_notification:0 "Bastardo legitimado"
+
+ dynast_claim_title_interaction:0 "Título da reivindicação"
+ dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$[claim|EU] a [title|E] realizada por [recipient.GetShortUINameNoTooltip] para você mesmo"
+ dynast_claim_title_interaction_notification:0 "Título Reivindicado"
+ ALREADY_HAVE_CLAIM_ON_THIS_TITLE:0 "Você já reivindicou este título"
+ ALREADY_HAVE_CLAIMS_ON_ALL_TITLES:1 "Você já tem reivindicações sobre todos [TARGET_CHARACTER.GetShortUINamePossessive] títulos"
+
+ dynast_end_dynasty_wars_interaction:0 "Fim das Guerras de Dinastia"
+ dynast_end_dynasty_wars_interaction_desc:0 "$dynasty_interaction_header$Exigir que [recipient.GetShortUINameNoTooltip] termina imediatamente todas as suas guerras ofensivas contra quaisquer outros membros do nosso [dynasty|E]"
+ dynast_end_dynasty_wars_interaction_notification:0 "Fim da Guerra da Dinastia"
+
+ recipient_secondary_legitimize_bastard_interaction:0 "Desgraçado"
+
+ send_to_varangian_guard_interaction:0 "Mandar to the Varangian Guard #weak (Dynasty)#!"
+ send_to_varangian_guard_interaction_desc:0 "$dynasty_interaction_header$Send [recipient.GetShortUINameNoTooltip] para ganhar glória e fortuna na Guarda Varangiana. Quem sabe pode até ajudar a construir o caráter!"
+ send_to_varangian_guard_interaction_toast:1 "[recipient.GetShortUIName] partiu para a Guarda Varangiana"
+ send_to_varangian_guard_interaction_toast_desc:0 "Fama e glória aguardam!"

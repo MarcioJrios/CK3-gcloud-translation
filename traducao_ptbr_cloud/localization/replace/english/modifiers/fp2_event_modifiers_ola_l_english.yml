@@ -1,0 +1,146 @@
+﻿l_english:
+ tolerance_gospel_modifier:0 "evangelho da tolerância"
+ tolerance_gospel_modifier_desc:0 "Este personagem exortou seu povo a abraçar a paciência e a unidade."
+ fanatical_recruits_modifier:0 "Recrutas fanáticos"
+ fanatical_recruits_modifier_desc:0 "Este personagem tem um fluxo constante de recrutas zelosos."
+ tensions_eased_province_modifier:0 "Tensões Aliviadas"
+ tensions_eased_province_modifier_desc:0 "A tensão religiosa nesta província está diminuindo."
+ riots_and_murders_province_modifier:0 "motins e assassinatos"
+ riots_and_murders_province_modifier_desc:0 "Este concelho tem sido abalado por massacres e expulsões dos chamados indesejáveis."
+ hate_monger_modifier:0 "traficante de ódio"
+ hate_monger_modifier_desc:0 "Este personagem é um conhecido semeador de discórdia e ódio."
+
+ nursing_salaries_for_single_mothers_modifier:0 "Salários de enfermagem"
+ nursing_salaries_for_single_mothers_modifier_desc:0 "Esse personagem instituiu um sistema pelo qual mães solteiras são pagas para cuidar de seus filhos por um tempo."
+ widows_and_widowers_amazing_funds_modifier:0 "fundos de viúva"
+ widows_and_widowers_amazing_funds_modifier_desc:0 "Este personagem criou um fundo para os viúvos da guerra ou do infortúnio - mas as pessoas com filhos fora do casamento não recebem nada."
+ starving_single_mothers_and_children_modifier:0 "mães famintas"
+ starving_single_mothers_and_children_modifier_desc:0 "Viúvas, pais solteiros e seus filhos são deixados para morrer de fome nas terras deste personagem."
+ destitute_single_mothers_modifier:0 "Menagerie lamentável"
+ destitute_single_mothers_modifier_desc:0 "A corte deste personagem está cheia de mães solteiras e seus filhos, em vários estados de miséria."
+
+ anti_innovation_muslim_modifier:0 "Nizamiyyah"
+ anti_innovation_muslim_modifier_desc:0 "Este personagem demonstrou interesse em um novo movimento religioso que abomina o racionalismo e a ciência."
+ rolling_in_filth_modifier:0 "Rolando na sujeira"
+ rolling_in_filth_modifier_desc:0 "Este personagem não se preocupa com a limpeza e a chamada higiene."
+ cannot_read_greek_modifier:0 "Afirma ler grego"
+ cannot_read_greek_modifier_desc:0 "Este personagem afirma ser versado na língua dos estudiosos do mundo antigo, mas as evidências apontam o contrário.."
+ misread_medicine_incompetence_modifier:0 "Interpretar mal o Cânon da Medicina"
+ misread_medicine_incompetence_modifier_desc:0 "Este personagem leu o Cânon da Medicina e outras grandes obras sobre saúde e higiene, mas os interpretou completamente mal."
+ inspired_medicine_modifier:0 "Inspirado por inovações médicas"
+ inspired_medicine_modifier_desc:0 "Este personagem se interessou pelas inovações recentes no campo da medicina por estudiosos persas e andaluzes."
+ medical_insights_modifier:0 "Informações médicas"
+ medical_insights_modifier_desc:0 "Este personagem leu Hipócrates e Galeno e agora insiste que as pessoas lavem as mãos na corte."
+
+ fp2_advanced_maritime_technology_modifier:0 "Tecnologia Marítima Avançada"
+ fp2_advanced_maritime_technology_modifier_desc:0 "Este personagem possui tecnologia naval muito à frente do resto do mundo"
+ fp2_successful_shipyards_modifier:0 "Mestres Navais"
+ fp2_successful_shipyards_modifier_desc:0 "Este local é o lar de experientes artesãos navais capazes de montar até as embarcações mais complexas"
+
+ foreboding_visions_modifier:0 "Visões de mau presságio do futuro"
+ foreboding_visions_modifier_desc:0 "Em sonhos febris e acessos do que pode ser uma possessão, esse personagem tem visões sinistras de eventos que estão por vir.."
+
+ mysterious_prophetess_illness_modifier:0 "Doença das Sibilas"
+ mysterious_prophetess_illness_modifier_desc:0 "Este personagem sofre de uma doença devastadora aparentemente ligada a sonhos proféticos."
+
+ frightened_by_portent_modifier:0 "Assustado com presságio"
+ frightened_by_portent_modifier_desc:0 "Este personagem recebeu um presságio de eventos terríveis por vir."
+
+ cortes_modifier:0 "Cortes"
+ cortes_modifier_desc:0 "Esse personagem permite que representantes eleitos dos municípios livres participem das reuniões do conselho."
+
+ extra_large_cortes_modifier:0 "parlamento popular"
+ extra_large_cortes_modifier_desc:0 "Este caractere permite #itálico a qualquer pessoa#! participar das reuniões do conselho."
+
+ vineyards_burnt_county_modifier:0 "Vinhas Queimadas"
+ vineyards_burnt_county_modifier_desc:0 "Este concelho já abrigou magníficas vinhas, mas todas foram destruídas."
+
+ vineyards_protected_county_modifier:0 "Vinhas Protegidas"
+ vineyards_protected_county_modifier_desc:0 "As vinhas deste concelho estão resguardadas dos fanáticos religiosos que as queiram queimar."
+
+ crusading_against_iberian_wine_modifier:0 "Campanha Anti-Vinho"
+ crusading_against_iberian_wine_modifier_desc:0 "Este personagem está decidido a acabar com os hábitos blasfemos de bebida de seus súditos ibéricos."
+
+ wine_supply_secure_modifier:0 "Suprimento Garantido de Vinho"
+ wine_supply_secure_modifier_desc:0 "Este personagem garantiu que nada pudesse ameaçar o suprimento de vinhos finos locais da corte."
+
+ 
+
+
+ toledo_steel_armaments_modifier:0 "Armado como os romanos"
+ toledo_steel_armaments_modifier_desc:0 "Os soldados deste personagem carregam lâminas feitas de aço ibérico requintado, como as legiões romanas de antigamente."
+
+ toledo_steel_county_modifier:0 "Aço Toledo"
+ toledo_steel_county_modifier_desc:0 "Este condado produz um tipo de aço forte que é conhecido desde a antiguidade."
+
+ tortured_smith_spilling_secrets_modifier:0 "Segredos de Fabricação de Espadas"
+ tortured_smith_spilling_secrets_modifier_desc:0 "Este personagem aprendeu os segredos da fabricação de espadas com um mestre ferreiro torturado."
+
+ guild_rights_protected_modifier:0 "Direitos da Guilda Protegidos"
+ guild_rights_protected_modifier_desc:0 "A guilda dos ferreiros deste condado foi protegida contra interferência externa."
+
+ master_smith_npc_modifier:0 "mestre ferreiro"
+ master_smith_npc_modifier_desc:0 "As habilidades de forja deste personagem são quase inigualáveis."
+
+
+ great_translation_school_modifier:0 "Ótima escola de tradução"
+ great_translation_school_modifier_desc:0 "Este personagem fundou uma escola de tradução onde grandes obras estrangeiras são disponibilizadas para beneficiar toda a civilização."
+
+ mediocre_translation_school_modifier:0 "Escola de tradução medíocre"
+ mediocre_translation_school_modifier_desc:0 "Este personagem financiou uma escola de tradução, mas as pessoas envolvidas são de talento questionável."
+
+ translation_effort_modifier:0 "Esforço de tradução"
+ translation_effort_modifier_desc:0 "Este personagem empregou um erudito capaz para traduzir obras importantes."
+
+ dusty_libraries_modifier:0 "Bibliotecas empoeiradas"
+ dusty_libraries_modifier_desc:0 "As outrora magníficas bibliotecas no reino deste personagem tornaram-se empoeiradas e confusas. No entanto, uma estranha tranquilidade pode ser encontrada dentro."
+
+
+
+
+
+ mystery_meat_unhealth_benefits_modifier:0 "parece estranho"
+ mystery_meat_unhealth_benefits_modifier_desc:0 "Este personagem comeu uma grande quantidade de carne de uma misteriosa carcaça gigante que apareceu na praia. Eles provavelmente não deveriam ter..."
+
+ mystery_meat_health_benefits_modifier:0 "Ótima Nutrição"
+ mystery_meat_health_benefits_modifier_desc:0 "Este personagem comeu uma grande quantidade de carne de uma carcaça gigante que apareceu na praia. Estava muito saboroso."
+
+ lay_ruler_issued_fatwa_modifier:0 "Decisão Religiosa"
+ lay_ruler_issued_fatwa_modifier_desc:0 "Este governante emitiu uma opinião legal em um assunto religioso - embora alguns possam alegar que não têm autoridade para fazê-lo."
+
+ saw_the_world_from_above_modifier:0 "Vi o mundo de cima"
+ saw_the_world_from_above_modifier_desc:0 "Este personagem teve uma experiência profunda de voar pelo céu."
+
+
+ felt_something_modifier:0 "Impressionado com a beleza"
+ felt_something_modifier_desc:0 "Este personagem ouviu música de beleza sobrenatural."
+
+ investing_in_music_modifier:0 "Investir na música"
+ investing_in_music_modifier_desc:0 "Este personagem está se esforçando para que músicos talentosos, mesmo de origem humilde, se apresentem em sua corte.."
+
+ great_pine_chopped_down_county_modifier:0 "Grande Pinheiro Derrubado"
+ great_pine_chopped_down_county_modifier_desc:0 "Neste condado havia um grande e velho pinheiro-manso, lançando uma sombra feliz. não fica mais."
+
+ aversion_to_joy_modifier:0 "Aversão à Alegria"
+ aversion_to_joy_modifier_desc:0 "Este personagem diz a si mesmo que alegria e beleza são distrações vãs, tornando você fraco."
+
+
+
+
+ memorable_public_execution_modifier:0 "Execução Pública Memorável"
+ memorable_public_execution_modifier_desc:0 "Este personagem executou alguém de maneira #italic muito #!horrível."
+
+ compelling_apology_modifier:0 "Desculpas convincentes"
+ compelling_apology_modifier_desc:0 "Seja qual for o seu erro, este personagem fez um #itálico muito #!desculpas sinceras."
+
+ restitution_to_minorities_modifier:0 "Restituição às minorias locais"
+ restitution_to_minorities_modifier_desc:0 "Este personagem corrigiu algumas das queixas das minorias locais."
+
+ obligations_fulfilled_modifier:0 "Obrigações questionáveis"
+ obligations_fulfilled_modifier_desc:0 "Este personagem cumpriu suas obrigações com outro governante - entregando escravos fugitivos..."
+
+ saqaliba_settlers_county_modifier:0 "colonos Saqaliba"
+ saqaliba_settlers_county_modifier_desc:0 "Ex-escravos descendentes do Leste Europeu se estabeleceram nesta província."
+
+ former_slave_npc_modifier:0 "Ex-escravo"
+ former_slave_npc_modifier_desc:0 "Este personagem já foi escravo e está muito empenhado em defender sua liberdade."

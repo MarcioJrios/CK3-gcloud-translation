@@ -1,0 +1,53 @@
+﻿l_english:
+ # Court Events: Character Modifiers
+ smelly_court_roco_modifier:0 "Tribunal Fedorento"
+ smelly_court_roco_modifier_desc:0 "Este personagem tem um tribunal infame, temido por seu fedor terrível."
+ drenched_in_excrement_roco_modifier:1 "encharcado de excremento"
+ drenched_in_excrement_roco_modifier_desc:0 "Este personagem foi visto embebido em matéria fecal e ainda cheira a isso."
+ creative_burst_roco_modifier:0 "Explosão Criativa"
+ creative_burst_roco_modifier_desc:0 "Depois de receber elogios, esse personagem se inspira a continuar criando."
+ mocked_for_creative_burst_roco_modifier:0 "criador triste"
+ mocked_for_creative_burst_roco_modifier_desc:1 "Este personagem foi ridicularizado por sua criatividade e agora mantém sua escrita em segredo."
+ trying_new_things_modifier:0 "Tentando coisas novas"
+ trying_new_things_modifier_desc:0 "Este personagem está tentando ampliar seus pontos de vista, tentando coisas novas e escrevendo sobre vários assuntos."
+ found_their_focus_modifier:0 "Encontrou seu foco"
+ found_their_focus_modifier_desc:0 "Este personagem encontrou seu assunto favorito para escrever e está se aprofundando em sua escrita."
+ moment_of_calm_and_clarity_roco_modifier:0 "Momento de Calma e Clareza"
+ moment_of_calm_and_clarity_roco_modifier_desc:0 "Este personagem alcançou um estado de espírito pacífico."
+ made_a_fool_of_rival_roco_modifier:0 "Feito um tolo de Rival"
+ made_a_fool_of_rival_roco_modifier_desc:0 "Este personagem humilhou publicamente seu rival, fazendo com que todos ao seu redor reconsiderassem o lado ruim."
+
+ # Petition Events: Character Modifiers
+ petition_event_artifact_exhibition_for_gold:0 "Exposição de artefatos pagos"
+ petition_event_artifact_exhibition_for_gold_desc:0 "Este personagem está hospedando uma exposição de artefatos com uma taxa de entrada."
+ petition_event_artifact_exhibition_for_prestige:0 "Exposição Gratuita de Artefatos"
+ petition_event_artifact_exhibition_for_prestige_desc:0 "Este personagem está hospedando uma exibição gratuita de artefatos."
+ 
+ # Petition Events: County Modifiers
+ hold_court_preacher_loved_by_peasants_modifier:0 "Pregador Amado pelos Camponeses"
+ hold_court_preacher_loved_by_peasants_modifier_desc:0 "Um pregador amado, mas não convencional, vive neste condado, cuidando dos camponeses da região.."
+ hold_court_beloved_preacher_imprisoned_modifier:0 "Amado Pregador Preso"
+ hold_court_beloved_preacher_imprisoned_modifier_desc:0 "Um pregador amado, mas não convencional, deste condado foi preso. Em resposta, os camponeses estão protestando."
+ hold_court_grateful_peasants_modifier:0 "Camponeses Satisfeitos"
+ hold_court_grateful_peasants_modifier_desc:1 "A resposta a uma petição agradou os camponeses desta área."
+ hold_court_displeased_peasants_modifier:0 "Camponeses descontentes"
+ hold_court_displeased_peasants_modifier_desc:0 "Uma decisão do tribunal desagradou muito os camponeses desta área."
+ hold_court_less_building_cost_modifier:0 "Custo de construção reduzido"
+ hold_court_less_building_cost_modifier_desc:0 "Decisão judicial leva a redução de custo para construção nesta área."
+
+ # Court Events: County Modifiers
+ county_dismissed_servants_fear_modifier:0 "Medo dos servos demitidos"
+ county_dismissed_servants_fear_modifier_desc:0 "Este governante desconsiderou os medos de seus súditos."
+ county_acknowledged_servants_fear_modifier:0 "O medo dos servos reconhecidos"
+ county_acknowledged_servants_fear_modifier_desc:0 "Este governante ouve quando seus servos contam sobre seus medos."
+
+ # Culture Outcome
+ cultural_acceptance_gain_hold_court_event_outcome:0 "Uma decisão judicial mudou a aceitação cultural."
+
+ # Fund Inspiration Events:County Modifiers
+ fund_inspiration_missing_peasants_modifier:0 "Camponeses desaparecidos"
+ fund_inspiration_missing_peasants_modifier_desc:0 "O pânico no campo está se espalhando enquanto os camponeses estão desaparecendo misteriosamente."
+
+ #Court Positions: County Modifiers
+ held_public_execution_modifier:0 "Realizada Execução Pública"
+ held_public_execution_modifier_desc:0 "Uma execução pública foi realizada como um espetáculo para a multidão."

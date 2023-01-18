@@ -1,0 +1,15 @@
+﻿l_english:
+
+ # Fund Inspiration Loc
+ fund_inspiration_interaction:1 "Inspiração do Patrocinador"
+ fund_inspiration_interaction_desc:2 "Patrocinador [recipient.GetShortUINamePossessiveNoTooltip] [inspiration|E] para iniciar um [project|E] isso pode levar você a ganhar um [artifact|E].\nA qualidade do artefato em potencial e o custo do patrocínio variam de acordo com [recipient.GetHerHis] Habilidades."
+ fund_inspiration_interaction_reqruit_family_tooltip:0 "[recipient.GetShortUIName|U] e [recipient.GetHerHis] família"
+
+ # Indebt Guest Loc
+ indebt_guest_interaction:0 "Convidado Endividado"
+ indebt_guest_interaction_desc:0 "tenha o seu [Concept('court_amenities','Servants')|E] testemunhar uma litania de despesas causadas durante [recipient.GetShortUINamePossessive] fique, #EMP então#! oferecer-lhes uma saída..."
+ indebt_guest_interaction.tt.direct_indebted_guest:0 "Você terá a chance de dirigir [recipient.GetTitledFirstName] para ir a algum lugar"
+ indebt_guest_interaction.tt.failure:0 "[recipient.GetTitledFirstName] não será pressionado e foge"
+ INDEBT_GUEST_INTRIGUE_ACTOR:0 "[actor.GetShortUINamePossessive|U] [intrigue|E]: $VALUE|=+0$"
+ INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[recipient.GetShortUINamePossessive|U] [intrigue|E]: $VALUE|=+0$"
+ INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "[recipient.GetShortUINamePossessive|U] excesso [court_grandeur|E]: $VALUE|=+0$"

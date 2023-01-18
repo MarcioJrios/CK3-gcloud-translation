@@ -1,0 +1,48 @@
+﻿l_english:
+ yearly_0001_improved_diplomacy:0 "Tendo aulas de etiqueta"
+ yearly_0001_improved_martial:0 "Tendo aulas de estratégia"
+ yearly_0001_improved_stewardship:0 "Fazendo Aulas de Finanças"
+ yearly_0001_improved_intrigue:0 "Tomando lições de intriga"
+ yearly_0001_improved_learning:0 "Fazendo Aulas de Teologia"
+ yearly_0003_protected_by_liege:0 "Protegido por Liege"
+ yearly_0003_protected_by_liege_desc:0 "O soberano deste personagem está protegendo-o ativamente de espiões e esquemas."
+ vassal_distrust_modifier:0 "vassalos desconfiados"
+ vassal_distrust_modifier_desc:1 "Este suserano mostrou que eles não têm fé perfeita no serviço de seus vassalosReino [laws|E]: #N +10%#! more expensive"
+ protected_vassals_honor_modifier:0 "Honra do Vassalo Protegido"
+ protected_vassals_honor_modifier_desc:0 "Este governante defendeu a honra de seu vassalo em tempos de conflito"
+ liege_looking_away_modifier:0 "Liege olhando para longe"
+ liege_looking_away_modifier_desc:0 "O suserano deste personagem perdoa deliberadamente tudo, exceto transgressões graves"
+ yearly_benevolent_forgiveness_modifier:0 "ato de benevolência"
+ yearly_benevolent_forgiveness_modifier_desc:1 "Este personagem fez uma gentileza a um vassalo e quer que todos os outros se lembremReino [laws|E]: #P -10%#! cheaper"
+ yearly_close_watch_modifier:0 "Fechar relógio"
+ yearly_close_watch_modifier_desc:1 "Este personagem está sendo vigiado de perto por alguémNão pode entrar ou criar [factions|E]"
+ yearly_improved_impressions_modifier:0 "Impressões aprimoradas"
+ yearly_improved_impressions_modifier_desc:0 "Este personagem está colocando um esforço extra em suas primeiras impressões"
+ yearly_pious_liege_modifier:0 "Piedosa Liege"
+ yearly_pious_liege_modifier_desc:0 "Os vassalos religiosos podem confiar que este soberano agirá de acordo com seus ensinamentos religiosos"
+ yearly_befriending_fellow_vassals_modifier:0 "Fazendo amizade com vassalos"
+ yearly_befriending_fellow_vassals_modifier_desc:0 "Este personagem está se esforçando para construir relacionamentos com outros vassalos de seu suserano"
+ 
+ yearly_reduced_theocracy_tax_modifier:0 "Imposto Teocrático Reduzido"
+ yearly_reduced_theocracy_levies_modifier:0 "Orando pela paz"
+
+ yearly_0011_friends_in_high_places:0 "Amigos em lugares altos"
+ yearly_0011_friends_in_high_places_desc:0 "Este personagem fez amigos em lugares bastante altos..."
+
+ cagots_separated_modifier:0 "Cagots Secernados"
+ cagots_separated_modifier_desc:1 "Os Cagots locais são sequestrados em suas próprias gaiolas, separados das pessoas normais.."
+ 
+ cagots_left_in_peace_modifier:0 "Cagots deixados em paz"
+ cagots_left_in_peace_modifier_desc:0 "O resto da população gostaria que mais tivesse sido feito sobre os Cagots..."
+
+ lunatic_accepting_of_others_modifier:0 "imaginação hiperativa"
+ lunatic_accepting_of_others_modifier_desc:0 "Este personagem está sonhando com um mundo onde todos vivam suas vidas em paz."
+
+ all_work_no_play_persian_modifier:0 "Todo o trabalho, sem diversão"
+ 
+ poisonous_plants:0 "Cultivando Plantas Venenosas"
+ poisonous_plants_desc:0 "Este personagem está cultivando uma grande variedade de plantas, algumas parecem venenosas..."
+ impressive_flowers:0 "Cultivando Flores Impressionantes"
+ impressive_flowers_desc:0 "Este personagem está cultivando uma infinidade de flores coloridas e impressionantes."
+ useful_herbs:0 "Cultivo de Ervas Medicinais"
+ useful_herbs_desc:0 "Este personagem está cultivando várias ervas medicinais diferentes. Eles certamente serão úteis."

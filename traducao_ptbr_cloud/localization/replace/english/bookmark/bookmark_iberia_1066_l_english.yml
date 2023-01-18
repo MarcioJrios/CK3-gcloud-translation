@@ -1,0 +1,33 @@
+﻿l_english:
+ bm_1066_iberia:0 "Ibéria em pedaços"
+ bm_1066_iberia_desc:0 "Quando o velho rei Fernando I faleceu, seus três filhos herdaram um pedaço de seu reino ibérico. Ganância, ambição e guerras santas logo levam a Península Ibérica a ferver, e os laços entre os membros da família começam a se desgastar..\n\n#ousado Algum dos irmãos Fernandez é forte ou astuto o suficiente para sair vitorioso sobre o resto? Como a guerra e a diplomacia moldarão a Península Ibérica?#!"
+
+ # Carcía Fernandez, King of Galicia, Iberia
+ bookmark_iberia_king_garcia:0 "Rei García"
+ bookmark_iberia_king_garcia_desc:0 "Dado o reino mais conturbado dos três irmãos, García tentou muitos remédios extremos para estabilizar seu governo. No entanto, a frágil terra logo se tornou muito tentadora para seu irmão Alfonso, que invadiu em 1071. Esse ataque deu início às muitas guerras que se seguiram entre os irmãos, mas García passaria a maior parte desse tempo atrás das grades..\n\n#ousado Pegue em armas contra seus irmãos e conduza este reino instável à glória e à vitória!#!"
+
+ bookmark_iberia_king_alfonso_alt_sancha:0 "$Sancha$"
+ bookmark_iberia_king_alfonso_alt_nuno:0 "$NuN_o$"
+
+ # Alfonso VI Fernandez, King of León, Iberia
+ bookmark_iberia_king_alfonso:0 "Rei Afonso VI"
+ bookmark_iberia_king_alfonso_desc:0 "O filho do meio e o favorito de seu pai, Alfonso herdou o rico reino do meio de León. Ele passou a ser mais esperto e subjugar seus dois irmãos, e governou o reino reunido de seu pai..\n\n#ousado Através da diplomacia e agressão política e familiar, você tem o que é preciso para unir os três reinos sob uma bandeira?#!"
+
+ # Sancho II Fernandez, King of Castille, Iberia
+ bookmark_iberia_king_sancho:0 "D. Sancho II"
+ bookmark_iberia_king_sancho_desc:0 "Sancho foi roubado de sua herança completa pela divisão da terra de seu pai entre os três irmãos. Um homem de oportunidades, ele rapidamente pegou em armas contra seus irmãos assim que a paz começou a desmoronar, mas apenas brevemente conseguiu governar o reino reunificado antes de ser assassinado..\n\n#ousado Por meio de ação e planejamento militar, você pode restaurar todo o reino à sua glória sob o único governante legítimo e manter o poder?#!"
+
+ bookmark_iberia_king_sancho_alt_rodrigo:0 "$Rodrigo$"
+
+ # Urraca Fernandez, Countess of Zamorra, Iberia
+ bookmark_iberia_infanta_urraca:0 "Infanta Urraca"
+ bookmark_iberia_infanta_urraca_desc:0 "A mais velha dos filhos de Ferdinand, Urraca teve ampla influência sobre seus irmãos e a Igreja. Ela e sua irmã Elvira receberam o domínio de todos os mosteiros nos três reinos, e ela não ficou de braços cruzados enquanto seus irmãos se despedaçavam..\n\n#ousada Para superar seus irmãos e garantir seu lugar na história, Urraca precisa de paciência e ousadia - você conseguirá?#!"
+
+ bookmark_iberia_infanta_urraca_alt_elvira:0 "$Elvira$"
+
+ # Antso IV Gartziez, King of Navarra, Iberia
+ bookmark_iberia_king_antso:0 "Rei Antso IV"
+ bookmark_iberia_king_antso_desc:1 "Muitos senhores no oeste do reino abandonaram o rei Antso depois que ele ascendeu ao trono após o falecimento de seus pais. Ele logo se envolveu em uma guerra com seu primo, o rei Sancho, que viu Antso derrotado e, após um governo marcado por guerras e derrotas, foi assassinado por seus próprios irmãos..\n\n#ousado Reescreva a história, seja mais esperto que sua família e proteja seu domínio e herança!#!"
+
+ bookmark_iberia_king_antso_alt_ramiro:0 "$Ramiro$"
+ bookmark_iberia_king_antso_alt_sancho:0 "$Sancho$"

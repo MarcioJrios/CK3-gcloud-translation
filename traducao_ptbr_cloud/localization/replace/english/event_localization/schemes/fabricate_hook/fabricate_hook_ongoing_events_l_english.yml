@@ -1,0 +1,29 @@
+﻿l_english:
+ fabricate_hook_ongoing.0001.t:0 "$fabricate_hook_header$ Contato da família"
+ fabricate_hook_ongoing.0001.desc:1 "[target.GetTitledFirstNamePossessive] [target.Custom2('RelationToMe', SCOPE.sC('family_member'))], [family_member.GetTitledFirstName], tem sido extraordinariamente próximo. Mesmo sabendo que posso não ter intenções totalmente puras para [target.GetFirstName], [family_member.GetSheHe] está mais do que disposto a responder às minhas perguntas."
+ fabricate_hook_ongoing.0001.a:0 ""Does [target.GetSheHe] have any particular weak spots I should know about?""
+ fabricate_hook_ongoing.0001.b:0 ""How would one go about getting closer to [target.GetHerHim]?""
+
+ fabricate_hook_ongoing.0002.t:0 "$fabricate_hook_header$ Influência indevida"
+ fabricate_hook_ongoing.0002.desc:0 "[target.GetTitledFirstName] parece extraordinariamente cuidadoso ao redor [target.GetHerHis] [target.Custom2('RelationToMeShort', hooking_character )], [hooking_character.GetTitledFirstName]. Este tipo de deferência só pode significar que [hooking_character.GetFirstNameNoTooltip] tem algum tipo de influência sobre [target.GetHerHim].\nTalvez haja algo para eu aprender, aqui?"
+ fabricate_hook_ongoing.0002.a:0 "Meus espiões devem procurar uma explicação para esse mistério."
+ fabricate_hook_ongoing.0002.b:0 "eu devo saber o que [hooking_character.GetSheHe] faz [target.GetHerHim] Faz!"
+
+ fabricate_hook_ongoing.0003.t:0 "$fabricate_hook_header$ Fofoca"
+ fabricate_hook_ongoing.0003.desc_servant:0 "Meus agentes fizeram contato com [servant.GetTitledFirstName], um servo em meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))] [target.GetTitledFirstNamePossessive] [target.Custom('ResidenceBuilding')]."
+ fabricate_hook_ongoing.0003.desc:0 "Meus agentes fizeram contato com um servo em meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('target'))] [target.GetTitledFirstNamePossessive] [target.Custom('ResidenceBuilding')]."
+ fabricate_hook_ongoing.0003.desc_ending:0 "\nCom o incentivo certo [dummy_servant_gender.GetSheHe] está disposto a começar alguns sussurros de #EMP#! cerca de [target.GetTitledFirstNameNoTooltip] não sendo tão [target.Custom('FormalComplimentAdjective')] Como [target.GetSheHe] parece!"
+ fabricate_hook_ongoing.0003.a:0 "nós vamos arruinar [target.GetHerHis] reputação!"
+ fabricate_hook_ongoing.0003.a_gregarious:0 "Você #EMP sabe#! são as coisas certas a fazer."
+ fabricate_hook_ongoing.0003.b:0 "Um ouvido simpático perto de [target.GetHerHim] basta."
+ fabricate_hook_ongoing.0003.b_lustful:0 "Ou #EMP nós#! poderia começar algo aqui em vez disso..."
+
+ fabricate_hook_ongoing.0004.t:0 "$fabricate_hook_header$ Uma questão de gosto"
+ fabricate_hook_ongoing.0004.desc:0 "[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)|U] é um complicado [target.GetWomanMan].\neu preciso entender [target.GetHerHim] melhor possível se eu quiser convencer as pessoas a ficarem do meu lado em qualquer futuro... #EMP arguments#!."
+ fabricate_hook_ongoing.0004.a:0 "Em breve descobrirei a verdade sobre [target.GetHerHim]."
+ fabricate_hook_ongoing.0004.b.success:0 "você aprende sobre [target.GetHerHim]"
+ fabricate_hook_ongoing.0004.b.failure:0 "[target.GetSheHe|U] descobre você"
+ fabricate_hook_ongoing.0004.b:0 "vou tomar meu tempo com isso."
+
+ fabricate_hook_ongoing.0005.desc:0 "as pessoas descrevem [target.GetTitledFirstName] como ambos [target.Custom('ComplimentAdjective')] e [target.Custom('InsultAdjective')], o que me diz mais sobre sua relação com [target.GetHerHim] então alguma coisa.\nAlém disso, um número curioso de pessoas menciona com que frequência [target.GetSheHe] [ROOT.Char.Custom2('QuirkPresentPosOrNeg', SCOPE.sC('target'))] e fala sobre [target.Custom('herhis_subject_of_interest')]."
+ fabricate_hook_ongoing.0005.a:0 "Tenho certeza que esta informação será útil."

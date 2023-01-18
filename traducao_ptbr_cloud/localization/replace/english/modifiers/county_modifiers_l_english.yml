@@ -1,0 +1,45 @@
+﻿l_english:
+ peasant_war_lost_county_modifier:0 "Maior Autonomia"
+ county_increased_opinion_modifier:0 "Locais pacificados"
+ county_listened_to_locals_modifier:0 "Ouviu os locais"
+ county_mysterious_disappearances_modifier:0 "Desaparecimentos Misteriosos"
+ county_raised_runestone_modifier:0 "Pedra Rúnica"
+ irrigated_oasis_modifier:0 "oásis irrigado"
+ guarded_irrigated_oasis_modifier:0 "Oásis Irrigado Guardado"
+ oasis_modifier:0 "Oásis"
+ county_shuubiyya_modifier:0 "Shu'ubiyya"
+ county_forced_assimilation_modifier:0 "Assimilação Forçada"
+
+ nine_fingered_peasants_modifier:0 "Camponeses de Nove Dedos"
+ nine_fingered_peasants_modifier_desc:0 "O trabalho neste município está lento, pois tem havido uma tendência de desaparecimento de dedos..."
+
+ county_weapons_ban_in_city_modifier:0 "Proibição de armas nas cidades"
+ county_weapons_carried_in_city_modifier:0 "Carga de Arma Aberta Permitida"
+ county_increased_presence_modifier:0 "Presença Aumentada"
+ county_increased_presence_modifier_desc:0 "Este condado tem uma presença crescente de funcionários violentos"
+ county_confident_in_humanity_modifier:0 "Confiante na humanidade de Liege"
+ county_superstitious_of_ruler_modifier:0 "supersticioso do governante"
+ county_superstitious_of_ruler_modifier_desc:0 "Pais contam histórias de seu senhor para assustar seus filhos"
+ county_chastised_beloved_adventurer_modifier:0 "Amado Aventureiro castigado"
+ county_chastised_beloved_adventurer_modifier_desc:0 "Uma peça de mobília amada na taverna local: o aventureiro quase sem inspiração, foi removido por um governante desaprovador."
+ 
+ harassing_merchants_modifier:0 "Comerciantes assediados"
+ opulent_pigsty_modifier:0 "Chiqueiro Opulento"
+
+ hold_court_cropsharing:0 "Compartilhamento"
+ hold_court_cropsharing_desc:0 "A escassez causada pela praga foi aliviada neste condado ao fazer com que as aldeias locais compartilhassem suas colheitas."
+ hold_court_free_labor:0 "mão de obra gratuita"
+ hold_court_free_labor_desc:0 "Os trabalhadores deste condado estão retribuindo a generosidade de seu suserano com trabalho e suor.."
+ hold_court_ploughs_to_swords:0 "Arados para Espadas"
+ hold_court_ploughs_to_swords_desc:0 "As fazendas deste condado estão vazias; seus inquilinos se alistaram para lutar em vez de semear."
+
+ promote_culture_modifier:0 "Cultura celebrada"
+
+ small_investment_in_revolt_modifier:0 "Clamor Camponês"
+ medium_investment_in_revolt_modifier:0 "indignação camponesa"
+ high_investment_in_revolt_modifier:0 "Motins Camponeses"
+ divide_and_conquer_modifier:0 "Propaganda Religiosa"
+ divide_and_conquer_modifier_desc:0 "Os habitantes deste condado foram submetidos a propaganda religiosa, reunindo-os ao estandarte de seu suserano."
+
+ lost_holy_order_modifier:0 "Ordem Sagrada Perdida"
+ lost_holy_order_modifier_desc:0 "O descontentamento foi alimentado pelo desmantelamento da Ordem Sagrada que outrora controlava estas terras."

@@ -1,0 +1,46 @@
+﻿l_english:
+ ##################################################
+ # #Misc
+
+ ##################################################
+ # PATRONAGE
+ court.2001.t:0 "Companheirismo Competitivo"
+ court.2001.desc:0 "Nem [crony_a.GetFirstName] nem [crony_b.GetFirstName] observe enquanto me aproximo de sua conversa barulhenta no corredor.\n\n"#EMP Physical#! supplication is key! Every groveling-induced bruise on my knee is fresh coin in my purse! You just can't go wrong with prostration."\n\n"Nonsense, just keep stacking adjectives in front of [ROOT.Char.GetHerHis] title and you'll be rich till you die. If you've got air in your lungs before you get to '[ROOT.Char.GetTitleAsNameNoTooltip]', you're doing it wrong."\nEu tusso, silenciando os bajuladores mortificados instantaneamente."
+ court.2001.a:0 "Honestamente, vocês dois poderiam se esforçar mais nisso."
+ court.2001.a.sadistic:0 "Quem se curvar mais baixo ganha este #EMP brilhante#! moeda. Vai."
+ court.2001.a.sadistic.crony_a_wins:0 "[crony_a.GetFirstNameNoTooltip] arcos mais baixos"
+ court.2001.a.sadistic.crony_b_wins:0 "[crony_b.GetFirstNameNoTooltip] arcos mais baixos"
+ court.2001.b:0 "Eu vejo através de suas manipulações, lacaios!"
+ court.2001.c:0 "Eu acho que você está perdendo o caminho mais óbvio para o meu coração..."
+ court.2001.d:0 "Isso está abaixo de mim."
+
+ ##################################################
+ # MAJESTY
+ court.2201.t:0 "Uma Fatia de Torta"
+ court.2201.desc:0 ""-belongs to me! Dividing [ROOT.Char.GetPrimaryTitle.GetNameNoTier] up between separate heirs makes no sense!" chora [eldest_heir.GetFirstName] Como [eldest_heir.GetSheHe] e [younger_heir.Custom2('HerHisCharacterIntroduction', eldest_heir)] brigar alto do outro lado da sala. "We're dooming the realm to murder and civil war. [ROOT.Char.GetMotherFather|U] should leave all [ROOT.Char.GetHerHis] lands to #EMP me#!!"\n\n"Murder? Civil war? Exactly #EMP what#! do you have planned for when you're [ROOT.Char.GetTitleAsNameNoTooltip]?" bufa [younger_heir.GetFirstNameNoTooltip]. "You'll be an utter monster of a ruler if this is how you think about your own [younger_heir.Custom('SisterBrother')] before the crown has even #EMP touched#! your ugly skull."\nMinha cabeça lateja. Eles estão discutindo. Todos. Manhã."
+ court.2201.a:0 "Com direito a #EMP mais#!, [eldest_heir.GetFirstNameNoTooltip]? Que tal #EMP nada#!!"
+ court.2201.b:0 "É triste dizer, essas são apenas as regras do jogo, [younger_heir.GetFirstNameNoTooltip]..."
+ court.2201.c:0 "Eles são irmãos, vão se dar bem #EMP bem#! sem mim, certo?"
+ court.2201.d:0 "Filhos, vocês querem saber o real significado de família??"
+
+ ##################################################
+ # FOREIGN GUESTS
+ court.2401.t:0 "Glamour de segunda mão"
+ court.2401.desc:1 ""Finest raiments in the land, [buyer.GetFirstName], mostly because they #EMP ain't#! from this land", gargalhadas [seller.GetFirstName] enquanto eu passo [seller.GetHerHis] câmara aberta. [seller.GetHerHis|U] voz exala charme, mas mesmo assim, meu outro cortesão parece inseguro do tom.\n\n"Almost new, just as good as new, and fresh from the trend-setters in [grander_ruler.GetTitledFirstNamePossessive] court! These are what #EMP everyone#! in the [grander_ruler.GetPrimaryTitle.GetName] will be wearing next season."\n\n"
+ court.2401.a:0 "Nossa, esses #EMP fazem#! parecer atraente..."
+ court.2401.b:0 "Não precisamos de bobagens estrangeiras no meu tribunal!"
+ court.2401.c:0 "Quem se importa com o que as pessoas vestem?"
+
+ court.2411.t:0 "salões labirínticos"
+ court.2411.desc:1 "Meu passeio me leva por uma ala abandonada do palácio, percorrendo alguns aposentos espaçosos (embora empoeirados) que minha equipe sobrecarregada raramente visita, quando ouço um soluço catarrento vindo de uma passagem secundária..\nInvestigando, eu acho [lost_guest.Custom2('MyCharacterIntroduction', ROOT.Char)], desabou em desespero. [lost_guest.GetSheHe|U] surge no segundo [lost_guest.GetSheHe] me vê, agarrando-me pelos ombros, e começa a balbuciar como um louco[lost_guest.GetWomanMan].\n\n"[ROOT.Char.GetTitleAsNameNoTooltip], I've been lost in these passages for #EMP three days#!! I can't find the way out, just endless loops of connecting corridors and mouldering chambers with nary a servant in sight!""
+ court.2411.a:1 "De [ROOT.Char.GetFaith.HighGodName], deixe-me mostrar-lhe a saída!"
+ court.2411.b:0 "Como no... Que #EMP tolo#! você pode ser?"
+ court.2411.c:1 "*Whistling* What a honeycomb of halls I keep..."
+
+ ##################################################
+ # RELATIONSHIPS
+
+
+ ##################################################
+ # PERSONAL
+

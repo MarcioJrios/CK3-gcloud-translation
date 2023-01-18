@@ -1,0 +1,87 @@
+﻿l_english:
+
+# Forming the Swiss Confederation, by Flavio Verna
+ middle_europe_decisions.0001.t:0 "A Confederação Suíça"
+ middle_europe_decisions.0001.desc:0 "For a long time, the cities around the central Alps have been threatened by other actors inside the Empire. United under a single banner, they have now forged mutually beneficial alliances and have received the honor of imperial immediacy. \nEm homenagem às contribuições de minha dinastia para as cidades-estados suíças, fui escolhido como chefe desta união, aquele que será a figura de proa de todos os cantões de nossa nova Confederação Suíça. Não seremos mais ameaçados por estranhos, mas, em vez disso, ascenderemos como um forte ator independente no Império.."
+ middle_europe_decisions.0001.a:0 "Nos ficamos juntos!"
+ middle_europe_decisions.0002.desc.emperor:0 "Depois de anos de conflitos e acordos diplomáticos difíceis, fui forçado a conceder o imediatismo imperial dos cantões suíços.\nEsta coleção de cidades alpinas se uniu em uma grande confederação para se proteger das predações dos borgonheses e dos senhores alemães. Devo ter o cuidado de mantê-los sob controle, para que suas realizações não semeiem discórdia entre os burgueses vizinhos.."
+ middle_europe_decisions.0002.desc.vassals:0 "Uma nova entidade conhecida como Confederação Suíça surgiu no Império. Eles são um conglomerado de cidades com proximidade imperial estabelecidas ao redor dos Alpes centrais, e eles formaram uma aliança defensiva para se protegerem dos outros eleitores ao seu redor..\nUma força independente a ser reconhecida, eles se libertaram de quaisquer reivindicações anteriores sobre suas terras, seja dos antigos burgúndios a oeste ou dos senhores alemães ao norte..\nEu deveria olhar para esta nova ameaça potencial no Império."
+ middle_europe_decisions.0002.a:0 "que peculiar..."
+
+# Forming the Archduchy of Austria, by Flavio Verna
+ middle_europe_decisions.0003.t:0 "O Arquiducado da Áustria"
+ middle_europe_decisions.0003.desc:1 "Graças às minhas ilustres realizações consolidando o coração da Áustria e à tremenda influência que minha dinastia adquiriu sobre o Sacro Império Romano, [scoped_emperor.GetTitledFirstName] finalmente reconheceu a primazia da Áustria sobre os muitos pequenos duques da Alemanha.\nA partir deste dia, todos os meus sucessores carregarão o distinto título de #EMP arquiduque#!, igual a qualquer rei, para se diferenciarem dos príncipes e princesas menores do Império."
+ middle_europe_decisions.0003.a:0 "Áustria erit in orbe ultima!"
+ middle_europe_decisions.0004.desc.emperor_archduke:0 "aproveitando [scoped_ruler.GetHerHis] controle do trono imperial, [scoped_ruler.GetTitledFirstName] concedeu legalmente [scoped_ruler.GetHerselfHimself] o título de arquiduque da Áustria, tornando o ducado igual a qualquer reino."
+ middle_europe_decisions.0004.desc.emperor:0 "It is only right that the rulers of the Austrian heartlands, home to my own dynasty, be set apart from the other Princes and Princesses of the Empire. \nComo tal, recentemente cedi à minha [ROOT.Char.Custom2('RelationToMePossessive', SCOPE.sC('scoped_ruler'))] fundamentos e proclamado [scoped_ruler.GetFirstName] [scoped_ruler.GetTitleTierName] da Áustria."
+ middle_europe_decisions.0004.desc.emperor_blackmailed:0 "A Áustria sempre se considerou um corte acima do resto do Império, e hoje, [scoped_ruler.GetFirstName] tem confirmado isso. Usando [scoped_ruler.GetHerHis] laços comigo, não tive escolha a não ser confirmar [scoped_ruler.GetHerHis] status de arquiduque, igual a qualquer rei."
+ middle_europe_decisions.0004.desc.vassals:0 "Aproveitando a influência exercida pelo [scoped_ruler.GetDynastyName] dinastia sobre o trono imperial, [scoped_ruler.GetFirstName] convenceu [scoped_emperor.GetTitledFirstName] conceder [scoped_ruler.GetHerHim] honras especiais.\nDeste dia em diante, a Áustria será considerada um Arquiducado, o primeiro entre os Principados do Sacro Império Romano.."
+ middle_europe_decisions.0004.a:0 "foi totalmente merecido."
+ middle_europe_decisions.0004.b:0 "Quão conveniente..."
+
+# Reforming the Carolingian Empire, by Flavio Verna
+ middle_europe_decisions.0005.t:0 "o sonho de Carlos Magno"
+ middle_europe_decisions.0005.desc:0 "A Europa está inteira novamente. Todos os descendentes dos francos foram colocados sob uma única bandeira e estão unidos contra os infiéis do Ocidente e os pagãos do Oriente.\npela graça de [scoped_ruler.GetFaith.HighGodName], minha família teve o privilégio de manter a coroa deste Império Carolíngio restaurado. E, ao contrário dos que vieram antes de nós, não permitiremos que disputas dinásticas destruam este grande reino.."
+ middle_europe_decisions.0005.a:0 "[scoped_ruler.GetFaith.HighGodName] ser elogiado!"
+ middle_europe_decisions.0006.desc:0 "[scoped_ruler.GetTitledFirstName] e [scoped_ruler.GetHerHis] exército de Franks invadiu tão longe nas terras do Império que [scoped_ruler.GetSheHe] começou a afirmar que [scoped_ruler.GetSheHe] é o verdadeiro herdeiro de Carlos Magno e do Sacro Império Romano apenas uma pálida imitação da glória carolíngia.\nCom todas as províncias originais e grande parte da Europa Ocidental sob [scoped_ruler.GetHerHis] controle, tornou-se difícil para qualquer um negar tal afirmação."
+ middle_europe_decisions.0006.a:0 "Como se atreve [scoped_ruler.GetSheHe]!"
+ middle_europe_decisions.0006.b:0 "Será que esse Império vai durar mais, eu me pergunto?"
+
+# Unifying the Burgundies, by Flavio Verna
+ middle_europe_decisions.0007.t:0 "Um Borgonha"
+ middle_europe_decisions.0007.desc:0 "Todas as terras da Borgonha foram unidas sob uma única coroa. Não mais divididos entre reinos mesquinhos e em guerra, nossas antigas terras recuperaram a dignidade de um reino.\nJá faz algum tempo desde [former_liege.GetTitledFirstNamePossessive] a autoridade sobre mim começou a diminuir a ponto de não sentir mais qualquer lealdade para com o que considero ser um nobre e não um suserano."
+ middle_europe_decisions.0007.a:0 "Não precisamos da proteção de ninguém!"
+ middle_europe_decisions.0008.desc.liege:0 "Já faz algum tempo que me preocupo com [scoped_ruler.GetTitledFirstNamePossessive] tentativas de unificar as terras da Borgonha sob uma única bandeira, e agora meus piores temores se concretizaram.\nO vira-lata ingrato decidiu proclamar [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] da Borgonha e quebrou [scoped_ruler.GetHerHis] juramento de vassalagem!"
+ middle_europe_decisions.0008.desc.others:0 "Depois de passar vários anos unindo as terras da Borgonha, [scoped_ruler.GetFirstName] decidiu coroar [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] da Borgonha e declarar a independência de [former_liege.GetTitledFirstName].\nÉ improvável que este ato descarado de traição seja esquecido em breve..."
+ middle_europe_decisions.0008.a:0 "[scoped_ruler.GetSheHe|U] não passa de um traidor!"
+ middle_europe_decisions.0008.b:0 "Pelo menos os topógrafos ficarão felizes."
+
+# Empowering Sicilian Parliament, by Flavio Verna
+ middle_europe_decisions.0010.t:0 "A Assembleia dos Estamentos"
+ middle_europe_decisions.0010.desc:0 "A infraestrutura deixada pelos gregos nas províncias da Sicília e da Apúlia servirá de base para acelerar a transição de [scoped_ruler.GetPrimaryTitle.GetName] to a more enlightened form of governance. \nAo reunir representantes dos três Estados em um único órgão consultivo guiado por novas leis baseadas nas antigas tradições romanas, garantirei estabilidade e prosperidade no Mediterrâneo para as próximas gerações. Agora eu só preciso decidir onde este Parlamento deve ser realizado."
+ middle_europe_decisions.0010.a:0 "Em Palermo, sua antiga sede!"
+ middle_europe_decisions.0010.b:0 "Será em Nápoles."
+ middle_europe_decisions.0010.c:0 "Eu deveria considerar seriamente esta decisão."
+ middle_europe_decisions.0011.desc:0 "[scoped_ruler.GetTitledFirstName] nomeou representantes da Nobreza, do Clero e dos Burghers para formar um novo Parlamento no Reino da Sicília.\nEste órgão consultivo ajudará o [scoped_ruler.GetTitleTierName] e [scoped_ruler.GetHerHis] sucessores para governar com sabedoria e eficiência, para o benefício de todos os seus súditos."
+ middle_europe_decisions.0011.a:0 "Eu vejo..."
+
+# Gothic Innovations, by Flavio Verna
+ middle_europe_decisions.0012.t:0 "Opus Francigenum"
+ middle_europe_decisions.0012.desc:0 "Uma nova era de prosperidade está sobre nós. [scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip] emergiu da idade das trevas como um farol brilhante de arte e filosofia.\nNossas cidades estão se tornando centros de comércio fervilhantes, erguendo novas catedrais maravilhosas para rivalizar com os antigos monumentos do Império Romano, atraindo pintores, bardos e filósofos de todos os tipos. Sob o patrocínio esclarecido da minha dinastia, o [scoped_ruler.GetCulture.GetName] as pessoas se tornarão a inveja de toda a Europa."
+ middle_europe_decisions.0012.a:0 "Que nosso grande trabalho continue!"
+ middle_europe_decisions.0013.t:0 "O Período Gótico"
+ middle_europe_decisions.0013.desc.french:0 "[scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip] is experiencing a period of great prosperity and growth, for the benefit of all our people. \nNossas cidades estão se tornando centros de comércio fervilhantes, erguendo novas catedrais maravilhosas para rivalizar com os antigos monumentos do Império Romano, atraindo pintores, bardos e filósofos de todos os tipos. Sob o patrocínio esclarecido de [scoped_ruler.GetTitledFirstName] e a [scoped_ruler.GetDynasty.GetBaseName] dinastia, seremos a inveja de toda a Europa."
+ middle_europe_decisions.0013.desc.italian:0 "Parece que [scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip] is experiencing a period of great prosperity and growth. \nPoetas, filósofos, arquitetos... Muitas pessoas de conhecimento estão se reunindo em [scoped_ruler.GetTitledFirstNamePossessive] tribunal, mas tudo o que eles conseguiram alcançar até este ponto é um desfile aparentemente interminável de monumentos bárbaros e brutais."
+ middle_europe_decisions.0013.desc.fallback:0 "[scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip] vive um período de grande prosperidade e crescimento, para benefício de todos [ROOT.Char.GetCulture.GetNameNoTooltip] people. \nNovas cidades estão se tornando centros de comércio fervilhantes, erguendo novas catedrais maravilhosas para rivalizar com os antigos monumentos do Império Romano, atraindo pintores, bardos e filósofos de todos os tipos. Sob o patrocínio esclarecido de [scoped_ruler.GetTitledFirstName] e a [scoped_ruler.GetDynasty.GetBaseName] dinastia, esta terra se tornará a inveja de toda a Europa."
+ middle_europe_decisions.0013.a:0 "Que tempos maravilhosos em que vivemos!"
+ middle_europe_decisions.0013.b:0 "Bah! Isso nunca vai durar."
+ middle_europe_decisions.0013.c:0 "Bom para eles, eu suponho..."
+
+# Restore Holy Roman Empire, by Ewan Cowhig Croft
+ middle_europe_decisions.0015.t:0 "O Império do Ocidente"
+ middle_europe_decisions.0015.desc:0 "Por muito tempo, o manto do imperador romano no Ocidente não foi reclamado. Hoje, ao enfrentar [founder_hof.GetTitledFirstName] no maior [founder.GetFaith.HouseOfWorship] em todos os [ceremony_locale.GetNameNoTooltip], cercado por meus vassalos e clero, que muda.\nTrocamos orações e bênçãos de cor, pedindo [founder.GetFaith.HighGodName] para me abençoar com força e misericórdia para governar meu império de acordo com [founder.GetFaith.HighGodHerHis|U] vontade. Solenemente, [founder_hof.GetTitledFirstNameNoTooltip] presenteou-me com uma coroa e uma espada e encarregou-me de cuidar de toda a cristandade.\nSilêncio, seguido por uma onda de hinos crescentes, abafados apenas pelos gritos furiosos de meus nobres.\nFinalmente. Eu sou o Sacro Imperador Romano."
+ middle_europe_decisions.0015.a:0 "De Augusto, a Carlos Magno, a [founder.GetFirstNameNoTooltip]!"
+ middle_europe_decisions.0016.desc:0 "O Império Romano no Ocidente permaneceu adormecido por algum tempo, deixando o [founder.GetFaith.GetAdjectiveNoTooltip] resposta à questão da dignidade imperial incerta na melhor das hipóteses.\nIncerto, isto é, até agora, como [founder.GetTitledFirstName] tem, com o consentimento de [founder_hof.GetTitledFirstName], restabeleceu o império de Carlos Magno em uma luxuosa cerimônia organizada pelo maior dos [founder.GetFaith.HouseOfWorshipPlural] no [ceremony_locale.GetNameNoTooltip].\nAtravés do mundo, [founder.GetFaith.GetAdjectiveNoTooltip] [founder.GetFaith.PriestNeuterPlural] regozije-se, confiante de que Roma finalmente tem um herdeiro verdadeiro e piedoso mais uma vez!"
+ middle_europe_decisions.0016.a:0 "Bah, um conceito pretensioso de um império."
+ middle_europe_decisions.0016.b:0 "Alemães bárbaros, #ênfase I#! sou o imperador romano!"
+ middle_europe_decisions.0016.c:0 "Esperemos que o império se mostre pacífico."
+ middle_europe_decisions.0016.d:0 "Um espetáculo glorioso!"
+ # Electorate of Saxony by James Beaumont
+ establish_the_electorate_of_saxony_decision:0 "Estabelecer o Eleitorado da Saxônia"
+ establish_the_electorate_of_saxony_decision_desc:0 "O interior do leste permaneceu por muito tempo fora do alcance do Império. Devemos consolidar esses títulos em uma nova Saxônia, para garantir nosso domínio sobre a região."
+ establish_the_electorate_of_saxony_decision_tooltip:0 "$establish_the_electorate_of_saxony_decision_desc$"
+ establish_the_electorate_of_saxony_decision_confirm:0 "Forje uma nova Saxônia!"
+ polabia_must_be_hre_culture_tt:0 "Pelo menos 12 [counties|E] no [GetGeographicalRegion('custom_polabia').GetName] ou é a sua cultura ou a cultura do seu [liege|E]."
+ polabia_held_or_nonexistent.tt:0 "$k_sorbia$ não existe ou é mantido por você."
+ middle_europe_decision.0017.tt:0 "Como imperador, a Saxônia será entregue a um [vassal|E] ou [courtier|E] após a criação."
+ middle_europe_decisions.0017.t:0 "O Eleitorado da Saxônia"
+ middle_europe_decisions.0017.desc:0 "Há muito Polabia está fora das mãos dos inimigos do [hre_emperor_scope.GetPrimaryTitle.GetTierAsNameNoTooltip], mas agora sua população passou a considerar $e_hre$ como seu verdadeiro lar.\nCom o estabelecimento do Eleitorado da Saxônia, a região da Alta Saxônia permanecerá agora e para sempre nas mãos do [hre_emperor_scope.GetTitleAsNameNoTooltip] e sob a orientação de [hre_emperor_scope.GetFaith.HighGodName]."
+ middle_europe_decisions.0017.a:0 "Glória à Saxônia!"
+ middle_europe_decisions.0017.b:0 "[heir_scope.Custom2('MyCharacterIntroduction', ROOT.Char)|U] merece este título."
+ middle_europe_decisions.0017.c:0 "Verdadeiramente [most_powerful_saxon.GetNameNoTooltip] é digno."
+ middle_europe_decisions.0017.d:0 "Este é o meu presente para a Igreja."
+ middle_europe_decisions.0017.e:0 "Parabéns, [rando_courtier_scope.GetNameNoTooltip]!"
+ middle_europe_decisions.0018.desc:0 "$middle_europe_decisions.0017.desc$\n\n[hre_emperor_scope.GetNameNoTooltip] decidiu conceder este novo título a [new_saxon_king.GetName], em reconhecimento de [new_saxon_king.GetHerHis] serviço ao trono."
+ middle_europe_decisions.0018.a.new_king:0 "glória para mim!"
+ middle_europe_decisions.0018.a.slav:0 "Amaldiçoe-os!"
+ middle_europe_decisions.0018.a:0 "Bom para eles."

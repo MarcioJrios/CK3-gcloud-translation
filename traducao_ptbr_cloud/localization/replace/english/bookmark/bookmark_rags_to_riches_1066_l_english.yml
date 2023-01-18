@@ -1,0 +1,37 @@
+﻿l_english:
+ bm_1066_rags_to_riches:0 "Trapos para Riquezas"
+ bm_1066_rags_to_riches_desc:1 "Por toda a Europa, as famílias lutam e planejam o poder. Muitas terras estão sendo disputadas, enquanto batalhas são vencidas e perdidas, e dinastias vêm e vão, enquanto seus governantes são derrotados..\n\n#Reis ousados do passado estão sendo substituídos, enquanto os recém-chegados buscam as estrelas. Qual você será?#!"
+
+ # Murchad Briain, Duke of Munster, Ireland
+ bookmark_rags_to_riches_petty_king_murchad:0 "Pequeno Rei Murchad"
+ bookmark_rags_to_riches_petty_king_murchad_desc:0 "No início do século 11, o Alto Reinado da Irlanda caiu dentro e fora do alcance da casa Briain, enquanto as casas nobres irlandesas guerreavam por território, umas contra as outras e contra os colonos vikings. No entanto, embora vindo de uma linhagem de homens considerados destinados à realeza, não se sabe muito sobre o breve reinado de Murchad sobre a área menor de Munster..\n\n#ousado Com sua ajuda, talvez um membro da casa de Briain possa sentar-se no trono da Irlanda mais uma vez?#!"
+
+ bookmark_rags_to_riches_petty_king_murchad_alt_brian:0 "$Brian$"
+ bookmark_rags_to_riches_petty_king_murchad_alt_bebinn:0 "$BE_binn$"
+
+ # Matilda di Canossa, Duchess of Tuscany, Italy
+ bookmark_rags_to_riches_duchess_matilda:0 "duquesa Matilde"
+ bookmark_rags_to_riches_duchess_matilda_desc:0 "Por habilidade ou circunstância, Matilda de Canossa está destinada a herdar um território substancial no norte da Itália. Ela passará a se tornar uma governante poderosa e bem relacionada, eventualmente subindo para o posto único de Vigário Imperial e Vice-Rainha da Itália. Muito depois de sua morte, ela permanecerá uma figura lendária por sua piedade e suspeita de bruxaria..\n\n#ousado Você pode garantir que o legado de Mathilda perdure e continue a linha Canossa para as próximas gerações?#!"
+
+ # Yahya Dhunnunid, Emir (Duke) of Toldeo, Iberia
+ bookmark_rags_to_riches_emir_yahya:0 "Emir Yahya"
+ bookmark_rags_to_riches_emir_yahya_desc:1 "O Reino de Toledo será estabelecido no final do século 11, quando o Rei de León assumir a cidade de mesmo nome. Esta erradicação do Emir Yahya e sua influência significa que a família Dhunnunid perderá seu controle sobre a região, onde reinaram por gerações..\n\n#ousado Manipulando seus rivais e encontrando mais aliados, você tem o que é preciso para desafiar os reis da península ibérica e mudar a história da casa Dhunnunid?#!"
+
+ bookmark_rags_to_riches_emir_yahya_alt_zahida:0 "$Zahida$"
+ bookmark_rags_to_riches_emir_yahya_alt_yahya2:0 "$Yahya$"
+
+ # Vratislav Premyslid, Duke of Bohemia, Czechia
+ bookmark_rags_to_riches_duke_vratislav:0 "Duque Vratislav"
+ bookmark_rags_to_riches_duke_vratislav_desc:0 "A família Premyslid governou a região da Boêmia por centenas de anos. Eles confiaram muito na antiguidade para sua sucessão, o que, no caso do duque Vratislav, acabará levando a sérios conflitos com seus irmãos..\n\n#ousado Para se tornar rei da Boêmia, Vratislav precisará ser tático com seus recursos, tanto materiais quanto não - você está pronto para a tarefa?#!"
+
+ bookmark_rags_to_riches_duke_vratislav_alt_judita:0 "$Judita$"
+ bookmark_rags_to_riches_duke_vratislav_alt_ota:0 "$Ota$ $nick_the_handsome$"
+
+
+ # Robert 'The Fox' de Hauteville, Duke of Apulia, Sicily
+ bookmark_rags_to_riches_duke_robert:0 "Duque Roberto"
+ bookmark_rags_to_riches_duke_robert_desc:0 "Robert começou sua carreira como ladrão e chefe de um bando de salteadores. Sendo um dos muitos irmãos, nunca se previu que o filho aventureiro se tornaria um brilhante estrategista e estadista, governando vastas áreas de terra - mas aqui está ele, um poderoso duque do sul da Itália, pronto para seguir o caminho da história, o que permitirá os Hautevilles para ter uma posição na Sicília por mais de cem anos.\n\n#bold Se você pode consolidar o poder no reino, o Reino da Sicília aguarda seu governante!#!"
+
+ bookmark_rags_to_riches_duke_robert_alt_bohemond:0 "$Bohemond$"
+ bookmark_rags_to_riches_duke_robert_alt_roger:0 "$Roger$"
+ 

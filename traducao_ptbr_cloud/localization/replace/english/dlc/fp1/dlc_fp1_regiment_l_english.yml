@@ -1,0 +1,12 @@
+﻿l_english:
+ # Cultural MaA
+ bondi:0 "Bondí"
+ vigmen:0 "Vigmen"
+ varangian_veterans:0 "Veteranos Varangianos"
+ jomsviking_pirates:0 "Piratas de Jomsviking"
+
+ # MaA Flavour
+ bondi_flavor:0 "#F Os Bondí fazem parte de uma classe de proprietários de terras livres, muitas vezes marinheiros competentes, que usam dracares para negociar ou fazer vikings. Eles lutam usando lanças e escudos.#!"
+ vigmen_flavor:0 "#F Os guerreiros na frente apresentam uma parede impenetrável de escudos para proteger os arqueiros na retaguarda. Esta tática detém escaramuçadores enquanto permite um avanço constante.#!"
+ varangian_veterans_flavor:0 "#F Exploradores, aventureiros, guerreiros e mercenários de todas as distantes colônias nórdicas. Alguns até serviram na Guarda Varangiana.#!"
+ jomsviking_pirates_flavor:0 "#F Alguns dos saqueadores mais notórios que já cruzaram o Báltico, os Jomsvikings se destacam em injetar o caos na batalha, prolongando-o antes de se destacarem no rescaldo.#!"

@@ -1,0 +1,66 @@
+﻿l_english:
+ bp1_1000_time_with_bf_modifier:0 "Tempo de qualidade com o melhor amigo"
+ bp1_1000_time_with_bf_modifier_desc:0 "Este personagem está passando um tempo de qualidade com seu melhor amigo"
+ bp1_1000_focus_on_work_modifier:0 "Focado no Trabalho"
+ bp1_1000_focus_on_work_modifier_desc:0 "Este personagem está negligenciando seu amigo para se concentrar em seus deveres."
+
+ bp1_1020_friend_with_modifier:0 "Amigo Carinhoso"
+ bp1_1020_friend_with_modifier_desc:0 "Um amigo carinhoso senta-se ao lado da cama deste personagem."
+ bp1_superstition_modifier:0 "Supersticioso"
+ bp1_superstition_modifier_desc:0 "A vida deste personagem é controlada por uma crença em influências sobrenaturais que levam à boa ou má sorte."
+ bp1_1070_unlucky_charm_modifier:0 "amuleto de azar"
+ bp1_1070_unlucky_charm_modifier_desc:0 "A má sorte foi enviada a este personagem por um rival maligno."
+ bp1_well_fed_pigs_modifier:0 "porcos bem alimentados"
+ bp1_well_fed_pigs_modifier_desc:0 "Este personagem tem algum gado suspeitosamente gordo..."
+
+ humiliated_by_rival_modifier:0 "Humilhado"
+ humiliated_by_rival_modifier_desc:0 "Este personagem foi envergonhado publicamente por um rival e ainda não se livrou da vergonha."
+ triumphant_over_rival_modifier:0 "Triunfante"
+ triumphant_over_rival_modifier_desc:0 "Este personagem superou publicamente um rival e, como resultado, caminha com um salto extra em seus passos."
+
+ dead_best_friend_modifier:0 "Mágoa Contínua"
+ dead_best_friend_modifier_desc:0 "O melhor amigo deste personagem morreu e eles não conseguiram se recuperar totalmente."
+
+ linguistically_challenged_modifier:0 "Linguisticamente desafiado"
+ linguistically_challenged_modifier_desc:0 "Este personagem pronuncia certas palavras de forma diferente das normas estabelecidas e é ridicularizado como resultado."
+
+ descriptivist_modifier:0 "descritivista"
+ descriptivist_modifier_desc:0 "Esse personagem insiste em usar sua própria abordagem da linguagem, implicando uma nítida falta de educação em assuntos linguísticos."
+
+ sneaking_suspicion_modifier:0 "Suspeita furtiva"
+ sneaking_suspicion_modifier_desc:0 "Este personagem tem uma disposição aparentemente ensolarada, deixando de lado alguns eventos preocupantes de sua mente. Ou pelo menos, eles tentaram #EMP#! para..."
+
+ busy_guards_modifier:0 "Guardas ocupados"
+ busy_guards_modifier_desc:0 "Este personagem redirecionou os esforços de seus guardas para questões frívolas, em vez de se protegerem.."
+
+ lacking_supplies_modifier:0 "falta de suprimentos"
+ lacking_supplies_modifier_desc:0 "Este personagem permitiu que os atos nefastos de outros não fossem investigados e, como resultado, está faltando nas lojas de alimentos.."
+
+ optimist_modifier:0 "Otimista"
+ optimist_modifier_desc:0 "Para este personagem, a caneca está sempre meio cheia."
+
+ lacking_poultry_modifier:0 "Falta de produtos de aves"
+ lacking_poultry_modifier_desc:0 "Este município carece de alimentos e produtos fornecidos por galinhas."
+
+ obsessively_neurotic_modifier:0 "Obsessivamente Neurótico"
+ obsessively_neurotic_modifier_desc:0 "Este personagem vê perigo em cada esquina e vive sua vida com medo."
+
+ unhappy_spouse_modifier:0 "casamento infeliz"
+ unhappy_spouse_modifier_desc:0 "As neuroses deste personagem quebraram seu casamento, potencialmente além do reparo."
+
+ disdained_modifier:0 "desdenhado"
+ disdained_modifier_desc:0 "Este personagem é conhecido por estar sob o domínio de seus próprios vassalos, que desprezam abertamente suas tentativas de mantê-los na linha.."
+
+ cat_revenge_modifier:0 "vingança pelo gato"
+ cat_revenge_modifier_desc:0 "O gato deste personagem foi assassinado por seu inimigo e, como resultado, eles estão repletos de pensamentos de vingança.."
+
+ cat_survived_modifier:0 "surpresa felina"
+ cat_survived_modifier_desc:0 "O gato deste personagem de alguma forma sobreviveu a uma tentativa de assassinato por seu inimigo."
+
+ sated_modifier:0 "Saciou"
+ sated_modifier_desc:0 "Este personagem teve algum tempo de qualidade #EMP#! com seu amante."
+ family_troubles_modifier:0 "Problemas familiares"
+ family_troubles_modifier_desc:0 "Este personagem tem uma família extensa que está sem sorte."
+ 
+ skinned_pet_modifier:0 "animal de estimação esfolado"
+ skinned_pet_modifier_desc:0 "Este personagem teve seu amado animal de estimação esfolado e transformado em uma peça de roupa pelas maquinações de um rival."

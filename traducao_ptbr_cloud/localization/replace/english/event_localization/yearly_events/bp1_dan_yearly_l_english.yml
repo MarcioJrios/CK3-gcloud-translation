@@ -1,0 +1,192 @@
+﻿l_english:
+ bp1_yearly.7000.t:0 "Quebrando o jejum com um amigo"
+ bp1_yearly.7000.desc:1 "estou a caminho do [ROOT.Char.GetFaith.HouseOfWorship] uma manhã, quando me deparo com [distraction_friend.GetTitledFirstName], que está carregando uma pequena bolsa. Olhando ao redor, [distraction_friend.GetSheHe] conspiratoriamente abre revelando todos os tipos de alimentos e bebidas.\n\n"It is such a beautiful day, come join me outside for a morning picnic." [distraction_friend.GetSheHe|U] diz.\nQuando começo a protestar que estou a caminho do [ROOT.Char.GetFaith.HouseOfWorship], [distraction_friend.GetFirstNameNoTooltip] interrupts me: \n\n"[ROOT.Char.GetFaith.HighGodName] will still be there later, but these [ROOT.Char.Custom('GetExpensiveDessert')] won't." "
+ bp1_yearly.7000.a:0 "[ROOT.Char.GetFaith.HighGodName] é mais importante que o café da manhã."
+ bp1_yearly.7000.b:0 "O verdadeiro pecado seria deixar esta oportunidade passar."
+ 
+ lovely_picnic_modifier:0 "Adorável Piquenique"
+ lovely_picnic_modifier_desc:0 "Fui em um lindo piquenique."
+ 
+ bp1_yearly.7001.t:0 "Foi pescar"
+ bp1_yearly.7001.desc:1 "Minhas [ROOT.Char.Custom2('RelationToMeShort', fishing_friend)] [fishing_friend.GetFirstName] me para no corredor, sorrindo de orelha a orelha. No [fishing_friend.GetHerHis] hands are two fishing poles. \n\n"Come fishing with me today, dear [fishing_friend.Custom2('RelationToMeShort', ROOT.Char)]. I promise you will love it!" [fishing_friend.GetSheHe|U] exclama.\nJá faz um tempo desde que fiz uma pausa e escapei da agitação do [ROOT.Char.Custom('FortifiedBuilding')]..."
+ bp1_yearly.7001.a:0 "Eu vou pegar a lendária carpa branca!"
+ bp1_yearly.7001.b:0 "UMA [ROOT.Char.GetTitleAsNameNoTooltip] não #EMP 'Peixe'#!."
+ 
+ bp1_yearly_7001.a.tt:1 "Você vai em uma viagem de pesca"
+ 
+ bp1_yearly.7001.a.toast.good_time:1 "Você tem uma ótima viagem"
+ bp1_yearly.7001.a.toast.bad_time:1 "Você tem um mau momento"
+ bp1_yearly.7001.a.toast.caught_fish:1 "Você pega um peixe gigante"
+ bp1_yearly.7001.a.toast.white_carp:1 "Você pega a lendária carpa branca"
+ 
+ 
+ bp1_yearly.7002.t:0 "Disputas Privadas"
+ bp1_yearly.7002.desc:1 "Tendo acabado de me aliviar, vou até a janela e observo o pátio abaixo..\nMeu humor piora quando vejo meu rival, [chamberpot_rival.GetFirstName], andando pelo pátio com um olhar irritante de alegria em [chamberpot_rival.GetHerHis] cara. Meus olhos disparam para o penico cheio ao lado da minha cama, talvez eu possa fazer algo sobre esse bom humor..."
+ bp1_yearly.7002.a:0 "Descubra abaixo!"
+ bp1_yearly.7002.b:0 "Eu sou um adulto, e isso está abaixo de mim."
+ 
+ bp1_yearly.7002.a.tt:0 "Você tenta esvaziar o penico neles"
+ 
+ drenched_in_excrement_opinion:0 "encharcado de excremento"
+ threw_excrement_opinion:1 "Quase encharcado de excremento"
+ 
+ bp1_yearly.7002.a.toast.perfect_hit:0 "Ataque direto!"
+ bp1_yearly.7002.a.toast.miss:0 "Miss completa!"
+ bp1_yearly.7002.a.toast.chamberpot:0 "Você deixou cair o penico!"
+ bp1_yearly.7002.a.toast.tripped:0 "Você escorrega e se cobre de excremento!"
+ 
+ 
+ 
+ 
+ bp1_yearly.7003.t:0 "A Tapeçaria"
+ bp1_yearly.7003.desc:1 "estou procurando [orgy_tapestry_maker.Custom2('MyCharacterIntroduction', ROOT.Char)], mas [orgy_tapestry_maker.GetSheHe] está longe de ser encontrado. Eventualmente eu invadi [orgy_tapestry_maker.GetHerHis] quartos onde não encontro #EMP [orgy_tapestry_maker.GetHerHim]#!... mas eu acho algo muito interessante.\nParece [orgy_tapestry_maker.GetSheHe] tem trabalhado em uma tapeçaria retratando uma orgia bastante explícita. Eu estou lá, imprensado entre meus [ROOT.Char.Custom2('RelationToMeShort', orgy_participant_1)] [orgy_participant_1.GetFirstName] e meu [ROOT.Char.Custom2('RelationToMeShort', orgy_participant_2)] [orgy_participant_2.GetFirstName]. enquanto isso meu [ROOT.Char.Custom2('RelationToMeShort', orgy_tapestry_maker)] [orgy_tapestry_maker.GetFirstNameNoTooltip] parece estar se divertindo muito com [ROOT.Char.GetFaith.DevilName]. No canto de tudo, meu [ROOT.Char.Custom2('RelationToMeShort', orgy_participant_3)] [orgy_participant_3.GetFirstName] senta-se com um sorriso extasiado.\nestou sem palavras."
+ bp1_yearly.7003.a:0 "Repugnante!"
+ bp1_yearly.7003.b:0 "Eu #EMP devo#! pendure isso na minha parede."
+ bp1_yearly.7003.c:0 "Eu tomei um, uh, caminho errado."
+ 
+ bp1_orgy_tapestry:0 "Tapeçaria de uma orgia"
+ bp1_orgy_tapestry_desc:0 "Esta tapeçaria retrata [orgy_participant_1.GetFirstName], [ROOT.Char.GetName], [orgy_participant_2.GetName], [orgy_participant_3.GetName] e [orgy_tapestry_maker.GetName] participando de uma orgia. [ROOT.Char.GetFaith.DevilName] também está participando."
+ 
+ 
+ bp1_yearly.7004.t:0 "Conforto de um amigo"
+ bp1_yearly.7004.desc:1 "Minhas [ROOT.Char.Custom2('RelationToMeShort', concerned_friend)] [concerned_friend.GetFirstName] se aproxima de mim quando estou sentado perto da janela: "You haven't been the same since... since what happened."\n\n[concerned_friend.GetSheHe|U] não diz isso, mas eu sei [concerned_friend.GetSheHe] está se referindo a quando [bad_memory.GetDescription].\n\n"Perhaps you need someone to talk to? I could be that someone," [concerned_friend.GetSheHe] continua suavemente."
+ bp1_yearly.7004.a:0 "Isso soa bem."
+ bp1_yearly.7004.b:0 "Meus problemas são meus."
+ 
+ bp1_yearly.7005.t:0 "Um Favor para um Amigo"
+ bp1_yearly.7005.desc:0 "Minha amiga [borrowing_friend.GetName] vem a mim obviamente querendo algo. Eventualmente eu me canso de [borrowing_friend.GetHerHim] dançando em torno do assunto e demanda [borrowing_friend.GetSheHe] diga-me.\n\n"Well I was hoping I could borrow your [borrowed_artifact.GetName] for one evening, but you can't ask why..."\n\n[borrowing_friend.GetSheHe|U] está claramente constrangido com o pedido. O que poderia [borrowing_friend.GetSheHe] possivelmente quer isso para?"
+ bp1_yearly.7005.a:0 "Eu suponho."
+ bp1_yearly.7005.b:0 "Sem chance."
+ 
+ bp1_yearly.7005.a.returned_artifact:0 "Artefato emprestado devolvido."
+ 
+ bp1_yearly.7006.t:0 "$bp1_yearly.7005.t$"
+ bp1_yearly.7006.desc:0 "[borrowing_friend.GetName] aproxima-se de mim olhos baixos. "Please don't be upset".\nEles me levam ao meu [borrowed_artifact.GetName] which I can see is badly damaged. \n\n "I'm sorry it was an accident" [borrowing_friend.GetFirstNameNoTooltip] parece genuinamente perturbado."
+ bp1_yearly.7006.a:0 "você absoluto [borrowing_friend.Custom('InsultNoun')]."
+ bp1_yearly.7006.b:0 "Acidentes acontecem."
+ 
+ bp1_yearly.7005.a.tt:0 "Seu artefato pode estar danificado."
+ 
+ bp1_yearly.7007.t:0 "$bp1_yearly.7005.t$"
+ bp1_yearly.7007.desc:0 "[borrowing_friend.GetName] voltou meu [borrowed_artifact.GetName]. Não tenho certeza se eles apenas limparam ou realmente fizeram alterações, mas está parecendo mais impressionante do que nunca.\n\n "I hope you like it, I worked on it all evening."[borrowing_friend.GetSheHe] diz parecendo nervoso."
+ bp1_yearly.7007.a:0 "Isso é maravilhoso!"
+ bp1_yearly.7007.b:0 "Você alterou MEU [borrowed_artifact.GetNameNoTooltip]?"
+ 
+ didnt_trust_friend_opinion:0 "não confiou em mim."
+ trusted_friend_opinion:0 "Confiou em mim."
+ forgave_me_opinion:0 "perdoou-me."
+ improved_artifact_opinion:0 "Melhorei meu artefato."
+ messed_with_artifact_opinion:0 "Mexeu com meu artefato."
+ 
+ bp1_yearly.7010.t:1 "Um teste de lealdade"
+ bp1_yearly.7010.desc:2 "Eu não consigo parar de pensar onde [tested_friend.GetFirstNamePossessive] lealdades mentem. É [tested_friend.GetSheHe] um verdadeiro amigo, ou apenas um bajulador?\nTalvez um pequeno teste coloque minha mente para descansar...\nUm dos meus agentes, um segredo falso e um presente anônimo. O que faria [tested_friend.GetHerHim] trair minha confiança?"
+ bp1_yearly.7010.a:1 "trinta moedas de prata."
+ bp1_yearly.7010.b:1 "Dois... não, #EMP três#! bonita [tested_friend.Custom('AttractionWomanManMultiple')], pronto e disposto."
+ bp1_yearly.7010.c:1 "A promessa de riquezas para [tested_friend.GetHerHis] #EMP other#! friend, [friends_friend.GetFirstNameNoTooltip]."
+ bp1_yearly.7010.d:0 "Isso está abaixo de mim."
+ 
+ bp1_yearly.7010.toast.betrayed:1 "[tested_friend.GetSheHe|U] te trai"
+ 
+ bp1_yearly.7010.toast.not_betrayed:1 "[tested_friend.GetSheHe|U] prova [tested_friend.GetHerHis] lealdade"
+ 
+ bp1_yearly.7010.a.tt:1 "Você acredita [tested_friend.GetFirstNamePossessive] lealdade pode ser comprada com ouro"
+ bp1_yearly.7010.b.tt:1 "Você acredita [tested_friend.GetFirstName] escolheria prazeres carnais em vez de amizade"
+ bp1_yearly.7010.c.tt:1 "Você acredita que [tested_friend.GetFirstName] cuida mais de [friends_friend.GetFirstNamePossessive] amizade que a sua"
+ 
+ 
+ bp1_yearly.7050.t:0 "Antigos Inimigos"
+ bp1_yearly.7050.desc:0 "Estou de volta ao campo de batalha, a lama está grudada nas minhas botas, o cheiro fétido dos mortos assaltando minhas narinas, mais uma vez estou revivendo o dia [war_memory.GetDescription].\nEu acordo ofegante, gotas frias de suor grudam no meu rosto."
+ bp1_yearly.7050.desc.married:0 "[sleeping_spouse.GetFirstName] se mexe ao meu lado, mas não acorda. Devo lidar com meus problemas sozinho."
+ bp1_yearly.7050.desc.not_married:0 "Sozinho no meu quarto, devo lidar com esses problemas sozinho."
+ bp1_yearly.7050.a:0 "eu deveria tentar esquecer."
+ bp1_yearly.7050.b:0 "NUNCA mais vou perder!"
+ 
+ vengeance_obsessed_modifier:0 "Obcecado por vingança"
+ 
+ bp1_yearly.7051.t:0 "A batalha de [battle_area.GetNameNoTooltip] "
+ bp1_yearly.7051.desc:1 "Com vívida clareza eu me lembro quando [battle_memory.GetDescription]. Foi uma batalha que aconteceu em [battle_area.GetTerrain.GetNameNoTooltip], um terreno para o qual eu estava muito despreparado.\nDesde então venho refletindo sobre as coisas, tenho certeza que se a batalha fosse hoje eu seria um líder muito mais competente."
+ bp1_yearly.7051.a:0 "Eu nunca vou deixar isso acontecer novamente."
+ bp1_yearly.7051.b:0 "Eu deveria aprender a ser flexível."
+ 
+ bp1_yearly.7052.t:0 "uma história sobre..."
+ bp1_yearly.7052.desc:0 "O fogo ruge, bebeu-se, e [story_friend.GetFirstName] está me chamando para uma história.\nMeu primeiro pensamento é de um famoso [ROOT.Char.GetCulture.GetNameNoTooltip] conto popular, um clássico que nunca deixa de encantar.\nPor outro lado, e se eu contasse uma história da minha própria vida, talvez do tempo [story_memory.GetDescription]."
+ bp1_yearly.7052.a:0 "Mantenha-o tradicional."
+ bp1_yearly.7052.b:0 "minha própria história!"
+ bp1_yearly.7052.c:0 "Por que não ambos!"
+ 
+ 
+ bp1_yearly.7053.t:0 "memórias vingativas"
+ bp1_yearly.7053.desc:0 "Enquanto ando pelo pátio, a raiva toma conta de mim mais uma vez, a única coisa em minha mente recentemente é quando [bad_memory.GetDescription].\nEu devo me vingar de [bad_memory_participant.GetFirstNameNoTooltip] de alguma maneira. Eu olho para a forca na minha frente. Talvez se eu fizer meus movimentos com cuidado [bad_memory_participant.GetSheHe] vai pendurar lá em breve."
+ bp1_yearly.7053.a:0 "eu terei minha vingança."
+ bp1_yearly.7053.b:0 "devo tentar esquecer."
+ 
+ murder_memory_modifier:0 "memórias vingativas"
+ sex_memory_modifier:0 "Memórias luxuriosas"
+ 
+ bp1_yearly.7053.a.1:0 "Este esquema terá um bônus de chance de sucesso."
+ 
+ bp1_yearly.7054.t:0 "esquecendo"
+ bp1_yearly.7054.desc:0 ""[forgotten_memory.GetDescription]?" eu pergunto confuso.\nMinhas [memory_child.Custom('GetDaughterSon')] [memory_child.GetFirstName] está me olhando preocupado. "Of course! You've told this story many many times, don't you remember?"\nA verdade é que não me lembro. Os detalhes estão ficando mais confusos recentemente, mas talvez seja fraco confessar tanto."
+ bp1_yearly.7054.a:0 "Ah sim, meu erro."
+ bp1_yearly.7054.b:0 "Eu esqueço tanto esses dias."
+ 
+ bp1_yearly.7055.t:0 "Gravando uma Memória"
+ bp1_yearly.7055.desc.positive:0 "Alguns momentos devem ser registrados para sempre. o tempo que [recorded_memory.GetDescription] é um deles. Uma memória tão incrível deve ser preservada para sempre."
+ bp1_yearly.7055.desc.negative:0 "Alguns momentos devem ser registrados para sempre. o tempo que [recorded_memory.GetDescription] é um deles. Pode ser uma memória dolorosa, mas alguém tem que passá-la para a próxima geração."
+ bp1_yearly.7055.desc.neutral:1 "Alguns momentos devem ser registrados para sempre. o tempo que [recorded_memory.GetDescription] é um deles."
+ bp1_yearly.7055.desc.alone_poor_skill:0 "Posso não ser um bom escritor, mas com tempo e esforço certamente poderia escrever algo sozinho.\n\n"
+ bp1_yearly.7055.desc.alone_good_skill:0 "Meu domínio do [ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip] linguagem faria escrever isso uma questão trivial.\n\n"
+ bp1_yearly.7055.desc.blind:0 "Infelizmente, minha cegueira me impede de escrever qualquer coisa sozinho...\n\n"
+ bp1_yearly.7055.desc.poet:0 "meu poeta da corte, [poet.GetFirstName], pode ser de grande utilidade. [poet.GetHerHis|U] o domínio da prosa transformaria minhas palavras mundanas em arte."
+ bp1_yearly.7055.desc.friend:0 "Então, novamente, meu querido amigo [friend.GetFirstName] é muito melhor em escrever do que eu. Certamente [friend.GetSheHe] ajudaria se perguntado?"
+ 
+ bp1_yearly.7055.desc.ending:1 "No entanto, montar e ilustrar um tomo pode rapidamente se tornar um empreendimento caro...."
+ bp1_yearly.7055.poet:0 "O poeta [poet.GetFirstNameNoTooltip] vai anotar!"
+ bp1_yearly.7055.friend:0 "[friend.GetFirstNameNoTooltip] é um verdadeiro amigo."
+ bp1_yearly.7055.high_skill:0 "eu mesmo vou gravar."
+ bp1_yearly.7055.a:1 "eu mesmo vou gravar, [ROOT.Char.GetFaith.HighGodName] disposto."
+ bp1_yearly.7055.b:1 "Não há tempo para isso..."
+ 
+ recorded_memory_character:0 "uma memória de [memory_participant.GetTitledFirstNameNoTooltip]"
+ recorded_memory:1 "[ROOT.Char.GetTitledFirstNamePossessiveNoTooltip] Memória"
+ recorded_memory_desc:1 "Este tomo reconta a história de quando [recorded_memory.GetThirdPerspectiveDescription].\nComposto por [ROOT.Char.GetFirstName]."
+ 
+ bp1_yearly.7056.t:0 "Táticas de Intimidação"
+ bp1_yearly.7056.desc:1 "eu pego [intimidation_target.GetFirstName] até a masmorra, onde começo a me deliciar [intimidation_target.GetHerHim] com histórias de coisas terríveis que fiz para as pessoas que me cruzaram.\n\n"I'm sure you've heard about how [intimidation_memory.GetDescription]." eu digo [intimidation_target.GetHerHim] com prazer. "That was just #EMP the beginning.#!"\nEnquanto eu rio, [intimidation_target.GetFirstNamePossessiveNoTooltip] os olhos se arregalam de medo."
+ bp1_yearly.7056.a:1 "Não se preocupe, apenas faça o que eu digo e você ficará bem..."
+ bp1_yearly.7056.b:0 "Diga #EMP a todos#! sobre mim!"
+ 
+ bp1_yearly.7057.t:0 "êxtase religioso"
+ bp1_yearly.7057.desc:1 "estou sentado no [ROOT.Char.GetFaith.HouseOfWorship], meus pensamentos abandonando as palavras de [realm_priest.GetCouncilTitleFirstName] a favor do tempo [sex_memory.GetDescription]. Desde então, tenho pensado em [sex_partner.GetHerHim] Quase diariamente."
+ 
+ bp1_yearly.7057.desc.male:1 "\nInfelizmente, isso está tendo alguns efeitos colaterais bastante perceptíveis. Talvez se eu posicionar o [ROOT.Char.GetFaith.ReligiousText] certo, posso esconder esse problema crescente sem que ninguém perceba..."
+ 
+ bp1_yearly.7057.desc.female:0 "\nInfelizmente, isso está tendo algum... efeitos colaterais problemáticos."
+ bp1_yearly.7057.a:1 "[sex_partner.GetNameNoTooltip] #EMP must#! be mine..."
+ bp1_yearly.7057.b:1 "Banir esses pensamentos!"
+ bp1_yearly.7057.c:0 "Onde melhor para aliviar o estresse do que o [ROOT.Char.GetFaith.HouseOfWorship]?"
+ 
+ bp1_yearly.7057.a.tt:0 "Este esquema terá um bônus de chance de sucesso."
+ 
+ bp1_yearly.7058.t:0 "Catástrofe Provisória"
+ bp1_yearly.7058.desc:1 "O coro matinal de pássaros cantando me acompanha até o porão, a luz do amanhecer dando lugar à escuridão sombria iluminada apenas por lâmpadas crepitantes. Eu bocejo e me estico enquanto ando, meus pés pisando nas tábuas do assoalho.\nAssim que meus olhos se adaptam à falta de luz, uma tragédia culinária é revelada por eles: caroços de maçã, migalhas espalhadas, ossos limpos de sua carne. Em estado de choque, eu olho ao redor da sala inteira, mas em todos os lugares que meus olhos pousam, eles encontram ainda mais evidências..\nDe repente, no canto, um #EMP arroto suave e contente#!..."
+ bp1_yearly.7058.glutton:0 "Eu tenho mais comida! Vamos abrir o esconderijo secreto #EMP!#!"
+ bp1_yearly.7058.a:1 "Oh, você vai pagar isso de volta. E mais, se você tiver."
+ bp1_yearly.7058.b:0 "Se você gostou da adega, vai #EMP adorar#! a masmorra!"
+ bp1_yearly.7058.c:1 "#EMP *Suspiro*#! meu deleite... Eu acho..."
+ bp1_yearly.7030.t:0 "confortos carnais"
+ bp1_yearly.7030.desc:0 "[dead_friend_spouse.GetFirstName] foi devastado desde então [dead_friend_spouse.GetHerHis] [dead_friend.Custom('WifeHusband')] [dead_friend.GetFirstName] morreu. [dead_friend_spouse.GetSheHe|U] vem me visitar uma noite.\n\n"I feel so lonely." [dead_friend_spouse.GetSheHe] diz, olhando para mim com saudade. eu me lembro que [dead_friend.GetFirstNameNoTooltip] was my good friend. \n\n"You've been so comforting." [dead_friend_spouse.GetSheHe] diz, mordendo [dead_friend_spouse.GetHerHis] lábio sugestivamente. [dead_friend.GetFirstNameNoTooltip] era meu amigo.\n\n"I just want to feel something." [dead_friend_spouse.GetSheHe] sussurra, afrouxando os fechos na frente [dead_friend_spouse.GetHerHis] [dead_friend_spouse.Custom('GetUpperClothingArticle')]. [dead_friend.GetFirstNameNoTooltip] #EMP was#! my friend..."
+ bp1_yearly.7030.a:1 "tenho certeza que [dead_friend.GetFirstNameNoTooltip] aprovaria..."
+ bp1_yearly.7030.b:1 "Controle-se, [dead_friend_spouse.GetFirstNameNoTooltip]!"
+    
+ bp1_yearly.7100.t:0 "Aversão a Detestar"
+ bp1_yearly.7100.desc:0 "Em um momento eu estava desfrutando de um agradável passeio ao sol ao redor do [owned_county.GetName] e no próximo estou coberto de excrementos e chafurdando na lama. Uma vez que limpei furiosamente os excrementos do meu [ROOT.Char.Custom('EyeEyes')], Eu encontro o culpado com facilidade.\n\n"[potential_nemesis.GetTitledFirstName] sends [potential_nemesis.GetHerHis] regards!" O camponês pendurado na janela grita antes de fugir do local.\nPateticamente, eu tento lavar uma pele que eu particularmente aprecio em um riacho próximo, mas está claro que é impossível salvá-la.."
+ bp1_yearly.7100.a:0 "Agora é #EMPpessoal...#!"
+ bp1_yearly.7100.b:0 "vou me limpar em [potential_nemesis.GetHerHis] sangue!"
+ bp1_yearly.7100.c:0 "marque minhas palavras, [potential_nemesis.GetFirstNameNoTooltip]: esta pele será substituída."
+ bp1_yearly.7100.d:0 "A vingança está abaixo de mim..."
+ bp1_yearly.7100.c.tt:0 "[potential_nemesis.GetFirstNamePossessiveNoTooltip] amado gato estava vagando por aqui mais cedo..."
+ bp1_yearly.7100.e:0 "Vou guardar esta pele para... mais tarde."
+ focused_on_revenge_modifier:0 "Focado na vingança"
+ focused_on_revenge_modifier_desc:0 "Este personagem está focado exclusivamente na morte de seus rivais, ignorando muitas de suas responsabilidades."
+ vengeful_opinion:0 "Vingativo"

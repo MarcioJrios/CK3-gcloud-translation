@@ -1,0 +1,40 @@
+﻿l_english:
+ childhood_education.0004.t:0 "A inconstância da juventude"
+ childhood_education.0004.opening:0 "minha ala, [ward.GetTitledFirstName], mudou [ward.GetHerHis] foco de estudo.\n\n"
+ childhood_education.0004.desc1:0 "Pensar que [ward.GetSheHe] agora aspira a mergulhar na arte de [ward.Custom('education_focus_child')], um campo de estudo no qual me sobressaio... Isso aquece meu coração!"
+ childhood_education.0004.desc2:0 "Pensar que [ward.GetSheHe] abandonaria nosso interesse comum pela arte de [ROOT.Char.Custom('education_focus')]!"
+ childhood_education.0004.desc_fallback:0 "[ward.GetSheHe|U] agora busca conhecimento na arte de [ward.Custom('education_focus_child')]."
+ childhood_education.0004.a:0 "[ward.GetTitledFirstNameNoTooltip] agora está estudando [ward.Custom('education_focus_child')]!"
+
+ childhood_education.1011.t:0 "É Quem Eu Sou"
+ childhood_education.1011.desc:0 "[guardian.GetTitledFirstName] me ensinou muito sobre as formas de [guardian.GetHerHis] pessoas— de #EMP nosso#! pessoas, pois não apenas professo o [guardian.GetFaith.GetAdjective] fé, eu me vejo como totalmente [guardian.GetCulture.GetName]."
+ childhood_education.1011.a:0 "É a única maneira que eu desejo viver."
+
+ childhood_education.1012.t:0 "um dia abençoado"
+ childhood_education.1012.desc:0 "Com [ward.GetHerHis] educação permanente na fé e nas práticas do meu povo, [ward.GetTitledFirstName] me disse que [ward.GetSheHe] parece um bom, [guardian.GetFaith.GetAdjective] [guardian.GetCulture.GetName]."
+ childhood_education.1012.a:0 "Finalmente, [ward.GetSheHe] vê a luz!"
+
+ child_culture_and_faith_converted.parent.message:1 "Sua [ward.Custom('GetDaughterSon')] [ward.GetTitledFirstNamePossessive] crenças e cultura mudaram sob a tutela de [guardian.GetTitledFirstName]"
+
+ childhood_education.1021.t:0 "Na fé, verdade"
+ childhood_education.1021.desc:0 "[guardian.GetTitledFirstNamePossessive] tutela me ensinou muito, e eu sinto que entendo a verdadeira natureza do mundo.\nComo eu nunca duvidei disso [guardian.GetFaith.GetName] tinha todas as respostas?"
+ childhood_education.1021.a:0 "Eu encontrei minha verdadeira fé."
+
+ childhood_education.1022.t:0 "Na fé, verdade"
+ childhood_education.1022.desc:0 "Depois de todas as minhas palestras e toda a minha sabedoria compartilhada, meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('ward'))], [ward.GetTitledFirstName], finalmente abraçou a verdadeira fé.\neu sempre soube [ward.GetSheHe] daria um bom bocado [ROOT.Char.GetFaith.GetAdjective] um dia."
+ childhood_education.1022.a:1 "[ROOT.Char.GetFaith.KnowledgeGodName] guiou minha mão."
+
+ child_faith_converted.parent.message:1 "Sua [ward.Custom('GetDaughterSon')] [ward.GetTitledFirstNamePossessive] crenças mudaram sob a tutela de [guardian.GetTitledFirstName]"
+
+ childhood_education.1031.t:0 "Natureza e Criação"
+ childhood_education.1031.desc:0 "eu posso ter nascido [ward.GetCulture.GetName], mas não posso negar que não sei mais o que isso significa. Depois de [guardian.GetTitledFirstNamePossessive] tutela, eu sinto [guardian.GetCulture.GetName] por completo."
+ childhood_education.1031.a:0 "é quem eu sou."
+
+ childhood_education.1032.t:0 "Natureza e Criação"
+ childhood_education.1032.desc:0 "Após minha longa tutela de jovens [ward.GetTitledFirstName], Fiquei satisfeito sem fim quando [ward.GetSheHe] Me disse isso [ward.GetSheHe] considera [ward.GetHerselfHimself] [guardian.GetCulture.GetName]!"
+ childhood_education.1032.a:0 "E realmente [ward.GetSheHe] é!"
+
+ child_culture_converted.parent.message:1 "Sua [ward.Custom('GetDaughterSon')] [ward.GetTitledFirstNamePossessive] a cultura mudou sob a tutela de [guardian.GetTitledFirstName]"
+
+ childhood_education.9004.child_message:0 "[guardian.GetTitledFirstNamePossessiveNoTooltip] [GetPerk( 'pedagogy_perk' ).GetName( GetPlayer )]"
+ childhood_education.9004.guardian_message:1 "[GetPerk( 'pedagogy_perk' ).GetName( GetPlayer )]"

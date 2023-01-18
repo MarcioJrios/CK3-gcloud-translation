@@ -1,0 +1,123 @@
+﻿l_english:
+ judaism_religion:0 "judaísmo"
+ judaism_religion_adj:0 "judaico"
+ judaism_religion_adherent:0 "judeu"
+ judaism_religion_adherent_plural:0 "judeus"
+ judaism_religion_desc:0 "Uma vida boa é vivida de acordo com a aliança firmada entre o povo hebreu e o único e absoluto Deus."
+ judaism_high_god_name:0 "O Senhor"
+ judaism_high_god_name_2:0 "$judaism_high_god_name$" # Optional translation alt
+ judaism_high_god_name_3:0 "$judaism_high_god_name$" # Optional translation alt
+ judaism_high_god_name_possessive:0 "Os senhores"
+ judaism_high_god_alternate:0 "O Santo"
+ judaism_high_god_alternate_possessive:0 "O Santo"
+ judaism_good_god_hashem:0 "HaShem"
+ judaism_good_god_el_shaddai:0 "Adonai"
+ judaism_devil_name:0 "Baal"
+ judaism_devil_name_possessive:0 "baals"
+ judaism_evil_god_the_adversary:0 "o adversário"
+ judaism_house_of_worship:0 "sinagoga"
+ judaism_house_of_worship_2:0 "$judaism_house_of_worship$" # Optional translation alt
+ judaism_house_of_worship_3:0 "$judaism_house_of_worship$" # Optional translation alt
+ judaism_house_of_worship_plural:0 "sinagogas"
+ judaism_religious_symbol:0 "menorá"
+ judaism_religious_symbol_2:0 "$judaism_religious_symbol$" # Optional translation alt
+ judaism_religious_symbol_3:0 "$judaism_religious_symbol$" # Optional translation alt
+ judaism_religious_text:1 "Torá"
+ judaism_religious_text_2:0 "$judaism_religious_text$" # Optional translation alt
+ judaism_religious_text_3:0 "$judaism_religious_text$" # Optional translation alt
+ judaism_religious_head_title:1 "nasi"
+ judaism_religious_head_title_name:0 "Kohen Gadol"
+ judaism_devotee:0 "nazir"
+ judaism_devotee_plural:0 "nazistas"
+ judaism_priest:0 "rabino"
+ judaism_priest_plural:0 "rabinos"
+ judaism_bishop:0 "semuchim"
+ judaism_bishop_plural:0 "semuchim"
+ judaism_divine_realm:0 "Araboth"
+ judaism_divine_realm_2:0 "$judaism_divine_realm$" # Optional translation alt
+ judaism_divine_realm_3:0 "$judaism_divine_realm$" # Optional translation alt
+ judaism_positive_afterlife:0 "Olam Haba"
+ judaism_positive_afterlife_2:0 "$judaism_positive_afterlife$" # Optional translation alt
+ judaism_positive_afterlife_3:0 "$judaism_positive_afterlife$" # Optional translation alt
+ judaism_negative_afterlife:0 "Sheol"
+ judaism_negative_afterlife_2:0 "$judaism_negative_afterlife$" # Optional translation alt
+ judaism_negative_afterlife_3:0 "$judaism_negative_afterlife$" # Optional translation alt
+ judaism_death_deity_name:0 "O anjo da morte"
+ judaism_death_deity_name_possessive:0 "O anjo da morte"
+ judaism_witchgodname_raziel:0 "Raziel"
+ judaism_witchgodname_raziel_possessive:0 "de Raziel"
+
+ judaism_creator_god_name:0 "$judaism_high_god_name$"
+ judaism_creator_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_health_god_name:0 "$judaism_high_god_name$"
+ judaism_health_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_fertility_god_name:0 "$judaism_high_god_name$"
+ judaism_fertility_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_wealth_god_name:0 "$judaism_high_god_name$"
+ judaism_wealth_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_household_god_name:0 "$judaism_high_god_name$"
+ judaism_household_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_fate_god_name:0 "$judaism_high_god_name$"
+ judaism_fate_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_knowledge_god_name:0 "$judaism_high_god_name$"
+ judaism_knowledge_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_war_god_name:0 "$judaism_high_god_name$"
+ judaism_war_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_trickster_god_name:0 "$christianity_trickster_god_name$"
+ judaism_trickster_god_name_possessive:0 "$christianity_trickster_god_name_possessive$"
+ judaism_night_god_name:0 "$judaism_high_god_name$"
+ judaism_night_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_water_god_name:0 "$judaism_high_god_name$"
+ judaism_water_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+
+ #Rabbinism
+ rabbinism:0 "rabinismo"
+ rabbinism_adj:0 "rabínico"
+ rabbinism_adherent:0 "rabinista"
+ rabbinism_adherent_plural:0 "Rabinistas"
+ rabbinism_desc:0 "O rabinismo enfatiza o propósito dos rabinos como intérpretes da lei religiosa da Halakha. Leis e tradições é o que garante que o convênio com o Senhor seja mantido, e os rabinos guardam essas leis."
+
+ #Karaite
+ karaism:0 "Karaism"
+ karaism_adj:0 "caraíta"
+ karaism_adherent:0 "caraíta"
+ karaism_adherent_plural:0 "caraítas"
+ karaism_desc:0 "Nas questões de lei religiosa, somente o Tanakh é a mais alta e absoluta autoridade. O papel dos rabinos não é reavaliar e adaptar as regras da aliança, mas interpretar seu significado literal."
+
+ #Haymanot
+ haymanot:0 "Haymanot"
+ haymanot_adj:0 "Haymanot"
+ haymanot_adherent:0 "Haymanot"
+ haymanot_adherent_plural:0 "Haymanot"
+ haymanot_desc:0 "Os rabinos, ou kahen, julgam em questões de lei religiosa, mas trabalham em conjunto com um círculo de anciãos que julgam em questões de tradição e vida.."
+ haymanot_religious_text:0 "Orit"
+ haymanot_religious_text_2:0 "$haymanot_religious_text$" # Optional translation alt
+ haymanot_religious_text_3:0 "$haymanot_religious_text$" # Optional translation alt
+ haymanot_religious_head_title:0 "Liqa Kahnet"
+ haymanot_devotee:0 "Monkosa"
+ haymanot_devotee_plural:0 "Monkosas"
+ haymanot_priest:0 "Kahen"
+ haymanot_priest_plural:0 "Kahens"
+ haymanot_bishop:0 "Shmagle"
+ haymanot_bishop_plural:0 "Shmagles"
+
+ #Malabar
+ malabarism:0 "malabarismo"
+ malabarism_adj:0 "Malabari"
+ malabarism_adherent:0 "Malabari"
+ malabarism_adherent_plural:0 "Malabari"
+ malabarism_desc:1 "À medida que os descendentes das tribos de Israel se espalharam pelo mundo, eles construíram comunidades menores de oeste a leste, agindo como tribos próprias. Também chamados de judeus de Cochin, eles fizeram seu novo lar no Reino de Cochin, no sul da Índia. Lá, eles se misturaram com a população local e trocaram culturas."
+
+ #Samaritan
+ samaritan:0 "samaritanismo"
+ samaritan_adj:0 "samaritano"
+ samaritan_adherent:0 "samaritano"
+ samaritan_adherent_plural:0 "samaritanos"
+ samaritan_desc:0 "Descendentes das tribos que se estabeleceram em Samaria, os samaritanos seguem uma versão original e inalterada da Torá. Dessa forma, eles estão praticando a verdadeira religião de Moisés, servindo aos deveres diretos concedidos por Deus.."
+
+ #Kabarism
+ kabarism:1 "Kuzarismo"
+ kabarism_adj:1 "Kuzarita"
+ kabarism_adherent:1 "Kuzari"
+ kabarism_adherent_plural:1 "Kuzaris"
+ kabarism_desc:1 "Os Kuzaris enfatizam a interpretação comum e correta da Halakha, em conjunto com as tradições Khazar e o folclore local."

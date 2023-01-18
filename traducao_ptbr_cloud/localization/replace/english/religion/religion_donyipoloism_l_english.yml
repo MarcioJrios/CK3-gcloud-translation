@@ -1,0 +1,116 @@
+﻿l_english:
+ #Tanism
+ tani_religion:0 "Tanismo"
+ tani_religion_adj:0 "Tani"
+ tani_religion_adherent:0 "Tanista"
+ tani_religion_adherent_plural:0 "Tanistas"
+ tani_religion_desc:1 "A religião dos Tani Lhoba e seus vizinhos se concentra em torno de uma dualidade de divindades naturais que são adoradas como o Ser Supremo. Para os Tani, essas duas divindades são Donyi, a deusa do sol, e Pólo, o deus da lua.."
+ tani_high_god_name:0 "Donyi-Polo"
+ tani_high_god_name_2:0 "$tani_high_god_name$" # Optional translation alt
+ tani_high_god_name_possessive:0 "Donyi-Polo's"
+ tani_high_god_shehe:0 "Elas"
+ tani_high_god_herselfhimself:0 "eles mesmos"
+ tani_high_god_herhis:0 "Deles"
+ tani_high_god_name_alternate:0 "Os Olhos Supremos"
+ tani_high_god_name_alternate_possessive:0 "The Supreme Eyes'"
+ tani_good_god_donyi:0 "Donyi"
+ tani_good_god_polo:0 "Polo"
+ tani_good_god_sedi:0 "sedi"
+ tani_good_god_melo:0 "melo"
+ tani_good_god_sidi:0 "Sidi"
+ tani_good_god_kine_nane:0 "Kine Nane"
+ tani_good_god_doying_bote:0 "Doying Bote"
+ tani_good_god_pedong_nane:0 "Pedong Nane"
+ tani_good_god_guumin_soyin:0 "Guumin Soyin"
+ tani_good_god_abotani:0 "Abotani"
+ tani_house_of_worship:0 "gangging"
+ tani_house_of_worship_2:0 "$tani_house_of_worship$" # Optional translation alt
+ tani_house_of_worship_3:0 "$tani_house_of_worship$" # Optional translation alt
+ tani_house_of_worship_plural:0 "gangues"
+ tani_religious_symbol:0 "Donyi" #lit. Sun, symbolized by a radiant sun
+ tani_religious_symbol_2:0 "$tani_religious_symbol$" # Optional translation alt
+ tani_religious_symbol_3:0 "$tani_religious_symbol$" # Optional translation alt
+ tani_religious_text:0 "Donyi-Polo" #Sun-Moon deitiy pair synonymous with the concepts of truth and wisdom
+ tani_religious_text_2:0 "$tani_religious_text$" # Optional translation alt
+ tani_religious_text_3:0 "$tani_religious_text$" # Optional translation alt
+ tani_religious_head_title:0 "Abu Miri"
+ tani_religious_head_title_name:0 "Abu Miriate"
+ tani_devotee_male:0 "vem"
+ tani_devotee_male_plural:0 "vem"
+ tani_devotee_female:0 "vem"
+ tani_devotee_female_plural:0 "vem"
+ tani_devotee_neuter:0 "vem"
+ tani_devotee_neuter_plural:0 "vem"
+ tani_priest:0 "Abu"
+ tani_priest_plural:0 "um ônibus"
+ tani_priest_term_plural:0 "Abu"
+ tani_bishop:0 "miri"
+ tani_bishop_plural:0 "miri"
+ tani_divine_realm:0 "Gangging Siring"
+ tani_divine_realm_2:0 "$tani_divine_realm$" # Optional translation alt
+ tani_divine_realm_3:0 "$tani_divine_realm$" # Optional translation alt
+ tani_positive_afterlife:0 "Gangging Siring"
+ tani_positive_afterlife_2:0 "$tani_positive_afterlife$" # Optional translation alt
+ tani_positive_afterlife_3:0 "$tani_positive_afterlife$" # Optional translation alt
+
+ tani_creator_god_name:0 "sedi"
+ tani_creator_god_name_possessive:0 "Sedi's"
+ tani_health_god_name:0 "$tani_high_god_name$"
+ tani_health_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_fertility_god_name:0 "$tani_high_god_name$"
+ tani_fertility_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_wealth_god_name:0 "$tani_high_god_name$"
+ tani_wealth_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_household_god_name:0 "Abotani"
+ tani_household_god_name_possessive:0 "Abotani's"
+ tani_fate_god_name:0 "$tani_high_god_name$"
+ tani_fate_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_knowledge_god_name:0 "$tani_high_god_name$"
+ tani_knowledge_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_war_god_name:0 "$tani_high_god_name$"
+ tani_war_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_trickster_god_name:0 "$tani_household_god_name$"
+ tani_trickster_god_name_possessive:0 "$tani_household_god_name_possessive$"
+ tani_night_god_name:0 "$tani_high_god_name$"
+ tani_night_god_name_possessive:0 "$tani_high_god_name_possessive$"
+ tani_water_god_name:0 "$tani_high_god_name$"
+ tani_water_god_name_possessive:0 "$tani_high_god_name_possessive$"
+
+ #Donyi-Poloism
+ donyipoloism:0 "Donyi-Poloismo"
+ donyipoloism_adj:0 "Donyi-Poloist"
+ donyipoloism_adherent:0 "Donyi-Polo Ome"
+ donyipoloism_adherent_plural:0 "Donyi-Polo Ome"
+ donyipoloism_desc:0 "Donyi-Poloísmo é a principal forma da religião Tani Lhoba que adora as divindades duplas do Sol-Lua que são os olhos do deus criador Sedi como o Ser Supremo."
+ 
+ donyipoloism_old:0 "Velho Donyi-Poloísmo"
+ donyipoloism_old_adj:0 "Old Donyi-Poloist"
+ donyipoloism_old_adherent:0 "Velho Donyi-Polo Ome"
+ donyipoloism_old_adherent_plural:0 "Velho Donyi-Polo Ome"
+
+ #Sedism
+ sedism:0 "sedismo"
+ sedism_adj:0 "sedista"
+ sedism_adherent:0 "Sedi Ome"
+ sedism_adherent_plural:0 "Sedi Ome"
+ sedism_desc:0 "O sedismo é uma forma da religião Tani Lhoba que adora o deus criador Sedi como o Ser Supremo."
+ 
+ sedism_old:0 "Velho Sedismo"
+ sedism_old_adj:0 "velho sedista"
+ sedism_old_adherent:0 "Velho Sedi Ome"
+ sedism_old_adherent_plural:0 "Velho sedi Ome"
+ 
+ sedism_high_god_name:1 "Sedi"
+ sedism_high_god_name_2:0 "$sedism_high_god_name$" # Optional translation alt
+ sedism_high_god_name_possessive:1 "Sedi's"
+ sedism_high_god_shehe:0 "Ele"
+ sedism_high_god_herselfhimself:0 "Ele mesmo"
+ sedism_high_god_herhis:0 "Seu"
+ sedism_high_god_name_alternate:0 "O Supremo"
+ sedism_high_god_name_alternate_possessive:0 "A do Supremo"
+ sedism_health_god_name:0 "$sedism_high_god_name$"
+ sedism_health_god_name_possessive:0 "$sedism_high_god_name_possessive$"
+ sedism_wealth_god_name:0 "$sedism_high_god_name$"
+ sedism_wealth_god_name_possessive:0 "$sedism_high_god_name_possessive$"
+ sedism_war_god_name:0 "$tani_household_god_name$"
+ sedism_war_god_name_possessive:0 "$tani_household_god_name_possessive$"

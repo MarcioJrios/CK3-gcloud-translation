@@ -1,0 +1,131 @@
+﻿l_english:
+
+# Reclaiming Britannia, by Linnéa Thimrén
+ british_isles.0001.t:0 "[reclaimer.GetCulture.GetNameNoTooltip|U] Britânia"
+ british_isles.0001.desc:0 "Por muito tempo esta nossa grande ilha esteve sob domínio estrangeiro - finalmente ela está de volta nas mãos dos celtas! Olho para os campos e é como se o sol brilhasse pela primeira vez em anos; é como se a terra da abundância e da saúde, Tír na nÓg, tivesse retornado para nos dar as boas-vindas. As colinas e vales de nossos ancestrais são mais uma vez abraçados por [ROOT.Char.GetCulture] cultura."
+ british_isles.0001.custom:0 "Todos [counties|E] na Britânia"
+ british_isles.0001.a:0 "Louvados sejam os antepassados!"
+
+ british_isles.0002.desc:0 "o [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('reclaimer'))] [reclaimer.GetName] has officially announced the rebirth of a Celtic Britannia. \nApós séculos de domínio estrangeiro, as ilhas voltaram ao controle de seus proprietários originais."
+ british_isles.0002.a:0 "UMA [reclaimer.GetCulture.GetNameNoTooltip] flagelo sobre as terras..."
+ british_isles.0002.b:0 "Britannia é nossa mais uma vez!"
+
+# Restoring the Danelaw, by Linnéa Thimrén
+ british_isles.1001.t:0 "As Leis Restauradas"
+ british_isles.1001.desc:0 "O Danelaw renasce por meus esforços; este reino mais uma vez saberá [restorer.GetCulture.GetName] regra!\nEstou seguindo os passos de lendas como Guðrum e Eric Bloodaxe, antigos campeões, e por [restorer.GetFaith.WarGodName], Eu não vou deixar o reino cair nas mãos dos anglo-saxões nunca mais!"
+ british_isles.1001.a:0 "Uma nova era amanhece!"
+
+ british_isles.1002.t:0 "o Danelaw"
+ british_isles.1002.desc_same_culture:0 "O Danelaw renasce graças aos esforços de [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('restorer'))] [restorer.GetName]! Mais uma vez, a grande ilha está sob [restorer.GetCulture.GetName] regra."
+ british_isles.1002.desc:0 "o [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('restorer'))] [restorer.GetName] e [restorer.GetHerHis] invasores vis esculpiram um novo reino nas Ilhas e o proclamaram Reino dos Danelaw renascidos.\nResta saber se esta tentativa de restaurar [restorer.GetCulture.GetName] regra sobre a Inglaterra será mais bem sucedido do que o último..."
+ british_isles.1002.a:0 "UMA [restorer.GetCulture.GetNameNoTooltip] flagelo sobre a terra."
+ british_isles.1002.b:0 "Uma vitória para o [restorer.GetCulture.GetNameNoTooltip]!"
+ british_isles.1002.c:0 "hum, [restorer.GetCulture.GetNameNoTooltip] você diz? Inscreva-me!"
+
+# Embrace English Culture, by Linnéa Thimrén
+ british_isles.2001.t:0 "[embracer_former_culture.GetNameNoTooltip|U] não mais"
+ british_isles.2001.desc:0 "A hora em que nós [embracer.GetCulture.GetCollectiveNounNoTooltip] considerada a França, nossa pátria, há muito passou. Nossos filhos nasceram aqui, cercados por saxões, e para eles, a Normandia será apenas uma linha borrada além das costas enevoadas da Britânia..\nE, à medida que adotamos alguns dos costumes locais, também o legado de nossa cultura se espalha pelas terras saxônicas, dando origem a uma nova identidade inglesa."
+ british_isles.2001.a:0 "Viva o inglês!"
+
+ british_isles.2002.desc:0 "o [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassalos, e [embracer.GetHerHis] toda a família atendeu ao chamado de Albion e abraçou a cultura inglesa."
+ british_isles.2002.a:0 "Era apenas uma questão de tempo."
+ british_isles.2002.b:0 "traidores!"
+
+# Request Laudabiliter, by Flavio Verna
+ british_isles.3001.t:0 "Louvavelmente declaramos,"
+ british_isles.3001.desc:0 "Your desire to extend the sacred dominion of the Universal Church to the barbarous tribes of Ireland is a pious and righteous cause. As such, the Holy Roman Church commands that you take possession of this island and therein execute God's Will. \nSe você falecesse por algum infortúnio antes do final desta campanha sagrada, estendemos este mandato sagrado a seus legítimos sucessores. casa de maio [scoped_ruler.GetHouse.GetBaseNameNoTooltip] levar este santo esforço em perpetuidade, até que a vontade divina tenha sido realizada e a Irlanda esteja unida sob [scoped_ruler.GetCulture.GetNameNoTooltip] regra."
+ british_isles.3001.a:0 "Prepare nossa frota!"
+ british_isles.3002.t:0 "A Reivindicação da Irlanda"
+ british_isles.3002.desc.irish:0 "por graça de [scoped_pope.GetHerHis|U] Santidade [scoped_pope.GetFirstName], Vigário de Cristo e herdeiro do trono de São Pedro, [scoped_ruler.GetFullName] recebeu o direito de governo divino sobre o Eire e todas as tribos nele.\nQualquer lorde irlandês que desobedecer à ordem papal e se recusar a se submeter enfrentará a ira de [scoped_ruler.GetTitledFirstName], [scoped_ruler.GetHerHis] [scoped_ruler.GetCulture.GetName] exércitos, e Deus Todo-Poderoso."
+ british_isles.3002.a:0 "vamos ver sobre isso!"
+ british_isles.3002.b:0 "Eu vejo..."
+
+# Refound Dumnonia, by Ewan Cowhig Croft
+ british_isles.4001.t:0 "[founder.GetPrimaryTitle.GetAdjectiveNoTooltip] Reino Restaurado"
+ british_isles.4001.desc:0 "[founder.GetPrimaryTitle.GetNameNoTierNoTooltip] não gosta de invasores, de qualquer tipo. Durante séculos, lutamos contra eles, lutando para recuperar nosso lar. Com grande astúcia e habilidade, finalmente consegui recuperar as terras da antiga Dumnônia, refundando o Reino de [founder.GetPrimaryTitle.GetNameNoTierNoTooltip].\nA ameaça estrangeira foi resistida, o fim da velha Britannia sobreviveu e agora estou pronto para enfrentar quaisquer novos desafios [founder.GetFaith.DevilName] pode atirar em nós. Venha o que vier, [founder.GetPrimaryTitle.GetNameNoTierNoTooltip] deve suportar."
+ british_isles.4001.a:0 "Eu sou como Corineus renascido!"
+ british_isles.4001.b:0 "Meu reino é o único título que importa."
+ british_isles.4002.desc:0 "Depois de séculos de luta, [founder.GetFullName] restaurou o antigo reino de Dumnônia, chamado [founder.GetPrimaryTitle.GetNameNoTier] por seus habitantes, e expulsaram os invasores estrangeiros de sua ilha.\nEmbora seja improvável que os outros senhores das Ilhas Britânicas aceitem que esse poder arrivista infrinja o que eles veem como suas terras ancestrais, o [founder.GetPrimaryTitle.GetAdjective] as pessoas resistiram a invasões piores do que qualquer coisa que esta era moderna possa reunir. Eles já se preparam para resistir à inevitável retaliação cruel..."
+ british_isles.4002.a:0 "Onen hag oll!"
+ british_isles.4002.b:1 "Vamos empurrá-los de volta para Land's End."
+ british_isles.4002.c:0 "Reinos menores vêm e vão."
+
+
+ british_isles.1011.t:0 "Uma pechincha impensável"
+ british_isles.1011.nord:0 "$k_england$ é uma terra difícil, mas abundante: os invernos são amenos e os verões úmidos, um lugar perfeito para colonos e guerreiros prosperarem.\nNo entanto, a competição de outros nórdicos e a resistência das políticas nativas remanescentes ficam mais ferozes a cada ano. Estamos todos lutando por um ponto de apoio, arrancando nossos próprios pequenos feudos e mesquinhos [ntd_actor.Custom('QueenKing')]doms, incapazes de obter domínio verdadeiro."
+ british_isles.1011.brit:0 "A cada ano, as depredações nórdicas pioram. Eles enviam mais colonos, saqueiam mais ao longo de nossas costas e massacram mais de nosso clero..\nApesar disso, unir-se contra a ameaça estrangeira é difícil. Entre os conquistadores nórdicos e o amargo orgulho dos $anglo_saxon$ Senhores, parece que nunca teremos um [ntd_actor.Custom('QueenKing')] de $k_england$."
+ british_isles.1011.outro:0 "\nmeu inimigo [ntd_recipient.GetTitledFirstName] é o principal entre meus candidatos ao governo da terra. Se [ntd_recipient.GetSheHe] concordasse com a #partição EMP#! o país, em vez de competir por ele, poucos poderiam contradizer nosso poderio combinado..."
+ british_isles.1011.a:0 "Hum. Envie a carta."
+ british_isles.1011.a.tt:0 ""
+ british_isles.1011.b:0 "A carta, e uma mão aberta de amizade."
+ british_isles.1011.b.above_applies.tt:0 "#BOL Todos os efeitos do negócio acima se aplicam.#!"
+ british_isles.1011.b.offer_faith.tt:0 "Você também se oferece para compartilhar seu [faith|E] e tornar-se [friends|E]"
+ british_isles.1011.c:0 "A diplomacia é a saída do covarde!"
+ british_isles.1011.c.tt:0 ""
+
+ british_isles.1021.t:0 "$british_isles.1011.t$"
+ british_isles.1021.intro:0 "[ntd_actor.GetTitledFirstName] é, talvez, minha maior competição pelo governo do $k_england$.\nAssim, uma carta em [ntd_actor.GetHerHis] caligrafia e com [ntd_actor.GetHerHis] oferta de selo para dividir o reino comigo é a última coisa que eu esperava hoje.\n\n"
+ british_isles.1021.nord:0 "Meu inimigo me oferece reconhecimento e apoio ao autogoverno nórdico, e uma [ntd_recipient.Custom('QueenKing')]meu próprio domínio, igual em posição a [ntd_actor.GetHerHis]. As terras onde eu ou aqueles da minha espécie governam cairiam sob #EMP my#! jurisdição."
+ british_isles.1021.brit:0 "Meu inimigo me oferece reconhecimento como [ntd_recipient.Custom('QueenKing')] de $k_england$, se ao menos eu concordar em apoiar o autogoverno nórdico e [ntd_actor.GetHerHis] posição igual em territórios onde [ntd_actor.GetSheHe] já possui terras."
+ british_isles.1021.outro:0 "\nDevo admitir, o pensamento de uma coroa real no topo da minha testa é... intrigante."
+ british_isles.1021.a:0 "Uma coroa que ninguém pode negar, você diz?"
+ british_isles.1021.a.accepted:0 "A barganha é aceita"
+ british_isles.1021.a.accepted.tt:0 "Você e [ntd_recipient.GetTitledFirstNameNoTooltip] dividir o Reino entre vocês"
+ british_isles.1021.b:0 "Possivelmente... talvez seja #EMP #! Hora de mudar..."
+ british_isles.1021.b.above_applies.tt:0 "$british_isles.1011.b.above_applies.tt$"
+ british_isles.1021.b.accepted.critical:0 "A barganha #EMP e#! Amizade é aceita"
+ british_isles.1021.b.accepted.critical.tt:0 "$british_isles.1021.a.accepted.tt$"
+ british_isles.1021.c:0 "Que podridão! Deixe todo o mundo ver [ntd_actor.GetHerHis] covardia!"
+ british_isles.1021.c.rejected:0 "A negociação é rejeitada"
+ british_isles.1021.c.rejected.tt:0 "Todo o mundo sabe de sua perfídia"
+ british_isles.1021.invalidation.t:0 "Sua negociação foi invalidada"
+ british_isles.1021.invalidation.tt:0 "Pode ser proposto novamente através da interface Decisões"
+
+ negotiate_the_danelaw_each_way_effect.accepted:0 "Se a barganha for aceita"
+ negotiate_the_danelaw_each-way_effect.rejected:0 "Se a barganha for rejeitada"
+ negotiate_the_danelaw_accept_effect.partition_active.tt:0 "$k_england$ e $k_danelaw_article$$k_danelaw$ são ser [de_jure_partitioned|E]"
+ negotiate_the_danelaw_accept_effect.de_jure_holdings_recognised.tt:0 "Todos $k_england_adj$ [duchies|E] que [ntd_nord.GetTitledFirstName] detém pelo menos um [county|E] em se tornar [de_jure|E] parte de $k_danelaw_article$$k_danelaw$"
+ negotiate_the_danelaw_accept_effect.independent_holdings_recognised.tt:0 "Tudo independente $k_england_adj$ [duchies|E] com um $north_germanic_group$-[culture|E] ou $germanic_religion$-[faith|E] [ruler|E] vir a ser [de_jure|E] parte de $k_danelaw_article$$k_danelaw$"
+ negotiate_the_danelaw_accept_effect.riled_independents_list:0 "Todos os governantes independentes dentro $k_england$"
+ TRUCE_SIGNED_PARTITION:1 "Trégua assinada como parte da partição do reino"
+
+ resolve_danelaw_partition_effect.adjust_de_jures.tt:0 "Todos [de_jure|E] partes de $k_danelaw_article$$k_danelaw$ está [de_jure_drift_drifted|E] em $k_england$"
+ resolve_danelaw_partition_effect.coa_changed.tt:0 "$k_england$ usará $k_danelaw_article$$k_danelaw$ Brazão"
+ resolve_danelaw_partition_effect.all_claimants:0 "Todos os Requerentes"
+
+ formalise_the_daneland_effect.partition_status.tt:0 "$k_england$ e $k_danelaw_article$$k_danelaw$ não são mais considerados [de_jure_partitioned|E]"
+ formalise_the_daneland_effect.adjust_de_jures.tt:0 "Todos [de_jure|E] partes de $k_danelaw_article$$k_danelaw$ está [de_jure_drift_drifted|E] em $k_daneland$"
+ formalise_the_daneland_effect.all_claimants:0 "Todos os Requerentes"
+
+ british_isles.1022.t:0 "$british_isles.1011.t$"
+ british_isles.1022.desc:0 "Em uma tentativa de solidificar seu próprio poder pessoal, parece [ntd_actor.GetTitledFirstName] e [ntd_recipient.GetTitledFirstName] assinaram um tratado diabólico, dividindo o reino de $k_england$ entre eles!\nDoravante, as áreas atualmente sob controle nórdico estarão sujeitas a $k_danelaw_article$$k_danelaw$, enquanto os estados nativos restantes são reconhecidos como $k_england_adj$ território."
+ british_isles.1022.a:0 "Que traição descarada ao seu país[dummy_gender.GetWomenMen] é isto?"
+ british_isles.1022.a.tt:0 "$k_england$ e $k_danelaw_article$$k_danelaw$ são ser [de_jure_partitioned|E]"
+
+ british_isles.1051.t:0 "um unido [partition_winner.GetTierAsNameNoTooltip]"
+ british_isles.1051.desc:0 "Finalmente, ninguém pode contestar minha regra como o #EMP true#! [victor.GetTitleAsNameNoTooltip] de [england.GetNameNoTierNoTooltip]. Com o estado pretendente resolvido, minha hegemonia final sobre toda a Britannia está praticamente garantida.."
+ british_isles.1051.a:0 "Um reino, um [victor.GetTitleAsNameNoTooltip]!"
+ british_isles.1051.a.tt:0 "o [de_jure_partition|E] entre $k_england$ e $k_danelaw_article$$k_danelaw$ eu enviei"
+
+ british_isles.1052.t:0 "$british_isles.1051.t$"
+ british_isles.1052.desc:0 "[loser.GetFaith.FateGodName|U] pregou uma peça cruel em mim neste dia, entregando uma vitória decisiva para [victor.GetTitledFirstName] na batalha por $k_england$.\nEmbora eu não possa mais reivindicar o domínio das terras que já governava, este assunto não está resolvido enquanto minha linhagem ainda respirar.."
+ british_isles.1052.a:0 "Aí vai #EMP#! ser um acerto de contas para este leve."
+ british_isles.1052.a.tt:0 "$british_isles.1051.a.tt$"
+
+ british_isles.1053.t:0 "$british_isles.1051.t$"
+ british_isles.1053.desc:0 "Assuntos recentes deixaram [victor.GetTitledFirstName] como o único candidato sério ao $k_england_adj$ trono. Embora nem todos ainda se curvem de bom grado ao monarca exultante, pode-se pelo menos dizer que $k_england$ é, em espírito, inteiro novamente."
+ british_isles.1053.a:0 "Estabilidade para $k_england$ Finalmente?"
+ british_isles.1053.a.tt:0 "$british_isles.1051.a.tt$"
+
+ british_isles.1061.t:0 "Lei da Terra"
+ british_isles.1061.desc:0 "Já se passaram muitos anos desde que os escandinavos chegaram a essas praias abundantes. Muitos anos de derramamento de sangue, violência e confronto de temperamentos, mas também de troca, desenvolvimento e fusão.\nOs descendentes daqueles colonos iniciais não são mais verdadeiramente nórdicos, nem os locais são os mesmos $anglo_saxon_collective_noun$ eles eram quando os escandinavos chegaram.\nQuem somos agora é, talvez, difícil de dizer.\nSalve que somos todos os que vieram antes de nós, maus e bons, e que nossa história será $k_daneland_adj$ de agora em diante."
+ british_isles.1061.a:0 "Vamos escrevê-lo juntos."
+
+ british_isles.1062.t:0 "$british_isles.1061.t$"
+ british_isles.1062.desc:0 "Aquele vira-lata! Aquele miserável! Que [founder.Custom('InsultAdjective')], [founder.Custom('InsultAdjective')] #EMP [founder.Custom('InsultNoun')]!#!\nEmbora os reinos de $k_england$ e $k_danelaw_article$$k_danelaw$ foram particionados por muito tempo, #EMP everyone#! sabia que, algum dia, eles teriam se reencontrado.\nAté hoje.\nEm uma grande e pomposa declaração, [founder.GetTitledFirstName] renunciou formalmente a qualquer reivindicação de controle sobre $k_england$, e, por procuração, removeu qualquer esperança de facilmente reunir meu reino com as terras de $k_danelaw_article$$k_danelaw$!"
+ british_isles.1062.a:0 "[founder.GetHerHis|U] solo era $k_england_adj$ uma vez, e #EMP irá#! ser $k_england_adj$ novamente."
+
+ british_isles.1063.t:0 "$british_isles.1061.t$"
+ british_isles.1063.desc:0 "For years now, $k_england$ foi dividida entre as terras de [england.GetTitledFirstName], e [founder.GetTitledFirstName]. Embora ambos nominalmente iguais em posição, o entendimento tácito sempre foi que cada reino deseja eliminar o outro e elevar seu monarca como o único governante de um reino unido. $k_england$.\nNão mais.\nDe forma dramática, [founder.GetTitledFirstNameNoTooltip] anunciou que [founder.GetSheHe] está cedendo qualquer reivindicação de domínio sobre o resto do reino, e que [founder.GetSheHe] doravante governará um reino independente e soberano."
+ british_isles.1063.a:0 "Talvez isso acalme alguns ânimos..."
+ british_isles.1063.a.tt:0 "$british_isles.1051.a.tt$"

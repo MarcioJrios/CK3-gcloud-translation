@@ -1,0 +1,14 @@
+﻿l_english:
+ claim_my_throne_success_discovered_opinion:0 "Requerente falso"
+ claim_my_throne_success_undiscovered_opinion:0 "requerente repentino"
+ claim_my_throne_failure_opinion:0 "Tentativa de falsificação de alegação"
+
+ claim_throne_aiding_liege_opinion:0 "me ajudando"
+
+ claim_throne_bought_support_opinion:0 "Comprei meu suporte"
+
+ claim_throne_self_declared_opinion:0 "governante autodeclarado"
+
+ claim_throne_tricked_peasants_opinion:0 "enganou os camponeses"
+
+ claim_throne_forged_letter_opinion:0 "enganou os nobres"
