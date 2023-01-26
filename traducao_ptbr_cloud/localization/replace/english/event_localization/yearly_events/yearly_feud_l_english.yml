@@ -7,7 +7,7 @@
  bp1_yearly.6000.a.tt:0 "Tentar convencer [rivals_child.GetFirstNameNoTooltip] deixar"
  bp1_yearly.6000.a.success:0 "você convence [rivals_child.GetFirstName] a recuar"
  bp1_yearly.6000.a.failure:0 "[rivals_child.GetFirstName] acha sua condescendência humilhante"
- bp1_yearly.6000.b.tt:0 "#V duelo#! [rivals_child.GetFirstNameNoTooltip] ensinar [rivals_child.GetHerHim] [rivals_child.GetHerHis] Lugar, colocar!\n#fraco Este duelo pode levar à morte.#!Se você ganhar, você vai ganhar [prestige_i] [prestige|E]\nSua [prowess|E]: [prowess_i]#V [SCOPE.GetRootScope.GetCharacter.GetProwess]#!\n[rivals_child.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [rivals_child.GetProwess]#!"
+ bp1_yearly.6000.b.tt:0 "#V duelo#! [rivals_child.GetFirstNameNoTooltip] ensinar [rivals_child.GetHerHim] [rivals_child.GetHerHis] Lugar, colocar!\n#weak Este duelo pode levar à morte.#!Se você ganhar, você vai ganhar [prestige_i] [prestige|E]\nSua [prowess|E]: [prowess_i]#V [SCOPE.GetRootScope.GetCharacter.GetProwess]#!\n[rivals_child.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [rivals_child.GetProwess]#!"
  bp1_yearly.6001.victory_toast:0 "[rivals_child.GetFirstName] foi derrotado e enviado [rivals_child.GetHerHis] maneira"
  bp1_yearly.6002.trigger_failure:0 "meu duelo contra [rivals_child.GetFirstNameNoTooltip] foi invalidado"
  defused_feud_escalation_opinion:0 "Escalonamento de rixa neutralizado"

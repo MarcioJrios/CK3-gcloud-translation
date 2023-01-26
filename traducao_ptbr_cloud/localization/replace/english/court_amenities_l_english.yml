@@ -99,7 +99,7 @@
  COURT_AMENITIES_WINDOW_HEADER:0 "Comodidades do tribunal"
  COURT_AMENITY_OWNER_MODIFIER_HEADER:0 "#S Proprietário:#!"
  COURT_AMENITY_COURTIER_GUEST_MODIFIER_HEADER:0 "#S cortesãos e convidados:#!"
- COURT_AMENITY_SETTING_NO_EFFECT:0 "#fraco sem efeito#!"
+ COURT_AMENITY_SETTING_NO_EFFECT:0 "#weak sem efeito#!"
  
  COURT_AMENITY_CATEGORY_ON_COOLDOWN:0 "@warning_icon!#X Recently changed $CATEGORY_NAME$, pode alterá-los novamente em [DATE.GetTimeToDate] ([DATE.GetStringLong])#!"
 

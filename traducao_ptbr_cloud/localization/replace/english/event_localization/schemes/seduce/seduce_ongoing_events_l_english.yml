@@ -426,7 +426,7 @@
  seduce_ongoing.4104.desc:0 "Como a luz de [target.GetTitledFirstNamePossessive] a porta que se abre se espalha pela sacada, assim como se espalha pelo meu coração.\nEle escurece rapidamente quando eu vejo o [target.Custom('quirk_neg_adjective')] careta em [target.GetHerHis] rosto, e morre completamente como [target.GetSheHe] fala. "What are you doing here, [ROOT.Char.GetTitledFirstNameNoTooltip]?! Please, leave me alone.""
  seduce_ongoing.4104.a:0 "Mas... Você é o sol na minha noite escura...!"
 
- seduce_ongoing.4105.desc:1 "#suspiro EMP!#!\nTendo me retirado para meus aposentos durante a noite, de repente estou cara a cara com um [owner.GetWomanMan] fora da minha janela... UMA [owner.GetWomanMan] que parece suspeito [owner.GetTitledFirstName]."
+ seduce_ongoing.4105.desc:1 "#EMP suspiro!#!\nTendo me retirado para meus aposentos durante a noite, de repente estou cara a cara com um [owner.GetWomanMan] fora da minha janela... UMA [owner.GetWomanMan] que parece suspeito [owner.GetTitledFirstName]."
  seduce_ongoing.4105.a:0 "ai seu bobo [owner.GetWomanMan], Entre!"
  seduce_ongoing.4105.b:0 "Tenho sorte que minhas cortinas são tão grossas."
  seduce_ongoing.4105.c:0 "Guardas! Ajudem-me, guardas!"

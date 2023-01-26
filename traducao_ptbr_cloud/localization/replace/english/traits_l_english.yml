@@ -6,7 +6,7 @@
  TRAIT_AGE_NOT_IN_RANGE_TOO_YOUNG:0 "@warning_icon!#X [TRAIT.GetName( CHARACTER.Self )] não pode ser adicionado porque $CHARACTER_NAME$ é mais novo que $TRAIT_AGE|V$ #weak (is $CHARACTER_AGE|V$)#!#!"
  TRAIT_AGE_NOT_IN_RANGE_TOO_OLD:0 "@warning_icon!#X [TRAIT.GetName( CHARACTER.Self )] não pode ser adicionado porque $CHARACTER_NAME$ É mais velho que $TRAIT_AGE|V$ #weak (is $CHARACTER_AGE|V$)#!#!"
  TRAIT_SEX_NOT_MATCHING:0 "@warning_icon!#X [TRAIT.GetName( CHARACTER.Self )] não pode ser adicionado porque $CHARACTER_NAME$ não é $TRAIT_SEX$#!"
- ALREADY_HAS_TRAIT_IN_GROUP:0 "@warning_icon!#X [TRAIT.GetName( CHARACTER.Self )] não pode ser adicionado porque $CHARACTER_NAME$ já tem o traço no [TRAIT_GROUP.GetName] grupo #fraco ([TRAIT_2.GetName( CHARACTER.Self )])#!#!"
+ ALREADY_HAS_TRAIT_IN_GROUP:0 "@warning_icon!#X [TRAIT.GetName( CHARACTER.Self )] não pode ser adicionado porque $CHARACTER_NAME$ já tem o traço no [TRAIT_GROUP.GetName] grupo #weak ([TRAIT_2.GetName( CHARACTER.Self )])#!#!"
  SEX_MALE:0 "Macho"
  SEX_FEMALE:0 "Fêmea"
 
@@ -467,8 +467,8 @@
  trait_eunuch_desc:0 "Este personagem foi intencionalmente castrado."
  trait_eunuch_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] foi intencionalmente castrado."
  trait_blind:0 "Cego"
- trait_blind_desc:0 "Através de um #Acidente EMP#! ou desde o nascimento, este personagem não pode ver nada."
- trait_blind_character_desc:0 "Através de um #Acidente EMP#! ou desde o nascimento, [ROOT.GetCharacter.GetFirstNameNoTooltip] não pode ver nada."
+ trait_blind_desc:0 "Através de um #EMP Acidente#! ou desde o nascimento, este personagem não pode ver nada."
+ trait_blind_character_desc:0 "Através de um #EMP Acidente#! ou desde o nascimento, [ROOT.GetCharacter.GetFirstNameNoTooltip] não pode ver nada."
 
 #Physical Traits
  trait_beauty_bad_1:0 "Caseiro"
@@ -865,13 +865,13 @@
  trait_augustus_desc:0 "Este personagem é o atual governante do Império Romano restaurado e merece o respeito que um cargo de tal magnitude merece.."
  trait_augustus_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] é o atual governante do Império Romano restaurado e merece o respeito que um cargo de tal magnitude é devido."
  TRAIT_ENTRY_INHERITANCE_INFO:1 "[MatchmakerTraitInfo.GetInheritanceInfo]"
- TRAIT_INHERITANCE_GUARANTEED_ONE:0 "#fraco Como pelo menos um dos pais tem esta Característica, ele #sublinhará#! ser herdado.#!"
- TRAIT_INHERITANCE_GUARANTEED_BOTH:0 "#fraco Como ambos os pais têm esta Característica, ela #sublinhará#! ser herdado.#!"
- TRAIT_INHERITANCE_GUARANTEED_CONGENITAL:0 "#fraco Como ambos os pais têm esta Característica, ela #sublinhará#! ser herdado.#!"
- TRAIT_INHERITANCE_POSSIBLE_CONGENITAL:0 "#fraco Como um dos pais tem esta Característica, ela #sublinhada pode#! ser herdado.#!"
- TRAIT_INHERITANCE_POSSIBLE_ONE:0 "#fraco Como pelo menos um dos pais tem esta Característica, #sublinhado pode#! ser herdado.#!"
- TRAIT_INHERITANCE_POSSIBLE_BOTH:0 "#fraco Como ambos os pais têm essa Característica, #sublinhado pode#! ser herdado.#!"
- TRAIT_INHERITANCE_UPGRADE_POSSIBLE:0 "#fraco Esta Característica #sublinhado pode#! intensificar, resultando em [TRAIT.GetName( CHARACTER.Self )].#!"
+ TRAIT_INHERITANCE_GUARANTEED_ONE:0 "#weak Como pelo menos um dos pais tem esta Característica, ele #underline será#! herdado.#!"
+ TRAIT_INHERITANCE_GUARANTEED_BOTH:0 "#weak Como ambos os pais têm esta Característica, ela #underline será#! herdado.#!"
+ TRAIT_INHERITANCE_GUARANTEED_CONGENITAL:0 "#weak Como ambos os pais têm esta Característica, ela #underline será#! herdado.#!"
+ TRAIT_INHERITANCE_POSSIBLE_CONGENITAL:0 "#weak Como um dos pais tem esta Característica, ela #underline pode#! ser herdado.#!"
+ TRAIT_INHERITANCE_POSSIBLE_ONE:0 "#weak Como pelo menos um dos pais tem esta Característica, #underline pode#! ser herdado.#!"
+ TRAIT_INHERITANCE_POSSIBLE_BOTH:0 "#weak Como ambos os pais têm essa Característica, #underline pode#! ser herdado.#!"
+ TRAIT_INHERITANCE_UPGRADE_POSSIBLE:0 "#weak Esta Característica #underline pode#! intensificar, resultando em [TRAIT.GetName( CHARACTER.Self )].#!"
 
  # Crusader names
  trait_crusader_bon:0 "Kailash Guardião"

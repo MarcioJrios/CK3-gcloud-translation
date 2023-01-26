@@ -49,7 +49,7 @@
  dynasty_level_8_c:1 "@dynasty_prestige_icon_4! [dynasty_prestige_level_8|L]"
  dynasty_level_9_c:1 "@dynasty_prestige_icon_4! [dynasty_prestige_level_9|L]"
  dynasty_level_10_c:1 "@dynasty_prestige_icon_5! [dynasty_prestige_level_10|L]"
- dynasty_level_11_c:0 "#nível mais alto fraco alcançado#!"
+ dynasty_level_11_c:0 "#weak nível mais alto alcançado#!"
  CUSTOMIZE_HOUSE_HEADER:0 "Personalizar casa [DynastyHouse.GetBaseNameNoTooltip]"
  HOUSE_NAME_FIELD:0 "Nome"
  HOUSE_MOTTO_FIELD:0 "Lema"

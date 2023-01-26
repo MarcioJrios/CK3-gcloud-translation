@@ -36,7 +36,7 @@
  ep1_flavor.0001.c.tt.failure:0 "[scion_parent.GetFirstNameNoTooltip] capas [scion_parent.GetHerHis] rastreia muito bem"
  ep1_flavor.0001.d:0 "Não se preocupe, meu [scion_parent.GetTitleAsNameNoTooltip], você pode confiar em mim para esquecer que eu vi você..."
  ep1_flavor.0001.tt.scion_escapes:0 "[scion_actual.GetFirstName] é escondido e nunca ouviu falar de novo"
- ep1_flavor.0001.e.no_bastards:0 "Um #segredo EMP#! filho? Que estranho. vamos comer em outro lugar."
+ ep1_flavor.0001.e.no_bastards:0 "Um #EMP segredo#! filho? Que estranho. vamos comer em outro lugar."
  ep1_flavor.0001.e.fallback:0 "Isso não é da nossa conta. vamos comer em outro lugar."
 
  ep1_flavor.0011.t:0 "Uma confusão absoluta"

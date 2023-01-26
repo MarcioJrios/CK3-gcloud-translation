@@ -554,5 +554,5 @@
  health.7000.desc_closing:0 "\nEu sinto que não posso fazer nada além de esperar o doce abraço da morte para me reivindicar."
  health.7000.a:0 "Quanto tempo vou ter que esperar?"
  health.7000.a.lazy:0 "Pelo menos eu fico na cama o dia todo..."
- health.7100.desc:0 "Que dia é hoje? Quanto tempo eu tenho descansado desta vez?\nEu me pego procurando nos rostos de meus visitantes frequentes qualquer indicação – rugas ou cicatrizes – #algo ousado#! para servir de prova de que o tempo ainda passa. De alguma forma, as interações que tenho com outras pessoas parecem que estão falando #ousado em #! eu, não #ousado para#! mim.\nAinda sou eu ou uma alma removida do meu corpo? Estou vivendo, ou apenas existindo?"
+ health.7100.desc:0 "Que dia é hoje? Quanto tempo eu tenho descansado desta vez?\nEu me pego procurando nos rostos de meus visitantes frequentes qualquer indicação – rugas ou cicatrizes – #bold algo#! para servir de prova de que o tempo ainda passa. De alguma forma, as interações que tenho com outras pessoas parecem que estão falando #bold em #! eu, não #bold para#! mim.\nAinda sou eu ou uma alma removida do meu corpo? Estou vivendo, ou apenas existindo?"
  health.7100.a:0 "Minha existência é uma tortura."

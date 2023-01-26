@@ -77,7 +77,7 @@
 
 #	Follow-Up, Friend:
  relation_upgrade.1002.t:0 "$relation_upgrade.1001.t$: Qualquer lugar menos Aqui"
- relation_upgrade.1002.desc:0 "Eu estive preso nesta festa torturante (aquela [terrible_party_host.GetFirstName] falhou mais ou menos totalmente em arremessar) pelo que parecem #horas EMP#!, acenando frouxamente para todos que passam.\nA ideia de me jogar dessa sacada começa a ganhar apelo, quando sinto um tapinha no ombro.\n\n"Excuse me, [potential_friend.GetFirstNameNoTooltip]?", diz [party_root.GetTitledFirstName], "do you fancy a walk away from here?""
+ relation_upgrade.1002.desc:0 "Eu estive preso nesta festa torturante (aquela [terrible_party_host.GetFirstName] falhou mais ou menos totalmente em arremessar) pelo que parecem #EMP horas#!, acenando frouxamente para todos que passam.\nA ideia de me jogar dessa sacada começa a ganhar apelo, quando sinto um tapinha no ombro.\n\n"Excuse me, [potential_friend.GetFirstNameNoTooltip]?", diz [party_root.GetTitledFirstName], "do you fancy a walk away from here?""
  relation_upgrade.1002.a:0 "[ROOT.GetCharacter.GetFaith.HighGodName], sim, em qualquer lugar menos aqui!"
  relation_upgrade.1002.a.tt:0 "[potential_friend.GetFirstNameNoTooltip] aceita sua oferta"
  relation_upgrade.1002.b:0 "Ehm, obrigado, mas não, obrigado."

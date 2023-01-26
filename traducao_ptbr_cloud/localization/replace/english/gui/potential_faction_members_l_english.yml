@@ -1,6 +1,6 @@
 ﻿l_english:
  POTENTIAL_FACTION_MEMBERS_HEADER:0 "Membros em potencial"
- NO_POTENTIAL_FACTION_MEMBERS:0 "#fraco Não há Membros em potencial#!"
+ NO_POTENTIAL_FACTION_MEMBERS:0 "#weak Não há Membros em potencial#!"
  CHARACTER_SORT_CAN_FORCE_TO_FACTION:1 "Pode ser forçado a entrar na facção"
  POTENTIAL_FACTION_MEMBER_AVAILABLE:0 "#P Pode ser forçado a entrar#!"
  POTENTIAL_FACTION_MEMBER_POTENTIAL:0 "#Z Pode potencialmente ser forçado#!"

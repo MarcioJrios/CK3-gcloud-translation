@@ -8,7 +8,7 @@
  head_of_faith.0001.desc:0 "Nós [ROOT.Char.GetFaith.GetAdherentName] escolheram seguir o caminho dos herdeiros de Abu Bakr, $head_of_faith.0000.desc$"
  head_of_faith.0001.a:0 "O realinhamento com a ortodoxia sunita é nossa única opção."
  head_of_faith.0001.b:0 "Devemos continuar nos apegando a [old_caliph.GetFaith.GetAdjectiveNoTooltip] autoridade!"
- head_of_faith.0001.c:0 "[sunni_caliph.GetTitledFirstNameNoTooltip] tem nosso #presente EMP#! lealdades..."
+ head_of_faith.0001.c:0 "[sunni_caliph.GetTitledFirstNameNoTooltip] tem nosso #EMP presente#! lealdades..."
  head_of_faith.0001.d:0 "nós devemos seguir [old_caliph.GetTitledFirstNameNoTooltip]... por agora..."
 
  head_of_faith.0011.t:0 "$head_of_faith.0000.t$: xiita"

@@ -16,7 +16,7 @@
  PARENT_DYNASTY_PERK_NEEDED:1 "@warning_icon!#X We have not unlocked the previous Legacy#!"
  DYNASTY_PRESTIGE_NEEDED:0 "@warning_icon!#X We do not have $VALUE$ [dynasty_prestige|E]#!"
  DYNASTY_PERK_TOOLTIP:0 "#T [DynastyPerk.GetNameNoTooltip]#!\n[DynastyPerk.GetEffectDescription( Dynasty.GetDynast )]"
- UNLOCK_DYNASTY_PERK_TOOLTIP:0 "$DYNASTY_PERK_TOOLTIP$\n[DynastyView.CanSelectPerkDesc( DynastyPerk.Self )][DynastyPerk.GetCostString( GetPlayer )]\n\n#Eu clique para desbloquear#!"
+ UNLOCK_DYNASTY_PERK_TOOLTIP:0 "$DYNASTY_PERK_TOOLTIP$\n[DynastyView.CanSelectPerkDesc( DynastyPerk.Self )][DynastyPerk.GetCostString( GetPlayer )]\n\n#I clique para desbloquear#!"
  LOCKED_DYNASTY_PERK_TOOLTIP:0 "$DYNASTY_PERK_TOOLTIP$\n[DynastyView.CanSelectPerkDesc( DynastyPerk.Self )][DynastyPerk.GetCostString( GetPlayer )]"
  CHOOSE_DYNASTY_PERK_CONFIRM_TITLE:0 "desbloquear [DYNASTY_PERK.GetNameNoTooltip]"
  CHOOSE_DYNASTY_PERK_CONFIRM_DESC:0 "[DYNASTY_PERK.GetEffectDescription( GetPlayer )][DYNASTY_PERK.GetCostString( GetPlayer )]"

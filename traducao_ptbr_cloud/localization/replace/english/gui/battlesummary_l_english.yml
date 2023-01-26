@@ -1,7 +1,7 @@
 ﻿l_english:
  BS_INITIAL_SOLDIERS:1 "#Inicial T [soldiers|E]#!"
  BS_LOSSES:1 "#Perdas T#!"
- BS_SURVIVORS:1 "#Sobreviventes T#!"
+ BS_SURVIVORS:1 "#T Sobreviventes#!"
  BS_TT_ADVANTAGE:0 "#T Total [advantage|E]: $ADVANTAGE$#!Agiu $NUM_ACTED$ vezes"
  BS_TT_COUNTER:0 "#T Inimigo [advantage|E] denied by countering: $COUNTERED$#!Contra-atacou o inimigo $NUM_ACTED$ vezes"
  BS_TT_LEVIES_KILLS:0 "#T morto [levies|E]#!"

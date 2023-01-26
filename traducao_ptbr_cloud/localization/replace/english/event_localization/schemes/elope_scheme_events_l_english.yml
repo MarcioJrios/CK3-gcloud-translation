@@ -50,7 +50,7 @@
  elope.1011.t:0 "$elope_event_title$ Tochas no escuro"
  elope.1011.middle.desc:0 "Eu posso ver duas silhuetas, três, quatro... [ROOT.Char.GetFaith.HighGodName], isso não pode ser bom!"
  elope.1011.end.desc:0 "Ao meu comando, recuamos pela vegetação rasteira. Nossos perseguidores, por outro lado, não se importam com sutilezas e se aproximam rapidamente..\n\n"You can't hide forever, [ROOT.Char.GetTitledFirstNameNoTooltip]! We've captured one of your [dummy_soldier.GetWomenMen], and you will be next!""
- elope.1011.a:0 "#Execução EMP!#!"
+ elope.1011.a:0 "#EMP Execução!#!"
 
  elope.1012.t:0 "Uma fuga fracassada"
  elope.1012.desc:0 "Uma tentativa de fugir com [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] foi frustrado! O capitão da guarda me diz [owner.Custom2('YourCharacterIntroduction', ROOT.Char)] estava planejando roubar [target.GetHerHim] embora e casar [target.GetHerHim] em segredo.\nComo se não bastasse, cartas encontradas em [target.GetFirstNamePossessiveNoTooltip] câmaras indicam [target.GetSheHe] estava por dentro de tudo!"

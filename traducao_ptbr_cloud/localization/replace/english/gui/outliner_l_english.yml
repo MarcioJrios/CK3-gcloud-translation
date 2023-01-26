@@ -16,7 +16,7 @@
  OUTLINER_EXPAND:0 "#T Expandir#!"
  OUTLINER_COLLAPSE:0 "#T Recolher#!"
  OUTLINER_ARMY_WARNING_IDLE_EMBARKED:0 "#X O Exército está no mar e ocioso, custando manutenção extra#!"
- OUTLINER_ARMY_CLICK_TO_SELECT:0 "#Eu clico para selecionar o exército#!"
+ OUTLINER_ARMY_CLICK_TO_SELECT:0 "#I clico para selecionar o exército#!"
  OUTLINER_ARMY_CLICK_TO_PAN:0 "#I Clique para ir para o local#!"
  OUTLINER_ARMY_RIGHT_CLICK_TO_PAN:0 "#I Clique com o botão direito do mouse para ir para o local#!"
  OUTLINER_PINNED_CHARACTER:0 "[Character.GetShortUINameNotMeNoTooltip]#médio , [Character.GetAge]#!"

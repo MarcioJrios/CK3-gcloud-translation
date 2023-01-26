@@ -16,7 +16,7 @@
  stress_trait_coping_decisions.1004.a:0 "Nós iremos... Eu tive uma boa noite de ovelha - durma!"
 
  stress_trait_coping_decisions.1501.t:0 "Lidando com o Estresse: Névoa Calmante"
- stress_trait_coping_decisions.1501.desc:1 "Eu me reclino em meu assento enquanto pego casualmente outro bolo, o sabor suave enjoando em minha língua, uma névoa agradável lavando lentamente meus problemas.\nNão estive tão calmo nas #semanas da EMP#!. Apenas... estar aqui. Com esta travessa de bolos com cobertura de haxixe. É o bastante."
+ stress_trait_coping_decisions.1501.desc:1 "Eu me reclino em meu assento enquanto pego casualmente outro bolo, o sabor suave enjoando em minha língua, uma névoa agradável lavando lentamente meus problemas.\nNão estive tão calmo nas #EMP semanas#!. Apenas... estar aqui. Com esta travessa de bolos com cobertura de haxixe. É o bastante."
  stress_trait_coping_decisions.1501.a:0 "Isso é tudo que eu preciso."
 
  stress_trait_coping_decisions.2001.t:0 "Lidando com o Estresse: Maneiras Arbitrárias"
@@ -47,7 +47,7 @@
  stress_trait_coping_decisions.3001.a:0 "E #EMP você#!! Não pense que não te vejo!"
 
  stress_trait_coping_decisions.3501.t:0 "Lidando com o Estresse: Agonia Atarática"
- stress_trait_coping_decisions.3501.desc:0 "#Rachadura EMP!#!\nO chicote cai nas minhas costas e estremeço com a clareza que ele traz. A dor é tudo o que eu sinto, e a dor é tudo o que está em minha mente.\n\n#Rachadura EMP!#!\n\n#Rachadura EMP!#!"
+ stress_trait_coping_decisions.3501.desc:0 "#EMP Rachadura!#!\nO chicote cai nas minhas costas e estremeço com a clareza que ele traz. A dor é tudo o que eu sinto, e a dor é tudo o que está em minha mente.\n\n#EMP Rachadura!#!\n\n#EMP Rachadura!#!"
  stress_trait_coping_decisions.3501.a:0 "Hng– Doce, doce dor!"
 
  stress_trait_coping_decisions.4001.t:0 "Lidando com o estresse: o preço que pagamos"

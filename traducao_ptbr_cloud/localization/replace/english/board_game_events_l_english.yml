@@ -349,7 +349,7 @@
  board_games.0001.d.tt.crit_failure:0 "$board_games.0001.tt.crit_failure$"
  board_games.0001.d.tt.crit_failure.tt:0 "$board_games.0001.tt.crit_failure.points$"
  board_games.0001.e.random.a:0 "Eu sou inigualável na teoria da [SCOPE.Custom('BG_GameType')]!"
- board_games.0001.e.random.b:0 "Eu li todos os #manuais do EMP#! em [SCOPE.Custom('BG_GameType')]."
+ board_games.0001.e.random.b:0 "Eu li todos os #EMP manuais#! em [SCOPE.Custom('BG_GameType')]."
  board_games.0001.e.random.c:0 "Eu conheço as regras de [SCOPE.Custom('BG_GameType')] como a palma da minha mão."
  board_games.0001.e.random.d:0 "Você acha que pode superar #EMP em mim#!?"
  board_games.0001.e.tt:0 "No [SCOPE.Custom('BG_GameType')], [learning|E] é combatido por [SCOPE.Custom('BG_CounterSkill_Learning')]"

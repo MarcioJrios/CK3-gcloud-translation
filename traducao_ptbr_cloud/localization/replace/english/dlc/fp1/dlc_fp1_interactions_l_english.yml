@@ -55,5 +55,5 @@
  
  designate_shieldmaiden_interaction_extra_icon:0 "$hook_extra_icon$"
  designate_shieldmaiden_interaction:0 "Faça Shieldmaiden"
- designate_shieldmaiden_interaction_desc:1 "Oferecer [recipient.GetFirstNameNoTooltip] a oportunidade de lutar em suas fileiras como um [recipient.Custom('ShieldPersonFemaleMale')|U].\n\n#fraco A [recipient.Custom('ShieldPersonFemaleMale')|U] pode servir como um [actor.Custom('KnightCulture')] ou [commander|E], e pode até salvá-lo de um [GetScheme('murder').GetTypeName] [scheme|E]. Somente [close_family|E] membros podem ser oferecidos para se tornar um [recipient.Custom('ShieldPersonFemaleMale')|U].#!"
+ designate_shieldmaiden_interaction_desc:1 "Oferecer [recipient.GetFirstNameNoTooltip] a oportunidade de lutar em suas fileiras como um [recipient.Custom('ShieldPersonFemaleMale')|U].\n\n#weak A [recipient.Custom('ShieldPersonFemaleMale')|U] pode servir como um [actor.Custom('KnightCulture')] ou [commander|E], e pode até salvá-lo de um [GetScheme('murder').GetTypeName] [scheme|E]. Somente [close_family|E] membros podem ser oferecidos para se tornar um [recipient.Custom('ShieldPersonFemaleMale')|U].#!"
  designate_shieldmaiden_interaction_notification:0 "[recipient.GetShortUIName] tornou-se um [recipient.Custom('ShieldPersonFemaleMale')|U]!"

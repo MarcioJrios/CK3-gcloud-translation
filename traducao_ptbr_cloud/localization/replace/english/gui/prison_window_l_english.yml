@@ -1,6 +1,6 @@
 ﻿l_english:
  PRISON_WINDOW:0 "meus prisioneiros"
- PRISONER_TOOLTIP:0 "#fraco em $TYPE$#!"
+ PRISONER_TOOLTIP:0 "#weak em $TYPE$#!"
  CAN_NOT_RANSOM:0 "[CHARACTER.GetUIName] não pode ser resgatado."
  CAN_NOT_RELEASE:0 "[CHARACTER.GetUIName] não pode sair da prisão."
  CAN_NOT_EXECUTE:0 "[CHARACTER.GetUIName] não pode ser executado."

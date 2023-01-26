@@ -31,7 +31,7 @@
  RELIGION_IS_SAME_AS:0 "Tem o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
  NOT_RELIGION_IS_SAME_AS:0 "não tem o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
  I_HAVE_SAME_RELIGION:1 "você tem o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
- NOT_I_HAVE_SAME_RELIGION:1 "Você faz #ousado não#! Ter o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
+ NOT_I_HAVE_SAME_RELIGION:1 "Você faz #bold não#! Ter o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
  THEY_HAVE_SAME_RELIGION:0 "[CHARACTER.GetShortUIName|U] Tem o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
  NOT_THEY_HAVE_SAME_RELIGION:0 "[CHARACTER.GetShortUIName|U] não tem o mesmo [religion|E] Como [TARGET_CHARACTER.GetShortUIName]"
 

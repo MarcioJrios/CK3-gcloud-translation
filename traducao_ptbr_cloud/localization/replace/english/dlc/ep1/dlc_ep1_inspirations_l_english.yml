@@ -9,11 +9,11 @@
  NOT_CAN_SPONSOR_OWN_INSPIRATION:0 "Pode #negrir não#! patrocinador [CHARACTER.GetHerHis] própria inspiração"
 
  I_ALREADY_SPONSOR_INSPIRATION:0 "já estou patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
- NOT_I_ALREADY_SPONSOR_INSPIRATION:0 "Eu sou #ousado não#! já patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
+ NOT_I_ALREADY_SPONSOR_INSPIRATION:0 "Eu sou #bold não#! já patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
  THEY_ALREADY_SPONSOR_INSPIRATION:0 "[CHARACTER.GetUIName] já está patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
  NOT_THEY_ALREADY_SPONSOR_INSPIRATION:0 "[CHARACTER.GetUIName] é #bold não#! já patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
  ALREADY_SPONSOR_INSPIRATION:0 "já está patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
- NOT_ALREADY_SPONSOR_INSPIRATION:0 "É #ousado não#! já patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
+ NOT_ALREADY_SPONSOR_INSPIRATION:0 "É #bold não#! já patrocinando [INSPIRATION.GetOwner.GetUINamePossessive] inspiração"
 
  CAN_SPONSOR_INSPIRATION_INVALID:0 "inspiração inválida."
  CAN_SPONSOR_INSPIRATION_INVALID_CHARACTER:0 "Patrocinador inválido."
@@ -41,7 +41,7 @@
  INSPIRATION_ITEM_PROGRESS_TOOLTIP:0 "#T Inspiração em andamento: [Inspiration.GetProgress|0V]/#V 10#!#!o [inspiration|E] tem um [Inspiration.GetProgressChance|%/V] chance de progredir a cada mês."
  INSPIRATION_ESTIMATED_REMAINING:0 "#V ~[Inspiration.GetEstimatedTimeRemaining]#!"
  INSPIRATION_ESTIMATED_TIME_TOOLTIP:0 "#T Tempo estimado para conclusão: #V ~[Inspiration.GetEstimatedTimeRemaining]#!#!Isso é baseado na chance atual de progresso de [Inspiration.GetProgressChance|%/V]."
- TT_INSPIRATION_WIDGET:1 "#Projeto Inspiração T#!\n[Character.GetUIName] tem o [Character.GetCurrentInspiration.GetName] - [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n#Eu clico para ver#!"
+ TT_INSPIRATION_WIDGET:1 "#Projeto Inspiração T#!\n[Character.GetUIName] tem o [Character.GetCurrentInspiration.GetName] - [Character.Custom('InspirationTypeDescriptionFuturePresent')].\n\n#I clico para ver#!"
 
  weapon_inspiration:0 "Inspiração para armas"
  weapon_inspiration_desc:1 "Um personagem que tem uma Inspiração de Arma é [inspired|E] forjar uma arma [artifact|E]. Isso pode incluir qualquer coisa, desde espadas a lanças, e será carregado na mão."

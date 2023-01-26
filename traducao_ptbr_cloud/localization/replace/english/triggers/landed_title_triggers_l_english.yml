@@ -6,7 +6,7 @@
  NOT_RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! was #bold not#! $HISTORY|V$ recentemente (dentro de $DURATION$)"
 
  IS_CONTESTED_TRIGGER:0 "é disputado em um [war|E]."
- NOT_IS_CONTESTED_TRIGGER:0 "É #ousado não#! disputado em um [war|E]."
+ NOT_IS_CONTESTED_TRIGGER:0 "É #bold não#! disputado em um [war|E]."
  IS_CONTESTED_TRIGGER_THIRD:0 "#V [TITLE.GetName]#! é disputado em um [war|E]."
  NOT_IS_CONTESTED_TRIGGER_THIRD:0 "#V [TITLE.GetName]#! é #bold não#! disputado em um [war|E]."
 
@@ -46,7 +46,7 @@
  HRE_HOLDER_IS_NOT_OF_MY_DYNASTY:0 "O governante do Sacro Império Romano não pertence ao [CHARACTER.GetDynastyName] dinastia"
 
  I_HAVE_THE_TITLE:1 "Você tem a [title|E] [TARGET_TITLE.GetNameNoTier]"
- I_DO_NOT_HAVE_THE_TITLE:1 "Você faz #ousado não#! tenha o [title|E] [TARGET_TITLE.GetNameNoTier]"
+ I_DO_NOT_HAVE_THE_TITLE:1 "Você faz #bold não#! tenha o [title|E] [TARGET_TITLE.GetNameNoTier]"
  HAS_THE_TITLE:0 "Tem o [title|E] [TARGET_TITLE.GetNameNoTier]"
  DOES_NOT_HAVE_THE_TITLE:0 "#bold não#! tenha o [title|E] [TARGET_TITLE.GetNameNoTier]"
  CHARACTER_HAS_THE_TITLE:0 "[CHARACTER.GetShortUIName|U] tem o [title|E] [TARGET_TITLE.GetNameNoTier]"
@@ -76,7 +76,7 @@
  NOT_CONSECRATE_BLOODLINE_TEMPORAL_RELIGIOUS_HEAD_OPINION:0 ""
 
  CONSECRATE_BLOODLINE_ENOUGH_HOLY_SITES:1 "Você controla um ou mais [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
- CONSECRATE_BLOODLINE_NOT_ENOUGH_HOLY_SITES:1 "Você faz #ousado não#! controlar qualquer um dos [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
+ CONSECRATE_BLOODLINE_NOT_ENOUGH_HOLY_SITES:1 "Você faz #bold não#! controlar qualquer um dos [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
  
  HAS_REVOCABLE_LEASE_TRIGGER:0 "Tem contrato de arrendamento revogável"
  HAS_ORDER_OF_SUCCESSION_TRIGGER:0 "Tem ordem de sucessão"

@@ -2,7 +2,7 @@
 
  # Bookmark Loc
  bm_867_iberia:1 "A luta pela Ibéria"
- bm_867_iberia_desc:3 "As velhas potências da Península Ibérica estão quebrando.\nNo norte, as Astúrias estão repletas de vassalos ambiciosos, esforçando-se para serem livres.\nNo sul, al-Andalus se fortalece, mas enfrenta rumores de descontentamento. Os distritos militares fronteiriços murmuram sobre a independência e intrigas atormentam os governantes omíadas.\nPotências estrangeiras famintas olham cobiçosamente para as ricas terras da Península Ibérica.\n\n#Séculos ousados em formação, o $game_concept_iberian_struggle$ entra em uma nova fase, e se termina em sangue ou fraternidade depende de um lance de dados."
+ bm_867_iberia_desc:3 "As velhas potências da Península Ibérica estão quebrando.\nNo norte, as Astúrias estão repletas de vassalos ambiciosos, esforçando-se para serem livres.\nNo sul, al-Andalus se fortalece, mas enfrenta rumores de descontentamento. Os distritos militares fronteiriços murmuram sobre a independência e intrigas atormentam os governantes omíadas.\nPotências estrangeiras famintas olham cobiçosamente para as ricas terras da Península Ibérica.\n\n#bold Séculos em formação, o $game_concept_iberian_struggle$ entra em uma nova fase, e se termina em sangue ou fraternidade depende de um lance de dados."
  war_867_Vimara_conquest_Portucale:0 "Guerra pelos Vimaras [claim|E] em $d_porto$"
  war_Andalusian_Rebellion:0 "Rebelião do Distrito Fronteiriço"
 
@@ -14,24 +14,24 @@
 
 # Lupp ibn Musa / Lope Musez
  bookmark_fp2_iberia_lupp_ibn_musa:1 "$Lubb$ Muzez"
- bookmark_fp2_iberia_lupp_ibn_musa_desc:0 "A poderosa dinastia dos Banu Qasi, os Filhos de Cássio, uma vez dominou todo o Vale do Ebro. Tempos difíceis se abateram sobre eles desde o reinado de $Lubb$'s glorious father, though, and the newly-renamed Banu Musa merely mutter and lick their wounds from their ancient seat at Tudela, plotting to recover their southern dominions.\n\n#ousado Você será capaz de retomar o que pertenceu aos Banu Qasi e trazer a dinastia de volta à sua antiga glória?#!"
+ bookmark_fp2_iberia_lupp_ibn_musa_desc:0 "A poderosa dinastia dos Banu Qasi, os Filhos de Cássio, uma vez dominou todo o Vale do Ebro. Tempos difíceis se abateram sobre eles desde o reinado de $Lubb$'s glorious father, though, and the newly-renamed Banu Musa merely mutter and lick their wounds from their ancient seat at Tudela, plotting to recover their southern dominions.\n\n#bold Você será capaz de retomar o que pertenceu aos Banu Qasi e trazer a dinastia de volta à sua antiga glória?#!"
 
  bookmark_fp2_iberia_lubb_ibn_musa_alt_mohamed:0 "Mohamed"
  bookmark_fp2_iberia_lubb_ibn_musa_alt_oria:0 "Oria"
 
  #Mendo Guterres of Santiago
  bookmark_fp2_iberia_mendo_guterres:0 "Contar $Hermenexildo$ Gutiérrez"
- bookmark_fp2_iberia_mendo_guterres_desc:0 "A powerful vassal to king Adelfonso III, $Hermenexildo$ controla as terras do sul da Galiza com uma administração imaculada. Uma lealdade inquestionável para com seu monarca o ajudou a expandir o domínio ancestral de sua família - mas isso é suficiente?\n\n#ousado Com o crescente interesse pelo Sul, será capaz de conquistar as terras de Portucale e iniciar uma das suas mais influentes dinastias?#"
+ bookmark_fp2_iberia_mendo_guterres_desc:0 "A powerful vassal to king Adelfonso III, $Hermenexildo$ controla as terras do sul da Galiza com uma administração imaculada. Uma lealdade inquestionável para com seu monarca o ajudou a expandir o domínio ancestral de sua família - mas isso é suficiente?\n\n#bold Com o crescente interesse pelo Sul, será capaz de conquistar as terras de Portucale e iniciar uma das suas mais influentes dinastias?#"
 
  bookmark_fp2_iberia_mendo_guterres_alt_arias:0 "$Arias$"
  bookmark_fp2_iberia_mendo_guterres_alt_ermesinda:0 "Hermesinda Gatónez"
 
  bookmark_fp2_iberia_ibn_marwan:0 "Ibn Marwan"
- bookmark_fp2_iberia_ibn_marwan_desc:1 "Um malandro de coração, Abd al-Rahman ibn Marwan tem um relacionamento tumultuado com seu suserano, o sultão omíada, mas goza de forte apoio dos moçárabes em seu domínio e pode, na verdade, ter mais em comum com eles e sua fé. Ele esculpiu uma fortaleza em Badajoz, mas no oeste, o zeloso clã Banu Danis se opõe cada vez mais ao seu governo sobre a Baixa Marcha..\n\n#ousado Uma aliança com Alfonso III, o sempre oportunista rei das Astúrias, pode ajudá-lo a ganhar sua própria coroa?#"
+ bookmark_fp2_iberia_ibn_marwan_desc:1 "Um malandro de coração, Abd al-Rahman ibn Marwan tem um relacionamento tumultuado com seu suserano, o sultão omíada, mas goza de forte apoio dos moçárabes em seu domínio e pode, na verdade, ter mais em comum com eles e sua fé. Ele esculpiu uma fortaleza em Badajoz, mas no oeste, o zeloso clã Banu Danis se opõe cada vez mais ao seu governo sobre a Baixa Marcha..\n\n#bold Uma aliança com Alfonso III, o sempre oportunista rei das Astúrias, pode ajudá-lo a ganhar sua própria coroa?#"
  bookmark_fp2_iberia_ibn_marwan_alt_surunbaqi:0 "Emir Sa'dun do Porto"
  bookmark_fp2_iberia_ibn_marwan_alt_rahman:0 "Abd al-Rahman"
 
  bookmark_fp2_iberia_adanis_ibn_awsaga:0 "Emir Adanis"
- bookmark_fp2_iberia_adanis_ibn_awsaga_desc:0 "Com a tarefa do sultão omíada de proteger a costa oeste dos ataques vikings, a dinastia berbere Banu Danis cresceu rapidamente em influência e poder. O emir Adanis construiu fortes fortalezas em Alcácer e Coimbra, mas está preocupado com os moçárabes sob seu governo, que preferem ficar do lado de seu inimigo, Ibn Marwan.\n\n#ousado Você pode proteger suas terras e levar os berberes a um grande futuro em Al-Andalus?#"
+ bookmark_fp2_iberia_adanis_ibn_awsaga_desc:0 "Com a tarefa do sultão omíada de proteger a costa oeste dos ataques vikings, a dinastia berbere Banu Danis cresceu rapidamente em influência e poder. O emir Adanis construiu fortes fortalezas em Alcácer e Coimbra, mas está preocupado com os moçárabes sob seu governo, que preferem ficar do lado de seu inimigo, Ibn Marwan.\n\n#bold Você pode proteger suas terras e levar os berberes a um grande futuro em Al-Andalus?#"
  bookmark_fp2_iberia_ibn_awsaga_alt_masud:0 "Mas'ud ibn Adanis"
  bookmark_fp2_iberia_ibn_awsaga_alt_yahya:0 "Yahya ibn Adanis"

@@ -9,7 +9,7 @@
  suggestion_declare_war_label:0 "Declarar guerra"
  suggestion_declare_war:0 "Sugestão: Declarar Guerra ao [recipient.GetShortUINameNoTooltip]"
  suggestion_declare_war_desc:1 "Vencer uma guerra contra [recipient.GetShortUIName] permitirá que você conquiste mais terras e aumente seu [realm|E], ajudando a garantir o sucesso a longo prazo do seu [house|E]."
- suggestion_declare_war_click:1 "#Eu clico para declarar guerra#!"
+ suggestion_declare_war_click:1 "#I clico para declarar guerra#!"
 
  suggestion_construct_building_label:0 "Construir edifício"
  suggestion_construct_building:0 "Sugestão: Construir um prédio em [landed_title.GetNameNoTierNoTooltip]"
@@ -51,7 +51,7 @@
  suggestion_grant_title_label:0 "Título de Concessão"
  suggestion_grant_title:0 "Sugestão: Conceder [landed_title.GetNameNoTierNoTooltip] para [recipient.GetShortUINameNoTooltip]"
  suggestion_grant_title_desc:0 "[recipient.GetShortUIName] é o [de_jure|E] titular do [landed_title.GetName]. Certificar-se de que seu reino segue a estrutura De Jure tanto quanto possível leva à estabilidade e menos penalidades de opinião."
- suggestion_grant_title_click:1 "#Eu clico para conceder o título#!"
+ suggestion_grant_title_click:1 "#I clico para conceder o título#!"
 
  suggestion_can_hire_court_positions:0 "Cargos de Tribunal de Contratação"
  suggestion_can_hire_court_positions_label:0 "Sugestão: Contrate mais cargos no Tribunal"

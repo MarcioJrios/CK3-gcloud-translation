@@ -420,7 +420,7 @@
  commander_advantage:0 "Habilidade de Comandante"
  commander_trait_advantage:0 "Traços de Comandante"
  defending_controlled_province_advantage:0 "$MOD_CONTROLLED_PROVINCE_ADVANTAGE$"
- MODIFIER_TIME_LEFT:1 "\n#fraco até [DATE.GetString]#!"
+ MODIFIER_TIME_LEFT:1 "\n#weak até [DATE.GetString]#!"
  MODIFIER_MULTIPLE_INSTANCES:0 "$NAME$ ($COUNT|V$)"
  dungeon:0 "Masmorra"
  house_arrest:0 "Prisão domiciliar"

@@ -1,3 +1,3 @@
 ﻿l_english:
  HAS_DLC_TRIGGER:0 "Você tem a $DLC|V$ DLC"
- HAS_NOT_DLC_TRIGGER:0 "Você faz #ousado não#! tenha o $DLC|V$ DLC"
+ HAS_NOT_DLC_TRIGGER:0 "Você faz #bold não#! tenha o $DLC|V$ DLC"

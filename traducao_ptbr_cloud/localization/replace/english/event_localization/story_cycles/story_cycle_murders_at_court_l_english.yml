@@ -36,7 +36,7 @@
  murders_at_court.2002.a:0 "Devo orar por nosso [ROOT.Char.Custom('RealmType')]!"
 
  murders_at_court.2003.t:1 "Assassinatos no tribunal: um assassino revelado"
- murders_at_court.2003.desc:0 "Uma dor aguda nas costas... Inspiro, e a crescente agonia me faz gritar. Enquanto tento virar, eu caio, seguindo o gotejamento #EMP#! #gotejamento EMP#! do meu sangue até o chão.\nMinha visão está escurecendo, mas eu vejo meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murderer'))] [murderer.GetTitledFirstName] de pé sobre mim com um sorriso largo. eu alcanço [murderer.GetHerHim] e [murderer.GetSheHe] me recompensa com um chute que faz a sala girar; redondo e redondo - claro e escuro, e mais escuro e mais escuro..."
+ murders_at_court.2003.desc:0 "Uma dor aguda nas costas... Inspiro, e a crescente agonia me faz gritar. Enquanto tento virar, eu caio, seguindo o #EMP gotejamento#! do meu sangue até o chão.\nMinha visão está escurecendo, mas eu vejo meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('murderer'))] [murderer.GetTitledFirstName] de pé sobre mim com um sorriso largo. eu alcanço [murderer.GetHerHim] e [murderer.GetSheHe] me recompensa com um chute que faz a sala girar; redondo e redondo - claro e escuro, e mais escuro e mais escuro..."
  murders_at_court.2003.a:0 "[murderer.GetFirstNameNoTooltip]... Por que...?"
 
  murders_at_court.2101.t:1 "Assassinatos no tribunal: sucessor assassinado"
@@ -70,7 +70,7 @@
  murders_at_court.9001.desc_heir:1 "#EMP Para o bem da [ROOT.Char.Custom('RealmType')] você vai parar esta busca. Eu vivi toda a minha vida bem debaixo do seu nariz, e ainda assim você é tão cego. Descobrir minha identidade só traria dor.#!"
  murders_at_court.9001.desc_rival:1 "#EMP Fiz minha missão na vida #EMP end#! você – para acabar com sua família e seu reinado. Nada que você faça pode me fazer parar, mas se você não parar com essa intromissão, você me forçará a cometer atos ainda mais sombrios..#!"
  murders_at_court.9001.desc_witch:1 "#EMP Você acha que sua intromissão pode conseguir alguma coisa? As forças das trevas já estão em movimento e, ao ficar no meu caminho, você apenas coloca a si mesmo e àqueles que ama em perigo..#!"
- murders_at_court.9001.desc_cannibal:1 "#EMP Você não entende. Eu preciso disso para viver, para sobreviver, para encontrar #alimento EMP#!. Termine esta busca de uma vez ou minha fome devorará tudo!#!"
+ murders_at_court.9001.desc_cannibal:1 "#EMP Você não entende. Eu preciso disso para viver, para sobreviver, para encontrar #EMP alimento#!. Termine esta busca de uma vez ou minha fome devorará tudo!#!"
  murders_at_court.9001.desc_vassal:0 "#EMP Para o bem da [ROOT.Char.Custom('RealmType')] you will stop this search. Eu sou needed– #EMP valued#!, and you will only regret it if you uncover minha identity.#!"
  murders_at_court.9001.desc_fallback:1 "#EMP Você terminará esta busca imediatamente. Nada de bom pode vir de descobrir minha identidade, e vou me certificar de que nada de bom aconteça se você continuar tentando..#!"
  murders_at_court.9001.desc_ending:1 "\nesta caligrafia... Quase parece o de [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)]!"

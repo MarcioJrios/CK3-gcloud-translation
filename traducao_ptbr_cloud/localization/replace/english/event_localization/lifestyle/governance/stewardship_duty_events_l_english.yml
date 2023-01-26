@@ -215,7 +215,7 @@
  stewardship_duty.7023.c:0 "[hook_holder.GetSheHe|U] vai esquecer, ou então!"
  stewardship_duty.7023.d:0 "UMA [ROOT.Char.GetHouse.GetBaseNameNoTooltip] sempre paga [ROOT.Char.GetHerHis] dívidas!"
  stewardship_duty.7023.d.tt:0 "eu ainda devo [hook_holder.GetTitledFirstName] um favor."
- stewardship_duty.7023.player:0 "#fraco Outro jogador sempre tem a opção de recusar, embora possa receber [stress|e] por fazer isso.#!"
+ stewardship_duty.7023.player:0 "#weak Outro jogador sempre tem a opção de recusar, embora possa receber [stress|e] por fazer isso.#!"
 
  stewardship_duty.7023.invalidated.hooked_ruler:0 "Como não devo mais [hook_holder.GetTitledFirstName] um favor, meu pedido de [hook_holder.GetHerHim] renunciar já não é válido."
  stewardship_duty.7023.invalidated.hook_holder:0 "Como [hooked_ruler.GetTitledFirstName] não me deve mais um favor, [hooked_ruler.GetHerHis] pedido para eu renunciar não é mais válido."

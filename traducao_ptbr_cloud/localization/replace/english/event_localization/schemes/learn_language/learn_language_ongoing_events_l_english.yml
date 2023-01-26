@@ -121,7 +121,7 @@
  easily_read_fables_modifier:0 "Fábulas de fácil leitura"
  seemingly_feeble_minded_modifier:0 "Aparentemente débil mental"
  seemingly_feeble_minded_modifier_desc:0 "Este personagem é frequentemente visto lendo fábulas infantis, dando a impressão de que sua mente pode ainda não ter amadurecido.."
- learn_language_ongoing.1120.b.tt:0 "#V duelo#! [insensitive_asshole.GetFirstName] punir [insensitive_asshole.GetHerHim] para [insensitive_asshole.GetHerHis] insolência!\n#fraco Este duelo NÃO é até a morte.#!Se você ganhar, você vai ganhar [prestige_i] [prestige|E] e um [modifier|E] para o [scheme|E]. Se você perder, será ridicularizado.\nSua [prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[insensitive_asshole.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [insensitive_asshole.GetProwess]#!"
+ learn_language_ongoing.1120.b.tt:0 "#V duelo#! [insensitive_asshole.GetFirstName] punir [insensitive_asshole.GetHerHim] para [insensitive_asshole.GetHerHis] insolência!\n#weak Este duelo NÃO é até a morte.#!Se você ganhar, você vai ganhar [prestige_i] [prestige|E] e um [modifier|E] para o [scheme|E]. Se você perder, será ridicularizado.\nSua [prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[insensitive_asshole.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [insensitive_asshole.GetProwess]#!"
  learn_language_ongoing.1121.trigger_failure:0 "meu duelo contra [insensitive_asshole.GetFirstNameNoTooltip] foi invalidado"
  learn_language_ongoing.1123.t:0 "$learn_language_ongoing.1120.t$"
  learn_language_ongoing.1123.desc:0 ""I yield! Please forgive me, you are not feeble-minded at all! Just spare me!" [insensitive_asshole.GetTitledFirstName] exclama.\nIsso vai ensinar [insensitive_asshole.GetHerHim] para me insultar #EMP#!."

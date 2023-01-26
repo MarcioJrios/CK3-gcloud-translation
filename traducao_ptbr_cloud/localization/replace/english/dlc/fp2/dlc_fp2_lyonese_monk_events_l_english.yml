@@ -124,7 +124,7 @@
  # #Schism
 
  fp2_lyonese_monk.0601.t:0 "[pope.Custom2('AppropriateGreetingNegative', acolyte_host)]"
- fp2_lyonese_monk.0601.desc:0 "Como um cachorro em seu vômito, os tolos sempre voltam à heresia de [GetFaithByKey('adoptionist').GetName]. Por toda a graça de Jesus e São Pedro, eu #EMP comando#! você entregar o herege [acolyte.GetFirstName] [acolyte.GetDynastyName] por escoriação — arrependa-se agora e o amor infinito da Igreja o verá perdoado, mas persista com essa heterodoxia e você será #Punido EMP#! ao lado [acolyte.GetHerHim]."
+ fp2_lyonese_monk.0601.desc:0 "Como um cachorro em seu vômito, os tolos sempre voltam à heresia de [GetFaithByKey('adoptionist').GetName]. Por toda a graça de Jesus e São Pedro, eu #EMP comando#! você entregar o herege [acolyte.GetFirstName] [acolyte.GetDynastyName] por escoriação — arrependa-se agora e o amor infinito da Igreja o verá perdoado, mas persista com essa heterodoxia e você será #EMP Punido#! ao lado [acolyte.GetHerHim]."
  fp2_lyonese_monk.0601.a:0 "Eu só posso implorar por [acolyte_host.GetFaith.HighGodNamePossessive] perdão."
  fp2_lyonese_monk.0601.b:0 "Eu sou #EMP nomeado#! de [acolyte_host.GetFaith.HighGodName]!"
  

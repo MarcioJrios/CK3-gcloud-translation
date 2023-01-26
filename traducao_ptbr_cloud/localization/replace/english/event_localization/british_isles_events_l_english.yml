@@ -54,7 +54,7 @@
  british_isles.1011.t:0 "Uma pechincha impensável"
  british_isles.1011.nord:0 "$k_england$ é uma terra difícil, mas abundante: os invernos são amenos e os verões úmidos, um lugar perfeito para colonos e guerreiros prosperarem.\nNo entanto, a competição de outros nórdicos e a resistência das políticas nativas remanescentes ficam mais ferozes a cada ano. Estamos todos lutando por um ponto de apoio, arrancando nossos próprios pequenos feudos e mesquinhos [ntd_actor.Custom('QueenKing')]doms, incapazes de obter domínio verdadeiro."
  british_isles.1011.brit:0 "A cada ano, as depredações nórdicas pioram. Eles enviam mais colonos, saqueiam mais ao longo de nossas costas e massacram mais de nosso clero..\nApesar disso, unir-se contra a ameaça estrangeira é difícil. Entre os conquistadores nórdicos e o amargo orgulho dos $anglo_saxon$ Senhores, parece que nunca teremos um [ntd_actor.Custom('QueenKing')] de $k_england$."
- british_isles.1011.outro:0 "\nmeu inimigo [ntd_recipient.GetTitledFirstName] é o principal entre meus candidatos ao governo da terra. Se [ntd_recipient.GetSheHe] concordasse com a #partição EMP#! o país, em vez de competir por ele, poucos poderiam contradizer nosso poderio combinado..."
+ british_isles.1011.outro:0 "\nmeu inimigo [ntd_recipient.GetTitledFirstName] é o principal entre meus candidatos ao governo da terra. Se [ntd_recipient.GetSheHe] concordasse com a #EMP partição#! o país, em vez de competir por ele, poucos poderiam contradizer nosso poderio combinado..."
  british_isles.1011.a:0 "Hum. Envie a carta."
  british_isles.1011.a.tt:0 ""
  british_isles.1011.b:0 "A carta, e uma mão aberta de amizade."

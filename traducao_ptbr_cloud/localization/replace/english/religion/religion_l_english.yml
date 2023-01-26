@@ -24,14 +24,14 @@
  REL_HEAD_TITLE_NAME:1 "[my_faith.GetAdjectiveNoTooltip|U] [my_faith.ReligiousHeadTitleName|U]"
  HOLY_SITE_UNDER_CONTROL:0 "#P Controlado por [FAITH.GetName]#!"
  HOLY_SITE_NOT_UNDER_CONTROL:0 "@warning_icon!#X Not controlled by [FAITH.GetName]#!"
- FAITH_WINDOW_HOLY_SITE_TOOLTIP:1 "#T [holy_site|E] de [HolySite.GetName]#!\n[GuiHolySiteItem.GetControlDesc]Quando controlado por [GuiHolySiteItem.GetFaith.GetName], os seguintes efeitos se aplicam:\n[HolySite.GetEffectDesc( GuiHolySiteItem.GetFaith )]\n\n#Eu clique para ver [HolySite.GetBarony.GetName]#!"
+ FAITH_WINDOW_HOLY_SITE_TOOLTIP:1 "#T [holy_site|E] de [HolySite.GetName]#!\n[GuiHolySiteItem.GetControlDesc]Quando controlado por [GuiHolySiteItem.GetFaith.GetName], os seguintes efeitos se aplicam:\n[HolySite.GetEffectDesc( GuiHolySiteItem.GetFaith )]\n\n#I clique para ver [HolySite.GetBarony.GetName]#!"
  FERVOR_GAIN_FROM_HOLY_SITES:0 "A partir de [holy_sites|E]"
  PIETY_HEAD_OF_FAITH:0 "[head_of_faith|E]"
  FERVOR_GAIN_SIZE_MODIFIER:0 "Tamanho de [faith|E]"
 
  #One-time fervor changes
  fervor_gain_built_temple_holding:0 "Novo Templo Segurando em [temple_location.GetName]"
- fervor_gain_upgraded_temple_holding_culture_parameter:0 "Manutenção do templo atualizada #fraco (de [tradition|E])#!"
+ fervor_gain_upgraded_temple_holding_culture_parameter:0 "Manutenção do templo atualizada #weak (de [tradition|E])#!"
  fervor_loss_religious_war:0 "[war_goal_title.GetName] ganhou com o [defender.GetFaith.GetAdherentNamePlural] em uma guerra santa"
  fervor_gain_religious_war:0 "[war_goal_title.GetName] perdido em um [attacker.GetFaith.GetAdjective] Guerra santa"
  fervor_loss_great_holy_war:0 "[war_goal_title.GetName] ganhou em um [attacker.GetFaith.Custom('GHWName')]"

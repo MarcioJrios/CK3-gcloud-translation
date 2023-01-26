@@ -28,7 +28,7 @@
  court.6003.b.desc_ending:0 "\nInfelizmente, meus melhores esforços foram infrutíferos, pois o culpado parece ter desaparecido e a trilha esfriou. Acho que nunca vou aprender a verdade."
  court.6003.a:0 "Não importa. Não foi grande coisa."
  court.6003.b:0 "Estou tão decepcionado comigo mesmo agora..."
- court.6003.c:1 "Seus #sanguessugas de EMP inúteis#! estão cobrindo para o autor, não é???"
+ court.6003.c:1 "Seus #EMP sanguessugas inúteis#! estão cobrindo para o autor, não é???"
  court.6003.c.tt:0 "Você ataca seus cortesãos"
  court.6003.d:0 "Você fez o seu melhor, [spymaster.GetTitledFirstName]..."
  court.6003.e:0 "Como você não conseguiu encontrar o autor, você assumirá a responsabilidade por eles!"
@@ -125,7 +125,7 @@
  court.6060.d:0 "A resposta está no fundo desta caneca!"
  # The Value of Letters
  court.6070.t:0 "O Valor das Letras"
- court.6070.desc:0 "I can feel the judging stares of all my courtiers on me while I slowly, carefully sign my name on a new decree with a trembling pen and uncertain hand. \nClaro, #assinatura EMP#! é uma palavra forte. Estou apenas refazendo letras esculpidas em uma placa de madeira - e mal conseguindo. Hoje mesmo [tutor_6070.Custom2('MyCharacterIntroduction', ROOT.Char)] is looking at me with what I guess is a mix of pity and disgust. \nAntes que eu possa repreender [tutor_6070.GetHerHim] por me desrespeitar, [tutor_6070.GetSheHe] intervém com um tom esperançoso: "My [ROOT.Char.GetLadyLord], perhaps it's time for you to learn to read and write properly?""
+ court.6070.desc:0 "I can feel the judging stares of all my courtiers on me while I slowly, carefully sign my name on a new decree with a trembling pen and uncertain hand. \nClaro, #EMP assinatura#! é uma palavra forte. Estou apenas refazendo letras esculpidas em uma placa de madeira - e mal conseguindo. Hoje mesmo [tutor_6070.Custom2('MyCharacterIntroduction', ROOT.Char)] is looking at me with what I guess is a mix of pity and disgust. \nAntes que eu possa repreender [tutor_6070.GetHerHim] por me desrespeitar, [tutor_6070.GetSheHe] intervém com um tom esperançoso: "My [ROOT.Char.GetLadyLord], perhaps it's time for you to learn to read and write properly?""
  court.6070.a:0 "Me ensine #EMP agora mesmo#!!"
  court.6070.a.success:0 "Eu aprendo com sucesso a ler e escrever"
  court.6070.a.failure:0 "Aprender a ler e escrever é uma causa perdida para mim"

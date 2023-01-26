@@ -268,7 +268,7 @@
  story_cycle_house_feud_continue_tt:0 "continuar o [house_feud|E] contra [house|E] [house_feud_rival.GetHouse.GetBaseName]"
  # Modifiers
  house_feud_story_modifier:0 "Briga doméstica"
- house_feud_story_modifier_desc:1 "Esta casa está tendo uma corrida [house_feud|E] com uma família rival.\n#fraco O status de feudo da sua casa pode ser visto na situação atual#!"
+ house_feud_story_modifier_desc:1 "Esta casa está tendo uma corrida [house_feud|E] com uma família rival.\n#weak O status de feudo da sua casa pode ser visto na situação atual#!"
  house_feud_terrible_modifier:0 "família patética"
  house_feud_terrible_modifier_desc:0 "Esta casa tem a reputação de ser dominada por seus inimigos."
  house_feud_bad_modifier:0 "Família Fraca"
@@ -356,7 +356,7 @@
  action_ongoing_house_feud:0 "casa em andamento [house_feud|E]"
  action_ongoing_house_feud_label:0 "Sua casa está brigando com [recipient.GetHouse.GetBaseNameNoTooltip]"
  action_ongoing_house_feud_desc:1 "Sua família vê Casa [recipient.GetHouse.GetBaseName] como inimigos, e receberão recompensas por superá-los\nMatando, [torturing|E], trair, roubar [artifacts|E], e ganhando [wars|E] contra seus membros aumentará sua pontuação\n\n$house_feud_balance_action_tt$\n"
- action_ongoing_house_feud_click:0 "#Eu clique para ver [house_feud|E] chefe da casa#!"
+ action_ongoing_house_feud_click:0 "#I clique para ver [house_feud|E] chefe da casa#!"
  action_ongoing_house_feud_unimportant:0 "@warning_icon! #N Your House is currently losing the [house_feud|E]#!"
  swap_feud_tt:0 "Fim [house_feud|E] com [house|E] [house_feud_existing.GetBaseName]"
  # Tweaks

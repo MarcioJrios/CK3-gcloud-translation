@@ -3,7 +3,7 @@
  action_can_offer_assistance_label:0 "Você pode se oferecer para participar [recipient.GetShortUINamePossessiveNoTooltip] Guerra em troca de ouro"
  action_can_offer_assistance_combined_label:0 "[recipient.GetShortUINameNoTooltip]"
  action_can_offer_assistance_desc:0 "[recipient.GetUIName] é um [struggle_involved|E] [ruler|E] lutando contra um [war|E] contra outro [realm|E], permitindo que você ofereça [contract_assistance|E].$action_can_offer_assistance_HELP$"
- action_can_offer_assistance_click:0 "#Eu clique para oferecer [recipient.GetHerHim]#!"
+ action_can_offer_assistance_click:0 "#I clique para oferecer [recipient.GetHerHim]#!"
  action_can_offer_assistance_combined_group_label:0 "Pode entrar em guerras por ouro"
  action_can_offer_assistance_combined_group_name:0 "Pode juntar [recipient.GetShortUINamePossessiveNoTooltip] guerra pelo ouro"
  action_can_offer_assistance_combined_group_description:0 "De outros [struggle_involved|E] [rulers|E] estão lutando [wars|E], permitindo que você se ofereça para ajudá-los em troca de [gold|E]"

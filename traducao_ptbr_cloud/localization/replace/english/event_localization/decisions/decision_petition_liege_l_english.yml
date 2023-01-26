@@ -6,11 +6,11 @@
  petition_liege_decision_effects:1 "você viaja para [THIS.Char.GetLiege.GetTitledFirstNamePossessive] tribunal para entregar a sua Petição"
  petition_liege_decision_confirm:1 "$petition_liege_decision$"
  petition_liege_decision_second_tooltip:0 "$DESC$\n$petition_liege_grace_tt$\n\n$IS_VALID_BLOCKER$"
- petition_liege_grace_tt:0 "#Petition Liege fraco ficará indisponível por 5 anos#!"
+ petition_liege_grace_tt:0 "#weak Petition Liege ficará indisponível por 5 anos#!"
  CHOOSE_PETITION_DECISION_NEXT_STEP_BUTTON:0 "Escolha o tipo de petição"
- petition_liege_warning_effect:0 "#fraco [liege|E] personalidade, [opinion|E], e [petition_liege|E] tipo afetam as chances de aceitação#!"
+ petition_liege_warning_effect:0 "#weak [liege|E] personalidade, [opinion|E], e [petition_liege|E] tipo afetam as chances de aceitação#!"
  # Council
- petition_liege_decision_option_council_seat:0 "Nomeação do Conselho\n#subvenção baixa [council|E] assento#!"
+ petition_liege_decision_option_council_seat:0 "Nomeação do Conselho\n#low Ceder [council|E] assento#!"
  petition_liege_council_seat_desc:0 "Solicitar [ROOT.Char.GetLiege.GetTitledFirstName] conceder-lhe um assento em [ROOT.Char.GetLiege.GetHerHis] [council|E]"
  petition_liege_council_seat_tooltip:0 "$petition_liege_decision_second_tooltip$"
  petition_liege_council_seat_me_tt:0 "#X Você já está no [council|E] do seu [liege|E]#!"
@@ -83,7 +83,7 @@
  petition_liege_decision_effects_fortify_border:0 "[THIS.Char.GetLiege.GetSheHe|U] pode fortalecer sua fronteira [counties|E]"
 
  # Title Liege
- petition_liege_decision_option_title_liege:0 "Reivindicação de concessão\n#subvenção baixa [claimed|E] [title|E]#!"
+ petition_liege_decision_option_title_liege:0 "Reivindicação de concessão\n#low ceder [claimed|E] [title|E]#!"
  petition_liege_title_liege_desc:0 "Solicitar [ROOT.Char.GetLiege.GetTitledFirstName] conceder-lhe um [claimed|E] [title|E] de [ROOT.Char.GetLiege.GetHerHis]"
  petition_liege_title_liege_tooltip:0 "$petition_liege_decision_second_tooltip$"
  petition_liege_title_liege_tt:0 "#X Nenhum dos seus [claims|E] são mantidos por seu [liege|E], ou eles não podem se dar ao luxo de se desfazer do [title|E]#!"

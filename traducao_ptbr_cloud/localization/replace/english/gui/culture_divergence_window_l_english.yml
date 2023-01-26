@@ -5,7 +5,7 @@
  DIVERGENCE_TOTAL_COST:0 "Custo: [DivergenceWindow.GetDivergeCostString]"
  DIVERGENCE_COST_TOOLTIP:0 "#Custo de divergência T: [DivergenceWindow.GetDivergeCostString]#!\n[DivergenceWindow.GetDivergeCostBreakdown]"
  DIVERGE_CULTURE_NAME:0 "[Select_CString( StringIsEmpty( DivergenceWindow.GetNewCultureName ), 'Choose Name', '' )] [DivergenceWindow.GetNewCultureName]"
- CULTURE_DIVERGENCE_COOLDOWN:0 "#fraco Cada governante só pode divergir uma cultura uma vez. Esta [divergent_culture|E] não pode ter outra Cultura divergindo dela por [EmptyScope.ScriptValue('culture_divergence_cooldown')|0] anos.#!"
+ CULTURE_DIVERGENCE_COOLDOWN:0 "#weak Cada governante só pode divergir uma cultura uma vez. Esta [divergent_culture|E] não pode ter outra Cultura divergindo dela por [EmptyScope.ScriptValue('culture_divergence_cooldown')|0] anos.#!"
  CULTURE_CREATION_DIVERGENCE_ACCEPTANCE_TEXT:0 "Aceitação de [GetPlayer.GetCulture.GetCollectiveNoun] será 100%"
  CULTURE_AESTHETICS_DIVERGE_TOOLTIP:0 "#T [CultureAesthetics.GetName] Estética#!\n[CultureAesthetics.GetDesc]"
  CULTURE_AESTHETICS_DESC:0 "Naming Practices: $NAME_LIST$\nArchitecture: $BUILDING|V$\nFashion: $CLOTHES|V$\nCoat of Arms: $COAT_OF_ARMS|V$\nMilitary Equipment: $UNIT|V$"

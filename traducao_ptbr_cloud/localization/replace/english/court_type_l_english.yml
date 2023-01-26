@@ -12,7 +12,7 @@
  COURT_TYPES_FOR_CULTURE:1 "Tipos de tribunal para [Culture.GetEthos.GetName] [ethos|e]"
 
  COURT_TYPE_LEVEL_MODIFIER:1 "[court_type|E]"
- TT_COURT_TYPE_BUTTON:1 "#T [court_type|E]: [CourtTypeWindow.GetActiveCourtTypeItem.GetNameNoTooltip]\n#!#Eu clique para mudar#!"
+ TT_COURT_TYPE_BUTTON:1 "#T [court_type|E]: [CourtTypeWindow.GetActiveCourtTypeItem.GetNameNoTooltip]\n#!#I clique para mudar#!"
 
  COURT_TYPE_EFFECT_OWNER:0 "#Proprietário do Tribunal S:#!"
  COURT_TYPE_EFFECT_COURTIER_GUEST:0 "#cortesãos e convidados baixos:#!"

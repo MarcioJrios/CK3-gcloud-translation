@@ -302,7 +302,7 @@
  lover.3208.opening:0 "[writing_lover.Custom2('AppropriateGreeting', ROOT.Char)]"
  lover.3208.desc_object:0 "Esta [ROOT.Char.Custom2('LoverSeductionObject', SCOPE.sC('writing_lover'))] é apenas um lembrete do meu desejo e devoção\n"
  lover.3208.a:0 "Isto é tão doce!"
- lover.3208.a_terrible:0 "#eu sei [writing_lover.GetSheHe] significa bem, mas aquele poema #EMP#!...#!"
+ lover.3208.a_terrible:0 "#I sei [writing_lover.GetSheHe] significa bem, mas aquele poema #EMP#!...#!"
  lover.3208.a_okay:0 "#F Mesmo se [writing_lover.GetHerHis] a poesia precisa de algum trabalho...#!"
  lover.3208.a_great:0 "#F [writing_lover.GetSheHe|U] pode até escrever poesia eloquente!#!"
  lover.3208.a_amazing:0 "#F Ler este poema me faz apaixonar [writing_lover.GetHerHim] tudo de novo!#!"

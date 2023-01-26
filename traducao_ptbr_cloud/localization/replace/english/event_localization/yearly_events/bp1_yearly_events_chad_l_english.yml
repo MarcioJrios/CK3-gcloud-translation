@@ -92,7 +92,7 @@
  bp1_yearly.3202.b.success:0 "você convence [host.GetTitledFirstNameNoTooltip] de [enemy.GetFirstNamePossessiveNoTooltip] prevaricação"
  bp1_yearly.3202.b.failure:0 "Você não consegue convencer [host.GetTitledFirstNameNoTooltip] de [enemy.GetFirstNamePossessiveNoTooltip] prevaricação"
  bp1_yearly.3202.c:0 ""It's high time we end these games, [enemy.GetFirstNameNoTooltip].""
- bp1_yearly.3202.c.tt:0 "#V duelo#! [enemy.GetFirstName].\n#fraco Este duelo NÃO é até a morte. Embora seja possível perecer.#!Se você vencer, a verdade do que aconteceu aqui virá à tona. Se você perder, [enemy.GetFirstNameNoTooltip] terá realmente superado você.\nSua [prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[enemy.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [enemy.GetProwess]#!"
+ bp1_yearly.3202.c.tt:0 "#V duelo#! [enemy.GetFirstName].\n#weak Este duelo NÃO é até a morte. Embora seja possível perecer.#!Se você vencer, a verdade do que aconteceu aqui virá à tona. Se você perder, [enemy.GetFirstNameNoTooltip] terá realmente superado você.\nSua [prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[enemy.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [enemy.GetProwess]#!"
  bp1_yearly.3203.sc_result_won:0 "Você venceu em um duelo contra [sc_loser.GetTitledFirstNameNoTooltip]"
  bp1_yearly.3203.sc_result_lost:1 "Você perdeu em um duelo contra [sc_victor.GetTitledFirstNameNoTooltip]"
  bp1_yearly.3204.sc_invalid:0 "seu duelo contra [enemy.GetTitledFirstNameNoTooltip] foi invalidado"

@@ -105,6 +105,6 @@
  COMBAT_PREDICTION_DEBUG_SCORE:0 "#D (DEBUG SCORE: $VALUE$)#!"
  MAA_COUNTERED_IN_COMBAT:0 "$NAME$: $EFFECTIVENESS|%V0$"
  MAAS_COUNTERED_IN_COMBAT:0 "[men_at_arms|E] lutando com eficácia reduzida devido a [men_at_arms_counter|E]:"
- COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]: [Combat.GetLeftSide.GetCurrentFightingMen|0] vs [Combat.GetRightSide.GetCurrentFightingMen|0]\n#Eu clique para ver#!"
+ COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]: [Combat.GetLeftSide.GetCurrentFightingMen|0] vs [Combat.GetRightSide.GetCurrentFightingMen|0]\n#I clique para ver#!"
  COMMANDER_ADVANTAGE_DESC:1 "#Comandante T [advantage|E]: $ADVANTAGE$#!\nMartial skill: $SKILL|+=$$MODIFICADORES$"
  #COMMANDER_ADVANTAGE_ADJUSTED_DESC:2 "" # <DELETE THIS KEY>

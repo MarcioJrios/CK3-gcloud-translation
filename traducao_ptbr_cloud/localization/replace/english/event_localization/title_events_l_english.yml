@@ -1,6 +1,6 @@
 ﻿l_english:
  title_event_francia_name_change.title:0 "Fim de uma era"
- title_event_francia_name_change.desc:0 "O reinado da dinastia Karling chegou ao fim!\no [francia_title.GetName] finalmente escapou de suas mãos. Com a remoção dos Karlings, essas terras realmente não fazem mais parte de seu antigo império..\nComigo como o futuro [ROOT.Char.GetTitleAsNameNoTooltip], temos um novo e brilhante destino à nossa frente. É, portanto, apropriado remover #EMP todo e qualquer#! lembretes de sua influência. Incluindo o próprio #nome EMP#! em si!"
+ title_event_francia_name_change.desc:0 "O reinado da dinastia Karling chegou ao fim!\no [francia_title.GetName] finalmente escapou de suas mãos. Com a remoção dos Karlings, essas terras realmente não fazem mais parte de seu antigo império..\nComigo como o futuro [ROOT.Char.GetTitleAsNameNoTooltip], temos um novo e brilhante destino à nossa frente. É, portanto, apropriado remover #EMP todo e qualquer#! lembretes de sua influência. Incluindo o próprio #EMP nome#! em si!"
  title_event_francia_name_change.a:0 "Uma nova era começa!"
  title_event_francia_name_change.a_tt_1:0 "o [francia_title.GetName] muda o nome para #high $k_france$#!"
  title_event_francia_name_change.a_tt_2:0 "o [francia_title.GetName] muda o nome para #high $k_germany$#!"

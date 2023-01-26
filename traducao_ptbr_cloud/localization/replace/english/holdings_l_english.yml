@@ -37,7 +37,7 @@
  COUNTY_HOLDING_MODIFIER_INCOME:0 "Renda de $TYPE|V$ participações no [county|E]"
  COUNTY_DEVELOPMENT_TAX_MOD:1 "A partir de [county_development|E]: $VALUE|=+%0$"
  COUNTY_DEVELOPMENT_LEVY_MOD:1 "A partir de [county_development|E]: $VALUE|=+%0$"
- IGNORED_DEVELOPMENT:0 "#fraco $VALUE$#! "
+ IGNORED_DEVELOPMENT:0 "#weak $VALUE$#! "
  COUNTY_DEVELOPMENT:0 "$VALUE$"
  SUPPLY_MINIMUM:0 "Fornecimento Mínimo"
  
@@ -61,5 +61,5 @@
  HOLDING_TT_SUPPLY_TT:0 "#T [supply_limit|E]: [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]\n#![Holding.GetProvince.GetSupplyLimitDescFor( GetPlayer )]"
  HOLDING_TT_SUPPLY:0 "[supply_limit|E]: #tooltip:HOLDING_TT_SUPPLY_TT [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]#!"
  HOLDING_TT_EMPTY:0 "Sem retençãoControlado por: [Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.GetUIName]"
- HOLDING_CLICK_TOOLTIP:0 "#Eu clique para selecionar#!"
+ HOLDING_CLICK_TOOLTIP:0 "#I clique para selecionar#!"
  

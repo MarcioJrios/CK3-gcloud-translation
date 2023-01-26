@@ -230,7 +230,7 @@
  yearly.8000.e.tt_eat_vassal:0 "é comido por você"
  yearly.8000.e.tt_secret:0 "Você obtém um segredo de assassinato"
  yearly.8100.t:0 "Camponês em êxtase"
- yearly.8100.desc:0 "Os camponeses no [county.GetName] estão de bom humor. A colheita é abundante, as estradas são seguras e os anciãos da aldeia estão contando histórias absurdas de vacas produzindo leite carregado de mel e gansos pondo ovos de ouro..\nOs camponeses estão elogiando #enfatize-me#! por sua fortuna, e enviaram uma delegação carregando presentes!"
+ yearly.8100.desc:0 "Os camponeses no [county.GetName] estão de bom humor. A colheita é abundante, as estradas são seguras e os anciãos da aldeia estão contando histórias absurdas de vacas produzindo leite carregado de mel e gansos pondo ovos de ouro..\nOs camponeses estão #emphasis me#! elogiando por sua fortuna, e enviaram uma delegação carregando presentes!"
  yearly.8100.a:0 "Eu graciosamente aceito seus presentes!"
  yearly.8100.b:0 "Intrigante... send soldiers to collect more 'gifts!'"
  yearly.8100.c:0 "Não, eles precisam de seu excedente mais do que eu."

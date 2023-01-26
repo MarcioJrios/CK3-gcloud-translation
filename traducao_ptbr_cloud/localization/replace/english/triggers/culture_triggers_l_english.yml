@@ -1,31 +1,31 @@
 ﻿l_english:
 
  HAS_INNOVATION_THIRD:0 "o [CULTURE.GetName] a cultura tem o [INNOVATION.GetName] inovação"
- NOT_HAS_INNOVATION_THIRD:0 "o [CULTURE.GetName] cultura faz #ousado não#! tenha o [INNOVATION.GetName] inovação"
+ NOT_HAS_INNOVATION_THIRD:0 "o [CULTURE.GetName] cultura faz #bold não#! tenha o [INNOVATION.GetName] inovação"
 
  MUST_BE_UNLOCKED_BY_DECISION:0 "Deve ser desbloqueado por decisão"
 
  HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] a cultura alcançou $ERA$ era"
- NOT_HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] cultura tem #ousado não#! alcançado $ERA$ era"
+ NOT_HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] cultura tem #bold não#! alcançado $ERA$ era"
 
  DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] é de jure à deriva em direção [TARGET_TITLE.GetName]"
  NOT_DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] é #bold não#! de jure à deriva em direção [TARGET_TITLE.GetName]"
  DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "É de jure à deriva em direção [TARGET_TITLE.GetName]"
- NOT_DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "É #ousado não#! de jure à deriva em direção [TARGET_TITLE.GetName]"
+ NOT_DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "É #bold não#! de jure à deriva em direção [TARGET_TITLE.GetName]"
 
 
  DE_JURE_DRIFT_PROGRESS_TRIGGER:0 "De jure drift progresso de [TITLE.GetName] para [TARGET_TITLE.GetName] é $OPERATOR$ $VALUE|V0$"
 
  YOU_CAN_ONLY_CHANGE_CULTURE_ONCE:0 "Você não pode mudar voluntariamente sua cultura mais de uma vez por vida"
  KNOWS_LANGUAGE_FIRST:1 "Eu sei [CULTURE_PILLAR.GetName]"
- KNOWS_LANGUAGE_FIRST_NOT:1 "Eu faço #ousado não#! conhecer [CULTURE_PILLAR.GetName]"
+ KNOWS_LANGUAGE_FIRST_NOT:1 "Eu faço #bold não#! conhecer [CULTURE_PILLAR.GetName]"
  KNOWS_LANGUAGE_THIRD:1 "[CHARACTER.GetShortUIName|U] sabe [CULTURE_PILLAR.GetName]"
  KNOWS_LANGUAGE_THIRD_NOT:1 "[CHARACTER.GetShortUIName|U] #bold não#! conhecer [CULTURE_PILLAR.GetName]"
  KNOWS_LANGUAGE_GLOBAL:1 "sabe [CULTURE_PILLAR.GetName]"
  KNOWS_LANGUAGE_GLOBAL_NOT:1 "#bold não#! conhecer [CULTURE_PILLAR.GetName]"
 
  KNOWS_LANGUAGE_OF_CULTURE_FIRST:1 "Eu sei [TARGET_CULTURE.GetLanguage.GetName]"
- KNOWS_LANGUAGE_OF_CULTURE_FIRST_NOT:1 "Eu faço #ousado não#! conhecer [TARGET_CULTURE.GetLanguage.GetName]"
+ KNOWS_LANGUAGE_OF_CULTURE_FIRST_NOT:1 "Eu faço #bold não#! conhecer [TARGET_CULTURE.GetLanguage.GetName]"
  KNOWS_LANGUAGE_OF_CULTURE_THIRD:1 "[CHARACTER.GetShortUIName|U] sabe [TARGET_CULTURE.GetLanguage.GetName]"
  KNOWS_LANGUAGE_OF_CULTURE_THIRD_NOT:1 "[CHARACTER.GetShortUIName|U] #bold não#! conhecer [TARGET_CULTURE.GetLanguage.GetName]"
  KNOWS_LANGUAGE_OF_CULTURE_GLOBAL:1 "sabe [TARGET_CULTURE.GetLanguage.GetName]"

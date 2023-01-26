@@ -324,7 +324,7 @@
  task_fabricate_claim:0 "Fabricar Reivindicação no Condado"
  task_fabricate_claim_effect_desc:1 "#S At #V 100%#!#!:\n$TAB$Oportunidade de obter um [unpressed_claim|E]"
  task_fabricate_claim_duchy_claim:0 "\n$EFFECT_LIST_BULLET$#P Reivindicação sobre o Ducado#!"
- task_fabricate_claim_vassal_opinion_loss:0 "\n$EFFECT_LIST_BULLET$#Perda de Opinião do Vassalo N#!"
+ task_fabricate_claim_vassal_opinion_loss:0 "\n$EFFECT_LIST_BULLET$#N Perda de Opinião de Vassalo#!"
  task_fabricate_claim_piety_loss:0 "\n$EFFECT_LIST_BULLET$#N Perda de Piedade#!"
  task_fabricate_claim_upset_target:0 "\n$EFFECT_LIST_BULLET$#N Alvo Perturbado#!"
  task_fabricate_claim_notification_tooltip:0 "A partir de $task_fabricate_claim$"

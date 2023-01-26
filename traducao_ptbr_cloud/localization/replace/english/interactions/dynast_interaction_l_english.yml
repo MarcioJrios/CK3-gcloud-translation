@@ -5,16 +5,16 @@
  disinherit_interaction_notification:0 "Membro da Dinastia Deserdada"
 
  restore_inheritance_interaction:0 "Restaurar Herança"
- restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restaurar [recipient.GetShortUINameNoTooltip] ao natural [line_of_succession|E]\n\n#fraco Isso está disponível porque [recipient.GetSheHe] tem sido [disinherited|E]#!"
+ restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restaurar [recipient.GetShortUINameNoTooltip] ao natural [line_of_succession|E]\n\n#weak Isso está disponível porque [recipient.GetSheHe] tem sido [disinherited|E]#!"
  restore_inheritance_interaction_notification:0 "Herança Restaurada"
 
  denounce_interaction:0 "Denunciar"
- denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#fraco Isso dará uma todos os membros do nosso [dynasty|E] um [imprisonment_reason|E] contra [recipient.GetHerHim]#!"
+ denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#weak Isso dará uma todos os membros do nosso [dynasty|E] um [imprisonment_reason|E] contra [recipient.GetHerHim]#!"
  denounce_interaction_notification:0 "Membro da Dinastia Denunciado"
 
  forgive_interaction:0 "Perdoar"
- denounced_change_to_forgiven:0 "O V $denounced_opinion$ Opinião#! #fraco (-50)#! muda para #V $forgave_denounced_opinion$#! #weak (-25)#! (#P +25#! [opinion|E])"
- forgiven_changed_to_denounced:0 "O V $forgave_denounced_opinion$ Opinião#! #fraco (-25)#! muda para #V $denounced_opinion$#! #weak (-50)#! (#N -25#! [opinion|E])"
+ denounced_change_to_forgiven:0 "O V $denounced_opinion$ Opinião#! #weak (-50)#! muda para #V $forgave_denounced_opinion$#! #weak (-25)#! (#P +25#! [opinion|E])"
+ forgiven_changed_to_denounced:0 "O V $forgave_denounced_opinion$ Opinião#! #weak (-25)#! muda para #V $denounced_opinion$#! #weak (-50)#! (#N -25#! [opinion|E])"
  forgive_interaction_desc:0 "$dynasty_interaction_header$Retrair o [denouncement|E] de [recipient.GetShortUINameNoTooltip]"
  forgive_interaction_notification:0 "Membro da Dinastia Perdoada"
 
@@ -23,7 +23,7 @@
  call_dynasty_member_to_war_interaction_extra_icon:0 "$hook_extra_icon$"
 
  dynast_legitimize_bastard_interaction:1 "Legitimize Bastard #weak (Dynasty)#!"
- dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$Declarar [recipient.GetShortUINameNoTooltip] ser um $game_concept_legitimized_bastard$\n\n#fraco Isso está disponível porque [recipient.GetSheHe] é um [bastard|E] do meu [dynasty|E]#!"
+ dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$Declarar [recipient.GetShortUINameNoTooltip] ser um $game_concept_legitimized_bastard$\n\n#weak Isso está disponível porque [recipient.GetSheHe] é um [bastard|E] do meu [dynasty|E]#!"
  dynast_legitimize_bastard_interaction_notification:0 "Bastardo legitimado"
 
  dynast_claim_title_interaction:0 "Título da reivindicação"

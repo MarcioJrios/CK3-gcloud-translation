@@ -30,7 +30,7 @@
  child_personality.7011.zealous:0 "Uma crença forte irá atendê-lo bem, [child.Custom('GirlBoy')]."
  child_personality.7011.ambitious:0 "Isso mesmo, nunca esqueça que o divino está do seu lado!"
  child_personality.7011.sadistic:0 "Diga o que quiser, mas sem escrúpulos servirá [child.GetHerHim] Nós vamos."
- child_personality.7011.change.zealous:0 "Sua #fé EMP#! está acima de tudo, meu querido filho."
+ child_personality.7011.change.zealous:0 "Sua #EMP fé#! está acima de tudo, meu querido filho."
  child_personality.7011.change.ambitious:0 "A fé é #EMP apenas um meio para um fim!#!"
  child_personality.7011.change.sadistic:0 "Criança, este mundo é escuro e cheio de horrores. É matar ou ser morto."
  clever_child_opinion:0 "criança inteligente"
@@ -126,7 +126,7 @@
  child_personality.7061.humble:0 "Você faz bem em tratar palavras sagradas com reverência."
  child_personality.7061.cynical:0 "Ha! É apenas um monte de tripas de qualquer maneira."
  child_personality.7061.content:0 "Contente-se em não saber, eu digo."
- child_personality.7061.change.humble:0 "Respeite essas palavras! Eles possuem a #sabedoria EMP#! e #EMP significado!#!"
+ child_personality.7061.change.humble:0 "Respeite essas palavras! Eles possuem a #EMP sabedoria#! e #EMP significado!#!"
  child_personality.7061.change.cynical:0 "é tudo bobagem, [child.Custom('GirlBoy')]. Ignore isto."
  child_personality.7061.change.content:0 "Satisfaça-se com o que já sabe e será feliz."
  

@@ -314,7 +314,7 @@
  feast_default.5002.c:0 "[lunatic_host.GetFirstNameNoTooltip]! Deixe-me juntar a vocês dois!"
 
  feast_default.5003.t:0 "$feast_header$ entretenimento doloroso"
- feast_default.5003.desc:0 "Pedaços de metal pontiagudo em alguns pratos, lascas nas cadeiras, pequenos #acidentes de EMP#! contusões promissoras...\nSentado à cabeceira da mesa, meu [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sadistic_host'))] [sadistic_host.GetTitledFirstName] não pode esconder o sorriso frio que se espalha [sadistic_host.GetHerHis] cara como outro [guest.GetLadyLord], [guest.GetTitledFirstName], cospe sangue em [guest.GetHerHis] prato."
+ feast_default.5003.desc:0 "Pedaços de metal pontiagudo em alguns pratos, lascas nas cadeiras, pequenos #EMP acidentes#! contusões promissoras...\nSentado à cabeceira da mesa, meu [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sadistic_host'))] [sadistic_host.GetTitledFirstName] não pode esconder o sorriso frio que se espalha [sadistic_host.GetHerHis] cara como outro [guest.GetLadyLord], [guest.GetTitledFirstName], cospe sangue em [guest.GetHerHis] prato."
  feast_default.5003.a:0 ""This is unacceptable!""
  feast_default.5003.b:0 "eu vou cuidar [guest.GetFirstNameNoTooltip] por agora."
  feast_default.5003.c:0 "Que festa gloriosa!"

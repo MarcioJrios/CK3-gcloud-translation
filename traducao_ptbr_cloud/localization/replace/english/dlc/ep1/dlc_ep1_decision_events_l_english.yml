@@ -1,6 +1,6 @@
 ﻿l_english:
  ep1_decision.0101.t:0 "Fora com o velho"
- ep1_decision.0101.desc:0 "Simuladores! Preguiçosos! fazer nada!\nMinha corte está #EMP cercada#! com parasitas como pulgões em um jardim, esquartejados em todos os cômodos disponíveis, roncando dia e noite e deixando seus penicos espalhados pelos corredores apertados.\nIsso não pode ficar. Simplesmente não temos #Sala EMP#! para todos esses estranhos errantes."
+ ep1_decision.0101.desc:0 "Simuladores! Preguiçosos! fazer nada!\nMinha corte está #EMP cercada#! com parasitas como pulgões em um jardim, esquartejados em todos os cômodos disponíveis, roncando dia e noite e deixando seus penicos espalhados pelos corredores apertados.\nIsso não pode ficar. Simplesmente não temos #EMP Sala#! para todos esses estranhos errantes."
  ep1_decision.0101.a:0 "[capital.GetNameNoTierNoTooltip] não é uma pousada. Vá embora, sanguessugas!"
  ep1_decision.0101.b:0 "Todo mundo que não tem emprego ou meu sangue, #EMP fora#!!"
  ep1_decision.0101.c:0 "Acho que poderíamos colocar algumas camas nos estábulos..."

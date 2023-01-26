@@ -107,9 +107,9 @@
 
  COURT_POSITION_SALARY_BREAKDOWN_BASE:0 "Salário base"
  
- culture_era_late_medieval_salary_mod:0 "#V$culture_era_late_medieval$#! [era|E]"
- culture_era_high_medieval_salary_mod:0 "#V$culture_era_high_medieval$#! [era|E]"
- culture_era_early_medieval_salary_mod:0 "#V$culture_era_early_medieval$#! [era|E]"
+ culture_era_late_medieval_salary_mod:0 "#V $culture_era_late_medieval$#! [era|E]"
+ culture_era_high_medieval_salary_mod:0 "#V $culture_era_high_medieval$#! [era|E]"
+ culture_era_early_medieval_salary_mod:0 "#V $culture_era_early_medieval$#! [era|E]"
  esteemed_hospitality_salary_mod:0 "#V $tradition_estimad_hospitality_name$#! [tradition|E]"
  empire_salary_mod:0 "[emperor|E]"
  tribal_salary_mod:0 "[tribal|E]"
@@ -280,4 +280,4 @@
  has_an_inspiration:0 "Tem um ativo [inspiration|E]"
  has_a_completed_inspiration:0 "Já completou um [inspiration|E]"
  COURT_POSITIONS_YOUR_SALARY:0 "$COURT_POSITION$"
- does_not_have_a_full_time_job:0 "É #ousado não#! já empregado em tempo integral [court_position|E] or como um [councillor|E]"
+ does_not_have_a_full_time_job:0 "É #bold não#! já empregado em tempo integral [court_position|E] or como um [councillor|E]"

@@ -102,7 +102,7 @@
  petition_liege.0101.bribe_factions.council_seat:0 "Meus conselheiros devem ser irrepreensíveis."
  petition_liege.0101.bribe_factions.pay_debt:0 "Você está em dívida comigo e deve agir de acordo."
  petition_liege.0101.bribe_factions.war_aid:0 "Jure sua lealdade e terá meus homens."
- petition_liege.0101.bribe_factions:1 "Não tolero #EMP nenhum#! discórdia interna. #Período EMP#!."
+ petition_liege.0101.bribe_factions:1 "Não tolero #EMP nenhum#! discórdia interna. #EMP Período#!."
  petition_liege.0101.bribe_factions.faction_war:0 "Assista agora, pois espero o mesmo de você."
  petition_liege.0101.bribe_factions.county_control:0 "Em troca, acredito que poderei contar com você?"
  petition_liege.0101.bribe_factions.county_convert:0 "Prove sua lealdade e eu despacharei o [ROOT.Char.GetFaith.AltPriestTermPlural]."

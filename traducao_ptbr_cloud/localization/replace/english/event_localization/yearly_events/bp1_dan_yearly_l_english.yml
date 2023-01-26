@@ -170,7 +170,7 @@
  
  bp1_yearly.7058.t:0 "Catástrofe Provisória"
  bp1_yearly.7058.desc:1 "O coro matinal de pássaros cantando me acompanha até o porão, a luz do amanhecer dando lugar à escuridão sombria iluminada apenas por lâmpadas crepitantes. Eu bocejo e me estico enquanto ando, meus pés pisando nas tábuas do assoalho.\nAssim que meus olhos se adaptam à falta de luz, uma tragédia culinária é revelada por eles: caroços de maçã, migalhas espalhadas, ossos limpos de sua carne. Em estado de choque, eu olho ao redor da sala inteira, mas em todos os lugares que meus olhos pousam, eles encontram ainda mais evidências..\nDe repente, no canto, um #EMP arroto suave e contente#!..."
- bp1_yearly.7058.glutton:0 "Eu tenho mais comida! Vamos abrir o esconderijo secreto #EMP!#!"
+ bp1_yearly.7058.glutton:0 "Eu tenho mais comida! Vamos abrir o esconderijo secreto #EMP !#!"
  bp1_yearly.7058.a:1 "Oh, você vai pagar isso de volta. E mais, se você tiver."
  bp1_yearly.7058.b:0 "Se você gostou da adega, vai #EMP adorar#! a masmorra!"
  bp1_yearly.7058.c:1 "#EMP *Suspiro*#! meu deleite... Eu acho..."
@@ -181,7 +181,7 @@
     
  bp1_yearly.7100.t:0 "Aversão a Detestar"
  bp1_yearly.7100.desc:0 "Em um momento eu estava desfrutando de um agradável passeio ao sol ao redor do [owned_county.GetName] e no próximo estou coberto de excrementos e chafurdando na lama. Uma vez que limpei furiosamente os excrementos do meu [ROOT.Char.Custom('EyeEyes')], Eu encontro o culpado com facilidade.\n\n"[potential_nemesis.GetTitledFirstName] sends [potential_nemesis.GetHerHis] regards!" O camponês pendurado na janela grita antes de fugir do local.\nPateticamente, eu tento lavar uma pele que eu particularmente aprecio em um riacho próximo, mas está claro que é impossível salvá-la.."
- bp1_yearly.7100.a:0 "Agora é #EMPpessoal...#!"
+ bp1_yearly.7100.a:0 "Agora é #EMP pessoal...#!"
  bp1_yearly.7100.b:0 "vou me limpar em [potential_nemesis.GetHerHis] sangue!"
  bp1_yearly.7100.c:0 "marque minhas palavras, [potential_nemesis.GetFirstNameNoTooltip]: esta pele será substituída."
  bp1_yearly.7100.d:0 "A vingança está abaixo de mim..."

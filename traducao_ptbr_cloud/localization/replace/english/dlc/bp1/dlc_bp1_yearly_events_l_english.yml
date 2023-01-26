@@ -238,10 +238,10 @@
  bp1_yearly.5714.t:0 "Dizendo adeus"
  bp1_yearly.5714.desc:0 "Há um buraco profundo e sem fim em meu coração.\n\n[deceased_pal.GetFirstName] era um companheiro constante e confidente, e ter [deceased_pal.GetHerHim] arrancado da minha vida parece uma ferida mortal da qual nunca vou me recuperar. Minha mão aperta uma nota [deceased_pal.GetSheHe] me deu - o #EMP last#! Nota [deceased_pal.GetSheHe] nunca vai me dar, eu percebo, amargamente. Eu tento lê-lo, mas tudo que posso fazer é afastá-lo do meu rosto, para que as preciosas palavras nele contidas não sejam lavadas por minhas lágrimas.\nEmbora haja uma multidão de muitos enlutados ao meu redor, nunca me senti tão sozinho."
  bp1_yearly.5714.a:0 "Eu nunca vou esquecer o dia de hoje."
- bp1_yearly.5714.a.catharsis:0 "#fraco Você experimenta algum nível de catarse#!"
- bp1_yearly.5714.a.sad:0 "#fraco Sua dor flui livremente#!"
- bp1_yearly.5714.a.reallysad:0 "#fraco Sua dor o oprime#!"
- bp1_yearly.5714.a.depressed:0 "#fraco Você cai em depressão#!"
+ bp1_yearly.5714.a.catharsis:0 "#weak Você experimenta algum nível de catarse#!"
+ bp1_yearly.5714.a.sad:0 "#weak Sua dor flui livremente#!"
+ bp1_yearly.5714.a.reallysad:0 "#weak Sua dor o oprime#!"
+ bp1_yearly.5714.a.depressed:0 "#weak Você cai em depressão#!"
  bp1_yearly.5714.b:0 "preciso ser forte e seguir em frente."
 
  bp1_yearly.5715.t:0 "Tolo tagarela"
@@ -267,7 +267,7 @@
  bp1_yearly.5717.a.tt.lose:0 "[bff_defender.GetNameNoTooltip] perde a luta"
  bp1_yearly.5717.b:0 "[5717_nemesis.GetSheHe|U] não vale a pena amigo!"
  bp1_yearly.5717.c:0 "Fique de lado; [5717_nemesis.GetFirstNameNoTooltip] é meu."
- bp1_yearly.5717.c.tt:0 "#fraco O par de vocês leva sua disputa para fora...#!"
+ bp1_yearly.5717.c.tt:0 "#weak O par de vocês leva sua disputa para fora...#!"
  bp1_yearly.5717.c.tt.duel:0 "Começa um [single_combat_duel|E] entre você e [5717_nemesis.GetFirstNameNoTooltip]"
 
  bp1_yearly.5718.t.win:0 "Você venceu a luta"

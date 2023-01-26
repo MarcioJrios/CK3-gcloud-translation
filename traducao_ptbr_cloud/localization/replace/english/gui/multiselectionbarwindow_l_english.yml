@@ -1,6 +1,6 @@
 ﻿l_english:
  MULTI_SELECTION_TOOLTIP_HEADER:0 "$NAME|T$"
- MULTI_SELECTION_LEFT_CLICK:0 "#Eu clique para ver#!"
+ MULTI_SELECTION_LEFT_CLICK:0 "#I clique para ver#!"
  MULTI_SELECTION_LEFT_CLICK_SHOWN:0 "#I Clique para ir para o local#!"
  MULTI_SELECTION_RIGHT_CLICK:0 "#I Clique com o botão direito do mouse para ir para o local#!"
  MULTI_SELECTION_NOT_SHOWN_CLICK:0 "$MULTI_SELECTION_LEFT_CLICK$\n$MULTI_SELECTION_RIGHT_CLICK$"

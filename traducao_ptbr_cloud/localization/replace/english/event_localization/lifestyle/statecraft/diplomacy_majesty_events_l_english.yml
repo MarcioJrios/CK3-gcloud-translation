@@ -106,7 +106,7 @@
  diplomacy_majesty.4090.b.success.tt:1 "Sua esplêndida roupa nova é realmente adequada para um [me.GetTitleAsNameNoTooltip]!"
  diplomacy_majesty.4090.b.failure:0 "Eu adquiro uma roupa chata e inexpressiva"
  diplomacy_majesty.4090.b.failure.tt:1 "Sua nova roupa não impressiona ninguém."
- diplomacy_majesty.4090.c:0 "Eu não preciso de #coisas EMP#! para legitimar meu governo!"
+ diplomacy_majesty.4090.c:0 "Eu não preciso de #EMP coisas#! para legitimar meu governo!"
  diplomacy_majesty.4090.c.zealous:0 "[ROOT.Char.GetFaith.HighGodNamePossessive] servos não precisam de elegância!"
  diplomacy_majesty.4090.d.lunatic.male:0 "Calças nada mais são do que prisões de pernas!"
  diplomacy_majesty.4090.d.lunatic.neutral:0 "As roupas não passam de uma prisão para o corpo!"

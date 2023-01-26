@@ -1,24 +1,24 @@
 ﻿l_english:
  bm_867_adventurers:0 "Os Grandes Aventureiros"
- bm_867_adventurers_desc:0 "Cada dinastia vem de origens humildes. A ascensão ao poder costuma ser um processo lento, cada geração subindo alguns degraus na escada, por meio de casamentos cuidadosamente planejados e guerras incessantes..\n\n#ousado Mas estes são tempos de grandes mudanças e reviravoltas. Com muita coragem, e talvez um pouco de sorte, um herói pode elevar o nome de sua família da obscuridade à lenda. Você está pronto para enfrentar o desafio?#!"
+ bm_867_adventurers_desc:0 "Cada dinastia vem de origens humildes. A ascensão ao poder costuma ser um processo lento, cada geração subindo alguns degraus na escada, por meio de casamentos cuidadosamente planejados e guerras incessantes..\n\n#bold Mas estes são tempos de grandes mudanças e reviravoltas. Com muita coragem, e talvez um pouco de sorte, um herói pode elevar o nome de sua família da obscuridade à lenda. Você está pronto para enfrentar o desafio?#!"
 
 
  #Jarl Haesteinn
  bookmark_adventurers_jarl_haesteinn:0 "Jarl Hæsteinn"
- bookmark_adventurers_jarl_haesteinn_desc:0 "Por meio de astúcia e coragem, Jarl Hæsteinn tornou-se um homem rico. Depois de liderar uma incursão lucrativa pelo Mediterrâneo junto com Björn Ironside, Hæsteinn se estabeleceu na Bretanha. Os Franks têm cofres prontos para saque, e um poderoso guerreiro viking é um grande aliado em tempos de turbulência política..\n\n#ousado Fortune não vem sem inimigos, no entanto. A ganância de Hæsteinn levará a melhor sobre ele, ou sua dinastia prosperará sob sua orientação??#!"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "Por meio de astúcia e coragem, Jarl Hæsteinn tornou-se um homem rico. Depois de liderar uma incursão lucrativa pelo Mediterrâneo junto com Björn Ironside, Hæsteinn se estabeleceu na Bretanha. Os Franks têm cofres prontos para saque, e um poderoso guerreiro viking é um grande aliado em tempos de turbulência política..\n\n#bold Fortune não vem sem inimigos, no entanto. A ganância de Hæsteinn levará a melhor sobre ele, ou sua dinastia prosperará sob sua orientação??#!"
 
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "desc alternativo"
 
  #Rurik Rurikid
  bookmark_adventurers_rurik_rurikid:0 "Rurik Rurikid"
- bookmark_adventurers_rurik_rurikid_desc:0 "Poucos ascenderam do nada à grandeza como o bravo Rurik! Juntamente com seus irmãos, ele trouxe ordem ao deserto oriental e, desde a morte deles, ele é o único governante de uma grande chefia. No entanto, este é apenas o começo.\n\n#ousado Um dia, os descendentes de Rurik fundarão o czarismo da Rússia. Ou eles vão? O destino desta grande dinastia está em suas mãos.#!"
+ bookmark_adventurers_rurik_rurikid_desc:0 "Poucos ascenderam do nada à grandeza como o bravo Rurik! Juntamente com seus irmãos, ele trouxe ordem ao deserto oriental e, desde a morte deles, ele é o único governante de uma grande chefia. No entanto, este é apenas o começo.\n\n#bold Um dia, os descendentes de Rurik fundarão o czarismo da Rússia. Ou eles vão? O destino desta grande dinastia está em suas mãos.#!"
 
  bookmark_adventurers_rurik_rurikid_alt_helgi:0 "$Helgi$ $nick_the_seer$"
 
- #Eudes Capet
+ #Ides Capet
  bookmark_adventurers_count_eudes:0 "Conde Eudes"
- bookmark_adventurers_count_eudes_desc:0 "Em julho de 866, o invasor viking Hæsteinn matou o pai de Eudes, Roberto, o Forte. Poucos meses depois, sua mãe Adelais morreu ao dar à luz seu irmão Robert. O mundo é cruel e o futuro pode parecer incerto, mas esses meninos órfãos estão destinados a se sentar no trono francês. Seus descendentes, os Capetos, governarão a França nos próximos séculos..\n\n#ousado Você pode navegar na política traiçoeira da França medieval e cumprir o destino dos irmãos Robertine?#!"
+ bookmark_adventurers_count_eudes_desc:0 "Em julho de 866, o invasor viking Hæsteinn matou o pai de Eudes, Roberto, o Forte. Poucos meses depois, sua mãe Adelais morreu ao dar à luz seu irmão Robert. O mundo é cruel e o futuro pode parecer incerto, mas esses meninos órfãos estão destinados a se sentar no trono francês. Seus descendentes, os Capetos, governarão a França nos próximos séculos..\n\n#bold Você pode navegar na política traiçoeira da França medieval e cumprir o destino dos irmãos Robertine?#!"
 
  bookmark_adventurers_count_eudes_alt_robert:0 "$Robert$"
  bookmark_adventurers_count_eudes_alt_robert_desc:0 "desc alternativo"
@@ -27,7 +27,7 @@
 
  #Almos Arpad 
  bookmark_adventurers_almos_arpad:0 "Álmos Árpád"
- bookmark_adventurers_almos_arpad_desc:0 "Quando as sete tribos húngaras se uniram para eleger um líder supremo, seus votos recaíram sobre o bravo Álmos. Um dia, seu filho Árpád assumirá o manto - mas apenas se os húngaros conseguirem manter sua independência. O perigo paira no horizonte oriental.\n\n#ousado Você pode defender os húngaros e levá-los à grandeza? Esta é sua chance de recontar as aventuras da dinastia Árpád!#!"
+ bookmark_adventurers_almos_arpad_desc:0 "Quando as sete tribos húngaras se uniram para eleger um líder supremo, seus votos recaíram sobre o bravo Álmos. Um dia, seu filho Árpád assumirá o manto - mas apenas se os húngaros conseguirem manter sua independência. O perigo paira no horizonte oriental.\n\n#bold Você pode defender os húngaros e levá-los à grandeza? Esta é sua chance de recontar as aventuras da dinastia Árpád!#!"
 
  #Daurama Daura
  bookmark_adventurers_daurama_daura:0 "Daurama Daura"

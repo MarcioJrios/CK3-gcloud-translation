@@ -32,7 +32,7 @@
  embraced_local_traditions_modifier:0 "Tradições locais abraçadas"
  embraced_local_traditions_modifier_desc:0 "Este ex-personagem escandinavo abraçou a cultura e a fé de sua nova pátria, embora ainda possam criar #V Runestones#!."
  settled_norse_dynasty_modifier:0 "Dinastia estabelecida"
- settled_norse_dynasty_modifier_desc:0 "Esta dinastia escandinava se estabeleceu em terras estrangeiras.\n#fraco Enquanto este modificador durar, os governantes desta dinastia não serão alvo de aventureiros escandinavos.#!"
+ settled_norse_dynasty_modifier_desc:0 "Esta dinastia escandinava se estabeleceu em terras estrangeiras.\n#weak Enquanto este modificador durar, os governantes desta dinastia não serão alvo de aventureiros escandinavos.#!"
  fp1_focusing_on_rule_modifier:0 "Focando na Regra"
  fp1_focusing_on_rule_modifier_desc:0 "Este personagem está focado em governar, e apenas governar, às custas de outras demandas da vida."
  fp1_ignoring_annoyances_modifier:0 "Ignorando Aborrecimentos"

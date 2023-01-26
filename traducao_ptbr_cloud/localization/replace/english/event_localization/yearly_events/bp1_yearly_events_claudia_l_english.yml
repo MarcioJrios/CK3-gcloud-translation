@@ -58,7 +58,7 @@
  bp1_yearly.1030.desc_rival:1 "\n\n[rival.GetHerHis|U] uma risada amarga desaloja algumas memórias desagradáveis em minha mente, mas uma névoa opaca logo as engole novamente. Eu nem me lembro porque nos odiávamos tanto."
  bp1_yearly.1030.a:0 "Você sabe o que? #EMP eu te perdôo#!."
  bp1_yearly.1030.b:0 "#EMP APENAS SAIR!#!"
- bp1_yearly.1030.c:0 "...#help EMP#!..."
+ bp1_yearly.1030.c:0 "...#EMP help#!..."
  bp1_yearly.1030.c_saved_guard:0 "[guard.GetShortUIName] mata o aspirante a assassino"
  bp1_yearly.1030.c_saved_guard.tt:0 "[guard.GetShortUIName] te salvou!"
  bp1_yearly.1030.c_barely_saved_guard:0 "[guard.GetShortUIName] mal consegue te salvar"

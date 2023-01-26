@@ -13,7 +13,7 @@
  CHARACTER_DIED_EFFECT_KILLER_FIRST:1 "Você foi morto por [TARGET_CHARACTER.GetShortUIName]"
  RANDOM_LIST_EFFECT:0 "1 de $SIZE$ things will happen: \n"
  RANDOM_EFFECT:0 "$CHANCE$% chance of: "
- NO_EFFECT:0 "#fraco nada acontece#!"
+ NO_EFFECT:0 "#weak nada acontece#!"
  EVERY_ACTIVITY_PARTICIPANT_EFFECT:0 "Cada participante"
  RANDOM_ACTIVITY_PARTICIPANT_EFFECT:0 "participante aleatório"
  ADD_GOLD_EFFECT_POSITIVE:0 "$NAME$ consegue [gold_i]$VALUE|+$"
@@ -1291,9 +1291,9 @@
  DYNASTY_GAINED_PRESTIGE_GLOBAL_EFFECT:0 "Ganhos [dynasty_prestige_i]$VALUE|+0$ [dynasty_prestige|E]"
  DYNASTY_LOST_PRESTIGE_GLOBAL_EFFECT:0 "Perdido [dynasty_prestige_i]$VALUE|-0$ [dynasty_prestige|E]"
 
- THEOCRACY_APPROVE_EFFECT:1 "Começa a endossar você #fraco ([church_property|E])#!"
+ THEOCRACY_APPROVE_EFFECT:1 "Começa a endossar você #weak ([church_property|E])#!"
  THEOCRACY_DISAPPROVE_EFFECT:1 "@warning_icon!#X Stops endorsing you#! #weak ([church_property|E])#!"
- THEOCRACY_STARTED_APPROVING_EFFECT:0 "Começou a endossar você #fraco ([church_property|E])#!"
+ THEOCRACY_STARTED_APPROVING_EFFECT:0 "Começou a endossar você #weak ([church_property|E])#!"
  THEOCRACY_STOPPED_APPROVING_EFFECT:1 "@warning_icon!#X Stopped endorsing you#! #weak ([church_property|E])#!"
 
  STARTS_PREP_GREAT_HOLY_WAR:0 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] contra [TARGET_CHARACTER.GetShortUIName]"
@@ -1768,12 +1768,12 @@
  LEGACY_MORE_PRESTIGE_FROM_BATTLES:0 "[prestige|E] e [prestige_experience|E] a partir de [battles|E]: [prestige_i] #P +100%#!"
  LEGACY_GOLD_FROM_BATTLES:0 "Ganho [gold|E][gold_i] a partir de [battles|E] #weak (5 gold per 100 [dead_soldiers|E])#!"
  CHEAPER_AGENTS_LEGACY:0 "[agent|E] Custo do suborno: [gold_i]#P-50%#!"
- LEGACY_SEDUCE_BONUSES:1 "[send_gift|E] Custo: [gold_i]#P -50%#!\n[GetScheme('seduce').GetTypeName] [success_chance|E]: #P +[EmptyScope.ScriptValue('fp1_adventure_legacy_2_success_chance_seduction')|0]%#!Ganho [prestige|E] [prestige_i] para sucesso [GetScheme('seduce').GetTypeName] [schemes|E]#fraco (The riskier Seduction, the more Prestige ganhou)#!"
- LEGACY_BONUS_PER_FRIEND:1 "Pode [GetScheme('befriend').GetTypeName] [vassals|E]cada um de seus [friend|E] as relações te dão #P 3#! [vassal|E] [opinion|E], #P 2#! [county_opinion|E], e #P +1%#! [gold_i] [vassal|E] [tax|E] [modifier_contribution|E]#fraco (For up to 5 [friends])#!"
+ LEGACY_SEDUCE_BONUSES:1 "[send_gift|E] Custo: [gold_i]#P -50%#!\n[GetScheme('seduce').GetTypeName] [success_chance|E]: #P +[EmptyScope.ScriptValue('fp1_adventure_legacy_2_success_chance_seduction')|0]%#!Ganho [prestige|E] [prestige_i] para sucesso [GetScheme('seduce').GetTypeName] [schemes|E]#weak (The riskier Seduction, the more Prestige ganhou)#!"
+ LEGACY_BONUS_PER_FRIEND:1 "Pode [GetScheme('befriend').GetTypeName] [vassals|E]cada um de seus [friend|E] as relações te dão #P 3#! [vassal|E] [opinion|E], #P 2#! [county_opinion|E], e #P +1%#! [gold_i] [vassal|E] [tax|E] [modifier_contribution|E]#weak (For up to 5 [friends])#!"
  LEGACY_MORE_LIKELY_TO_GET_TRADE_EVENTS_WHEN_RAIDING:0 "Mais probabilidade de obter eventos comerciais quando [raiding|E]"
 
  ALL_DYNASTY_MEMBERS_HAVE_MURDER_SAVE:2 "Grande chance de [prevented_murder_prevent|E] 1 [GetScheme('murder').GetTypeName] [scheme|E] contra cada um [dynasty|E] Membro\n[interaction|E] Aceitação de [intimidated_i][intimidated|E] ou [terrified_i][cowed|E]: #P +100%#!"
- LEGACY_DYNASTY_MEMBERS_GAIN_BONUS_TROOPS_WHEN_VARANGIAN_ADVENTURING:0 "Receba tropas de bônus acima do limite quando [varangian_adventuring|E]\n[dynast_interaction|E]: #V Send to the Varangian Guard#!\n#fraco o [dynast] ganha a capacidade de pagar [prestige] [prestige_i] a fim de mandar embora adulto sem desembarque [dynasty] membros para potencialmente ganhar [skills] e [traits]#!"
+ LEGACY_DYNASTY_MEMBERS_GAIN_BONUS_TROOPS_WHEN_VARANGIAN_ADVENTURING:0 "Receba tropas de bônus acima do limite quando [varangian_adventuring|E]\n[dynast_interaction|E]: #V Send to the Varangian Guard#!\n#weak o [dynast] ganha a capacidade de pagar [prestige] [prestige_i] a fim de mandar embora adulto sem desembarque [dynasty] membros para potencialmente ganhar [skills] e [traits]#!"
  
  SET_ABSOLUTE_COUNTY_CONTROL:0 "Permite [absolute_control|E] para [counties|E]"
  
@@ -1787,16 +1787,16 @@
  I_SET_SEXUALITY_EFFECT:1 "Você percebe que você é $SEXUALITY$"
  I_REALIZED_SEXUALITY_EFFECT:0 "Você percebeu que você é $SEXUALITY$"
 
- I_REMOVE_DECISION_COOLDOWN_EFFECT:1 "$DECISION_NAME|V$ não está mais em cooldown para mim #fraco (expira naturalmente: [DATE.GetStringLong])#!"
+ I_REMOVE_DECISION_COOLDOWN_EFFECT:1 "$DECISION_NAME|V$ não está mais em cooldown para mim #weak (expira naturalmente: [DATE.GetStringLong])#!"
  THEY_REMOVE_DECISION_COOLDOWN_EFFECT:1 "$DECISION_NAME|V$ não está mais em cooldown para [CHARACTER.GetShortUIName] #weak (Naturally Expires: [DATE.GetStringLong])#!"
  
- I_REMOVE_INTERACTION_COOLDOWN_EFFECT:1 "$INTERACTION_NAME|V$ não está mais em cooldown para mim #fraco (expira naturalmente: [DATE.GetStringLong])#!"
+ I_REMOVE_INTERACTION_COOLDOWN_EFFECT:1 "$INTERACTION_NAME|V$ não está mais em cooldown para mim #weak (expira naturalmente: [DATE.GetStringLong])#!"
  THEY_REMOVE_INTERACTION_COOLDOWN_EFFECT:1 "$INTERACTION_NAME|V$ não está mais em cooldown para [CHARACTER.GetShortUIName] #weak (Naturally Expires: [DATE.GetStringLong])#!"
  
- I_REMOVE_INTERACTION_COOLDOWN_AGAINST_EFFECT:1 "$INTERACTION_NAME|V$ não está mais em cooldown contra [TARGET_CHARACTER.GetShortUIName] para mim #fraco (expira naturalmente: [DATE.GetStringLong])#!"
+ I_REMOVE_INTERACTION_COOLDOWN_AGAINST_EFFECT:1 "$INTERACTION_NAME|V$ não está mais em cooldown contra [TARGET_CHARACTER.GetShortUIName] para mim #weak (expira naturalmente: [DATE.GetStringLong])#!"
  THEY_REMOVE_INTERACTION_COOLDOWN_AGAINST_EFFECT:1 "$INTERACTION_NAME|V$ não está mais em cooldown contra [TARGET_CHARACTER.GetShortUIName] para [CHARACTER.GetShortUIName] #weak (Naturally Expires: [DATE.GetStringLong])#!"
 
- I_REMOVE_SCHEME_COOLDOWN_AGAINST_EFFECT:1 "$SCHEME_NAME|V$ não está mais em cooldown contra [TARGET_CHARACTER.GetShortUIName] para mim #fraco (expira naturalmente: [DATE.GetStringLong])#!"
+ I_REMOVE_SCHEME_COOLDOWN_AGAINST_EFFECT:1 "$SCHEME_NAME|V$ não está mais em cooldown contra [TARGET_CHARACTER.GetShortUIName] para mim #weak (expira naturalmente: [DATE.GetStringLong])#!"
  THEY_REMOVE_SCHEME_COOLDOWN_AGAINST_EFFECT:1 "$SCHEME_NAME|V$ não está mais em cooldown contra [TARGET_CHARACTER.GetShortUIName] para [CHARACTER.GetShortUIName] #weak (Naturally Expires: [DATE.GetStringLong])#!"
 
  I_LOSE_MEMORY_EFFECT:0 "[CHARACTER.GetShortUIName|U] esquecer uma memória"
@@ -1999,7 +1999,7 @@
  ADD_LOOT_RAIDING_ARMY_EFFECT:1 "adiciona $VALUE|0V$ pilhar para o atual exército invasor"
  ADD_LOOT_RAIDING_ARMY_PAST_EFFECT:1 "Adicionado $VALUE|0V$ pilhar para o exército invasor"
  
- send_to_varangian_guard_interaction_effect_desc:1 "#fraco Enquanto servia na Guarda Varangiana, [CHARACTER.GetShortUIName] pode aumentar [CHARACTER.GetHerHis] [skills|E] ou ganho [traits|E] — but [CHARACTER.GetSheHe] também pode ficar ferido, ou pior. [CHARACTER.GetSheHe|U] retornará dentro de alguns anos, mas não pode ser revogado.#!"
+ send_to_varangian_guard_interaction_effect_desc:1 "#weak Enquanto servia na Guarda Varangiana, [CHARACTER.GetShortUIName] pode aumentar [CHARACTER.GetHerHis] [skills|E] ou ganho [traits|E] — but [CHARACTER.GetSheHe] também pode ficar ferido, ou pior. [CHARACTER.GetSheHe|U] retornará dentro de alguns anos, mas não pode ser revogado.#!"
 
  custom.every_courtier_and_guest:0 "Cada [courtier|E] e [guest|E]"
  custom.every_guest_and_unimportant_courtier:0 "Cada [guest|E] e sem importância [courtier|E]"

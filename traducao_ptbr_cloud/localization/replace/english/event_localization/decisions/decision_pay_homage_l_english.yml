@@ -6,7 +6,7 @@
  pay_homage_decision_effects:0 "você viaja para [THIS.Char.GetLiege.GetTitledFirstNamePossessive] tribunal para prestar homenagem"
  pay_homage_decision_confirm:0 "$pay_homage_decision$"
  pay_homage_decision_second_tooltip:0 "$DESC$\n$pay_homage_grace_tt$\n\n$IS_VALID_BLOCKER$"
- pay_homage_grace_tt:0 "#fraco Você só pode prestar homenagem ao mesmo soberano uma vez#!"
+ pay_homage_grace_tt:0 "#weak Você só pode prestar homenagem ao mesmo soberano uma vez#!"
  pay_homage_gift_warning_effect:0 "#Presentes fracos aumentam as recompensas de prestar homenagem#!\n$pay_homage_grace_tt$"
  pay_homage_grace_valid_tt:0 "não pagou [pay_homage|E] para [THIS.Char.GetLiege.GetTitledFirstName] antes de"
  PAY_HOMAGE_DECISION_NEXT_STEP_BUTTON:0 "Escolha o presente de homenagem"

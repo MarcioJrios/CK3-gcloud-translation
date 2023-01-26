@@ -13,7 +13,7 @@
  court.9001.a:0 "[flirty_spouse.GetFirstNameNoTooltip] é #EMP meu.#! Desenhe sua espada!"
  court.9001.b:0 "Entregue isso! [flirty_knight.GetFirstNameNoTooltip] — I banish you from the realm!"
  court.9001.c:0 "O amor cortês é tão puro, tão inocente!"
- court.9001.a.tt:0 "#V duelo#! [flirty_knight.GetFirstName] fazer [flirty_knight.GetHerHim] deixe seu [flirty_spouse.GetWifeHusband] sozinho!\n#fraco Este duelo NÃO é até a morte.#!Se você ganhar, [flirty_spouse.GetFirstNamePossessive] coração será só seu. Se você perder, quem sabe o que vai acontecer?\nSua [prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[flirty_knight.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [flirty_knight.GetProwess]#!"
+ court.9001.a.tt:0 "#V duelo#! [flirty_knight.GetFirstName] fazer [flirty_knight.GetHerHim] deixe seu [flirty_spouse.GetWifeHusband] sozinho!\n#weak Este duelo NÃO é até a morte.#!Se você ganhar, [flirty_spouse.GetFirstNamePossessive] coração será só seu. Se você perder, quem sabe o que vai acontecer?\nSua [prowess|E]: [prowess_i]#V [root_for_loc.GetProwess]#!\n[flirty_knight.GetFirstNamePossessive] [prowess|E]: [prowess_i]#V [flirty_knight.GetProwess]#!"
  how_could_you_opinion:0 "Como você pode"
  court.9002.trigger_failure:0 "Minhas duel against [flirty_knight.GetFirstNameNoTooltip] foi invalidado"
  court.9004.t:0 "$court.9001.t$: Vitorioso"

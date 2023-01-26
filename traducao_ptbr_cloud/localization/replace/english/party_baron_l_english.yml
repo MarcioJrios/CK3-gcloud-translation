@@ -78,7 +78,7 @@
 
  party_baron.2007.desc:0 "Mesmo no meio de uma guerra, [party_baron.GetTitledFirstName] encontra maneiras de chegar até [party_baron.GetHerHis] truques habituais. Enquanto estou examinando meu exército, [party_baron.GetSheHe] vem cavalgando até mim na cabeça de [party_baron.GetHerHis] próprio pequeno hospedeiro!\n\n"I thought we could do with every hand we could get, so I talked to some people, and they turn out to be eager to join as volunteers!"\nvoluntários...? Devo estar perguntando de onde esses soldados vieram?"
  party_baron.2007.a:0 "Isso é exatamente o que eu preciso!"
- party_baron.2007.b:0 "Para #EMP help#!, você deveria ter me trazido #profissionais EMP!#!"
+ party_baron.2007.b:0 "Para #EMP help#!, você deveria ter me trazido #EMP profissionais!#!"
  party_baron.2007.b_flavor:0 "Oh. Ah, você vai...?"
 
  party_baron.3001.t:0 "$party_baron_header$"

@@ -13,5 +13,5 @@
  DEBUG_RELATIONS:0 "Depuração de relação"
  DEBUG_OPINIONS:0 "Depuração de opinião"
  SCHEME_ACTIONS:0 "ações do esquema"
- MORE_INTERACTIONS_CLICKABLE:0 "#clicável $VALUE$ mais...#!"
- MORE_INTERACTIONS:0 "#fraco Mais...#!"
+ MORE_INTERACTIONS_CLICKABLE:0 "#clickable $VALUE$ mais...#!"
+ MORE_INTERACTIONS:0 "#weak Mais...#!"

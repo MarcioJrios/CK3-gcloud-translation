@@ -59,8 +59,8 @@
  ask_for_pardon_interaction_accept_decline:0 "[recipient.GetShortUIName|U] recusou seu pedido de perdão"
 
  vassal_claim_liege_title_interaction:0 "Reivindicar Título de Liege"
- vassal_claim_liege_title_interaction_desc:0 "Se você controla a maioria #fraco (51%)#! do [counties|E] que são [de_jure|E] para um dos seus [lieges|E] [titles|E], você pode gastar [prestige|E] para obter um [unpressed_claim|E] nele!"
- HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "Se você controla a maioria #fraco (51%)#! de um dos seus [lieges|E] [titles|E], você pode gastar [prestige|E] para obter um [unpressed_claim|E] nele!"
+ vassal_claim_liege_title_interaction_desc:0 "Se você controla a maioria #weak (51%)#! do [counties|E] que são [de_jure|E] para um dos seus [lieges|E] [titles|E], você pode gastar [prestige|E] para obter um [unpressed_claim|E] nele!"
+ HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "Se você controla a maioria #weak (51%)#! de um dos seus [lieges|E] [titles|E], você pode gastar [prestige|E] para obter um [unpressed_claim|E] nele!"
  NOT_HAS_51_PERCENT_OF_A_DE_JURE_TITLE:0 "Você NÃO controla pelo menos #V 51%#! do [counties|E] que compõem o [de_jure|E] disto [title|E]"
  higher_prestige_level_than_liege:0 "Mais alto [prestige_level|E] que [liege|E]"
  lower_prestige_level_than_liege:0 "Mais baixo [prestige_level|E] que [liege|E]"

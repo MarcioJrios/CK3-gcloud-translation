@@ -54,7 +54,7 @@
 # Book
  fund_inspiration.0031.desc:0 ""Thank you for believing in me, my [ROOT.Char.GetLadyLord]!" [inspiration_owner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] sorrisos [ROOT.Char.Custom2('QuirkAdverbPosOrNeg', inspiration_owner)] antes de inclinar [inspiration_owner.GetHerHis] cabeça.\n\n"However, I'm not sure what to write about. Recently I've been interested in topics related to [SCOPE.Custom('ArtifactBookSubject')], do you think that would be a good focus for the book?""
  fund_inspiration.0031.education:0 "O livro será sobre [ROOT.Char.Custom('education_focus')]."
- fund_inspiration.0031.lifestyle_reveler:0 "Vamos escrever sobre alegria, sobre #vida EMP#!, sobre festas!"
+ fund_inspiration.0031.lifestyle_reveler:0 "Vamos escrever sobre alegria, sobre #EMP vida#!, sobre festas!"
  fund_inspiration.0031.lifestyle_blademaster:0 "Nenhum tópico é tão afiado quanto o das lâminas!"
  fund_inspiration.0031.lifestyle_hunter:0 "Que seja sobre os detalhes da caça e do jogo!"
  fund_inspiration.0031.lifestyle_mystic:0 "Os livros explorarão minha abordagem não convencional da vida!"
@@ -680,7 +680,7 @@
  fund_inspiration.6004.a:0 "De que adianta um aventureiro que segue o caminho comum?"
  fund_inspiration.6004.b:0 "Estas são algumas bugigangas bonitas..."
 
-#Europe
+#Irope
 
  fund_inspiration.6005.t:0 "Minhas aventuras estão encharcadas,"
  fund_inspiration.6005.desc:0 "Meu Senhor, encontrei algumas relíquias banais até agora em minhas aventuras, que enviei com este mensageiro, mas não tenho certeza do que posso descobrir a seguir..\nOs europeus são as criaturas mais fedorentas que já encontrei. Quando criança, sonhava com os prados verdes e agradáveis, mas estou convencido de que metade deste mundo é feito de lama. Se você é um nobre gracioso, por favor, envie uma mensagem para me ligar de volta."

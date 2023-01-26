@@ -194,7 +194,7 @@
  hold_court.6140.c.middle_failure.tt:0 "[jester.GetFirstNameNoTooltip] não teve sucesso"
  hold_court.6140.c.hard_failure:0 "[jester.GetFirstNameNoTooltip] morre!"
  hold_court.6140.c.hard_failure.tt:0 "[jester.GetFirstNameNoTooltip] falhou miseravelmente..."
- hold_court.6140.d:0 "Tenho certeza que meus #convidados do EMP#! na masmorra vai #EMP amar#! isto..."
+ hold_court.6140.d:0 "Tenho certeza que meus #EMP convidados#! na masmorra vai #EMP amar#! isto..."
  hold_court.6140.e:0 "Isso parece perigoso e fedorento! Leve embora."
  6140_every_courtier_or_guest:0 "Cada cortesão ou convidado em sua corte"
  6140_every_prisoner:0 "Cada prisioneiro em suas celas"
@@ -267,7 +267,7 @@
  hold_court.6190.a:0 "Estudar o corpo humano é uma triste necessidade."
  hold_court.6190.b:0 "Por que você não me convidou, [physician.GetFirstNameNoTooltip]?!"
  hold_court.6190.c:0 "Fresco — #EMP living#! - os corpos são melhores cobaias..."
- hold_court.6190.d:0 "#GUARDAS EMP!#! Prender o ladrão de túmulos!"
+ hold_court.6190.d:0 "#EMP GUARDAS!#! Prender o ladrão de túmulos!"
  hold_court.6190.e:0 "[physician.GetFirstNameNoTooltip], apenas corte-o."
  #The Monster of X
  hold_court.6200.t:0 "o Monster of [6200_province.GetNameNoTooltip]"

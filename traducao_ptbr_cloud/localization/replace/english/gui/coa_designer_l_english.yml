@@ -65,7 +65,7 @@
  COA_DESIGNER_EMBLEM_INSTANCES_PAGE:0 "[CoatOfArmsDesignerPagedEmblemInstances.GetCurrentPage]/[CoatOfArmsDesignerPagedEmblemInstances.GetMaxPage]"
  COA_DESIGNER_EMBLEM_TEXTURES:0 "texturas"
  COA_DESIGNER_EMBLEM_INSTANCE_SELECT_ALL:0 "#I Clique para selecionar tudoClique com o botão direito para desmarcar tudo#!"
- COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT:0 "#Eu clique para selecionarShift-clique para alternar a seleção#!"
+ COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT:0 "#I clique para selecionarShift-clique para alternar a seleção#!"
 
  COA_DESIGNER_EMBLEM_INSTANCE_DETAIL_TOGGLE_TT:0 "#T Detalhe Editar#!A edição de detalhes permite modificar as posições exatas dos emblemas e adicioná-los ou removê-los.\n#I Clique para alternar a edição de detalhes#!"
  COA_DESIGNER_POSITION_X:0 "Posição X"
@@ -81,9 +81,9 @@
  COA_DESIGNER_FLIP_EMBLEM_Y_AXIS_TT:0 "#I Clique para alternar o eixo Y do emblema invertido#!"
  COA_DESIGNER_FLIP_EMBLEM_Y_AXIS_CHECKBOX_LABEL:0 "Virar Eixo Y"
  
- COA_DESIGNER_DETAIL_INSTANCE_TT:0 "#Eu clico para editarClique com o botão direito para remover#!"
+ COA_DESIGNER_DETAIL_INSTANCE_TT:0 "#I clico para editarClique com o botão direito para remover#!"
  COA_DESIGNER_DETAIL_INSTANCE_ICON_TT:0 "#I Clique para arrastar e soltar as camadas#!"
- COA_DESIGNER_DETAIL_INSTANCE_ICON_TARGET_TT:0 "#Eu solto aqui para colocar a camada#!"
+ COA_DESIGNER_DETAIL_INSTANCE_ICON_TARGET_TT:0 "#I solto aqui para colocar a camada#!"
  COA_DESIGNER_DETAIL_ADD_INSTANCE_TT:1 "#T Adicionar Emblema#!"
  COA_DESIGNER_DETAIL_EDIT_BACK_TT:0 "#I Clique para voltar à lista de emblemas#!"
  COA_DESIGNER_DETAIL_DRAG_INSTRUCTION:0 "Clique e arraste os emblemas para definir qual é desenhado em cima dos outros"

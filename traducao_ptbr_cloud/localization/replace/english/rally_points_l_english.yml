@@ -11,4 +11,4 @@
  RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X Não pode aumentar em nenhum [rally_point|E], devido a [occupation|E] ou inimigo [armies|E] presentes em sua localização#!"
  RP_NOTHING_TO_RAISE:0 "#X Não [armies|E] criar#!"
  RP_NOTHING_TO_RAISE_MAA:0 "#X Não [men_at_arms|E] criar#!"
- RAISE_TROOPS_EXTRA_INFO:0 "#Eu Ctrl-clique para #bold não#! dividir o [armies|E] baseado em [Concept( 'supply_limit', 'Supply Limits')|E]#!"
+ RAISE_TROOPS_EXTRA_INFO:0 "#I Ctrl-clique para #bold não#! dividir o [armies|E] baseado em [Concept( 'supply_limit', 'Supply Limits')|E]#!"

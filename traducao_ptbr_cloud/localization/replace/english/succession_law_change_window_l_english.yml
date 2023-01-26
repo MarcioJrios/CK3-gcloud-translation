@@ -9,7 +9,7 @@
  SUCCESSION_LAW_CHANGE_WINDOW_SINGLE_HEIR_LAWS:1 "Solteiro [realm_heir|E]"
  SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST:0 "Custo: [SuccessionLawChangeWindow.GetSelectedLaw.GetShortCostString]"
  SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST_TOOLTIP:0 "#Custo T#!\n [SuccessionLawChangeWindow.GetSelectedLaw.GetCostDescription]"
- SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE:0 "#fraco Aprova#!"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE:0 "#weak Aprova#!"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE:0 "#X se opõe#!"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE_TT:1 "#T Aprova Mudança na Lei de Sucessões#!\n[Character.GetShortUIName] apóia, ou pelo menos não pode se opor, a qualquer [succession_law|E] mudança.\n\n[Character.GetSheHe|U] aprova devido a qualquer um:\n$BULLET_WITH_TAB$Tendo um positivo [opinion|E] de você\n$BULLET_WITH_TAB$Sendo [cowed|E] por você\n$BULLET_WITH_TAB$Sendo [imprisoned|E] (by anyone)"
  SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE_TT:2 "#T se opõe à mudança da lei de sucessão#!\n[Character.GetShortUIName] impedirá qualquer [succession_law|E] mudança.\nPara aprovar, [Character.GetShortUIName] deve ou:\n$BULLET_WITH_TAB$Tenha um positivo [opinion|E] de você\n$BULLET_WITH_TAB$Ser [cowed|E] por você\n$BULLET_WITH_TAB$Ser [imprisoned|E] (by anyone)"

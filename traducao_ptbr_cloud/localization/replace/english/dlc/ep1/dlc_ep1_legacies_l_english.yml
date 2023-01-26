@@ -9,6 +9,6 @@
  legacy_additional_language_effect:0 "Pode aprender #V 1#! adicional [language|E] sem nenhuma penalidade"
  legacy_cultural_acceptance_from_language_schemes_effect:0 "Ganho #P 1%#! [cultural_acceptance|E] ao completar [GetScheme('learn_language').GetTypeName] [schemes|E]"
  legacy_more_acceptance_from_council_job_effect:0 "[accept_culture|E] Eficácia: #P +30%#!"
- legacy_cultural_emissary_court_position_effect:0 "Desbloqueia o #V Emissário Cultural#! [court_position|E]\n#fraco Empregar um personagem nesta posição aumenta [opinion] com personagens de outros [cultures] e dá [prestige] [prestige_i]#!"
+ legacy_cultural_emissary_court_position_effect:0 "Desbloqueia o #V Emissário Cultural#! [court_position|E]\n#weak Empregar um personagem nesta posição aumenta [opinion] com personagens de outros [cultures] e dá [prestige] [prestige_i]#!"
  legacy_hooks_on_different_culture_vassals_effect:0 "Ganhe um [weak_hook|E] @weak_hook_icon! when landing a new [vassal|E] de um diferente [culture|E] na terra da sua Cultura"
  legacy_promote_culture_decision_effect:0 "Desbloqueia o [promote_other_culture_development_decision|E]"

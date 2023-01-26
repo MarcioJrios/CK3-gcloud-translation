@@ -55,7 +55,7 @@
 
  # Reduce revolt risk by being diligent, by Linnéa Thimrén
  stewardship_domain.5031.t:0 "Um condado necessitado"
- stewardship_domain.5031.desc:0 "Estes são tempos tumultuados para o [county.GetName]. Relatório após relatório chega detalhando os terríveis estados de coisas na área, e os camponeses começaram a murmurar sobre a #alternativa EMP#! soluções..."
+ stewardship_domain.5031.desc:0 "Estes são tempos tumultuados para o [county.GetName]. Relatório após relatório chega detalhando os terríveis estados de coisas na área, e os camponeses começaram a murmurar sobre a #EMP alternativa#! soluções..."
  stewardship_domain.5031.a:0 "Lide com os problemas pessoalmente."
  stewardship_domain.5031.b:0 "Aumentar o imposto como punição."
 
@@ -484,7 +484,7 @@
 
  # Visit displeased county, by Stephen Arthur
  stewardship_domain_special.3010.t:0 "Inquietação em [stewardship_domain_special_3010_county.GetNameNoTier]"
- stewardship_domain_special.3010.desc:0 "As pessoas em [stewardship_domain_special_3010_county.GetNameNoTier] parecem descontentes com a minha regra.\nSe eu visitasse o condado pessoalmente, poderia impressioná-los com a... aham, #necessidade de EMP#! da minha autoridade."
+ stewardship_domain_special.3010.desc:0 "As pessoas em [stewardship_domain_special_3010_county.GetNameNoTier] parecem descontentes com a minha regra.\nSe eu visitasse o condado pessoalmente, poderia impressioná-los com a... aham, #EMP necessidade#! da minha autoridade."
  stewardship_domain_special.3010.a:0 "Eu vou mostrar a eles do que eu sou feito!"
  stewardship_domain_special.3010.b:0 "Meu tempo é importante demais para desperdiçar com a opinião deles."
 
